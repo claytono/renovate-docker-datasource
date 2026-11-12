@@ -122,3 +122,9 @@ removed.
 
 `python -m renovate_docker_datasource.check` checks that the files are in the
 shape the job writes. It runs in pre-commit and CI.
+
+CI also runs the whole job on each pull request that changes more than the
+data files, and throws the results away. A change that breaks the job, such
+as a new Renovate image, fails that check, which is what lets Renovate merge
+its own image updates. `--allow-registry-errors` keeps an outage at a
+registry from failing CI; any other error still does.

@@ -38,6 +38,11 @@
       "automerge": false
     },
     {
+      "description": "Auto-merge the Renovate image the job runs; CI's dry run checks that the job still works with it",
+      "matchDepNames": ["ghcr.io/renovatebot/renovate"],
+      "automerge": true
+    },
+    {
       "description": "Auto-merge GitHub Actions digest updates if CI passes",
       "matchManagers": ["github-actions"],
       "matchUpdateTypes": ["digest"],
