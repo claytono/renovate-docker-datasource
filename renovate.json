@@ -2,7 +2,8 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:best-practices",
-    "helpers:pinGitHubActionDigestsToSemver"
+    "helpers:pinGitHubActionDigestsToSemver",
+    "github>claytono/renovate-docker-datasource"
   ],
   "description": "Run manually reviewed Renovate updates from midnight through 11:59 AM Eastern on Mondays, as health-hub does.",
   "timezone": "America/New_York",
