@@ -1,16 +1,6 @@
 {
   "releases": [
     {
-      "version": "0.40.4-rc1",
-      "releaseTimestamp": "2026-10-13T05:15:43Z",
-      "digest": "sha256:556455cb78a3a3a84a51516bf87ce19517496af9a29f2b845f260cd80114b29a"
-    },
-    {
-      "version": "0.40.4-rc1-rocm",
-      "releaseTimestamp": "2026-10-13T05:15:49Z",
-      "digest": "sha256:1b035505f864ee546e5bd41dca05d087ec0beccc6a3d87790bcd68eb3dc70005"
-    },
-    {
       "version": "0.40.4-rc2",
       "releaseTimestamp": "2026-10-13T22:00:27Z",
       "digest": "sha256:797f5feebbbfaad6f29df15b9d15c045b1137f9ca7c146ce7d12d1c7469ba483"

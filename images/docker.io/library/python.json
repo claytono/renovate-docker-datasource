@@ -528,17 +528,17 @@
     {
       "version": "3-alpine",
       "releaseTimestamp": "2026-11-06T05:06:20Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "3-alpine3.23",
       "releaseTimestamp": "2026-11-06T05:06:30Z",
-      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+      "digest": "sha256:32f06114a111c2467804d06194c5584f16804a78cfaf427fb1fcbb0b3391d0f1"
     },
     {
       "version": "3-alpine3.24",
       "releaseTimestamp": "2026-11-06T05:06:33Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "3-bookworm",
@@ -573,17 +573,17 @@
     {
       "version": "3.13-alpine",
       "releaseTimestamp": "2026-11-06T05:07:52Z",
-      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+      "digest": "sha256:9ef1a599f863231c3d91e941389bfdc4a2d6070557243d54df1a4e57015b960e"
     },
     {
       "version": "3.13-alpine3.23",
       "releaseTimestamp": "2026-11-06T05:07:57Z",
-      "digest": "sha256:a0a92a22f3de839a0000df171de555624abe5b8ab235f818004ec64310e25fee"
+      "digest": "sha256:bf88c40985006a79ca25458159a4da1dffc457f9ae234e948b2d6df56ca5ebd2"
     },
     {
       "version": "3.13-alpine3.24",
       "releaseTimestamp": "2026-11-06T05:08:00Z",
-      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+      "digest": "sha256:9ef1a599f863231c3d91e941389bfdc4a2d6070557243d54df1a4e57015b960e"
     },
     {
       "version": "3.13-bookworm",
@@ -603,17 +603,17 @@
     {
       "version": "3.13.18-alpine",
       "releaseTimestamp": "2026-11-06T05:08:19Z",
-      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+      "digest": "sha256:9ef1a599f863231c3d91e941389bfdc4a2d6070557243d54df1a4e57015b960e"
     },
     {
       "version": "3.13.18-alpine3.23",
       "releaseTimestamp": "2026-11-06T05:08:22Z",
-      "digest": "sha256:a0a92a22f3de839a0000df171de555624abe5b8ab235f818004ec64310e25fee"
+      "digest": "sha256:bf88c40985006a79ca25458159a4da1dffc457f9ae234e948b2d6df56ca5ebd2"
     },
     {
       "version": "3.13.18-alpine3.24",
       "releaseTimestamp": "2026-11-06T05:08:24Z",
-      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+      "digest": "sha256:9ef1a599f863231c3d91e941389bfdc4a2d6070557243d54df1a4e57015b960e"
     },
     {
       "version": "3.13.18-bookworm",
@@ -628,17 +628,17 @@
     {
       "version": "3.14-alpine",
       "releaseTimestamp": "2026-11-06T05:08:45Z",
-      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+      "digest": "sha256:5862d971d1f0ae26b258cefa4e893556b1d3aba81bd2ff30888704ad378bab67"
     },
     {
       "version": "3.14-alpine3.23",
       "releaseTimestamp": "2026-11-06T05:08:51Z",
-      "digest": "sha256:0cdfadc8472de8f74a5d3c6e5e49d1b3f059f36cd01a0a0d4015cb1cb89df436"
+      "digest": "sha256:f6a7dec95e6205059dccfcb07faca3ca38729ea35df01231caf1d127bacedec8"
     },
     {
       "version": "3.14-alpine3.24",
       "releaseTimestamp": "2026-11-06T05:08:54Z",
-      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+      "digest": "sha256:5862d971d1f0ae26b258cefa4e893556b1d3aba81bd2ff30888704ad378bab67"
     },
     {
       "version": "3.14-bookworm",
@@ -653,17 +653,17 @@
     {
       "version": "3.14.10-alpine",
       "releaseTimestamp": "2026-11-06T05:09:13Z",
-      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+      "digest": "sha256:5862d971d1f0ae26b258cefa4e893556b1d3aba81bd2ff30888704ad378bab67"
     },
     {
       "version": "3.14.10-alpine3.23",
       "releaseTimestamp": "2026-11-06T05:09:16Z",
-      "digest": "sha256:0cdfadc8472de8f74a5d3c6e5e49d1b3f059f36cd01a0a0d4015cb1cb89df436"
+      "digest": "sha256:f6a7dec95e6205059dccfcb07faca3ca38729ea35df01231caf1d127bacedec8"
     },
     {
       "version": "3.14.10-alpine3.24",
       "releaseTimestamp": "2026-11-06T05:09:19Z",
-      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+      "digest": "sha256:5862d971d1f0ae26b258cefa4e893556b1d3aba81bd2ff30888704ad378bab67"
     },
     {
       "version": "3.14.10-bookworm",
@@ -678,17 +678,17 @@
     {
       "version": "3.15-alpine",
       "releaseTimestamp": "2026-11-06T05:09:35Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "3.15-alpine3.23",
       "releaseTimestamp": "2026-11-06T05:09:38Z",
-      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+      "digest": "sha256:32f06114a111c2467804d06194c5584f16804a78cfaf427fb1fcbb0b3391d0f1"
     },
     {
       "version": "3.15-alpine3.24",
       "releaseTimestamp": "2026-11-06T05:09:41Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "3.15-bookworm",
@@ -703,17 +703,17 @@
     {
       "version": "3.15.2-alpine",
       "releaseTimestamp": "2026-11-06T05:09:57Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "3.15.2-alpine3.23",
       "releaseTimestamp": "2026-11-06T05:10:00Z",
-      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+      "digest": "sha256:32f06114a111c2467804d06194c5584f16804a78cfaf427fb1fcbb0b3391d0f1"
     },
     {
       "version": "3.15.2-alpine3.24",
       "releaseTimestamp": "2026-11-06T05:10:03Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "3.15.2-bookworm",
@@ -738,17 +738,17 @@
     {
       "version": "alpine",
       "releaseTimestamp": "2026-11-06T05:10:44Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "alpine3.23",
       "releaseTimestamp": "2026-11-06T05:10:47Z",
-      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+      "digest": "sha256:32f06114a111c2467804d06194c5584f16804a78cfaf427fb1fcbb0b3391d0f1"
     },
     {
       "version": "alpine3.24",
       "releaseTimestamp": "2026-11-06T05:10:50Z",
-      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+      "digest": "sha256:0f9552bb28711333da16915ec146f5e6bb44a7fdac9ced15dc17c2e0206346dd"
     },
     {
       "version": "bookworm",
@@ -768,17 +768,17 @@
     {
       "version": "3.11-alpine",
       "releaseTimestamp": "2026-11-06T08:06:33Z",
-      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+      "digest": "sha256:7fbad8e4652eae0186429a6f26cf5b23e27e8c6fd7ac4d0cfd7a6988cdeea1e1"
     },
     {
       "version": "3.11-alpine3.23",
       "releaseTimestamp": "2026-11-06T08:06:39Z",
-      "digest": "sha256:24f68e1d7f9610acaeb61a0b745f26e6edb07b8094d27a533dd4c264d85f5c58"
+      "digest": "sha256:3e6740f02c2a48bfcf675c39ae0f456153667d9d87c1e5bb2e13ff848dba307f"
     },
     {
       "version": "3.11-alpine3.24",
       "releaseTimestamp": "2026-11-06T08:06:42Z",
-      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+      "digest": "sha256:7fbad8e4652eae0186429a6f26cf5b23e27e8c6fd7ac4d0cfd7a6988cdeea1e1"
     },
     {
       "version": "3.11-bookworm",
@@ -798,17 +798,17 @@
     {
       "version": "3.11.18-alpine",
       "releaseTimestamp": "2026-11-06T08:07:00Z",
-      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+      "digest": "sha256:7fbad8e4652eae0186429a6f26cf5b23e27e8c6fd7ac4d0cfd7a6988cdeea1e1"
     },
     {
       "version": "3.11.18-alpine3.23",
       "releaseTimestamp": "2026-11-06T08:07:04Z",
-      "digest": "sha256:24f68e1d7f9610acaeb61a0b745f26e6edb07b8094d27a533dd4c264d85f5c58"
+      "digest": "sha256:3e6740f02c2a48bfcf675c39ae0f456153667d9d87c1e5bb2e13ff848dba307f"
     },
     {
       "version": "3.11.18-alpine3.24",
       "releaseTimestamp": "2026-11-06T08:07:06Z",
-      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+      "digest": "sha256:7fbad8e4652eae0186429a6f26cf5b23e27e8c6fd7ac4d0cfd7a6988cdeea1e1"
     },
     {
       "version": "3.11.18-bookworm",
@@ -828,17 +828,17 @@
     {
       "version": "3.12-alpine",
       "releaseTimestamp": "2026-11-06T08:07:25Z",
-      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+      "digest": "sha256:c5ba3deef00c7758561a0f03c26f44f10589263d40e732b8748e0d1f38f6dd89"
     },
     {
       "version": "3.12-alpine3.23",
       "releaseTimestamp": "2026-11-06T08:07:30Z",
-      "digest": "sha256:20d13dc88e7bc1adf6e18cdddeb4cd53a7e0fdc3825bfe05f00c7563d4cdf102"
+      "digest": "sha256:9a7b46da82fe49a9118e0aa7e35ac3b831aa53ad4f4ebf3e16654732bc958a62"
     },
     {
       "version": "3.12-alpine3.24",
       "releaseTimestamp": "2026-11-06T08:07:34Z",
-      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+      "digest": "sha256:c5ba3deef00c7758561a0f03c26f44f10589263d40e732b8748e0d1f38f6dd89"
     },
     {
       "version": "3.12-bookworm",
@@ -848,17 +848,17 @@
     {
       "version": "3.12.16-alpine",
       "releaseTimestamp": "2026-11-06T08:07:48Z",
-      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+      "digest": "sha256:c5ba3deef00c7758561a0f03c26f44f10589263d40e732b8748e0d1f38f6dd89"
     },
     {
       "version": "3.12.16-alpine3.23",
       "releaseTimestamp": "2026-11-06T08:07:51Z",
-      "digest": "sha256:20d13dc88e7bc1adf6e18cdddeb4cd53a7e0fdc3825bfe05f00c7563d4cdf102"
+      "digest": "sha256:9a7b46da82fe49a9118e0aa7e35ac3b831aa53ad4f4ebf3e16654732bc958a62"
     },
     {
       "version": "3.12.16-alpine3.24",
       "releaseTimestamp": "2026-11-06T08:07:54Z",
-      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+      "digest": "sha256:c5ba3deef00c7758561a0f03c26f44f10589263d40e732b8748e0d1f38f6dd89"
     },
     {
       "version": "3.12.16-bookworm",
@@ -1098,37 +1098,37 @@
     {
       "version": "3.16-rc",
       "releaseTimestamp": "2026-11-11T23:09:29Z",
-      "digest": "sha256:31060ad4fc1bc6fd8732cda1b01537c568500d43e83383358c5bfc7463961960"
+      "digest": "sha256:1aa3cae167317f2d634a2d485185c4a646637638a19f9c20769762707a10be62"
     },
     {
       "version": "3.16-rc-alpine",
       "releaseTimestamp": "2026-11-11T23:09:48Z",
-      "digest": "sha256:84981d09995e09e68eae9fd68eb2aee583d11e3883541467d7cabe8ebd09ad41"
+      "digest": "sha256:bfee71a3261df74b6cc2c3f268d58c921ffe2859d8b68cb24bc9e5eabbd8f994"
     },
     {
       "version": "3.16-rc-alpine3.23",
       "releaseTimestamp": "2026-11-11T23:10:07Z",
-      "digest": "sha256:96e39f3ebf0bf719620a41b04b5f1f83b8ecdf98faf190ee89f6a9c8ca12b5dc"
+      "digest": "sha256:ad49fff28d51aedf8e73de3145c519e25857bf959edf37b7feac0e4d3bbb927f"
     },
     {
       "version": "3.16-rc-alpine3.24",
       "releaseTimestamp": "2026-11-11T23:10:10Z",
-      "digest": "sha256:84981d09995e09e68eae9fd68eb2aee583d11e3883541467d7cabe8ebd09ad41"
+      "digest": "sha256:bfee71a3261df74b6cc2c3f268d58c921ffe2859d8b68cb24bc9e5eabbd8f994"
     },
     {
       "version": "3.16-rc-slim",
       "releaseTimestamp": "2026-11-11T23:10:30Z",
-      "digest": "sha256:f92392802a5cd89c795408b1b8a46d01a0dd04b1f9be19ae1e082aad472275ab"
+      "digest": "sha256:cbe4a3dea42b7ced044185534caf1dd8efec1fd01669313365bcba223421f16a"
     },
     {
       "version": "3.16-rc-slim-trixie",
       "releaseTimestamp": "2026-11-11T23:10:33Z",
-      "digest": "sha256:f92392802a5cd89c795408b1b8a46d01a0dd04b1f9be19ae1e082aad472275ab"
+      "digest": "sha256:cbe4a3dea42b7ced044185534caf1dd8efec1fd01669313365bcba223421f16a"
     },
     {
       "version": "3.16-rc-trixie",
       "releaseTimestamp": "2026-11-11T23:10:38Z",
-      "digest": "sha256:b6e2f3d186b2fc14f5a22f1ca4e1c0b2b19e27a7c1ae85f5646ec269efdad1a5"
+      "digest": "sha256:0f013bb50d499f4dbd3841066165ccc136f30ac2bd507a3cbfc459f287c6d34b"
     },
     {
       "version": "3.16-rc-windowsservercore",
@@ -1148,37 +1148,37 @@
     {
       "version": "3.16.0a2",
       "releaseTimestamp": "2026-11-11T23:10:47Z",
-      "digest": "sha256:a41361766cbe771203f28fc8963154e36c43393a54a2eff0de92a1c58feaa892"
+      "digest": "sha256:c39e168d6360c60db5a168caaf4dd3cad69045d6627d47e9b589e4b88e627be9"
     },
     {
       "version": "3.16.0a2-alpine",
       "releaseTimestamp": "2026-11-11T23:10:51Z",
-      "digest": "sha256:fe3a79b468fe272d1c28a7fd04de92b22916cce59379356713b2315b89be1dd8"
+      "digest": "sha256:a3beb9b3efb6d934a88fb3f2c7b1bc8be40ea75abd1d1366ca8057241364d57d"
     },
     {
       "version": "3.16.0a2-alpine3.23",
       "releaseTimestamp": "2026-11-11T23:10:56Z",
-      "digest": "sha256:6e9750ded4d23bb476310972709bf7f933faf25e01f20cfb13ba2f9b3a168ea8"
+      "digest": "sha256:6d523b13a6b754eb05a5a1c34fb1ad6971bb41dc4f593256c1212ed047c218af"
     },
     {
       "version": "3.16.0a2-alpine3.24",
       "releaseTimestamp": "2026-11-11T23:10:59Z",
-      "digest": "sha256:fe3a79b468fe272d1c28a7fd04de92b22916cce59379356713b2315b89be1dd8"
+      "digest": "sha256:a3beb9b3efb6d934a88fb3f2c7b1bc8be40ea75abd1d1366ca8057241364d57d"
     },
     {
       "version": "3.16.0a2-slim",
       "releaseTimestamp": "2026-11-11T23:11:24Z",
-      "digest": "sha256:b6054ebb0a93af6102a761aead215703bb1273624c3e5b1c32943edd3994822c"
+      "digest": "sha256:b743a8ab2708d630f1c1c008ef5c99d4b635ec16bb2012284f731d9957a14a1c"
     },
     {
       "version": "3.16.0a2-slim-trixie",
       "releaseTimestamp": "2026-11-11T23:11:26Z",
-      "digest": "sha256:b6054ebb0a93af6102a761aead215703bb1273624c3e5b1c32943edd3994822c"
+      "digest": "sha256:b743a8ab2708d630f1c1c008ef5c99d4b635ec16bb2012284f731d9957a14a1c"
     },
     {
       "version": "3.16.0a2-trixie",
       "releaseTimestamp": "2026-11-11T23:11:29Z",
-      "digest": "sha256:e51de8320abfe2776177a46163e1b7cd6994d830bffffd63f8a7f1677cde654c"
+      "digest": "sha256:2c070a7037a1b4bebc4ff7b95f59e8272cf489dfd7a28d8041365d631ed9d91f"
     },
     {
       "version": "3.16.0a2-windowsservercore",

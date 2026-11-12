@@ -625,6 +625,9 @@ cicd-edab421-arm64
 cicd-ef71e72
 cicd-ef71e72-amd64
 cicd-ef71e72-arm64
+cicd-f1272e0
+cicd-f1272e0-amd64
+cicd-f1272e0-arm64
 cicd-f1d9d63
 cicd-f1d9d63-amd64
 cicd-f1d9d63-arm64

@@ -1,16 +1,6 @@
 {
   "releases": [
     {
-      "version": "tip-20261010-bookworm",
-      "releaseTimestamp": "2026-10-13T01:24:27Z",
-      "digest": "sha256:1325303a4cd0e98990423a8c4916d26d3575e314bbdd8632810101e17c018da3"
-    },
-    {
-      "version": "1.27.2-trixie",
-      "releaseTimestamp": "2026-10-13T07:23:09Z",
-      "digest": "sha256:47667934874913a449b96faa7ef4777fa285d9ec29126ee80ed61c45b7cccf0e"
-    },
-    {
       "version": "1.26.9",
       "releaseTimestamp": "2026-10-14T01:23:16Z",
       "digest": "sha256:37cfcca63222ec499bec5e8ad7aad52dbf7529db36d5812b8eae2f0621aa92d6"
@@ -428,7 +418,7 @@
     {
       "version": "1",
       "releaseTimestamp": "2026-11-10T18:53:49Z",
-      "digest": "sha256:01aa404fa56b604b6f48e90c1d6e2c79fe5cd78f9592f78d80303fbe171cdcc0"
+      "digest": "sha256:ec47ea3725fea0cc88f6de94919aef19f40f12fc1ec0e2d1b3426dbf15ecca04"
     },
     {
       "version": "1-alpine3.23",
@@ -438,22 +428,22 @@
     {
       "version": "1-windowsservercore",
       "releaseTimestamp": "2026-11-10T18:54:02Z",
-      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+      "digest": "sha256:78a764fbb093a8ac8436c1c0d6bdb29d7a70f928b95a8edcad285fe0677f83ee"
     },
     {
       "version": "1-windowsservercore-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:54:04Z",
-      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+      "digest": "sha256:9ab8914099d37082a255543982c81dd37f145ba005dbda492874938f0c9c89bd"
     },
     {
       "version": "1-windowsservercore-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:54:06Z",
-      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+      "digest": "sha256:b5b36538cafe96f07eca27f5ad99c8c1f06395ee345c2d9aa7bd0e45abe5ea65"
     },
     {
       "version": "1.26",
       "releaseTimestamp": "2026-11-10T18:54:15Z",
-      "digest": "sha256:5ebd6e7dc13f9e273ed9470679eb295d8b6e7de3b6379c8a5e17a9e6c3eabd38"
+      "digest": "sha256:978e0a4e3d953662577d784471db27742f543ab09eead06839a838188c73314b"
     },
     {
       "version": "1.26-alpine",
@@ -468,22 +458,22 @@
     {
       "version": "1.26-windowsservercore",
       "releaseTimestamp": "2026-11-10T18:54:29Z",
-      "digest": "sha256:1d10566a64d6a784154c1a4d9b7a880508d98c9fdb44c5ac1855176ad74b5e49"
+      "digest": "sha256:af2021d482562039fc025c0238cc19721ca4ac4060b259c20c5925d179208c64"
     },
     {
       "version": "1.26-windowsservercore-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:54:31Z",
-      "digest": "sha256:462e57e7076a157af312ba4f3d80e46d69367d657a8557bbbe3b20f1eb2af971"
+      "digest": "sha256:7b0f75c4fc88412247045bbe40918ac23f17ef20e39a2bd0362eb2883a190b6c"
     },
     {
       "version": "1.26-windowsservercore-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:54:33Z",
-      "digest": "sha256:228506c01425d43c086d2b9860244147e219b7f966fbc92dad1dbad125e6a8bd"
+      "digest": "sha256:7b2d88d5abbfb88f9fd59396a4802c15f783c2fb831ef7ab70adb10d83a0dc7f"
     },
     {
       "version": "1.26.11",
       "releaseTimestamp": "2026-11-10T18:54:36Z",
-      "digest": "sha256:7af425da11f4fc1a9308eb704369e3f6d1c44e35bac0f874a59ade3f20fdc07e"
+      "digest": "sha256:957952ae74dc010608717144399a59a2c6e82ea03d63be1c7ff6577c5a135f93"
     },
     {
       "version": "1.26.11-alpine",
@@ -498,22 +488,22 @@
     {
       "version": "1.26.11-windowsservercore",
       "releaseTimestamp": "2026-11-10T18:54:48Z",
-      "digest": "sha256:1d10566a64d6a784154c1a4d9b7a880508d98c9fdb44c5ac1855176ad74b5e49"
+      "digest": "sha256:af2021d482562039fc025c0238cc19721ca4ac4060b259c20c5925d179208c64"
     },
     {
       "version": "1.26.11-windowsservercore-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:54:49Z",
-      "digest": "sha256:462e57e7076a157af312ba4f3d80e46d69367d657a8557bbbe3b20f1eb2af971"
+      "digest": "sha256:7b0f75c4fc88412247045bbe40918ac23f17ef20e39a2bd0362eb2883a190b6c"
     },
     {
       "version": "1.26.11-windowsservercore-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:54:51Z",
-      "digest": "sha256:228506c01425d43c086d2b9860244147e219b7f966fbc92dad1dbad125e6a8bd"
+      "digest": "sha256:7b2d88d5abbfb88f9fd59396a4802c15f783c2fb831ef7ab70adb10d83a0dc7f"
     },
     {
       "version": "1.27",
       "releaseTimestamp": "2026-11-10T18:54:54Z",
-      "digest": "sha256:01aa404fa56b604b6f48e90c1d6e2c79fe5cd78f9592f78d80303fbe171cdcc0"
+      "digest": "sha256:ec47ea3725fea0cc88f6de94919aef19f40f12fc1ec0e2d1b3426dbf15ecca04"
     },
     {
       "version": "1.27-alpine3.23",
@@ -523,22 +513,22 @@
     {
       "version": "1.27-windowsservercore",
       "releaseTimestamp": "2026-11-10T18:55:04Z",
-      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+      "digest": "sha256:78a764fbb093a8ac8436c1c0d6bdb29d7a70f928b95a8edcad285fe0677f83ee"
     },
     {
       "version": "1.27-windowsservercore-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:55:06Z",
-      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+      "digest": "sha256:9ab8914099d37082a255543982c81dd37f145ba005dbda492874938f0c9c89bd"
     },
     {
       "version": "1.27-windowsservercore-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:55:08Z",
-      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+      "digest": "sha256:b5b36538cafe96f07eca27f5ad99c8c1f06395ee345c2d9aa7bd0e45abe5ea65"
     },
     {
       "version": "1.27.4",
       "releaseTimestamp": "2026-11-10T18:55:11Z",
-      "digest": "sha256:08bcb99a38f85a265f9a93d1d3323e2440eec333380f3ea26ee0dec9264bb41c"
+      "digest": "sha256:5e8afd493a7124a8586e134d9b532731161d4b9becf9dee5a5956b107426f93d"
     },
     {
       "version": "1.27.4-alpine3.23",
@@ -548,17 +538,17 @@
     {
       "version": "1.27.4-windowsservercore",
       "releaseTimestamp": "2026-11-10T18:55:21Z",
-      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+      "digest": "sha256:78a764fbb093a8ac8436c1c0d6bdb29d7a70f928b95a8edcad285fe0677f83ee"
     },
     {
       "version": "1.27.4-windowsservercore-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:55:22Z",
-      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+      "digest": "sha256:9ab8914099d37082a255543982c81dd37f145ba005dbda492874938f0c9c89bd"
     },
     {
       "version": "1.27.4-windowsservercore-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:55:24Z",
-      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+      "digest": "sha256:b5b36538cafe96f07eca27f5ad99c8c1f06395ee345c2d9aa7bd0e45abe5ea65"
     },
     {
       "version": "alpine3.23",
@@ -568,7 +558,7 @@
     {
       "version": "latest",
       "releaseTimestamp": "2026-11-10T18:55:33Z",
-      "digest": "sha256:01aa404fa56b604b6f48e90c1d6e2c79fe5cd78f9592f78d80303fbe171cdcc0"
+      "digest": "sha256:ec47ea3725fea0cc88f6de94919aef19f40f12fc1ec0e2d1b3426dbf15ecca04"
     },
     {
       "version": "tip",
@@ -628,107 +618,107 @@
     {
       "version": "windowsservercore",
       "releaseTimestamp": "2026-11-10T18:57:24Z",
-      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+      "digest": "sha256:78a764fbb093a8ac8436c1c0d6bdb29d7a70f928b95a8edcad285fe0677f83ee"
     },
     {
       "version": "windowsservercore-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:57:26Z",
-      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+      "digest": "sha256:9ab8914099d37082a255543982c81dd37f145ba005dbda492874938f0c9c89bd"
     },
     {
       "version": "windowsservercore-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:57:27Z",
-      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+      "digest": "sha256:b5b36538cafe96f07eca27f5ad99c8c1f06395ee345c2d9aa7bd0e45abe5ea65"
     },
     {
       "version": "1-nanoserver",
       "releaseTimestamp": "2026-11-10T18:57:58Z",
-      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+      "digest": "sha256:d47bd57aef6757e5767ea70d77003f0698b90016cc6bfbca288b7cf9d34a0787"
     },
     {
       "version": "1-nanoserver-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:58:00Z",
-      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+      "digest": "sha256:8b52af69eb54c6c51f21378c8fe455742d4cf5e5d677e6f13336c9d312062632"
     },
     {
       "version": "1-nanoserver-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:58:02Z",
-      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+      "digest": "sha256:45f34c4114bc97558d95adbe83b63da5c7cd7412a709a7616b314653856b7259"
     },
     {
       "version": "1.26-nanoserver",
       "releaseTimestamp": "2026-11-10T18:58:16Z",
-      "digest": "sha256:57b47413cb0e81f2f7050d905feeedbb496108802fe46bf42dffc475e82a1d17"
+      "digest": "sha256:eb3ba06ec17e219d22b4932d2b66ed7575db34bb2b7febd807b926f08a29b31b"
     },
     {
       "version": "1.26-nanoserver-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:58:18Z",
-      "digest": "sha256:85309b3d33d7dcca2a296271995cddcb8e98b9a3e6c2a345b55ed9a683b884c5"
+      "digest": "sha256:2b104b76e446b6dafad99048d35959a4b1b406cf53e9f49d579c58157c1c4081"
     },
     {
       "version": "1.26-nanoserver-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:58:21Z",
-      "digest": "sha256:8d10aa55f5a6d716b906123a1b063c600f64aeb4ffa9fa802160fc1752dfbee3"
+      "digest": "sha256:fa336a3adf9dd58443b1401555109e8ff5089cf25e9b89e89f2b5a453783621b"
     },
     {
       "version": "1.26.11-nanoserver",
       "releaseTimestamp": "2026-11-10T18:58:30Z",
-      "digest": "sha256:57b47413cb0e81f2f7050d905feeedbb496108802fe46bf42dffc475e82a1d17"
+      "digest": "sha256:eb3ba06ec17e219d22b4932d2b66ed7575db34bb2b7febd807b926f08a29b31b"
     },
     {
       "version": "1.26.11-nanoserver-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:58:32Z",
-      "digest": "sha256:85309b3d33d7dcca2a296271995cddcb8e98b9a3e6c2a345b55ed9a683b884c5"
+      "digest": "sha256:2b104b76e446b6dafad99048d35959a4b1b406cf53e9f49d579c58157c1c4081"
     },
     {
       "version": "1.26.11-nanoserver-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:58:34Z",
-      "digest": "sha256:8d10aa55f5a6d716b906123a1b063c600f64aeb4ffa9fa802160fc1752dfbee3"
+      "digest": "sha256:fa336a3adf9dd58443b1401555109e8ff5089cf25e9b89e89f2b5a453783621b"
     },
     {
       "version": "1.27-nanoserver",
       "releaseTimestamp": "2026-11-10T18:58:44Z",
-      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+      "digest": "sha256:d47bd57aef6757e5767ea70d77003f0698b90016cc6bfbca288b7cf9d34a0787"
     },
     {
       "version": "1.27-nanoserver-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:58:45Z",
-      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+      "digest": "sha256:8b52af69eb54c6c51f21378c8fe455742d4cf5e5d677e6f13336c9d312062632"
     },
     {
       "version": "1.27-nanoserver-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:58:47Z",
-      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+      "digest": "sha256:45f34c4114bc97558d95adbe83b63da5c7cd7412a709a7616b314653856b7259"
     },
     {
       "version": "1.27.4-nanoserver",
       "releaseTimestamp": "2026-11-10T18:58:57Z",
-      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+      "digest": "sha256:d47bd57aef6757e5767ea70d77003f0698b90016cc6bfbca288b7cf9d34a0787"
     },
     {
       "version": "1.27.4-nanoserver-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:58:59Z",
-      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+      "digest": "sha256:8b52af69eb54c6c51f21378c8fe455742d4cf5e5d677e6f13336c9d312062632"
     },
     {
       "version": "1.27.4-nanoserver-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:59:00Z",
-      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+      "digest": "sha256:45f34c4114bc97558d95adbe83b63da5c7cd7412a709a7616b314653856b7259"
     },
     {
       "version": "nanoserver",
       "releaseTimestamp": "2026-11-10T18:59:10Z",
-      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+      "digest": "sha256:d47bd57aef6757e5767ea70d77003f0698b90016cc6bfbca288b7cf9d34a0787"
     },
     {
       "version": "nanoserver-ltsc2022",
       "releaseTimestamp": "2026-11-10T18:59:12Z",
-      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+      "digest": "sha256:8b52af69eb54c6c51f21378c8fe455742d4cf5e5d677e6f13336c9d312062632"
     },
     {
       "version": "nanoserver-ltsc2025",
       "releaseTimestamp": "2026-11-10T18:59:13Z",
-      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+      "digest": "sha256:45f34c4114bc97558d95adbe83b63da5c7cd7412a709a7616b314653856b7259"
     },
     {
       "version": "tip-20261108-alpine3.23",

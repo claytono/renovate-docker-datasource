@@ -1,21 +1,6 @@
 {
   "releases": [
     {
-      "version": "v051merge-ingestion-t",
-      "releaseTimestamp": "2026-10-13T11:44:53Z",
-      "digest": "sha256:67baa040ae284978919431785c11b777434a44a87c41eec2d2a6552ecd2ac59b"
-    },
-    {
-      "version": "prebild-test",
-      "releaseTimestamp": "2026-10-13T12:12:23Z",
-      "digest": "sha256:ac8dc9edb4a65fb5399f4cf2a7fe81d387147ff717feb84ff6f2b31e14c10415"
-    },
-    {
-      "version": "17bf5d0",
-      "releaseTimestamp": "2026-10-13T14:42:32Z",
-      "digest": "sha256:1e86070ea4768f04b569922f018e19a5857237578c1968ead3056a062bd5bde2"
-    },
-    {
       "version": "597c9c8",
       "releaseTimestamp": "2026-10-19T13:11:42Z",
       "digest": "sha256:e86849fb9c8261bffb001a7bdeb3d4ddabda042d81b9db915089566e23b3dea4"

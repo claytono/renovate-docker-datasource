@@ -273,7 +273,7 @@
     {
       "version": "latest-amd64",
       "releaseTimestamp": "2026-10-30T17:20:29Z",
-      "digest": "sha256:32f933aa6fe1f69c5885b93f3c92cc3f60cca8f0530868bc3bc2cc446114a385"
+      "digest": "sha256:bf723075c9a1a35e785bdcac0e8420f504e8074cc65784ed03300b8219aafadc"
     },
     {
       "version": "2026.10.7-amd64",
@@ -293,7 +293,7 @@
     {
       "version": "latest-arm64",
       "releaseTimestamp": "2026-10-30T17:22:26Z",
-      "digest": "sha256:17ab7aa52b3a9805b36c81cbe353bad657fb6395d63c81e12021beaea95f03d3"
+      "digest": "sha256:d1d7a82c231a893d12ac44964f44b0d782e73bc09b99808b4f4157ba3a175bbe"
     },
     {
       "version": "2026.10.7-arm64",
@@ -313,7 +313,7 @@
     {
       "version": "latest",
       "releaseTimestamp": "2026-10-30T17:22:39Z",
-      "digest": "sha256:4955524aeaa379e154023d5a027c250f7b35041a2e7e950cf13f144bc9b9c5ba"
+      "digest": "sha256:b94b96edf2c9c4360f8879c8580cfaa99077f19c849ec595ca2f711b27d4f344"
     },
     {
       "version": "2026.10.7",
@@ -329,6 +329,51 @@
       "version": "2002-872b241f9487",
       "releaseTimestamp": "2026-10-30T17:22:52Z",
       "digest": "sha256:4955524aeaa379e154023d5a027c250f7b35041a2e7e950cf13f144bc9b9c5ba"
+    },
+    {
+      "version": "2026.11.0-amd64",
+      "releaseTimestamp": "2026-11-12T12:31:51Z",
+      "digest": "sha256:bf723075c9a1a35e785bdcac0e8420f504e8074cc65784ed03300b8219aafadc"
+    },
+    {
+      "version": "2007-b0297f0-amd64",
+      "releaseTimestamp": "2026-11-12T12:31:54Z",
+      "digest": "sha256:bf723075c9a1a35e785bdcac0e8420f504e8074cc65784ed03300b8219aafadc"
+    },
+    {
+      "version": "2007-b0297f0b24c6-amd64",
+      "releaseTimestamp": "2026-11-12T12:31:56Z",
+      "digest": "sha256:bf723075c9a1a35e785bdcac0e8420f504e8074cc65784ed03300b8219aafadc"
+    },
+    {
+      "version": "2026.11.0-arm64",
+      "releaseTimestamp": "2026-11-12T12:33:48Z",
+      "digest": "sha256:d1d7a82c231a893d12ac44964f44b0d782e73bc09b99808b4f4157ba3a175bbe"
+    },
+    {
+      "version": "2007-b0297f0-arm64",
+      "releaseTimestamp": "2026-11-12T12:33:51Z",
+      "digest": "sha256:d1d7a82c231a893d12ac44964f44b0d782e73bc09b99808b4f4157ba3a175bbe"
+    },
+    {
+      "version": "2007-b0297f0b24c6-arm64",
+      "releaseTimestamp": "2026-11-12T12:33:54Z",
+      "digest": "sha256:d1d7a82c231a893d12ac44964f44b0d782e73bc09b99808b4f4157ba3a175bbe"
+    },
+    {
+      "version": "2026.11.0",
+      "releaseTimestamp": "2026-11-12T12:34:05Z",
+      "digest": "sha256:b94b96edf2c9c4360f8879c8580cfaa99077f19c849ec595ca2f711b27d4f344"
+    },
+    {
+      "version": "2007-b0297f0",
+      "releaseTimestamp": "2026-11-12T12:34:09Z",
+      "digest": "sha256:b94b96edf2c9c4360f8879c8580cfaa99077f19c849ec595ca2f711b27d4f344"
+    },
+    {
+      "version": "2007-b0297f0b24c6",
+      "releaseTimestamp": "2026-11-12T12:34:13Z",
+      "digest": "sha256:b94b96edf2c9c4360f8879c8580cfaa99077f19c849ec595ca2f711b27d4f344"
     }
   ]
 }

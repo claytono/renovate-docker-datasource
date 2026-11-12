@@ -3927,6 +3927,7 @@
 1.27.2-alpine3.23
 1.27.2-alpine3.24
 1.27.2-bookworm
+1.27.2-trixie
 1.27rc1
 1.27rc1-alpine
 1.27rc1-alpine3.23
@@ -4985,6 +4986,7 @@ tip-20261002-alpine3.23
 tip-20261002-alpine3.24
 tip-20261002-bookworm
 tip-20261002-trixie
+tip-20261010-bookworm
 tip-alpine3.20
 tip-alpine3.21
 tip-alpine3.22

@@ -2490,6 +2490,7 @@ amd64-development-v1.6.2-ls16
 amd64-development-v1.6.3-beta.0-ls16
 amd64-development-v1.6.3-beta.1-ls17
 amd64-development-v1.6.3-beta.10-ls22
+amd64-development-v1.6.3-beta.11-ls22
 amd64-development-v1.6.3-beta.2-ls18
 amd64-development-v1.6.3-beta.3-ls19
 amd64-development-v1.6.3-beta.4-ls19
@@ -3549,6 +3550,7 @@ amd64-development-version-v1.6.2-beta.5
 amd64-development-version-v1.6.3-beta.0
 amd64-development-version-v1.6.3-beta.1
 amd64-development-version-v1.6.3-beta.10
+amd64-development-version-v1.6.3-beta.11
 amd64-development-version-v1.6.3-beta.2
 amd64-development-version-v1.6.3-beta.3
 amd64-development-version-v1.6.3-beta.4
@@ -8247,6 +8249,7 @@ arm64v8-development-v1.6.2-ls16
 arm64v8-development-v1.6.3-beta.0-ls16
 arm64v8-development-v1.6.3-beta.1-ls17
 arm64v8-development-v1.6.3-beta.10-ls22
+arm64v8-development-v1.6.3-beta.11-ls22
 arm64v8-development-v1.6.3-beta.2-ls18
 arm64v8-development-v1.6.3-beta.3-ls19
 arm64v8-development-v1.6.3-beta.4-ls19
@@ -9306,6 +9309,7 @@ arm64v8-development-version-v1.6.2-beta.5
 arm64v8-development-version-v1.6.3-beta.0
 arm64v8-development-version-v1.6.3-beta.1
 arm64v8-development-version-v1.6.3-beta.10
+arm64v8-development-version-v1.6.3-beta.11
 arm64v8-development-version-v1.6.3-beta.2
 arm64v8-development-version-v1.6.3-beta.3
 arm64v8-development-version-v1.6.3-beta.4
@@ -11230,6 +11234,7 @@ development-v1.6.2-ls16
 development-v1.6.3-beta.0-ls16
 development-v1.6.3-beta.1-ls17
 development-v1.6.3-beta.10-ls22
+development-v1.6.3-beta.11-ls22
 development-v1.6.3-beta.2-ls18
 development-v1.6.3-beta.3-ls19
 development-v1.6.3-beta.4-ls19
@@ -12289,6 +12294,7 @@ development-version-v1.6.2-beta.5
 development-version-v1.6.3-beta.0
 development-version-v1.6.3-beta.1
 development-version-v1.6.3-beta.10
+development-version-v1.6.3-beta.11
 development-version-v1.6.3-beta.2
 development-version-v1.6.3-beta.3
 development-version-v1.6.3-beta.4

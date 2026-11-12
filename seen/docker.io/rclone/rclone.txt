@@ -228,6 +228,7 @@ fix-azureblob-retry
 fix-b2-chunk-size
 fix-backend-memory
 fix-bisync-conflict-loser-pathname
+fix-bisync-golden
 fix-bisync-shutdown-rollback
 fix-bisync-test
 fix-bisync-tests
@@ -399,6 +400,7 @@ sha-0f49cea
 sha-0f6401e
 sha-0f9cc9c
 sha-102b69b
+sha-102ef16
 sha-104aa97
 sha-1051d55
 sha-105feca
@@ -528,6 +530,7 @@ sha-2a22bd7
 sha-2a5e0b2
 sha-2a7b0d0
 sha-2a9e952
+sha-2aea045
 sha-2af1e8f
 sha-2b099f2
 sha-2b10340
@@ -705,6 +708,7 @@ sha-48da73a
 sha-48f8d63
 sha-49158b2
 sha-4928459
+sha-4983d29
 sha-49b4ca3
 sha-49f6ed5
 sha-4a00a4d
@@ -731,6 +735,7 @@ sha-4d85821
 sha-4dbdfcd
 sha-4df974c
 sha-4e2b78f
+sha-4e5d4d0
 sha-4e77a4f
 sha-4f0148d
 sha-4f08077
@@ -884,6 +889,7 @@ sha-6adb405
 sha-6b67be9
 sha-6bbc28c
 sha-6c36615
+sha-6c45cde
 sha-6cb4732
 sha-6cc3356
 sha-6d0acd4
@@ -997,8 +1003,10 @@ sha-80928a9
 sha-80e462d
 sha-80e6389
 sha-810fbad
+sha-811a1de
 sha-811f207
 sha-812e693
+sha-81d7b6f
 sha-81e6378
 sha-8216d66
 sha-821e7fc
@@ -1078,6 +1086,7 @@ sha-9151a66
 sha-91ab88a
 sha-9208bf1
 sha-9222ed2
+sha-927b6af
 sha-92dd8cb
 sha-92f30fd
 sha-92f9315
@@ -1217,6 +1226,7 @@ sha-abed695
 sha-ac177f7
 sha-ac210a4
 sha-ac7cfcc
+sha-ac9afc4
 sha-acb6155
 sha-acb9f80
 sha-acda43a
@@ -1462,6 +1472,7 @@ sha-d7f23b6
 sha-d8015ca
 sha-d81e8d7
 sha-d84ea2e
+sha-d864094
 sha-d86b72c
 sha-d8794f8
 sha-d87a197
@@ -1629,6 +1640,7 @@ sha-f8e1d74
 sha-f8fb9d0
 sha-f904378
 sha-f9123c5
+sha-f91c9d2
 sha-fa1d7da
 sha-fa2b562
 sha-fa4b299
