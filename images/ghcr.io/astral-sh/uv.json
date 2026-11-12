@@ -3,12 +3,197 @@
     {
       "version": "python3.13-trixie",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
-      "digest": "sha256:6299696d13e91e9d58e910fca4e503e89f217229a2c4c840a11b367dc24816f4"
+      "digest": "sha256:8d8ba6bf376cc972df1422f302dbe22c24865add109c43c47a994e5f485a4545"
     },
     {
       "version": "python3.14-trixie-slim",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
-      "digest": "sha256:e80c05a310400cfc90af00b5b7271ef9ad24816e3265e1162af8a678e1aad099"
+      "digest": "sha256:81a1340fea1e72ad4a8e9a016128b0c61041cf182ea49fd788023e52842bc147"
+    },
+    {
+      "version": "0.13.8",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:5cc1805e2426484abca4ad46ea783bab281fdb225fd82d8ce6d66a81254bac85"
+    },
+    {
+      "version": "0.13.8-alpine",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:d436fa324e71ef7c8accd7902e893d18a19a0e3afb3ecf57626d696d982137e5"
+    },
+    {
+      "version": "0.13.8-alpine-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:643a629e0c61a2fd2b97dc777455b7351c78951b15d3122eb8c51e86344b38dc"
+    },
+    {
+      "version": "0.13.8-alpine3.22",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:fff39dc746af96da8e0c2e6f9e539a85a4af2461602d48f796ff8d5e22dc4fb1"
+    },
+    {
+      "version": "0.13.8-alpine3.23",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:d436fa324e71ef7c8accd7902e893d18a19a0e3afb3ecf57626d696d982137e5"
+    },
+    {
+      "version": "0.13.8-alpine3.23-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:643a629e0c61a2fd2b97dc777455b7351c78951b15d3122eb8c51e86344b38dc"
+    },
+    {
+      "version": "0.13.8-debian",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:49f68aaf4290a1eb438d913d51033007eb5fac1e3add6ca8d1d161426ddac798"
+    },
+    {
+      "version": "0.13.8-debian-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:dc790a15588042bbd21fbe44b948efb6bd332d16d38c4aa42aec31ec1b4961df"
+    },
+    {
+      "version": "0.13.8-debian-slim",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:2e5596835973a75bed0d37a980625b5089e87ffbd1026f11012ca0fe254ccac5"
+    },
+    {
+      "version": "0.13.8-python3.10-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:77d17a8371c8cfa3add765e44bca40e0ccbcfc0343f479cb09a6e819d6e2d0c5"
+    },
+    {
+      "version": "0.13.8-python3.11-alpine",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:8252c14c3586b178379b9bc728c8e62b12fbc6ebdc6ff3b151eadda6b5c7f0b3"
+    },
+    {
+      "version": "0.13.8-python3.11-alpine3.23",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:8252c14c3586b178379b9bc728c8e62b12fbc6ebdc6ff3b151eadda6b5c7f0b3"
+    },
+    {
+      "version": "0.13.8-python3.11-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:79dede8cfae731cce098b3f637d0aa944084df8d70542989b51a8d1c2b640d4e"
+    },
+    {
+      "version": "0.13.8-python3.11-trixie",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:bfdd41785fbe2997ea3662c780a9d818422a705c334c2ebfc9f1464ad668bb2d"
+    },
+    {
+      "version": "0.13.8-python3.11-trixie-slim",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:7a0b97c592d27e887e0bb9be01c45135c8f0fc00719faa19ec1f8cbcc73d9b69"
+    },
+    {
+      "version": "0.13.8-python3.12-alpine",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:77f6e42a88636e1a4eb30d0a250aaba62226e93566df21855bc3a2709865b3be"
+    },
+    {
+      "version": "0.13.8-python3.12-alpine3.23",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:77f6e42a88636e1a4eb30d0a250aaba62226e93566df21855bc3a2709865b3be"
+    },
+    {
+      "version": "0.13.8-python3.12-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:89afaecfac70027a6c465bda3254d0be04de150a6b3e468980732b99ba58487d"
+    },
+    {
+      "version": "0.13.8-python3.12-trixie",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:a65858371a89e4e543d2018d2edc33b463b7ae3541a66f144e97ed431ebc8fb0"
+    },
+    {
+      "version": "0.13.8-python3.12-trixie-slim",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:ee8a8854267a3bd09ac0364420803fb74a069068b5fb279a2cf1df664f7273db"
+    },
+    {
+      "version": "0.13.8-python3.13-alpine",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:f2d6278d0821c35881b010ddbf75825049661a98dbfdf61bbd1407e8dd544d00"
+    },
+    {
+      "version": "0.13.8-python3.13-alpine3.23",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:f2d6278d0821c35881b010ddbf75825049661a98dbfdf61bbd1407e8dd544d00"
+    },
+    {
+      "version": "0.13.8-python3.13-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:3b662c3b3b3f002a496931275545edeeb6f48f0b52369f14d0a53b8d765d400a"
+    },
+    {
+      "version": "0.13.8-python3.13-trixie",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:8d8ba6bf376cc972df1422f302dbe22c24865add109c43c47a994e5f485a4545"
+    },
+    {
+      "version": "0.13.8-python3.13-trixie-slim",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:9a9f205ad2f9aaf63597afef4042c455392f9253937028264b98226e91c09518"
+    },
+    {
+      "version": "0.13.8-python3.14-alpine",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:a7eb1d733796a8ccaeb6fe6f395e7e9d02a620f6e63ee5c1e9dfde33ba5df1d6"
+    },
+    {
+      "version": "0.13.8-python3.14-alpine3.23",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:a7eb1d733796a8ccaeb6fe6f395e7e9d02a620f6e63ee5c1e9dfde33ba5df1d6"
+    },
+    {
+      "version": "0.13.8-python3.14-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:48474a98304ff4bf924a4d84800e806fef6cfedf23ddf08c8754d7d3664462f7"
+    },
+    {
+      "version": "0.13.8-python3.14-trixie",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:b60feb07c9c2a9b41d8a6dd97fa76ecf2107ee31be002cc76c8a1814d0dba3dc"
+    },
+    {
+      "version": "0.13.8-python3.14-trixie-slim",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:81a1340fea1e72ad4a8e9a016128b0c61041cf182ea49fd788023e52842bc147"
+    },
+    {
+      "version": "0.13.8-python3.15-alpine",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:8d2c75bbf0f4155bc2a4ae2297bcd33bea4e775fd68ca21d6c38c1220b720735"
+    },
+    {
+      "version": "0.13.8-python3.15-alpine3.23",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:8d2c75bbf0f4155bc2a4ae2297bcd33bea4e775fd68ca21d6c38c1220b720735"
+    },
+    {
+      "version": "0.13.8-python3.15-trixie",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:45f789a1d51b24112d1ca54f536beef82ca87ee5791335b452c3451f904445e6"
+    },
+    {
+      "version": "0.13.8-python3.15-trixie-slim",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:053efa9652f89ac056731b55b4912131fca1dd644d472b6a40340a62f183a5db"
+    },
+    {
+      "version": "0.13.8-trixie",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:49f68aaf4290a1eb438d913d51033007eb5fac1e3add6ca8d1d161426ddac798"
+    },
+    {
+      "version": "0.13.8-trixie-dhi",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:dc790a15588042bbd21fbe44b948efb6bd332d16d38c4aa42aec31ec1b4961df"
+    },
+    {
+      "version": "0.13.8-trixie-slim",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:2e5596835973a75bed0d37a980625b5089e87ffbd1026f11012ca0fe254ccac5"
     }
   ]
 }

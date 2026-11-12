@@ -249,6 +249,16 @@
       "version": "pr-33250",
       "releaseTimestamp": "2026-11-12T16:25:12Z",
       "digest": "sha256:743e6843bf815b8241632b068c395422b528aeeef9be2e868fe21ca9855b6495"
+    },
+    {
+      "version": "commit-252654f2ddb1893f1760e268df3031e71f6cc22e",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:a4709f1b4e57631a763bd2f6e19bf92cc16ce5a3b0d2a983592419bc31263f51"
+    },
+    {
+      "version": "pr-33255",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:a4709f1b4e57631a763bd2f6e19bf92cc16ce5a3b0d2a983592419bc31263f51"
     }
   ]
 }
