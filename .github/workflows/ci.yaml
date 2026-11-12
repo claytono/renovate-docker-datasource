@@ -30,3 +30,41 @@ jobs:
 
       - name: Lint
         run: nix develop --command pre-commit run --all-files --show-diff-on-failure
+
+  # Runs the update job against the real repositories and registries, so a
+  # change that breaks it, such as a new Renovate image, fails here instead
+  # of in the next daily run. The results are thrown away. Pull requests that
+  # change only the data files skip it: the job itself produced them.
+  dry-run:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - uses: dorny/paths-filter@ceb8a2b8f2d89434be7ff52d3de7ec3738c5cc9d # v4
+        id: changes
+        with:
+          predicate-quantifier: every
+          filters: |
+            code:
+              - "!images/**"
+              - "!seen/**"
+
+      - uses: cachix/install-nix-action@3dc140bfc76c49fbd4dd958429132e3746bcb086 # v31
+        if: steps.changes.outputs.code == 'true'
+
+      - name: Refresh image data
+        if: steps.changes.outputs.code == 'true'
+        run: nix develop --command uv run python -m renovate_docker_datasource --allow-registry-errors
+        env:
+          REPOSITORIES: ${{ vars.REPOSITORIES }}
+          READ_TOKEN: ${{ secrets.READ_TOKEN }}
+
+      - name: Check image data
+        if: steps.changes.outputs.code == 'true'
+        run: nix develop --command uv run python -m renovate_docker_datasource.check

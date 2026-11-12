@@ -6,6 +6,11 @@ Without --checkout, each repository named in REPOSITORIES (owner/name,
 separated by spaces or newlines) is shallow-cloned from GitHub, using the
 token in READ_TOKEN when it is set. --image limits the run to the named
 images and leaves every other image's files alone.
+
+The exit code is 1 if any image failed. With --allow-registry-errors, an
+image whose registry could not be reached or refused the request does not
+count, so CI can run the job without failing on another site's outage;
+any other error still does.
 """
 
 import argparse
@@ -15,6 +20,7 @@ import subprocess
 import sys
 import tempfile
 import tomllib
+import traceback
 from collections import defaultdict
 from datetime import UTC, datetime
 from pathlib import Path
@@ -40,6 +46,7 @@ def main() -> int:
     parser.add_argument("--checkout", action="append", type=Path, default=[])
     parser.add_argument("--image", action="append", default=[])
     parser.add_argument("--root", type=Path, default=Path.cwd())
+    parser.add_argument("--allow-registry-errors", action="store_true")
     args = parser.parse_args()
     # An empty list would look like no images in use and remove every file.
     repositories = os.environ.get("REPOSITORIES", "").split()
@@ -62,14 +69,19 @@ def main() -> int:
 
     selected = {parse_image(name) for name in args.image}
     registry = Registry()
-    failed = []
+    failed, unreachable = [], []
     for image in sorted(selected or in_use, key=lambda i: i.name):
         try:
-            state = refresh(
-                image, in_use.get(image, set()), store.load(image), registry, retention, now
-            )
-        except Exception as err:  # one broken image must not stop the rest
-            print(f"{image.name}: {err}", file=sys.stderr)
+            # Read outside the OSError handler: a local file error is never the registry's.
+            previous = store.load(image)
+            try:
+                state = refresh(image, in_use.get(image, set()), previous, registry, retention, now)
+            except OSError as err:  # HTTP and network errors: the registry, not this code
+                print(f"{image.name}: {err}", file=sys.stderr)
+                unreachable.append(image.name)
+                continue
+        except Exception:  # one broken image must not stop the rest
+            print(f"{image.name}: {traceback.format_exc()}", file=sys.stderr)
             failed.append(image.name)
             continue
         store.save(image, state)
@@ -79,7 +91,7 @@ def main() -> int:
         for image in store.stored() - in_use.keys():
             print(f"{image.name}: no longer used, removed")
             store.remove(image)
-    return 1 if failed else 0
+    return 1 if failed or (unreachable and not args.allow_registry_errors) else 0
 
 
 if __name__ == "__main__":
