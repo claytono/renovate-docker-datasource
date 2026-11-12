@@ -20,8 +20,9 @@ A shared Renovate preset points Renovate at those dates.
 ## How the dates are set
 
 Every day, the job finds the Docker images used in the repositories listed in
-`config.toml`, using Renovate's own dependency extraction, and lists every
-tag of each image. Each tag it has not seen before gets a date:
+this repo's `REPOSITORIES` Actions variable, using Renovate's own dependency
+extraction, and lists every tag of each image. Each tag it has not seen
+before gets a date:
 
 - On Docker Hub, the tag's push date at the time the job first sees it.
 - Everywhere else, the time the job first saw the tag.
@@ -78,8 +79,15 @@ Rules in the repository that match `matchDatasources: ["docker"]` no longer
 match the dependencies the preset moves. Add `custom.docker-first-seen` to
 those rules.
 
-The repository must also be listed in `config.toml`, or its images never get
-files here.
+The repository must also be in this repo's `REPOSITORIES` variable, or its
+images never get files here. The variable holds `owner/name` entries separated
+by spaces or newlines, and adding one needs no pull request:
+
+```sh
+gh variable set REPOSITORIES -R claytono/renovate-docker-datasource \
+  --body "$(gh variable get REPOSITORIES -R claytono/renovate-docker-datasource)
+claytono/new-repo"
+```
 
 ## Running the job
 
@@ -90,13 +98,16 @@ needs two secrets:
 - `PAT`: a classic token that opens the pull request and turns on auto-merge.
   A pull request opened with `GITHUB_TOKEN` would not run CI.
 - `READ_TOKEN`: a fine-grained token with read access to the contents of the
-  private repositories in `config.toml`.
+  private repositories in `REPOSITORIES`.
+
+Both are set from 1Password by OpenTofu in claytono/infra.
 
 To run it locally, with Docker running and in the Nix shell, set
-`READ_TOKEN` too, unless git already has credentials for the private
-repositories in `config.toml`:
+`REPOSITORIES` to the same list, and `READ_TOKEN` too unless git already has
+credentials for the private repositories:
 
 ```sh
+export REPOSITORIES="$(gh variable get REPOSITORIES -R claytono/renovate-docker-datasource)"
 uv run python -m renovate_docker_datasource
 ```
 
@@ -105,7 +116,7 @@ nothing; the repositories are still cloned to find the tags in use.
 
 `--checkout DIR` reads a local checkout instead of cloning. It stands in for
 the whole repository list, so give one `--checkout` per repository in
-`config.toml`. With fewer, tags used only in the missing repositories move to
+`REPOSITORIES`. With fewer, tags used only in the missing repositories move to
 the seen list, and without `--image` the files of images only they use are
 removed.
 

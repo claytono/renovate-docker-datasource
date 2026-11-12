@@ -2,9 +2,10 @@
 
 Usage: python -m renovate_docker_datasource [--checkout DIR ...] [--image NAME ...]
 
-Without --checkout, each repository in config.toml is shallow-cloned from
-GitHub, using the token in READ_TOKEN when it is set. --image limits the run
-to the named images and leaves every other image's files alone.
+Without --checkout, each repository named in REPOSITORIES (owner/name,
+separated by spaces or newlines) is shallow-cloned from GitHub, using the
+token in READ_TOKEN when it is set. --image limits the run to the named
+images and leaves every other image's files alone.
 """
 
 import argparse
@@ -40,6 +41,10 @@ def main() -> int:
     parser.add_argument("--image", action="append", default=[])
     parser.add_argument("--root", type=Path, default=Path.cwd())
     args = parser.parse_args()
+    # An empty list would look like no images in use and remove every file.
+    repositories = os.environ.get("REPOSITORIES", "").split()
+    if not args.checkout and not repositories:
+        parser.error("set REPOSITORIES or pass --checkout")
 
     config = tomllib.loads((args.root / "config.toml").read_text())
     retention = Retention(**config["retention"])
@@ -49,7 +54,7 @@ def main() -> int:
     in_use: dict[Image, set[str]] = defaultdict(set)
     with tempfile.TemporaryDirectory() as tmp:
         checkouts = args.checkout or [
-            clone(repo, Path(tmp) / repo.replace("/", "__")) for repo in config["repositories"]
+            clone(repo, Path(tmp) / repo.replace("/", "__")) for repo in repositories
         ]
         for checkout in checkouts:
             for name, tags in docker_images(extract(checkout)).items():
