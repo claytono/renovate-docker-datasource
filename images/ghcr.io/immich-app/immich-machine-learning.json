@@ -1594,6 +1594,66 @@
       "version": "pr-33250-rocm",
       "releaseTimestamp": "2026-11-12T16:25:12Z",
       "digest": "sha256:a4097aef20213d91368a40171688ce064c4d622747a1ebe7c6888ee8dd0c5c4c"
+    },
+    {
+      "version": "commit-252654f2ddb1893f1760e268df3031e71f6cc22e",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:fd944570e44523aa81e5caa7d132ba97aeb91c7d132453d7a0706110e66820e0"
+    },
+    {
+      "version": "commit-252654f2ddb1893f1760e268df3031e71f6cc22e-armnn",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:3b1ee519f2c6be5d910ae283b445a877783923cbe6c2f7318b16492709e28f64"
+    },
+    {
+      "version": "commit-252654f2ddb1893f1760e268df3031e71f6cc22e-cuda",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:8ed9c5e3a12a07c69afca3d107ced9533005eb7b8c72f452ee0fce993b7d8867"
+    },
+    {
+      "version": "commit-252654f2ddb1893f1760e268df3031e71f6cc22e-openvino",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:7072b4a5d0de6b8ac07a85e658b93f7abca4095c8da40b01a3cfc13eb6b3a072"
+    },
+    {
+      "version": "commit-252654f2ddb1893f1760e268df3031e71f6cc22e-rknn",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:5e21b4d7a0591cf8f4f94e1df5971d7ea8ad842b5b846f290cddd9bedc1b64ee"
+    },
+    {
+      "version": "commit-252654f2ddb1893f1760e268df3031e71f6cc22e-rocm",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:a4097aef20213d91368a40171688ce064c4d622747a1ebe7c6888ee8dd0c5c4c"
+    },
+    {
+      "version": "pr-33255",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:fd944570e44523aa81e5caa7d132ba97aeb91c7d132453d7a0706110e66820e0"
+    },
+    {
+      "version": "pr-33255-armnn",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:3b1ee519f2c6be5d910ae283b445a877783923cbe6c2f7318b16492709e28f64"
+    },
+    {
+      "version": "pr-33255-cuda",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:8ed9c5e3a12a07c69afca3d107ced9533005eb7b8c72f452ee0fce993b7d8867"
+    },
+    {
+      "version": "pr-33255-openvino",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:7072b4a5d0de6b8ac07a85e658b93f7abca4095c8da40b01a3cfc13eb6b3a072"
+    },
+    {
+      "version": "pr-33255-rknn",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:5e21b4d7a0591cf8f4f94e1df5971d7ea8ad842b5b846f290cddd9bedc1b64ee"
+    },
+    {
+      "version": "pr-33255-rocm",
+      "releaseTimestamp": "2026-11-12T17:13:22Z",
+      "digest": "sha256:a4097aef20213d91368a40171688ce064c4d622747a1ebe7c6888ee8dd0c5c4c"
     }
   ]
 }
