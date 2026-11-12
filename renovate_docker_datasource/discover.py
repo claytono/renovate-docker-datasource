@@ -1,6 +1,7 @@
 """Find the Docker images a repository uses, as Renovate sees them."""
 
 import json
+import os
 import subprocess
 import tempfile
 from collections import defaultdict
@@ -17,6 +18,9 @@ def extract(checkout: Path, renovate_image: str = RENOVATE_IMAGE) -> list[dict]:
     annotation regexes count, exactly as they do when Renovate runs for real.
     """
     with tempfile.TemporaryDirectory() as out:
+        # Renovate's container runs as its own user, which cannot write to a
+        # private temporary directory on Linux.
+        os.chmod(out, 0o777)
         result = subprocess.run(
             [
                 "docker",
