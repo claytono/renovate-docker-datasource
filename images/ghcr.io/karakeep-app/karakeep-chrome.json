@@ -1,0 +1,9 @@
+{
+  "releases": [
+    {
+      "version": "157.0.8103.38-r1",
+      "releaseTimestamp": "2026-11-11T23:37:34Z",
+      "digest": "sha256:6c80ed470871bb8c129dc58692ca1714cddbc1392faad3ebf59aecd2e6e58eac"
+    }
+  ]
+}

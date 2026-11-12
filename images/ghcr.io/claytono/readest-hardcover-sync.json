@@ -1,0 +1,9 @@
+{
+  "releases": [
+    {
+      "version": "edge",
+      "releaseTimestamp": "2026-11-11T23:37:34Z",
+      "digest": "sha256:1dc91b25c386fba4cd1b4e10a7ea13369de5829935f9ef45a7c16104aceffb4c"
+    }
+  ]
+}

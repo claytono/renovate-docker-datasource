@@ -1,0 +1,439 @@
+{
+  "releases": [
+    {
+      "version": "bookworm-20261020",
+      "releaseTimestamp": "2026-10-21T01:36:37Z",
+      "digest": "sha256:854dd8ab51d62866dbd8f5431d15ce77b12983a2a4a1e1fe43a2395dc7ef9f61"
+    },
+    {
+      "version": "bookworm-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:36:39Z",
+      "digest": "sha256:7ff6ba31527b9e336162fa061746c366c4b2032f4d2cff2078bea43f78efe3f8"
+    },
+    {
+      "version": "forky-20261020",
+      "releaseTimestamp": "2026-10-21T01:37:24Z",
+      "digest": "sha256:8ba3df177e65d13cb4392a490db1c48cb7f85461b5769f60eb37725221b8b203"
+    },
+    {
+      "version": "forky-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:37:41Z",
+      "digest": "sha256:4cee6ff3ebc49e32d55a857e25164ef8e5f8fecff2a186c6393f7e8bd8c23b53"
+    },
+    {
+      "version": "oldstable-20261020",
+      "releaseTimestamp": "2026-10-21T01:38:13Z",
+      "digest": "sha256:c91bf444bfe036fbc1a38da69b225ca1237e8397312fddec11f62d9c5c6aa074"
+    },
+    {
+      "version": "oldstable-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:38:26Z",
+      "digest": "sha256:3577f6c7b6b0badcc718d0801fde7a81430f43f76337049a17590ea9070a2c3c"
+    },
+    {
+      "version": "sid-20261020",
+      "releaseTimestamp": "2026-10-21T01:39:11Z",
+      "digest": "sha256:92d7265e51d67d3a2094c1aad9faa88c74cf9d52e6c354200e429cd60237cc55"
+    },
+    {
+      "version": "sid-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:39:30Z",
+      "digest": "sha256:fb75970a5ba2a81ca409ed0cabcf05d53e058086fd397f7a63943ded5bd15f84"
+    },
+    {
+      "version": "stable-20261020",
+      "releaseTimestamp": "2026-10-21T01:39:56Z",
+      "digest": "sha256:defb09e17b8c7326f9a3b63ecf0797f34674691f5c270d63987b955ff0168bd8"
+    },
+    {
+      "version": "stable-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:40:16Z",
+      "digest": "sha256:a717a33469731894e77e912ea7d714e27c2dc38ee6554fd1a3102e92999cfc66"
+    },
+    {
+      "version": "testing-20261020",
+      "releaseTimestamp": "2026-10-21T01:40:53Z",
+      "digest": "sha256:fe4be93b807e7d05dccdaf54931173d9368b349f91a8170dadd787213aa3bf19"
+    },
+    {
+      "version": "testing-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:41:11Z",
+      "digest": "sha256:3a10c287879cf13178a2e17c4961b7db428101c552eb0bd0ef1952c4a46b7e11"
+    },
+    {
+      "version": "trixie-20261020",
+      "releaseTimestamp": "2026-10-21T01:41:33Z",
+      "digest": "sha256:4c25275446ca371766b8b093c696782eabce06263fccacb8d5d813b3dc44b308"
+    },
+    {
+      "version": "trixie-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:41:36Z",
+      "digest": "sha256:62bd423aeee912639ca8ee681c2b762cb3e25137e0a92b20be455898a9f034ad"
+    },
+    {
+      "version": "unstable-20261020",
+      "releaseTimestamp": "2026-10-21T01:42:16Z",
+      "digest": "sha256:ac638695600796dac818dd0a79ef04147649eca20368daaf3add2ab7a0e08ae0"
+    },
+    {
+      "version": "unstable-20261020-slim",
+      "releaseTimestamp": "2026-10-21T01:42:33Z",
+      "digest": "sha256:acd2c764ef5fbe908e13a0f3fca9efebee362ecd40419b6eca35b234b09f62d8"
+    },
+    {
+      "version": "experimental-20261020",
+      "releaseTimestamp": "2026-10-21T05:23:47Z",
+      "digest": "sha256:eb3b582e76764e6d0f4f8281245e51d0defbe2537504144803772308b705b405"
+    },
+    {
+      "version": "rc-buggy-20261020",
+      "releaseTimestamp": "2026-10-21T05:24:33Z",
+      "digest": "sha256:da9aed4b7546469e7d3fb7be20556085571de8fcfe553c40a11b7d8db491f91c"
+    },
+    {
+      "version": "bookworm-20261027",
+      "releaseTimestamp": "2026-10-28T02:24:21Z",
+      "digest": "sha256:d74df7598108a173a621eda4d58a2adbf850b2d9a9d81bc2cca1a6c21174a880"
+    },
+    {
+      "version": "bookworm-20261027-slim",
+      "releaseTimestamp": "2026-10-28T02:24:23Z",
+      "digest": "sha256:99c0b25c46d0214d5a2091092e7908907dcaecd6a962cde0ac700acee222b6f3"
+    },
+    {
+      "version": "oldstable-20261027",
+      "releaseTimestamp": "2026-10-28T02:25:42Z",
+      "digest": "sha256:1ee253268585dd9e05d2ff912c78119b63f7b86832d27048ee35e33da8f04492"
+    },
+    {
+      "version": "oldstable-20261027-slim",
+      "releaseTimestamp": "2026-10-28T02:25:55Z",
+      "digest": "sha256:58a0105c863ff27b73982f1b1130bdcac6425770c2a05aeb18f1af4a5f2aac9c"
+    },
+    {
+      "version": "forky-20261027",
+      "releaseTimestamp": "2026-10-28T20:23:44Z",
+      "digest": "sha256:49c219ade93d7c11635c0d57e735ed82339a503a4376cd6957046c2bd4e5905b"
+    },
+    {
+      "version": "forky-20261027-slim",
+      "releaseTimestamp": "2026-10-28T20:23:49Z",
+      "digest": "sha256:04db4720574d184e24353e77e46dbbe4377edad01c9ba50a67aa1473cef9b9d4"
+    },
+    {
+      "version": "sid-20261027",
+      "releaseTimestamp": "2026-10-28T20:24:11Z",
+      "digest": "sha256:46e441d513e81eb6c04119061b4abe68a5bae6fa55fd42bf39147e7d2a548bf5"
+    },
+    {
+      "version": "sid-20261027-slim",
+      "releaseTimestamp": "2026-10-28T20:24:16Z",
+      "digest": "sha256:5ac67a4d7c0de96e83873e4dd8f7ea3b507ba292fb2cce60a0c3f73322df5cae"
+    },
+    {
+      "version": "stable-20261027",
+      "releaseTimestamp": "2026-10-28T20:24:26Z",
+      "digest": "sha256:23ef8ad09b87c0dbee73f1f962ee78a6515842480a4444a2e5275912d4cad8e4"
+    },
+    {
+      "version": "stable-20261027-slim",
+      "releaseTimestamp": "2026-10-28T20:24:31Z",
+      "digest": "sha256:13e0a2e78aa0554ad5ff66e4e260c6dbcdff807eb1f39d43b9fb0288aae88b04"
+    },
+    {
+      "version": "testing-20261027",
+      "releaseTimestamp": "2026-10-28T20:24:44Z",
+      "digest": "sha256:cf15c569a84dfda832e421ab27a8049e962ba8e90571612396cd8db799279e4e"
+    },
+    {
+      "version": "testing-20261027-slim",
+      "releaseTimestamp": "2026-10-28T20:24:48Z",
+      "digest": "sha256:74c29a19a857bacc7d54bf3e4f2f7a378e6af21886d14af55709d522b2d31224"
+    },
+    {
+      "version": "trixie-20261027",
+      "releaseTimestamp": "2026-10-28T20:24:58Z",
+      "digest": "sha256:2dc419c6d7fe3dad0a2f9fd469c34cc90b0f9ba642d8fde837fe3d7d34a0e7f1"
+    },
+    {
+      "version": "trixie-20261027-slim",
+      "releaseTimestamp": "2026-10-28T20:25:01Z",
+      "digest": "sha256:f6b08b09a05725f9431502d3b5714f5c4576e82c1a84fa1debe0c24a7e0c3ec4"
+    },
+    {
+      "version": "unstable-20261027",
+      "releaseTimestamp": "2026-10-28T20:25:13Z",
+      "digest": "sha256:7eef8b79420673cee4703103e1ffd04dab2ad8b3b1a04c17bab110c81e113e47"
+    },
+    {
+      "version": "unstable-20261027-slim",
+      "releaseTimestamp": "2026-10-28T20:25:18Z",
+      "digest": "sha256:0023e01b19c586168e05c480ac7b2f7debedc8fc2dbf0d65fbecd4c674407d08"
+    },
+    {
+      "version": "experimental-20261027",
+      "releaseTimestamp": "2026-10-30T11:23:29Z",
+      "digest": "sha256:9b011bbb02a7fe1f5546987071c2dec128d5658c25b8ae40539cd6c76eb78539"
+    },
+    {
+      "version": "rc-buggy-20261027",
+      "releaseTimestamp": "2026-10-30T11:23:53Z",
+      "digest": "sha256:c09c853112f677cfcbc60511e424ed3e38ec3006c33f47847441aa4cf7430f25"
+    },
+    {
+      "version": "12",
+      "releaseTimestamp": "2026-11-05T08:23:21Z",
+      "digest": "sha256:268fb24c39bca92d326dd83ea3abebe4a3f7751c804ffef23bb6d857dd343ff8"
+    },
+    {
+      "version": "12-slim",
+      "releaseTimestamp": "2026-11-05T08:23:33Z",
+      "digest": "sha256:734a72b3d6142a71993b4bc580ca01d8ca687f77a2c422d96a961d3376b179bc"
+    },
+    {
+      "version": "12.15",
+      "releaseTimestamp": "2026-11-05T08:23:35Z",
+      "digest": "sha256:268fb24c39bca92d326dd83ea3abebe4a3f7751c804ffef23bb6d857dd343ff8"
+    },
+    {
+      "version": "12.15-slim",
+      "releaseTimestamp": "2026-11-05T08:23:38Z",
+      "digest": "sha256:734a72b3d6142a71993b4bc580ca01d8ca687f77a2c422d96a961d3376b179bc"
+    },
+    {
+      "version": "13",
+      "releaseTimestamp": "2026-11-05T08:23:58Z",
+      "digest": "sha256:9c6e381421d0f48d1b8133e573f33c185ee16cbf505eda9c4a8a4791b25ea8a6"
+    },
+    {
+      "version": "13-slim",
+      "releaseTimestamp": "2026-11-05T08:24:16Z",
+      "digest": "sha256:a72b4433de1cf7d6bae0c4cee74d0547f58601a643b3375f070c51600d63b6b2"
+    },
+    {
+      "version": "13.7",
+      "releaseTimestamp": "2026-11-05T08:24:19Z",
+      "digest": "sha256:9c6e381421d0f48d1b8133e573f33c185ee16cbf505eda9c4a8a4791b25ea8a6"
+    },
+    {
+      "version": "13.7-slim",
+      "releaseTimestamp": "2026-11-05T08:24:22Z",
+      "digest": "sha256:a72b4433de1cf7d6bae0c4cee74d0547f58601a643b3375f070c51600d63b6b2"
+    },
+    {
+      "version": "bookworm",
+      "releaseTimestamp": "2026-11-05T08:24:25Z",
+      "digest": "sha256:268fb24c39bca92d326dd83ea3abebe4a3f7751c804ffef23bb6d857dd343ff8"
+    },
+    {
+      "version": "bookworm-20261104",
+      "releaseTimestamp": "2026-11-05T08:24:27Z",
+      "digest": "sha256:268fb24c39bca92d326dd83ea3abebe4a3f7751c804ffef23bb6d857dd343ff8"
+    },
+    {
+      "version": "bookworm-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:24:29Z",
+      "digest": "sha256:734a72b3d6142a71993b4bc580ca01d8ca687f77a2c422d96a961d3376b179bc"
+    },
+    {
+      "version": "bookworm-slim",
+      "releaseTimestamp": "2026-11-05T08:24:33Z",
+      "digest": "sha256:734a72b3d6142a71993b4bc580ca01d8ca687f77a2c422d96a961d3376b179bc"
+    },
+    {
+      "version": "forky",
+      "releaseTimestamp": "2026-11-05T08:24:52Z",
+      "digest": "sha256:15f483ba923e165dde04ac535be6f479a62008ae5fefb42fed21896288ce447a"
+    },
+    {
+      "version": "forky-20261104",
+      "releaseTimestamp": "2026-11-05T08:24:55Z",
+      "digest": "sha256:15f483ba923e165dde04ac535be6f479a62008ae5fefb42fed21896288ce447a"
+    },
+    {
+      "version": "forky-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:25:11Z",
+      "digest": "sha256:dd5fe0b4f8959afea87fe8d04cd7766aa5905476730607f3d7efacf80552edd3"
+    },
+    {
+      "version": "forky-slim",
+      "releaseTimestamp": "2026-11-05T08:25:15Z",
+      "digest": "sha256:dd5fe0b4f8959afea87fe8d04cd7766aa5905476730607f3d7efacf80552edd3"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-05T08:25:18Z",
+      "digest": "sha256:9c6e381421d0f48d1b8133e573f33c185ee16cbf505eda9c4a8a4791b25ea8a6"
+    },
+    {
+      "version": "oldstable",
+      "releaseTimestamp": "2026-11-05T08:25:30Z",
+      "digest": "sha256:57c8b5935490685427542d1514db49eb29bfa8a8063f1bbc7c644bde8f3ae990"
+    },
+    {
+      "version": "oldstable-20261104",
+      "releaseTimestamp": "2026-11-05T08:25:33Z",
+      "digest": "sha256:57c8b5935490685427542d1514db49eb29bfa8a8063f1bbc7c644bde8f3ae990"
+    },
+    {
+      "version": "oldstable-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:25:45Z",
+      "digest": "sha256:dca0e76048e2f18030d862c3e1e90d1bfca3c7509fad6ffc625f1acdd42939f7"
+    },
+    {
+      "version": "oldstable-slim",
+      "releaseTimestamp": "2026-11-05T08:25:49Z",
+      "digest": "sha256:dca0e76048e2f18030d862c3e1e90d1bfca3c7509fad6ffc625f1acdd42939f7"
+    },
+    {
+      "version": "sid",
+      "releaseTimestamp": "2026-11-05T08:26:08Z",
+      "digest": "sha256:e276677157e13bc51ea5b8651f54ad28883f503cc37b3e3af2c4b6cc2f4efe7b"
+    },
+    {
+      "version": "sid-20261104",
+      "releaseTimestamp": "2026-11-05T08:26:11Z",
+      "digest": "sha256:e276677157e13bc51ea5b8651f54ad28883f503cc37b3e3af2c4b6cc2f4efe7b"
+    },
+    {
+      "version": "sid-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:26:27Z",
+      "digest": "sha256:07a3205e8583fdff12d2b05bd030f50437e9fd340ee616df0c05dc77af75767b"
+    },
+    {
+      "version": "sid-slim",
+      "releaseTimestamp": "2026-11-05T08:26:29Z",
+      "digest": "sha256:07a3205e8583fdff12d2b05bd030f50437e9fd340ee616df0c05dc77af75767b"
+    },
+    {
+      "version": "stable",
+      "releaseTimestamp": "2026-11-05T08:26:48Z",
+      "digest": "sha256:3f0347f4b50e7a54a91d1beaf6ce6fa5aec392347da6a9184b5bfe4e1b814538"
+    },
+    {
+      "version": "stable-20261104",
+      "releaseTimestamp": "2026-11-05T08:26:50Z",
+      "digest": "sha256:3f0347f4b50e7a54a91d1beaf6ce6fa5aec392347da6a9184b5bfe4e1b814538"
+    },
+    {
+      "version": "stable-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:27:09Z",
+      "digest": "sha256:fbfb4059d2127120aa05b6e6064523d2102552f0cf0026ddf0701c12f1f8f3e0"
+    },
+    {
+      "version": "stable-slim",
+      "releaseTimestamp": "2026-11-05T08:27:13Z",
+      "digest": "sha256:fbfb4059d2127120aa05b6e6064523d2102552f0cf0026ddf0701c12f1f8f3e0"
+    },
+    {
+      "version": "testing",
+      "releaseTimestamp": "2026-11-05T08:27:29Z",
+      "digest": "sha256:2d46f43b677a047cfab870549eea0d83d0a9bea2f55b3f481efc901043916c2a"
+    },
+    {
+      "version": "testing-20261104",
+      "releaseTimestamp": "2026-11-05T08:27:32Z",
+      "digest": "sha256:2d46f43b677a047cfab870549eea0d83d0a9bea2f55b3f481efc901043916c2a"
+    },
+    {
+      "version": "testing-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:27:48Z",
+      "digest": "sha256:c6343ac5a6f7952485fc804a1cf700bdb8af7408d4c549faf682bed42b1c7f96"
+    },
+    {
+      "version": "testing-slim",
+      "releaseTimestamp": "2026-11-05T08:27:52Z",
+      "digest": "sha256:c6343ac5a6f7952485fc804a1cf700bdb8af7408d4c549faf682bed42b1c7f96"
+    },
+    {
+      "version": "trixie",
+      "releaseTimestamp": "2026-11-05T08:27:55Z",
+      "digest": "sha256:9c6e381421d0f48d1b8133e573f33c185ee16cbf505eda9c4a8a4791b25ea8a6"
+    },
+    {
+      "version": "trixie-20261104",
+      "releaseTimestamp": "2026-11-05T08:27:58Z",
+      "digest": "sha256:9c6e381421d0f48d1b8133e573f33c185ee16cbf505eda9c4a8a4791b25ea8a6"
+    },
+    {
+      "version": "trixie-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:28:00Z",
+      "digest": "sha256:a72b4433de1cf7d6bae0c4cee74d0547f58601a643b3375f070c51600d63b6b2"
+    },
+    {
+      "version": "trixie-slim",
+      "releaseTimestamp": "2026-11-05T08:28:05Z",
+      "digest": "sha256:a72b4433de1cf7d6bae0c4cee74d0547f58601a643b3375f070c51600d63b6b2"
+    },
+    {
+      "version": "unstable",
+      "releaseTimestamp": "2026-11-05T08:28:21Z",
+      "digest": "sha256:873bf43b48d52ba792b98de93232153e59d4946b93cbd89d91cffef0df4ce823"
+    },
+    {
+      "version": "unstable-20261104",
+      "releaseTimestamp": "2026-11-05T08:28:24Z",
+      "digest": "sha256:873bf43b48d52ba792b98de93232153e59d4946b93cbd89d91cffef0df4ce823"
+    },
+    {
+      "version": "unstable-20261104-slim",
+      "releaseTimestamp": "2026-11-05T08:28:41Z",
+      "digest": "sha256:0616b6687a2b155010c25f9019d2e87461bed2b19b2733ca079b4700a2513949"
+    },
+    {
+      "version": "unstable-slim",
+      "releaseTimestamp": "2026-11-05T08:28:44Z",
+      "digest": "sha256:0616b6687a2b155010c25f9019d2e87461bed2b19b2733ca079b4700a2513949"
+    },
+    {
+      "version": "bookworm-backports",
+      "releaseTimestamp": "2026-11-05T11:23:34Z",
+      "digest": "sha256:7429d591529d1405d7ef08ee1f1be02b41445700b921cb2198752a0c46289119"
+    },
+    {
+      "version": "experimental",
+      "releaseTimestamp": "2026-11-05T11:23:54Z",
+      "digest": "sha256:dec2bd0f8d4196dfd9d643670fa1fad01da0ed34753e07cde4f55a898790c7c8"
+    },
+    {
+      "version": "experimental-20261104",
+      "releaseTimestamp": "2026-11-05T11:23:57Z",
+      "digest": "sha256:dec2bd0f8d4196dfd9d643670fa1fad01da0ed34753e07cde4f55a898790c7c8"
+    },
+    {
+      "version": "forky-backports",
+      "releaseTimestamp": "2026-11-05T11:24:19Z",
+      "digest": "sha256:c6433c5c0d930dca7f562e25e5b187e93e61cb1b8dea965d7b2b56c0600f89e0"
+    },
+    {
+      "version": "oldstable-backports",
+      "releaseTimestamp": "2026-11-05T11:24:39Z",
+      "digest": "sha256:b287542ea02f935ba8a7bd4d408434d0e26885ee3e39e140da597dfbbfbb207b"
+    },
+    {
+      "version": "rc-buggy",
+      "releaseTimestamp": "2026-11-05T11:24:58Z",
+      "digest": "sha256:7526e870ebd5cc857e3793753c14db2d27115c2f963d1602b6ee3cb7ea722cf8"
+    },
+    {
+      "version": "rc-buggy-20261104",
+      "releaseTimestamp": "2026-11-05T11:25:01Z",
+      "digest": "sha256:7526e870ebd5cc857e3793753c14db2d27115c2f963d1602b6ee3cb7ea722cf8"
+    },
+    {
+      "version": "stable-backports",
+      "releaseTimestamp": "2026-11-05T11:25:32Z",
+      "digest": "sha256:81c782be1097b2d3e3881328182cb629c567da7f4ff8377b01b99bc3301f2685"
+    },
+    {
+      "version": "testing-backports",
+      "releaseTimestamp": "2026-11-05T11:25:56Z",
+      "digest": "sha256:48932c3ba66142860bac84927fed9602d73460c0cc111b4baf0cee72cf99a5f0"
+    },
+    {
+      "version": "trixie-backports",
+      "releaseTimestamp": "2026-11-05T11:26:22Z",
+      "digest": "sha256:5b34926d741ca659bcb7f99d712e1dbaf10c122655e1fe5b89d4202552775cb6"
+    }
+  ]
+}

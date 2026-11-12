@@ -1,0 +1,48 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:best-practices",
+    "helpers:pinGitHubActionDigestsToSemver"
+  ],
+  "description": "Run manually reviewed Renovate updates from midnight through 11:59 AM Eastern on Mondays, as health-hub does.",
+  "timezone": "America/New_York",
+  "schedule": ["* 0-11 * * 1"],
+  "rebaseWhen": "behind-base-branch",
+  "automergeStrategy": "rebase",
+  "minimumReleaseAge": "14 days",
+  "minimumReleaseAgeBehaviour": "timestamp-optional",
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0,
+  "internalChecksFilter": "strict",
+  "semanticCommits": "disabled",
+  "addLabels": ["renovate"],
+  "pre-commit": {
+    "enabled": true
+  },
+  "customManagers": [
+    {
+      "description": "The Renovate image the job runs to find each repository's images",
+      "customType": "regex",
+      "managerFilePatterns": ["/^renovate_docker_datasource/discover\\.py$/"],
+      "matchStrings": [
+        "RENOVATE_IMAGE = \"(?<depName>[^:\"]+):(?<currentValue>[^@\"]+)@(?<currentDigest>sha256:[0-9a-f]{64})\""
+      ],
+      "datasourceTemplate": "docker"
+    }
+  ],
+  "packageRules": [
+    {
+      "description": "Require manual review of pre-commit hook updates",
+      "matchManagers": ["pre-commit"],
+      "automerge": false
+    },
+    {
+      "description": "Auto-merge GitHub Actions digest updates if CI passes",
+      "matchManagers": ["github-actions"],
+      "matchUpdateTypes": ["digest"],
+      "automerge": true,
+      "minimumReleaseAge": "0 days",
+      "schedule": ["after 2am and before 8am on thursday"]
+    }
+  ]
+}

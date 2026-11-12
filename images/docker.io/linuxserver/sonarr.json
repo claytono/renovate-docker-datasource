@@ -1,0 +1,549 @@
+{
+  "releases": [
+    {
+      "version": "4.0.19",
+      "releaseTimestamp": "2026-09-12T01:30:58Z",
+      "digest": "sha256:82172b363f9eddc02aca544f880a044f2ceb9aaf190bc87e4454e2f705eb91d0"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2608-ls194",
+      "releaseTimestamp": "2026-10-15T06:10:06Z",
+      "digest": "sha256:120e18386b196d2995606736df34ef0e7855893b55376b7da110cd62b29e2b33"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2608-ls194",
+      "releaseTimestamp": "2026-10-15T06:10:18Z",
+      "digest": "sha256:8529ad25ee3379a00f20df423f71bfbb873c6b1944bf764d789d494c5ddf7b4a"
+    },
+    {
+      "version": "develop-5.0.0.2608-ls194",
+      "releaseTimestamp": "2026-10-15T06:26:48Z",
+      "digest": "sha256:bb6c1228d6ad274b678ce3f8123c510d7ba104fbae5d44bc7f2f924df6f1640c"
+    },
+    {
+      "version": "amd64-4.0.20.3014-ls329",
+      "releaseTimestamp": "2026-10-15T19:03:42Z",
+      "digest": "sha256:b468b2c896675cc1c40703dc38fcac4d8c1cefd8466df4390b434344208766d3"
+    },
+    {
+      "version": "arm64v8-4.0.20.3014-ls329",
+      "releaseTimestamp": "2026-10-15T19:03:55Z",
+      "digest": "sha256:11c8fc9b0e41568d9f77bab8b0d396b6035dca22a5a94196709f293fbf1f8438"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2608-ls195",
+      "releaseTimestamp": "2026-10-15T19:07:51Z",
+      "digest": "sha256:dc5b29abdf9c0ffc795828773c5891ec606d4048d857327f3e6786545db5e489"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2608",
+      "releaseTimestamp": "2026-10-15T19:07:54Z",
+      "digest": "sha256:dc5b29abdf9c0ffc795828773c5891ec606d4048d857327f3e6786545db5e489"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2608-ls195",
+      "releaseTimestamp": "2026-10-15T19:08:05Z",
+      "digest": "sha256:2709237e19639d8b29903d9e106a796151404f5a92caf68c37451cf55544bf63"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2608",
+      "releaseTimestamp": "2026-10-15T19:08:08Z",
+      "digest": "sha256:2709237e19639d8b29903d9e106a796151404f5a92caf68c37451cf55544bf63"
+    },
+    {
+      "version": "4.0.20.3014-ls329",
+      "releaseTimestamp": "2026-10-15T19:09:36Z",
+      "digest": "sha256:44b06045a98bc1f237b9ffefc4b28dab64cb29305e4a2a94875ae93b5224e4cc"
+    },
+    {
+      "version": "develop-5.0.0.2608-ls195",
+      "releaseTimestamp": "2026-10-15T19:14:32Z",
+      "digest": "sha256:3a6d23249e2bf76b5f32368d96ae2235075363fd29862f366e9ee3b40ecbce5f"
+    },
+    {
+      "version": "develop-version-5.0.0.2608",
+      "releaseTimestamp": "2026-10-15T19:14:37Z",
+      "digest": "sha256:3a6d23249e2bf76b5f32368d96ae2235075363fd29862f366e9ee3b40ecbce5f"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2635-ls196",
+      "releaseTimestamp": "2026-10-16T04:42:35Z",
+      "digest": "sha256:41c46e79c8bdd46c8b9c600e6c2d15d8d6cbf698ba170020b5a515fbe140659d"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2635",
+      "releaseTimestamp": "2026-10-16T04:42:38Z",
+      "digest": "sha256:41c46e79c8bdd46c8b9c600e6c2d15d8d6cbf698ba170020b5a515fbe140659d"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2635-ls196",
+      "releaseTimestamp": "2026-10-16T04:42:48Z",
+      "digest": "sha256:f7e40b7c5bcb2c80861d9648515accc201aeefaac787b933dd9920ad1be3580c"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2635",
+      "releaseTimestamp": "2026-10-16T04:42:51Z",
+      "digest": "sha256:f7e40b7c5bcb2c80861d9648515accc201aeefaac787b933dd9920ad1be3580c"
+    },
+    {
+      "version": "develop-5.0.0.2635-ls196",
+      "releaseTimestamp": "2026-10-16T04:51:07Z",
+      "digest": "sha256:ca18c98424f88373af491835d98235506caebd6b8655997f60ffa1655cbb7fe1"
+    },
+    {
+      "version": "develop-version-5.0.0.2635",
+      "releaseTimestamp": "2026-10-16T04:51:11Z",
+      "digest": "sha256:ca18c98424f88373af491835d98235506caebd6b8655997f60ffa1655cbb7fe1"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2668-ls197",
+      "releaseTimestamp": "2026-10-17T17:19:18Z",
+      "digest": "sha256:4be80237cce922926aa10a1f41abc7332701adf08b5b56d7af0da1987c0dac38"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2668",
+      "releaseTimestamp": "2026-10-17T17:19:21Z",
+      "digest": "sha256:4be80237cce922926aa10a1f41abc7332701adf08b5b56d7af0da1987c0dac38"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2668-ls197",
+      "releaseTimestamp": "2026-10-17T17:19:31Z",
+      "digest": "sha256:3dcd5996aa38892d98839ffdf4eee9a7552790ef9e488f53c3f05279a38ac3e7"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2668",
+      "releaseTimestamp": "2026-10-17T17:19:34Z",
+      "digest": "sha256:3dcd5996aa38892d98839ffdf4eee9a7552790ef9e488f53c3f05279a38ac3e7"
+    },
+    {
+      "version": "develop-5.0.0.2668-ls197",
+      "releaseTimestamp": "2026-10-17T17:26:45Z",
+      "digest": "sha256:3d7994e30f7caab822c060d2ead64c69971c7654caeb13237de70fa46ca1c281"
+    },
+    {
+      "version": "develop-version-5.0.0.2668",
+      "releaseTimestamp": "2026-10-17T17:26:48Z",
+      "digest": "sha256:3d7994e30f7caab822c060d2ead64c69971c7654caeb13237de70fa46ca1c281"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2701-ls198",
+      "releaseTimestamp": "2026-10-19T06:25:38Z",
+      "digest": "sha256:792e0513230c49aacf5c305dbc91410ec71510df6291ded4b092f7161dc1080e"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2701-ls198",
+      "releaseTimestamp": "2026-10-19T06:25:52Z",
+      "digest": "sha256:38fef30424e3048e55dc626be4a5e4058d0ae0561fd18e446c53bd1a981648b4"
+    },
+    {
+      "version": "develop-5.0.0.2701-ls198",
+      "releaseTimestamp": "2026-10-19T06:32:12Z",
+      "digest": "sha256:e4ec310facc6bb938f1080463dc26d93ce88d9d05e1a5a4b7733f15df9d0a5f2"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2701-ls199",
+      "releaseTimestamp": "2026-10-19T12:59:33Z",
+      "digest": "sha256:d94de942ffd858f5c571971eeb284d30f13d3b1d656b8027334685d0a29a0a68"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2701",
+      "releaseTimestamp": "2026-10-19T12:59:37Z",
+      "digest": "sha256:d94de942ffd858f5c571971eeb284d30f13d3b1d656b8027334685d0a29a0a68"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2701-ls199",
+      "releaseTimestamp": "2026-10-19T12:59:46Z",
+      "digest": "sha256:fbf0f7371d4e9cf8fcb5793928bf891372556cd4e34822d2f4012ca512c77ab4"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2701",
+      "releaseTimestamp": "2026-10-19T12:59:49Z",
+      "digest": "sha256:fbf0f7371d4e9cf8fcb5793928bf891372556cd4e34822d2f4012ca512c77ab4"
+    },
+    {
+      "version": "develop-5.0.0.2701-ls199",
+      "releaseTimestamp": "2026-10-19T13:06:15Z",
+      "digest": "sha256:096c4c08d9479669407cdfdf3912e54779a939a28a840c2d33d41391c6aa50ea"
+    },
+    {
+      "version": "develop-version-5.0.0.2701",
+      "releaseTimestamp": "2026-10-19T13:06:18Z",
+      "digest": "sha256:096c4c08d9479669407cdfdf3912e54779a939a28a840c2d33d41391c6aa50ea"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2742-ls200",
+      "releaseTimestamp": "2026-10-21T07:48:47Z",
+      "digest": "sha256:cb91146e81146dd57398d0c66c7760650c5169f5150f9e6c33f5bbebb702cb9a"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2742-ls200",
+      "releaseTimestamp": "2026-10-21T07:48:59Z",
+      "digest": "sha256:77ddc0805c06a91a99cd7a0bd385ff2ecdf011706c0106a812a4f2221358eaf2"
+    },
+    {
+      "version": "develop-5.0.0.2742-ls200",
+      "releaseTimestamp": "2026-10-21T07:55:23Z",
+      "digest": "sha256:8ddf6604637402ae7e2c8640be939e42b3a5e66b8a81aa5e5deec1630bfcabc2"
+    },
+    {
+      "version": "amd64-4.0.20.3014-ls1",
+      "releaseTimestamp": "2026-10-24T01:51:46Z",
+      "digest": "sha256:f5fe36a60d229e4feb618fc257e59300b9635d7b498643a681df3bf599374f57"
+    },
+    {
+      "version": "arm64v8-4.0.20.3014-ls1",
+      "releaseTimestamp": "2026-10-24T01:52:01Z",
+      "digest": "sha256:4304dd66784db5007e0839130f2a25a4d40c68d8b0a68b4ae1a3caa00a1569cd"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2742-ls201",
+      "releaseTimestamp": "2026-10-24T01:52:11Z",
+      "digest": "sha256:352a036697c9dd5f7502cb8996afbaa2f3fc546676758c78a3e40864cbb7dc87"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2742",
+      "releaseTimestamp": "2026-10-24T01:52:14Z",
+      "digest": "sha256:352a036697c9dd5f7502cb8996afbaa2f3fc546676758c78a3e40864cbb7dc87"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2742-ls201",
+      "releaseTimestamp": "2026-10-24T01:52:23Z",
+      "digest": "sha256:73253eada9caee2bf6c40a436ee8cbe6e57c6b656ec740587fd716c327d1b0a4"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2742",
+      "releaseTimestamp": "2026-10-24T01:52:27Z",
+      "digest": "sha256:73253eada9caee2bf6c40a436ee8cbe6e57c6b656ec740587fd716c327d1b0a4"
+    },
+    {
+      "version": "4.0.20.3014-ls1",
+      "releaseTimestamp": "2026-10-24T01:57:58Z",
+      "digest": "sha256:48e36b608b461273b9dae857725cd0561a127f2c694b687318f6d0c5ce63e5c9"
+    },
+    {
+      "version": "develop-5.0.0.2742-ls201",
+      "releaseTimestamp": "2026-10-24T01:58:41Z",
+      "digest": "sha256:ba93322a73a95d31220f50ab9813297afe3caeea5cb0fa0bafcc72855f88829f"
+    },
+    {
+      "version": "develop-version-5.0.0.2742",
+      "releaseTimestamp": "2026-10-24T01:58:45Z",
+      "digest": "sha256:ba93322a73a95d31220f50ab9813297afe3caeea5cb0fa0bafcc72855f88829f"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2785-ls202",
+      "releaseTimestamp": "2026-10-25T01:28:30Z",
+      "digest": "sha256:0359bc55b806458c0515e42ad17bf1cc342267bc60b9ec80aeeb06a163951953"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2785",
+      "releaseTimestamp": "2026-10-25T01:28:33Z",
+      "digest": "sha256:0359bc55b806458c0515e42ad17bf1cc342267bc60b9ec80aeeb06a163951953"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2785-ls202",
+      "releaseTimestamp": "2026-10-25T01:28:43Z",
+      "digest": "sha256:c502c7de1ed25876c9caa7c4ee7a92633cda06e4d743c58ae933196bdab69ab6"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2785",
+      "releaseTimestamp": "2026-10-25T01:28:46Z",
+      "digest": "sha256:c502c7de1ed25876c9caa7c4ee7a92633cda06e4d743c58ae933196bdab69ab6"
+    },
+    {
+      "version": "develop-5.0.0.2785-ls202",
+      "releaseTimestamp": "2026-10-25T01:35:12Z",
+      "digest": "sha256:511c37360ad2a9f05e09250ae123ccb6561c4657a1c402979aa03ecc3311be3f"
+    },
+    {
+      "version": "develop-version-5.0.0.2785",
+      "releaseTimestamp": "2026-10-25T01:35:16Z",
+      "digest": "sha256:511c37360ad2a9f05e09250ae123ccb6561c4657a1c402979aa03ecc3311be3f"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2800-ls203",
+      "releaseTimestamp": "2026-10-26T01:24:56Z",
+      "digest": "sha256:d7d4eddd5a85505612e684277603787a5161cff0579e15c54ab0f91c34dd8996"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2800",
+      "releaseTimestamp": "2026-10-26T01:24:59Z",
+      "digest": "sha256:d7d4eddd5a85505612e684277603787a5161cff0579e15c54ab0f91c34dd8996"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2800-ls203",
+      "releaseTimestamp": "2026-10-26T01:25:08Z",
+      "digest": "sha256:cab11d793da68465f3f79d00714836bd287a286b45af46b3fb5451def51b1327"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2800",
+      "releaseTimestamp": "2026-10-26T01:25:11Z",
+      "digest": "sha256:cab11d793da68465f3f79d00714836bd287a286b45af46b3fb5451def51b1327"
+    },
+    {
+      "version": "develop-5.0.0.2800-ls203",
+      "releaseTimestamp": "2026-10-26T01:31:26Z",
+      "digest": "sha256:cf91376084f4963fdb29dacebeac9c8527c2a100c2f76c1a20a18dd7d8ab26ea"
+    },
+    {
+      "version": "develop-version-5.0.0.2800",
+      "releaseTimestamp": "2026-10-26T01:31:30Z",
+      "digest": "sha256:cf91376084f4963fdb29dacebeac9c8527c2a100c2f76c1a20a18dd7d8ab26ea"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2838-ls204",
+      "releaseTimestamp": "2026-10-28T08:43:10Z",
+      "digest": "sha256:9efac11394021f05ee7152a07de52cbf2d5018c7faa5ff6f3d9c30bf6869f841"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2838",
+      "releaseTimestamp": "2026-10-28T08:43:14Z",
+      "digest": "sha256:9efac11394021f05ee7152a07de52cbf2d5018c7faa5ff6f3d9c30bf6869f841"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2838-ls204",
+      "releaseTimestamp": "2026-10-28T08:43:23Z",
+      "digest": "sha256:cd576c54fb8604ea15c148b381e753c928312d244a6f5ea6926b55b952a3f3b9"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2838",
+      "releaseTimestamp": "2026-10-28T08:43:26Z",
+      "digest": "sha256:cd576c54fb8604ea15c148b381e753c928312d244a6f5ea6926b55b952a3f3b9"
+    },
+    {
+      "version": "develop-5.0.0.2838-ls204",
+      "releaseTimestamp": "2026-10-28T08:49:43Z",
+      "digest": "sha256:029c8de8508cc6bc5e148ddb516ce0d167746e557d343bfda3fc073f0fdf9624"
+    },
+    {
+      "version": "develop-version-5.0.0.2838",
+      "releaseTimestamp": "2026-10-28T08:49:47Z",
+      "digest": "sha256:029c8de8508cc6bc5e148ddb516ce0d167746e557d343bfda3fc073f0fdf9624"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2870-ls205",
+      "releaseTimestamp": "2026-10-30T07:15:54Z",
+      "digest": "sha256:b0074089f033337d05aa0c858e192c3dbf7f0f10d3957d10976ffb65a8260c68"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2870",
+      "releaseTimestamp": "2026-10-30T07:15:57Z",
+      "digest": "sha256:b0074089f033337d05aa0c858e192c3dbf7f0f10d3957d10976ffb65a8260c68"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2870-ls205",
+      "releaseTimestamp": "2026-10-30T07:16:07Z",
+      "digest": "sha256:489df80e7bb908c396620e9c9f145c6b52c388b599c425370c59e5b77b58354b"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2870",
+      "releaseTimestamp": "2026-10-30T07:16:10Z",
+      "digest": "sha256:489df80e7bb908c396620e9c9f145c6b52c388b599c425370c59e5b77b58354b"
+    },
+    {
+      "version": "develop-5.0.0.2870-ls205",
+      "releaseTimestamp": "2026-10-30T07:22:31Z",
+      "digest": "sha256:7c365bc209ee4c0975665fc8ad3ba8f7acd93ef3508a4b7104ee917a5ad7ee51"
+    },
+    {
+      "version": "develop-version-5.0.0.2870",
+      "releaseTimestamp": "2026-10-30T07:22:36Z",
+      "digest": "sha256:7c365bc209ee4c0975665fc8ad3ba8f7acd93ef3508a4b7104ee917a5ad7ee51"
+    },
+    {
+      "version": "amd64-4.0.20.3014-ls2",
+      "releaseTimestamp": "2026-10-31T02:39:52Z",
+      "digest": "sha256:8d9527046b09e8133161f2019b87d79af2c5e7814e20542cfb574fca49a70f9e"
+    },
+    {
+      "version": "arm64v8-4.0.20.3014-ls2",
+      "releaseTimestamp": "2026-10-31T02:40:04Z",
+      "digest": "sha256:3eddaf9be52203742f1b614648e2b0c0fbcc8d889da57af1db49ccb98ed8c7e7"
+    },
+    {
+      "version": "4.0.20.3014-ls2",
+      "releaseTimestamp": "2026-10-31T02:45:49Z",
+      "digest": "sha256:386c962ee6e260e3a5656b25df2ed056bcc9b6410e197d075f9547fd14c23bca"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2907-ls206",
+      "releaseTimestamp": "2026-10-31T21:50:00Z",
+      "digest": "sha256:b801c34f8374b9efa700f8b9addc447b771d7e7a4b4b29770a16e1658c7d8e00"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2907",
+      "releaseTimestamp": "2026-10-31T21:50:03Z",
+      "digest": "sha256:b801c34f8374b9efa700f8b9addc447b771d7e7a4b4b29770a16e1658c7d8e00"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2907-ls206",
+      "releaseTimestamp": "2026-10-31T21:50:14Z",
+      "digest": "sha256:a548587a38322b72f9d309bd2baa6be8438f57c0bb6b5f33c84c3c47ea988c38"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2907",
+      "releaseTimestamp": "2026-10-31T21:50:17Z",
+      "digest": "sha256:a548587a38322b72f9d309bd2baa6be8438f57c0bb6b5f33c84c3c47ea988c38"
+    },
+    {
+      "version": "develop-5.0.0.2907-ls206",
+      "releaseTimestamp": "2026-10-31T21:56:47Z",
+      "digest": "sha256:04e65b3d09c740ab630d2ca3f26916c012e4701931a6b7c464b1b1b5367fce53"
+    },
+    {
+      "version": "develop-version-5.0.0.2907",
+      "releaseTimestamp": "2026-10-31T21:56:51Z",
+      "digest": "sha256:04e65b3d09c740ab630d2ca3f26916c012e4701931a6b7c464b1b1b5367fce53"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2941-ls207",
+      "releaseTimestamp": "2026-11-03T06:57:51Z",
+      "digest": "sha256:20855660979b39c920aac2aba41de114474803067e0308b974c180fb844ec9bb"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2941-ls207",
+      "releaseTimestamp": "2026-11-03T06:58:04Z",
+      "digest": "sha256:81639fdd91bbc4f4db1a6346729c1092d3bd405ff6ca49b08c0b3373da8c4699"
+    },
+    {
+      "version": "develop-5.0.0.2941-ls207",
+      "releaseTimestamp": "2026-11-03T07:04:29Z",
+      "digest": "sha256:b0cb42e70dd48860bbf3a8aa87dfa8c1a6ae56c1c96c8200923e821caad72a59"
+    },
+    {
+      "version": "amd64-4.0.20.3014-ls3",
+      "releaseTimestamp": "2026-11-07T03:05:25Z",
+      "digest": "sha256:ec2e7809ef9a7b08451c5c4afa3b11cce099cf66dad58e1cbcd8b2b10834976c"
+    },
+    {
+      "version": "arm64v8-4.0.20.3014-ls3",
+      "releaseTimestamp": "2026-11-07T03:05:38Z",
+      "digest": "sha256:037a255caba205dc7b27a80ea871019b0b0c16338cd08003356315c609e4abe6"
+    },
+    {
+      "version": "4.0.20.3014-ls3",
+      "releaseTimestamp": "2026-11-07T03:11:19Z",
+      "digest": "sha256:3b8c947d7fa173f70e40047d2c8d02835fb8416aeb5ae36def57d9ad15e2f906"
+    },
+    {
+      "version": "amd64-4.0.20.3014-ls4",
+      "releaseTimestamp": "2026-11-07T16:21:54Z",
+      "digest": "sha256:aba37b2f361cbc487aff8e66d4e6fb25869d955febe2f5bb79354fff0b83fb58"
+    },
+    {
+      "version": "amd64-latest",
+      "releaseTimestamp": "2026-11-07T16:21:55Z",
+      "digest": "sha256:aba37b2f361cbc487aff8e66d4e6fb25869d955febe2f5bb79354fff0b83fb58"
+    },
+    {
+      "version": "amd64-version-4.0.20.3014",
+      "releaseTimestamp": "2026-11-07T16:21:57Z",
+      "digest": "sha256:aba37b2f361cbc487aff8e66d4e6fb25869d955febe2f5bb79354fff0b83fb58"
+    },
+    {
+      "version": "arm64v8-4.0.20.3014-ls4",
+      "releaseTimestamp": "2026-11-07T16:22:07Z",
+      "digest": "sha256:fd5ff7e7d0107a80e8017f87322e4acaacb826cad6168a1a12a91658928cbcb9"
+    },
+    {
+      "version": "arm64v8-latest",
+      "releaseTimestamp": "2026-11-07T16:22:08Z",
+      "digest": "sha256:fd5ff7e7d0107a80e8017f87322e4acaacb826cad6168a1a12a91658928cbcb9"
+    },
+    {
+      "version": "arm64v8-version-4.0.20.3014",
+      "releaseTimestamp": "2026-11-07T16:22:10Z",
+      "digest": "sha256:fd5ff7e7d0107a80e8017f87322e4acaacb826cad6168a1a12a91658928cbcb9"
+    },
+    {
+      "version": "amd64-4.0.20",
+      "releaseTimestamp": "2026-11-07T16:22:14Z",
+      "digest": "sha256:aba37b2f361cbc487aff8e66d4e6fb25869d955febe2f5bb79354fff0b83fb58"
+    },
+    {
+      "version": "arm64v8-4.0.20",
+      "releaseTimestamp": "2026-11-07T16:22:18Z",
+      "digest": "sha256:fd5ff7e7d0107a80e8017f87322e4acaacb826cad6168a1a12a91658928cbcb9"
+    },
+    {
+      "version": "amd64-develop-5.0.0.2941-ls208",
+      "releaseTimestamp": "2026-11-07T16:22:21Z",
+      "digest": "sha256:c86ceffbaaae0d03bbdccd46ab7de02f11588a6c99e3120a6970cf60614e5208"
+    },
+    {
+      "version": "amd64-develop",
+      "releaseTimestamp": "2026-11-07T16:22:22Z",
+      "digest": "sha256:c86ceffbaaae0d03bbdccd46ab7de02f11588a6c99e3120a6970cf60614e5208"
+    },
+    {
+      "version": "amd64-develop-version-5.0.0.2941",
+      "releaseTimestamp": "2026-11-07T16:22:24Z",
+      "digest": "sha256:c86ceffbaaae0d03bbdccd46ab7de02f11588a6c99e3120a6970cf60614e5208"
+    },
+    {
+      "version": "arm64v8-develop-5.0.0.2941-ls208",
+      "releaseTimestamp": "2026-11-07T16:22:33Z",
+      "digest": "sha256:f2da73b1e48336eb9de88c0b91a3983a82c8256660593af99224f47f64e57815"
+    },
+    {
+      "version": "arm64v8-develop",
+      "releaseTimestamp": "2026-11-07T16:22:35Z",
+      "digest": "sha256:f2da73b1e48336eb9de88c0b91a3983a82c8256660593af99224f47f64e57815"
+    },
+    {
+      "version": "arm64v8-develop-version-5.0.0.2941",
+      "releaseTimestamp": "2026-11-07T16:22:37Z",
+      "digest": "sha256:f2da73b1e48336eb9de88c0b91a3983a82c8256660593af99224f47f64e57815"
+    },
+    {
+      "version": "amd64-5.0.0-develop",
+      "releaseTimestamp": "2026-11-07T16:22:41Z",
+      "digest": "sha256:c86ceffbaaae0d03bbdccd46ab7de02f11588a6c99e3120a6970cf60614e5208"
+    },
+    {
+      "version": "arm64v8-5.0.0-develop",
+      "releaseTimestamp": "2026-11-07T16:22:45Z",
+      "digest": "sha256:f2da73b1e48336eb9de88c0b91a3983a82c8256660593af99224f47f64e57815"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-07T16:27:49Z",
+      "digest": "sha256:673dc4609a5672bc8e46069c86ffcea283a86b48d34a6c93d8da8c24a1b87571"
+    },
+    {
+      "version": "4.0.20.3014-ls4",
+      "releaseTimestamp": "2026-11-07T16:27:53Z",
+      "digest": "sha256:673dc4609a5672bc8e46069c86ffcea283a86b48d34a6c93d8da8c24a1b87571"
+    },
+    {
+      "version": "version-4.0.20.3014",
+      "releaseTimestamp": "2026-11-07T16:27:58Z",
+      "digest": "sha256:673dc4609a5672bc8e46069c86ffcea283a86b48d34a6c93d8da8c24a1b87571"
+    },
+    {
+      "version": "4.0.20",
+      "releaseTimestamp": "2026-11-07T16:28:02Z",
+      "digest": "sha256:673dc4609a5672bc8e46069c86ffcea283a86b48d34a6c93d8da8c24a1b87571"
+    },
+    {
+      "version": "develop",
+      "releaseTimestamp": "2026-11-07T16:28:47Z",
+      "digest": "sha256:a85c2da3ca76d5ae0dba50484e7440db0fbe45de0e630ce5da5b0a8683ca5922"
+    },
+    {
+      "version": "develop-5.0.0.2941-ls208",
+      "releaseTimestamp": "2026-11-07T16:28:51Z",
+      "digest": "sha256:a85c2da3ca76d5ae0dba50484e7440db0fbe45de0e630ce5da5b0a8683ca5922"
+    },
+    {
+      "version": "develop-version-5.0.0.2941",
+      "releaseTimestamp": "2026-11-07T16:28:56Z",
+      "digest": "sha256:a85c2da3ca76d5ae0dba50484e7440db0fbe45de0e630ce5da5b0a8683ca5922"
+    },
+    {
+      "version": "5.0.0-develop",
+      "releaseTimestamp": "2026-11-07T16:29:00Z",
+      "digest": "sha256:a85c2da3ca76d5ae0dba50484e7440db0fbe45de0e630ce5da5b0a8683ca5922"
+    }
+  ]
+}

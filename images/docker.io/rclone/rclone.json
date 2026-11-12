@@ -1,0 +1,909 @@
+{
+  "releases": [
+    {
+      "version": "1.75.2",
+      "releaseTimestamp": "2026-10-09T09:57:08Z",
+      "digest": "sha256:2687085f718d3c628f7fdfb77c52a1d344332aed543110bb88088f2c70d43eb5"
+    },
+    {
+      "version": "sha-81d7b6f",
+      "releaseTimestamp": "2026-10-13T09:41:07Z",
+      "digest": "sha256:e7423ba05f60288a0acbd7057ba53cb7788a247dfb57bc98f90d86a4e6fc7a9f"
+    },
+    {
+      "version": "fix-bisync-golden",
+      "releaseTimestamp": "2026-10-13T10:01:36Z",
+      "digest": "sha256:44d91d267d630300b204c6298791ee8c1334fc60dd0722f0aa384c36a4c4c47d"
+    },
+    {
+      "version": "sha-4e5d4d0",
+      "releaseTimestamp": "2026-10-13T10:01:37Z",
+      "digest": "sha256:44d91d267d630300b204c6298791ee8c1334fc60dd0722f0aa384c36a4c4c47d"
+    },
+    {
+      "version": "sha-f91c9d2",
+      "releaseTimestamp": "2026-10-13T10:37:30Z",
+      "digest": "sha256:c07c6afa9ac766a78da4da8bdc541ddb3e4ffa65c314a2581a7431ead2722f21"
+    },
+    {
+      "version": "sha-811a1de",
+      "releaseTimestamp": "2026-10-13T11:13:43Z",
+      "digest": "sha256:f2574d19793e1f2244606596efca61ec522f0d706842777542dda9ed2b83ffc1"
+    },
+    {
+      "version": "sha-6c45cde",
+      "releaseTimestamp": "2026-10-13T11:18:33Z",
+      "digest": "sha256:3ef5a34de25f64b278adaf688c84663cee96ce4bc78b45166101422073c1df17"
+    },
+    {
+      "version": "sha-ac9afc4",
+      "releaseTimestamp": "2026-10-13T11:19:36Z",
+      "digest": "sha256:55fd2151980775ea1e62936174a1317cad97a5c03bc000be8f5d80848a1222f8"
+    },
+    {
+      "version": "sha-927b6af",
+      "releaseTimestamp": "2026-10-13T11:28:45Z",
+      "digest": "sha256:8db4f02e291114650a4d856da65b1770794ee74f27568e70dd80e7ebaffa0c86"
+    },
+    {
+      "version": "sha-102ef16",
+      "releaseTimestamp": "2026-10-13T11:37:27Z",
+      "digest": "sha256:687c9be56cfc636a0f426cb9f37aeb94456b083b166632823d680e774bdbfd3d"
+    },
+    {
+      "version": "sha-2aea045",
+      "releaseTimestamp": "2026-10-13T11:37:36Z",
+      "digest": "sha256:80a36c0a56a340136dd0568c6f96ff1f0ba4777b0f98e2d5b00a1669aa10037c"
+    },
+    {
+      "version": "sha-d864094",
+      "releaseTimestamp": "2026-10-13T11:38:04Z",
+      "digest": "sha256:b1f772fd4e3e1f29afb4caca1895ad1b00a0f1ca3ac34d4e2b2c96723c9659fc"
+    },
+    {
+      "version": "sha-4983d29",
+      "releaseTimestamp": "2026-10-13T11:41:07Z",
+      "digest": "sha256:d02f9d735deb496d7f6b52a4932115fe518b124370b78d7a657896828fc3e8a6"
+    },
+    {
+      "version": "sha-503c975",
+      "releaseTimestamp": "2026-10-13T17:05:45Z",
+      "digest": "sha256:a916f14ba833436bde7a52fdd173667bf505cf56acc01acc0f39b0c4e477a559"
+    },
+    {
+      "version": "sha-a96a8b7",
+      "releaseTimestamp": "2026-10-14T08:46:03Z",
+      "digest": "sha256:2df98d79e189c189631295741d09fb027d0dc41b6f14db7ca264dffaca9b7efd"
+    },
+    {
+      "version": "sha-ff0704b",
+      "releaseTimestamp": "2026-10-14T11:09:28Z",
+      "digest": "sha256:cf3cc459a48e63f894f3a5d5d3d49e43fcc138b12b8268d940344e5d994b0e3c"
+    },
+    {
+      "version": "sha-af364f5",
+      "releaseTimestamp": "2026-10-14T11:18:38Z",
+      "digest": "sha256:2b07f95d4c956dca3523655290549fb8b08e62fe3f37ccdfebd4bcaab816af6e"
+    },
+    {
+      "version": "sha-ae39ec6",
+      "releaseTimestamp": "2026-10-14T11:21:41Z",
+      "digest": "sha256:b9dafd23f111940803cc2dee87d12e6baf19d4f793c7dddbdf80c04ff163b9f4"
+    },
+    {
+      "version": "sha-6aed73d",
+      "releaseTimestamp": "2026-10-14T11:23:27Z",
+      "digest": "sha256:900654b4650196e79349c4cc0aa3a0e66cbe4f444d13f5283be8e6011e60dade"
+    },
+    {
+      "version": "sha-e18da08",
+      "releaseTimestamp": "2026-10-14T11:41:10Z",
+      "digest": "sha256:edd1b504b60e3a39d28f3ece183de29e6196c7418d7ede142071a2353b9b2499"
+    },
+    {
+      "version": "sha-5f0e72c",
+      "releaseTimestamp": "2026-10-14T16:12:55Z",
+      "digest": "sha256:7e9ab047f31937cf5d9a157c96953fd5600b11d07332390cf9f15b994972aff6"
+    },
+    {
+      "version": "sha-cf7cdbc",
+      "releaseTimestamp": "2026-10-14T16:59:36Z",
+      "digest": "sha256:602b32dba639bff91ee4a28d434708783935c31a9d90805b61fc1a5036470a77"
+    },
+    {
+      "version": "sha-17df193",
+      "releaseTimestamp": "2026-10-14T19:12:33Z",
+      "digest": "sha256:437439a5507ab23f4d46e6d00062b5e7e044199334cbe006b53d2c573ae8fb4e"
+    },
+    {
+      "version": "sha-be46eaa",
+      "releaseTimestamp": "2026-10-14T19:50:31Z",
+      "digest": "sha256:acc6c645941cae30a4c475ebdb73edec9ed4bf76d92de9dca179ba4c41fbf556"
+    },
+    {
+      "version": "sha-f2bb215",
+      "releaseTimestamp": "2026-10-15T09:17:52Z",
+      "digest": "sha256:ac6e381b21afe6290990491bbefc1d192f95ffa3772959e5de3fcb41a21a896a"
+    },
+    {
+      "version": "sha-36febac",
+      "releaseTimestamp": "2026-10-15T15:38:43Z",
+      "digest": "sha256:dddd13139b4fc3d25781e5df9358c13c49a824c47b1aba31dc4165faf110223c"
+    },
+    {
+      "version": "sha-78be707",
+      "releaseTimestamp": "2026-10-15T15:44:21Z",
+      "digest": "sha256:499b2d6c53d4f9f83b1b901792fea35063f2caa50de0e770f6c1b3fec9b06118"
+    },
+    {
+      "version": "sha-c82efbe",
+      "releaseTimestamp": "2026-10-15T15:47:45Z",
+      "digest": "sha256:cf9ed236946b47f134e56ecd5f14702b27213ed0777c7573ae5f4aa93813b397"
+    },
+    {
+      "version": "sha-36ce1a2",
+      "releaseTimestamp": "2026-10-15T16:35:38Z",
+      "digest": "sha256:95c1126dcefa90668192f7842515b41fc7e342b4ca0015561f84e58c07925d5c"
+    },
+    {
+      "version": "sha-dcf3483",
+      "releaseTimestamp": "2026-10-15T16:45:50Z",
+      "digest": "sha256:55b24f452ca8e2a092a7376ade39e11013b42fbcb97be287faa1765cb83acc06"
+    },
+    {
+      "version": "sha-d369079",
+      "releaseTimestamp": "2026-10-15T16:49:38Z",
+      "digest": "sha256:00142120f53203bad935af0909b95749a06cdb22bc84f789820dd322d4723bc8"
+    },
+    {
+      "version": "sha-30ae97c",
+      "releaseTimestamp": "2026-10-16T15:33:10Z",
+      "digest": "sha256:23088c043c613f220234713d2f0ae03f2f04bbab1fc1d7731dc1ecd57e1d9754"
+    },
+    {
+      "version": "sha-99f904d",
+      "releaseTimestamp": "2026-10-16T15:38:54Z",
+      "digest": "sha256:a0cc6172d63de6a587759b47e61f6078792cd4f6133dbfcf175cb28a5bb684ab"
+    },
+    {
+      "version": "sha-243ab98",
+      "releaseTimestamp": "2026-10-16T16:17:42Z",
+      "digest": "sha256:a7a2bc62d22bb95a3fd99a92aa535140c3de2a86120a297ab384140cce9b3481"
+    },
+    {
+      "version": "sha-c0149f4",
+      "releaseTimestamp": "2026-10-16T16:34:37Z",
+      "digest": "sha256:5c022e197bd9d385200659021c48ad9272fa922e4e7e59631a62d0c0bd32c823"
+    },
+    {
+      "version": "sha-5c91f87",
+      "releaseTimestamp": "2026-10-16T16:51:41Z",
+      "digest": "sha256:a8278e00d7aa59f58d96779a805f33a1296d4a4a3265323ee94d4508852b302e"
+    },
+    {
+      "version": "sha-7181430",
+      "releaseTimestamp": "2026-10-16T16:52:27Z",
+      "digest": "sha256:ce365281d300b0823b233ecc1a854936ec39d050db775e79e328a4078272ed78"
+    },
+    {
+      "version": "sha-4c52ae0",
+      "releaseTimestamp": "2026-10-16T16:55:49Z",
+      "digest": "sha256:397518b186d5571524fbf8bfcd131ceda1c9496fe743d7fd2f648e5d70e8046a"
+    },
+    {
+      "version": "update",
+      "releaseTimestamp": "2026-10-17T14:01:54Z",
+      "digest": "sha256:16cd8baff148b89347321d55e52a8c3bbbb0b80031de1eb70a86caa8b88839d9"
+    },
+    {
+      "version": "sha-14854af",
+      "releaseTimestamp": "2026-10-17T14:01:56Z",
+      "digest": "sha256:16cd8baff148b89347321d55e52a8c3bbbb0b80031de1eb70a86caa8b88839d9"
+    },
+    {
+      "version": "sha-ce6b81d",
+      "releaseTimestamp": "2026-10-17T14:21:52Z",
+      "digest": "sha256:786e76c5dc6167538501e7e90043bffe7b451c35d59efe34f9f5c5c2403373b7"
+    },
+    {
+      "version": "sha-7436d05",
+      "releaseTimestamp": "2026-10-17T14:54:54Z",
+      "digest": "sha256:2244f1c99091273c1582b29d4ae557fa6931762bd05b586dc1c1deb0f2409f69"
+    },
+    {
+      "version": "box-jwt-v5",
+      "releaseTimestamp": "2026-10-17T15:52:39Z",
+      "digest": "sha256:0172920f1ef9ab3be56df1b5ca8bb182a2220dd414f8c9e5082fb4746897f819"
+    },
+    {
+      "version": "sha-4ea65b2",
+      "releaseTimestamp": "2026-10-17T15:52:41Z",
+      "digest": "sha256:0172920f1ef9ab3be56df1b5ca8bb182a2220dd414f8c9e5082fb4746897f819"
+    },
+    {
+      "version": "tcell-v3",
+      "releaseTimestamp": "2026-10-17T15:56:44Z",
+      "digest": "sha256:d17b1897ec895e6224e53efc8efef6a66fed100491b4a893e2a5416e43563048"
+    },
+    {
+      "version": "sha-3e160b3",
+      "releaseTimestamp": "2026-10-17T15:56:46Z",
+      "digest": "sha256:d17b1897ec895e6224e53efc8efef6a66fed100491b4a893e2a5416e43563048"
+    },
+    {
+      "version": "sha-35a03a4",
+      "releaseTimestamp": "2026-10-17T16:49:55Z",
+      "digest": "sha256:d02d02b04e699957300ff81971e896bdccd3361010fffb52e5d1709474d4399c"
+    },
+    {
+      "version": "sha-f43a214",
+      "releaseTimestamp": "2026-10-18T16:34:47Z",
+      "digest": "sha256:848055f8fd16543f76d2bdeb23f1befcd176352251ebee3242f0418621e2d21a"
+    },
+    {
+      "version": "sha-ea588aa",
+      "releaseTimestamp": "2026-10-18T16:40:12Z",
+      "digest": "sha256:3226be26e66ea584339173b219a1c401e609f628912895d9fa0687ab92d57bc5"
+    },
+    {
+      "version": "sha-a22df73",
+      "releaseTimestamp": "2026-10-18T16:45:34Z",
+      "digest": "sha256:df57e4258147d52f69e07bbacceb56d5709a339c0932ddc8faf4f8b370622063"
+    },
+    {
+      "version": "sha-694dae2",
+      "releaseTimestamp": "2026-10-18T16:47:42Z",
+      "digest": "sha256:d0ccca905e0e1a691a4e904b129c24f725d3e5412c29bfe65f7ddc543be4e10d"
+    },
+    {
+      "version": "sha-0677b0c",
+      "releaseTimestamp": "2026-10-18T16:48:40Z",
+      "digest": "sha256:d7ed2544a173f6ef1fe1a53ef4869bf6157364f7dc61481762101b2d167a2d5f"
+    },
+    {
+      "version": "sha-ebfaae7",
+      "releaseTimestamp": "2026-10-18T17:20:21Z",
+      "digest": "sha256:6d924717202d32ef81812a5e25201bbe2d5a3d9f13bbcc8cb6788625a122eba7"
+    },
+    {
+      "version": "sha-0c9826d",
+      "releaseTimestamp": "2026-10-18T17:24:12Z",
+      "digest": "sha256:5d11dbd6105da278d35669f03fa7f4541a62e3464973ffc92be5487b0850e1a6"
+    },
+    {
+      "version": "sha-02dcd51",
+      "releaseTimestamp": "2026-10-19T18:58:31Z",
+      "digest": "sha256:6926bca884692d99699314602c57511930e84757e2a6225fc26132f1f59e71eb"
+    },
+    {
+      "version": "sha-6cb5c06",
+      "releaseTimestamp": "2026-10-19T19:39:10Z",
+      "digest": "sha256:7064a5a8fb3ba6884415adc697e444583e38483c184655ab01b04645d644677f"
+    },
+    {
+      "version": "sha-57833ef",
+      "releaseTimestamp": "2026-10-19T19:41:22Z",
+      "digest": "sha256:c763edb4fa4a1bef5feaf5d4261f9b1ebc34245bca64b8fbd822429405c0a84a"
+    },
+    {
+      "version": "sha-90cd86b",
+      "releaseTimestamp": "2026-10-20T09:55:19Z",
+      "digest": "sha256:5db35be578fba2958e65368675d8d7265332a48d2a72de1ebce8409520eb8268"
+    },
+    {
+      "version": "sha-40139a7",
+      "releaseTimestamp": "2026-10-20T09:55:48Z",
+      "digest": "sha256:89e2104e5b4568bd53d16c8a9863f3b133bba00225303f4fa77bbb15da29c3b9"
+    },
+    {
+      "version": "sha-81e7372",
+      "releaseTimestamp": "2026-10-20T10:23:37Z",
+      "digest": "sha256:c40ac99161882238065bea01ae678f0ddc75e85004a2b60a3d1e58fd7f181dba"
+    },
+    {
+      "version": "sha-1936d60",
+      "releaseTimestamp": "2026-10-22T10:55:20Z",
+      "digest": "sha256:a5f7930b0ddd7a4630fe1d95b729797dab61fa5b91683a4cbb0d031436d55e78"
+    },
+    {
+      "version": "sha-9918d7d",
+      "releaseTimestamp": "2026-10-24T14:34:12Z",
+      "digest": "sha256:d9aa5a1a7287fffe1d00ed2c706f12ac8452078eb45e2786efbff3f748936834"
+    },
+    {
+      "version": "sha-c9f4918",
+      "releaseTimestamp": "2026-10-26T11:16:49Z",
+      "digest": "sha256:b58fe34b9cf7a5ab0b551ada549482657ffa144128fe1d2a0e7477f0bb58e15f"
+    },
+    {
+      "version": "sha-518d721",
+      "releaseTimestamp": "2026-10-26T17:23:19Z",
+      "digest": "sha256:d7aa3a3273967e8510458e2cb86c9111a0fef38fcd9543aa168050d6620781bf"
+    },
+    {
+      "version": "sha-2278207",
+      "releaseTimestamp": "2026-10-26T17:53:20Z",
+      "digest": "sha256:3b2e2240bb3575e75ed1e14a765880d4c73d43aa4a28a7fecb471ea4ecf6c236"
+    },
+    {
+      "version": "sha-ea465cb",
+      "releaseTimestamp": "2026-10-26T17:53:29Z",
+      "digest": "sha256:c4d1debcaf483ad50fcd88b5badaaccbe41fccacf8ca93d00de63fe5ec5f9e37"
+    },
+    {
+      "version": "sha-1d11d94",
+      "releaseTimestamp": "2026-10-26T17:57:10Z",
+      "digest": "sha256:09f4b99b831fa222d48e55b5987357d835a47015ea7bee928dddc659fcbf0782"
+    },
+    {
+      "version": "sha-8f39fe6",
+      "releaseTimestamp": "2026-10-27T11:20:26Z",
+      "digest": "sha256:9d66cd9e48da8a200fbe1dc321c46f4850536eeee2cc4f62525d6f6c58512a94"
+    },
+    {
+      "version": "fix-integration-tests-2026-10-27",
+      "releaseTimestamp": "2026-10-27T14:46:44Z",
+      "digest": "sha256:fbf9197056ec2180fac25e4b7147d430e85f8dadc2eafd6243d8b39f34a19ab8"
+    },
+    {
+      "version": "sha-02618e2",
+      "releaseTimestamp": "2026-10-27T14:46:45Z",
+      "digest": "sha256:fbf9197056ec2180fac25e4b7147d430e85f8dadc2eafd6243d8b39f34a19ab8"
+    },
+    {
+      "version": "sha-a775938",
+      "releaseTimestamp": "2026-10-27T14:52:08Z",
+      "digest": "sha256:f500133f2a9ae24a859703e01ff136363cf0352863bf83690e0d64d418fd53af"
+    },
+    {
+      "version": "sha-5e3802c",
+      "releaseTimestamp": "2026-10-27T15:20:19Z",
+      "digest": "sha256:e242f4a2b03570ecf3f63e3ed3814c2448aac55c4ac2503e0ac03b5169eb694d"
+    },
+    {
+      "version": "jotta-default-elkjop",
+      "releaseTimestamp": "2026-10-27T15:23:34Z",
+      "digest": "sha256:5477514f4d8d2eba7075e6528bb26af454e6d8ba4f3603f31ad6df1f2648723d"
+    },
+    {
+      "version": "sha-5e10aad",
+      "releaseTimestamp": "2026-10-27T15:23:35Z",
+      "digest": "sha256:5477514f4d8d2eba7075e6528bb26af454e6d8ba4f3603f31ad6df1f2648723d"
+    },
+    {
+      "version": "sha-545b142",
+      "releaseTimestamp": "2026-10-27T17:30:37Z",
+      "digest": "sha256:19a1beb9d28a582cc30832f6d13f75983ce8b181daded429cd215d442fabaacd"
+    },
+    {
+      "version": "sha-8700a64",
+      "releaseTimestamp": "2026-10-27T18:03:29Z",
+      "digest": "sha256:0fe7a2ed961414134efe72df8a7c5111e7c03ee61b35bfd6403f37f23106fa2a"
+    },
+    {
+      "version": "update-x-net-v0.62.0",
+      "releaseTimestamp": "2026-10-28T13:25:55Z",
+      "digest": "sha256:9c700ad7c287df841bc64df3cc3bbfae63988dab1e0af9f23f4c789a2e17b8e9"
+    },
+    {
+      "version": "sha-8594059",
+      "releaseTimestamp": "2026-10-28T13:25:57Z",
+      "digest": "sha256:9c700ad7c287df841bc64df3cc3bbfae63988dab1e0af9f23f4c789a2e17b8e9"
+    },
+    {
+      "version": "sha-1053463",
+      "releaseTimestamp": "2026-10-28T15:11:04Z",
+      "digest": "sha256:02f38680f90183b931e1853c6c380c59288ec3fe187cc641a3c1e9a28accc5af"
+    },
+    {
+      "version": "fix-s3-serve-validation",
+      "releaseTimestamp": "2026-10-29T11:13:06Z",
+      "digest": "sha256:34d2c01ea69d41f647e3845108583ba86aa4822c56640b8d50d1821f1de74e54"
+    },
+    {
+      "version": "sha-283277a",
+      "releaseTimestamp": "2026-10-29T12:35:03Z",
+      "digest": "sha256:1f6d6d625913560580a9312b91c76271512646d4616df79e7a40535e4d50d789"
+    },
+    {
+      "version": "sha-94319c3",
+      "releaseTimestamp": "2026-10-29T15:36:05Z",
+      "digest": "sha256:4ef4bd866bf891e0f5bb03f0db848fe0b63aed89fcd944f3352f49e5980a40f5"
+    },
+    {
+      "version": "fix-integration-tests-2026-10-29",
+      "releaseTimestamp": "2026-10-29T17:39:16Z",
+      "digest": "sha256:d8ab23f8735610f65181bce426b582cbd101726e08257d61fb6b6e34535b0e1c"
+    },
+    {
+      "version": "sha-e236d98",
+      "releaseTimestamp": "2026-10-29T18:27:07Z",
+      "digest": "sha256:965dd8686a9315bef6ea548e4f90172a0bdcca7d0ec5024ac035f6d069844da3"
+    },
+    {
+      "version": "sha-6e01cb6",
+      "releaseTimestamp": "2026-10-29T18:29:07Z",
+      "digest": "sha256:f73994090ce13becf641428924fbebbfc320f14c1376bea9ed9fdb2abaa191df"
+    },
+    {
+      "version": "sha-fe813c5",
+      "releaseTimestamp": "2026-10-29T18:40:15Z",
+      "digest": "sha256:0a8a912d881d47d462758545cafbab8b56f2e175488be5cbae7c2e73ebea7c74"
+    },
+    {
+      "version": "sha-f17b89b",
+      "releaseTimestamp": "2026-10-29T18:41:55Z",
+      "digest": "sha256:dc261bd05b9fe319a4274dfad3970b1e7c8e7bd5a06c2e622c85c0c521d63550"
+    },
+    {
+      "version": "sha-e906ecf",
+      "releaseTimestamp": "2026-10-29T18:49:23Z",
+      "digest": "sha256:025d8add5c7abf94bfd46874269947c63180451daa8e1fff2ad835df01f9f7ad"
+    },
+    {
+      "version": "sha-11b681a",
+      "releaseTimestamp": "2026-10-29T18:54:04Z",
+      "digest": "sha256:7db59e130549927e2e21923828688d0f1d557063de09c247a3a1e022580b5d1d"
+    },
+    {
+      "version": "sha-337c130",
+      "releaseTimestamp": "2026-10-29T18:54:13Z",
+      "digest": "sha256:43650b6fafa29cbca8f14b44323f2808e73eb53c209f8a2d3d80ec56dda0222b"
+    },
+    {
+      "version": "sha-be69803",
+      "releaseTimestamp": "2026-10-29T18:58:01Z",
+      "digest": "sha256:78f978ac5d336c064a3b759b3382636f41af6c4d3a34f4e5159c515d32682cda"
+    },
+    {
+      "version": "sha-5f4d7c0",
+      "releaseTimestamp": "2026-10-29T18:58:05Z",
+      "digest": "sha256:7cef67c3d7303f8cb5f3e1c4ccd01191b640d4433980d0441e858549624b69bf"
+    },
+    {
+      "version": "sha-5152a0d",
+      "releaseTimestamp": "2026-10-29T18:59:59Z",
+      "digest": "sha256:2b7b28207d94aba036e753960cd935e6d053577316b29de70d87285a442a4d40"
+    },
+    {
+      "version": "sha-989fd82",
+      "releaseTimestamp": "2026-10-30T17:18:50Z",
+      "digest": "sha256:f3cea752ba04d5cb478353582721ead7b672cd9ca9fa58e36b9280a0497c87e6"
+    },
+    {
+      "version": "sha-f61563b",
+      "releaseTimestamp": "2026-10-31T10:44:35Z",
+      "digest": "sha256:af9a43b1e8f59030e0820eb724e183fabd701e161b1d9cc144f6a18b32f30440"
+    },
+    {
+      "version": "fix-integration-tests-2026-10-31",
+      "releaseTimestamp": "2026-10-31T12:20:08Z",
+      "digest": "sha256:cf773360d9352561625670a94adc14b7d3f72df1304f9cc6d7be712658c8f390"
+    },
+    {
+      "version": "sha-814c9b3",
+      "releaseTimestamp": "2026-10-31T12:20:10Z",
+      "digest": "sha256:cf773360d9352561625670a94adc14b7d3f72df1304f9cc6d7be712658c8f390"
+    },
+    {
+      "version": "sha-dee8b7e",
+      "releaseTimestamp": "2026-10-31T12:34:53Z",
+      "digest": "sha256:9d798872acdacf543cbdf42ccda5d5604f77ce5acda60d392454ad926d6ef053"
+    },
+    {
+      "version": "sha-0de32e2",
+      "releaseTimestamp": "2026-10-31T12:48:40Z",
+      "digest": "sha256:36b2d33b21698ae454eb2f5c8abbc9e641dc853fe5e1a6a14fbd83a5b0bedc62"
+    },
+    {
+      "version": "sha-18c7de0",
+      "releaseTimestamp": "2026-10-31T13:01:39Z",
+      "digest": "sha256:cd3e1f9a7d5cbc04bbcd55854b57a6af0387906cdcfc0ae83bb76073dfe72461"
+    },
+    {
+      "version": "sha-64a68c7",
+      "releaseTimestamp": "2026-10-31T13:02:11Z",
+      "digest": "sha256:e9ef6f4989bdd6f211174b539c45a30168581edc1e1c9dc784b07c24758493a0"
+    },
+    {
+      "version": "sha-b2664e5",
+      "releaseTimestamp": "2026-10-31T13:05:08Z",
+      "digest": "sha256:614fe460a4a5acaca9911a6265155150c740dbe466bbb8c5944b4329c51d70f9"
+    },
+    {
+      "version": "sha-d1ae66c",
+      "releaseTimestamp": "2026-10-31T13:05:27Z",
+      "digest": "sha256:05ff739fdf9fa212e21602a6469592742483e828dd5ec90b41925e90c7705292"
+    },
+    {
+      "version": "sha-f17291d",
+      "releaseTimestamp": "2026-10-31T13:31:31Z",
+      "digest": "sha256:a5ccb2eca7e033c0d76af76ac06b3f5001764824337005f20d62d3fd71ca4b48"
+    },
+    {
+      "version": "sha-e630841",
+      "releaseTimestamp": "2026-10-31T13:32:12Z",
+      "digest": "sha256:cb76bef64206f5f50fb6ad90b286ea9f5a34e9f73e5c4c1e0a8da3afcfd52e32"
+    },
+    {
+      "version": "sha-941f6a7",
+      "releaseTimestamp": "2026-10-31T13:37:39Z",
+      "digest": "sha256:3e6d64a2ce7db6a508f7893ba3f667ff587599009ebd1eb52dbefd8259257d89"
+    },
+    {
+      "version": "sha-b44c24c",
+      "releaseTimestamp": "2026-10-31T13:39:54Z",
+      "digest": "sha256:13a48fe68de03f441a7c48e1bc46972197f32341df623aa3cd45ff63599ae237"
+    },
+    {
+      "version": "sha-0a0661a",
+      "releaseTimestamp": "2026-10-31T15:28:59Z",
+      "digest": "sha256:b1514d1ca52caee2f4057e35aa8a418122310ccb8bfc4f586a441230cd5754a2"
+    },
+    {
+      "version": "sha-a897664",
+      "releaseTimestamp": "2026-10-31T15:29:24Z",
+      "digest": "sha256:4a8beaea6932ba6096953d711b989283da62b9a4298b40ee5578fb21c98fa42f"
+    },
+    {
+      "version": "sha-6890665",
+      "releaseTimestamp": "2026-10-31T15:37:10Z",
+      "digest": "sha256:1eea83c3bcb913b9e7b196e2c26b0ad0f2d4b3b34e1cb8b7c53d63e9a9dc4c3a"
+    },
+    {
+      "version": "sha-a4a2a78",
+      "releaseTimestamp": "2026-10-31T15:37:25Z",
+      "digest": "sha256:ce139bea25efd07eeb081f480698e9c6cb5cb18e9f6997d125a6e4023d174a9e"
+    },
+    {
+      "version": "sha-4e19a96",
+      "releaseTimestamp": "2026-10-31T15:39:08Z",
+      "digest": "sha256:69c452f2512c30a591c3f5b3f28d6f9156b8532ab7fbd9e526ae684695e51b36"
+    },
+    {
+      "version": "sha-eca2155",
+      "releaseTimestamp": "2026-10-31T15:49:50Z",
+      "digest": "sha256:dcba7944e13d30805342cf3ae146a0b70d26764a76a8b789b15e5031db14ac09"
+    },
+    {
+      "version": "sha-5118e0c",
+      "releaseTimestamp": "2026-10-31T17:04:07Z",
+      "digest": "sha256:99ed3c6453847ad69558816017f8e614df856270954e0bbc3486bcba6573fc55"
+    },
+    {
+      "version": "lib-http-drop-goauth",
+      "releaseTimestamp": "2026-10-31T17:28:21Z",
+      "digest": "sha256:12c9c19323f7bc6d4366f728e2d0fd4fa4cdcdd25f9d2cc26dd76a12b5075815"
+    },
+    {
+      "version": "sha-2d3e455",
+      "releaseTimestamp": "2026-10-31T17:28:23Z",
+      "digest": "sha256:12c9c19323f7bc6d4366f728e2d0fd4fa4cdcdd25f9d2cc26dd76a12b5075815"
+    },
+    {
+      "version": "sha-ba11197",
+      "releaseTimestamp": "2026-10-31T17:29:57Z",
+      "digest": "sha256:2424529b22aac32c86c4ec95ad5f37bd76e2adf2c2d4a3b0c29efe23cb894fd7"
+    },
+    {
+      "version": "sha-f0cb5dd",
+      "releaseTimestamp": "2026-11-01T11:42:58Z",
+      "digest": "sha256:77b9a8d5ae16cb4b9de13963f0923cd8c8bfdfaa395c6ccdff622d0731542b93"
+    },
+    {
+      "version": "fix-integration-tests-2026-11-02",
+      "releaseTimestamp": "2026-11-02T16:53:55Z",
+      "digest": "sha256:10e31ff0cd843d80073a1b8543e5963e0ffbf3b76ae147ebe9b25f0d392ae269"
+    },
+    {
+      "version": "sha-c388f76",
+      "releaseTimestamp": "2026-11-02T16:53:57Z",
+      "digest": "sha256:10e31ff0cd843d80073a1b8543e5963e0ffbf3b76ae147ebe9b25f0d392ae269"
+    },
+    {
+      "version": "sha-9751d16",
+      "releaseTimestamp": "2026-11-02T17:47:07Z",
+      "digest": "sha256:490fd056dc0a9dffbaf2abba4c2f973d2f68c0e8d2186d668a4255924aeb847a"
+    },
+    {
+      "version": "checksum-fileformat-fixes",
+      "releaseTimestamp": "2026-11-03T13:00:45Z",
+      "digest": "sha256:51a787199bdce3af246f06023125cb0d8474e1cb9c9d9b28cd4aefab944675f8"
+    },
+    {
+      "version": "sha-1775ffb",
+      "releaseTimestamp": "2026-11-03T13:00:46Z",
+      "digest": "sha256:51a787199bdce3af246f06023125cb0d8474e1cb9c9d9b28cd4aefab944675f8"
+    },
+    {
+      "version": "sha-c9a5f10",
+      "releaseTimestamp": "2026-11-03T17:44:35Z",
+      "digest": "sha256:023aace51c59c1ab8924cae526801804aca65c8613a851836b2ab3bdda340ac2"
+    },
+    {
+      "version": "sha-e74889e",
+      "releaseTimestamp": "2026-11-04T17:04:09Z",
+      "digest": "sha256:89d429f3154e89d91d52f6349dd4831ab7c39616cd7361bcc6db4518db4e0dc6"
+    },
+    {
+      "version": "onedrive-tempauth-retirement",
+      "releaseTimestamp": "2026-11-04T17:29:40Z",
+      "digest": "sha256:eeec5d520a2e633afdace2a4fe935e8d4cfa7d66f3393e4ed3a888140903a7bb"
+    },
+    {
+      "version": "sha-972bf2d",
+      "releaseTimestamp": "2026-11-04T17:29:42Z",
+      "digest": "sha256:eeec5d520a2e633afdace2a4fe935e8d4cfa7d66f3393e4ed3a888140903a7bb"
+    },
+    {
+      "version": "sha-2b1eabe",
+      "releaseTimestamp": "2026-11-04T18:05:38Z",
+      "digest": "sha256:4ba51dea2c8e2af87a4bce2681924923b31df685579583e99878e2cde25bdaa1"
+    },
+    {
+      "version": "sha-334e704",
+      "releaseTimestamp": "2026-11-04T18:13:53Z",
+      "digest": "sha256:4be46b1ff11bfaa4e20256710be7d38cd1f9dde133d25cc4eab788287146b7dc"
+    },
+    {
+      "version": "sha-5795966",
+      "releaseTimestamp": "2026-11-05T10:31:51Z",
+      "digest": "sha256:070656a6f953724af19eb63e60982d401c4f60246c5f1048ab257b6e4aef1917"
+    },
+    {
+      "version": "sha-2fb0f2c",
+      "releaseTimestamp": "2026-11-05T11:52:36Z",
+      "digest": "sha256:a87b3387a06111309f3c6af6aa43fcc5c3dda52d74bf42cfd52cf28de2e15769"
+    },
+    {
+      "version": "sha-2ff2bfe",
+      "releaseTimestamp": "2026-11-05T12:08:18Z",
+      "digest": "sha256:283dcce74dd5890d9172692af9d0b25baec4e915bacf6552fcd68be6a5b5c25f"
+    },
+    {
+      "version": "sha-d1c54c4",
+      "releaseTimestamp": "2026-11-05T12:15:56Z",
+      "digest": "sha256:d762569fa407870577d0252712276e35d06b663f104c778a690851c47b6e52d6"
+    },
+    {
+      "version": "sha-5c143c8",
+      "releaseTimestamp": "2026-11-05T12:32:39Z",
+      "digest": "sha256:bb031391f69d578b33fb5056fe972493f9d0b8e078e52c973c12a0e16049baa7"
+    },
+    {
+      "version": "sha-3ca4fd9",
+      "releaseTimestamp": "2026-11-05T12:37:00Z",
+      "digest": "sha256:f6db38e7e8eec959cff88bff85ea694975c25f9f71f1a5e0713eaf4b2e0d2946"
+    },
+    {
+      "version": "sha-b3d0b38",
+      "releaseTimestamp": "2026-11-05T12:48:40Z",
+      "digest": "sha256:db81f11fb1f25754b174727c36fa69b90490a0a41659c9e861e6886e3fdbae13"
+    },
+    {
+      "version": "sha-cf93478",
+      "releaseTimestamp": "2026-11-05T13:01:18Z",
+      "digest": "sha256:ca66cc63844877ee0748cfd020359bb21527fc17582f37b51676999921b080bb"
+    },
+    {
+      "version": "sha-bbf4a98",
+      "releaseTimestamp": "2026-11-05T13:02:37Z",
+      "digest": "sha256:a26ddbb67268aefa95f14f6a15532c5a933b5a6660a6e007f97a8bbe619eaa99"
+    },
+    {
+      "version": "sha-5930441",
+      "releaseTimestamp": "2026-11-05T13:04:09Z",
+      "digest": "sha256:5784aae45d0b2c0ac5fb722c84fc8506ec16baa5733d41225a7c0277a079991e"
+    },
+    {
+      "version": "sha-1a319f2",
+      "releaseTimestamp": "2026-11-05T13:09:06Z",
+      "digest": "sha256:a8c86d2b6153b061966faef807d6df8554603c2a6c7841d8ba401ba7ac4ad292"
+    },
+    {
+      "version": "sha-545936b",
+      "releaseTimestamp": "2026-11-05T13:09:31Z",
+      "digest": "sha256:332c2362779d1598eaa6fd546a02d464f722960c738726fd60eb1623f9bbdb43"
+    },
+    {
+      "version": "sha-7c60060",
+      "releaseTimestamp": "2026-11-05T13:09:43Z",
+      "digest": "sha256:19bbfc26b2692bb868a5d86ec13ee0dae744774f3297c63215458a877d2866bb"
+    },
+    {
+      "version": "fix-ci-macos-brew-untap",
+      "releaseTimestamp": "2026-11-06T11:28:15Z",
+      "digest": "sha256:10d1ddb9147636a8585df0078b560897020dde281aaa2a8843b40eeb1c993ea6"
+    },
+    {
+      "version": "sha-a3c6bb2",
+      "releaseTimestamp": "2026-11-06T11:28:16Z",
+      "digest": "sha256:10d1ddb9147636a8585df0078b560897020dde281aaa2a8843b40eeb1c993ea6"
+    },
+    {
+      "version": "1.76.0",
+      "releaseTimestamp": "2026-11-06T14:47:51Z",
+      "digest": "sha256:7cbeec24a44f206067597c0368be4de90ae19a64d5113c7d1938bd737a81e466"
+    },
+    {
+      "version": "1",
+      "releaseTimestamp": "2026-11-06T14:47:53Z",
+      "digest": "sha256:7cbeec24a44f206067597c0368be4de90ae19a64d5113c7d1938bd737a81e466"
+    },
+    {
+      "version": "1.76",
+      "releaseTimestamp": "2026-11-06T14:47:54Z",
+      "digest": "sha256:7cbeec24a44f206067597c0368be4de90ae19a64d5113c7d1938bd737a81e466"
+    },
+    {
+      "version": "sha-e982ff3",
+      "releaseTimestamp": "2026-11-06T14:47:56Z",
+      "digest": "sha256:7cbeec24a44f206067597c0368be4de90ae19a64d5113c7d1938bd737a81e466"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-06T14:47:57Z",
+      "digest": "sha256:7cbeec24a44f206067597c0368be4de90ae19a64d5113c7d1938bd737a81e466"
+    },
+    {
+      "version": "sha-82cb84b",
+      "releaseTimestamp": "2026-11-06T16:38:30Z",
+      "digest": "sha256:77e75a80b0e914770af3642ca2db02d2ff940378ccd9fd90e8b8a7a5c255da7e"
+    },
+    {
+      "version": "fix-10276-dlna-ssdp",
+      "releaseTimestamp": "2026-11-07T17:59:13Z",
+      "digest": "sha256:745f9e16c3ef35268d818df4d610356940965afd503d9ff6d9bc1b29ed50cefb"
+    },
+    {
+      "version": "sha-7d55d93",
+      "releaseTimestamp": "2026-11-07T17:59:14Z",
+      "digest": "sha256:745f9e16c3ef35268d818df4d610356940965afd503d9ff6d9bc1b29ed50cefb"
+    },
+    {
+      "version": "fix-10280-local-unc-root",
+      "releaseTimestamp": "2026-11-07T19:07:41Z",
+      "digest": "sha256:ed6caf8de177311c1c8ce4286aa73d948f0af21b310be52fd6d59977baa242bc"
+    },
+    {
+      "version": "sha-e426492",
+      "releaseTimestamp": "2026-11-07T19:07:43Z",
+      "digest": "sha256:ed6caf8de177311c1c8ce4286aa73d948f0af21b310be52fd6d59977baa242bc"
+    },
+    {
+      "version": "sha-d459c3f",
+      "releaseTimestamp": "2026-11-08T13:26:51Z",
+      "digest": "sha256:ed7b627c75e18bce104c1103ab96561285f0fb7d8747de37493a937a2538eaca"
+    },
+    {
+      "version": "sha-65d4b73",
+      "releaseTimestamp": "2026-11-09T17:24:41Z",
+      "digest": "sha256:2471fd2f64c83f5dbc53791f4090801f1e85f1dbc8f70b63d5b257a0e6fd184a"
+    },
+    {
+      "version": "sha-cbc8c3f",
+      "releaseTimestamp": "2026-11-10T12:14:02Z",
+      "digest": "sha256:37b8e3eea2baa86d23e52613c49d0baeef3fe25f054a9ab36fe60f90c3d85c36"
+    },
+    {
+      "version": "filen-login-without-api-key",
+      "releaseTimestamp": "2026-11-10T16:46:39Z",
+      "digest": "sha256:d124ef4379b234088509a0405fe17cc3b4d1295a0e6b81de5bef05e3319c89a3"
+    },
+    {
+      "version": "sha-83faaf4",
+      "releaseTimestamp": "2026-11-10T16:46:40Z",
+      "digest": "sha256:d124ef4379b234088509a0405fe17cc3b4d1295a0e6b81de5bef05e3319c89a3"
+    },
+    {
+      "version": "sha-448d736",
+      "releaseTimestamp": "2026-11-10T17:17:56Z",
+      "digest": "sha256:a852d197d561c8dbaae43b77fbb9899ee9a53bf936a201c13e6d08243960ddf5"
+    },
+    {
+      "version": "sha-f7010de",
+      "releaseTimestamp": "2026-11-11T09:28:01Z",
+      "digest": "sha256:430b76b263b6a2998d0e880fbf7f26953b9169e40e2246b985ff8406e6da35da"
+    },
+    {
+      "version": "sha-d6d2026",
+      "releaseTimestamp": "2026-11-11T09:33:52Z",
+      "digest": "sha256:571360f6a890553a8c0db2f82e2f5302610b39254565a51b10aa6cb2d3d14fe4"
+    },
+    {
+      "version": "test",
+      "releaseTimestamp": "2026-11-11T09:45:51Z",
+      "digest": "sha256:5c407056beb3dc2fd5fbc99583bdd47ea2045be15da389803d97725ea9392bac"
+    },
+    {
+      "version": "sha-d8eca5d",
+      "releaseTimestamp": "2026-11-11T09:45:53Z",
+      "digest": "sha256:5c407056beb3dc2fd5fbc99583bdd47ea2045be15da389803d97725ea9392bac"
+    },
+    {
+      "version": "sha-571b965",
+      "releaseTimestamp": "2026-11-11T09:46:33Z",
+      "digest": "sha256:11bff97d72afb64172a36edd1fa54fb828c8f8df208b5e737eb1f720309e2af1"
+    },
+    {
+      "version": "sha-c7c1c40",
+      "releaseTimestamp": "2026-11-11T09:52:18Z",
+      "digest": "sha256:8aa66a7db8857e9dce834ba3b9f06146d1d8a7da6cfafd0e1720f181fbd7d570"
+    },
+    {
+      "version": "sha-9fe38b7",
+      "releaseTimestamp": "2026-11-11T10:05:06Z",
+      "digest": "sha256:586492d9da48aee74d6fa9f79ca6f9682778712c45dceb9e5ec79a05b45b898c"
+    },
+    {
+      "version": "sha-86fe420",
+      "releaseTimestamp": "2026-11-11T10:23:35Z",
+      "digest": "sha256:ffaae563b764a3507d51892567ce184f3fa271e548ee819d35172fb47e14e08c"
+    },
+    {
+      "version": "sha-41893f0",
+      "releaseTimestamp": "2026-11-11T10:26:46Z",
+      "digest": "sha256:ea2b99c37c27425941b0f46b9d89d3aba8d96e3eb780fe1687b81ca0c353ecee"
+    },
+    {
+      "version": "sha-cdad8ce",
+      "releaseTimestamp": "2026-11-11T10:31:17Z",
+      "digest": "sha256:8d8acdf72ccfb55ba5c35b9116dfdf2880c8e08e24e7c177735c10da742566af"
+    },
+    {
+      "version": "sha-43cd60e",
+      "releaseTimestamp": "2026-11-11T10:40:55Z",
+      "digest": "sha256:79e2058ab875420e0ddb8e99f180ea0c6d008171856650571f94b4b08966b7cf"
+    },
+    {
+      "version": "sha-450535f",
+      "releaseTimestamp": "2026-11-11T10:41:10Z",
+      "digest": "sha256:3ab8c8b7acdcf8f0a5f593fcbc4ab2cdb1f02d5a4f6d0aa4f9c61e3187ef62d3"
+    },
+    {
+      "version": "sha-ba96467",
+      "releaseTimestamp": "2026-11-11T10:42:12Z",
+      "digest": "sha256:ae5bb75171df1208e752b58929fc92d5b125d0eba78eed829c8a98a12916fb25"
+    },
+    {
+      "version": "sha-2a4eec1",
+      "releaseTimestamp": "2026-11-11T11:08:56Z",
+      "digest": "sha256:0790766e8917ea9d5840691d21fc86e6d22f0c4546c7e9d6b5babfcd1c9ccdd0"
+    },
+    {
+      "version": "sha-e49f335",
+      "releaseTimestamp": "2026-11-11T11:09:38Z",
+      "digest": "sha256:d91a82a2effec428eb8187638a3d5231cad379c088b8a3a3e1da7ea29c5f317f"
+    },
+    {
+      "version": "sha-d55dd62",
+      "releaseTimestamp": "2026-11-11T16:12:18Z",
+      "digest": "sha256:1f241ed8342ff6c7c6e3c22f2b029994eaded5a1edffefe09d6621c08535a963"
+    },
+    {
+      "version": "sha-4cf147a",
+      "releaseTimestamp": "2026-11-11T16:19:11Z",
+      "digest": "sha256:bfef66fea1dd8624bdd236fff51e7a22e8fe6893fa32da2186003241a2816e5e"
+    },
+    {
+      "version": "sha-64c536e",
+      "releaseTimestamp": "2026-11-11T16:26:07Z",
+      "digest": "sha256:d2334d66d4b4f6806c195a9c0c944bcba11ab4699715d1d4513ac96faed401f6"
+    },
+    {
+      "version": "master",
+      "releaseTimestamp": "2026-11-11T16:33:24Z",
+      "digest": "sha256:54ec6e24bf05649cc0ff4f549cb0968f9327609d0ca1137e265e0834a21b943e"
+    },
+    {
+      "version": "beta",
+      "releaseTimestamp": "2026-11-11T16:33:25Z",
+      "digest": "sha256:54ec6e24bf05649cc0ff4f549cb0968f9327609d0ca1137e265e0834a21b943e"
+    },
+    {
+      "version": "sha-f42d829",
+      "releaseTimestamp": "2026-11-11T16:33:27Z",
+      "digest": "sha256:54ec6e24bf05649cc0ff4f549cb0968f9327609d0ca1137e265e0834a21b943e"
+    }
+  ]
+}

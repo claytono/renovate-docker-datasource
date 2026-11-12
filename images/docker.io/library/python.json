@@ -1,0 +1,1219 @@
+{
+  "releases": [
+    {
+      "version": "3.13.16-windowsservercore",
+      "releaseTimestamp": "2026-10-14T02:07:56Z",
+      "digest": "sha256:3c73540ac4da8cbe8b3ba40f0c8e87edd9204a6dadf5bfef868d3f2e63e81e54"
+    },
+    {
+      "version": "3.13.16-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-14T02:07:58Z",
+      "digest": "sha256:bb4b8c07608adcd17e24d1634455b21d5ff49e89789951b473b2473023132edb"
+    },
+    {
+      "version": "3.13.16-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-14T02:08:00Z",
+      "digest": "sha256:328ab3492e1464c6e7aa7350619c7340472de9f6a7bb0e58f9910df365ed1963"
+    },
+    {
+      "version": "3.14.8-windowsservercore",
+      "releaseTimestamp": "2026-10-14T02:08:39Z",
+      "digest": "sha256:7acb30d6deb9eec8f5b0bb0cea734ad18f25bed4b100b26cc71e9d37c2c97837"
+    },
+    {
+      "version": "3.14.8-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-14T02:08:41Z",
+      "digest": "sha256:fea3fa3e18313544703dc4e0d3c58c92849bcce1717ffd4377ca93ddd8e932bc"
+    },
+    {
+      "version": "3.14.8-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-14T02:08:43Z",
+      "digest": "sha256:23a513fb1e2fe0b51bc0a82d596b4bd11168ac4798d839335a531bb2616a1cc0"
+    },
+    {
+      "version": "3.15.0-windowsservercore",
+      "releaseTimestamp": "2026-10-14T02:09:15Z",
+      "digest": "sha256:f9f55bb2ed120411ef635ea94abf80ca9357835ff4d2f8c6057a3a2bf0455527"
+    },
+    {
+      "version": "3.15.0-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-14T02:09:16Z",
+      "digest": "sha256:89bd6a1f107abb73244bd7e9c87ceb8c90b1ad751abbf0b9386545cc81ae5e02"
+    },
+    {
+      "version": "3.15.0-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-14T02:09:18Z",
+      "digest": "sha256:7da47370f7cb0cfe46eb23944fb9f857494e9dbe63daa1a5ac8569d79250efbf"
+    },
+    {
+      "version": "3.15.0-alpine",
+      "releaseTimestamp": "2026-10-17T14:08:29Z",
+      "digest": "sha256:2699b90f4d562a22e2dd076c82f964032f64814204bff36d271a54ba4cc2c7e2"
+    },
+    {
+      "version": "3.15.0-alpine3.23",
+      "releaseTimestamp": "2026-10-17T14:08:31Z",
+      "digest": "sha256:d64bc17e0dff27c5c4a31f616450d032aa73d6325855127ce3a305bf1384c8d5"
+    },
+    {
+      "version": "3.15.0-alpine3.24",
+      "releaseTimestamp": "2026-10-17T14:08:34Z",
+      "digest": "sha256:2699b90f4d562a22e2dd076c82f964032f64814204bff36d271a54ba4cc2c7e2"
+    },
+    {
+      "version": "3.13.16",
+      "releaseTimestamp": "2026-10-21T05:12:00Z",
+      "digest": "sha256:f90587f8e7cffb924b1ff4a0dbe8955397b1114497f176554adb4ee4baef32d1"
+    },
+    {
+      "version": "3.13.16-trixie",
+      "releaseTimestamp": "2026-10-21T05:12:21Z",
+      "digest": "sha256:5b16f8c3c772f377a8a0133ee26cfe1d5b8359c88d408836281adb99fc6219d6"
+    },
+    {
+      "version": "3.14.8",
+      "releaseTimestamp": "2026-10-21T05:13:45Z",
+      "digest": "sha256:455fc8bf2552c51738d27fde570c22bb0146d22f2e16e32a9baff8d2da94daf6"
+    },
+    {
+      "version": "3.14.8-bookworm",
+      "releaseTimestamp": "2026-10-21T05:13:51Z",
+      "digest": "sha256:d971782704801eedcce987f5a3aa473500e255094e86400e2078a74652973b74"
+    },
+    {
+      "version": "3.14.8-trixie",
+      "releaseTimestamp": "2026-10-21T05:14:03Z",
+      "digest": "sha256:484d69f37ccf7dfa527c4ce7db8894f543a6455123dc873765f629f970795326"
+    },
+    {
+      "version": "3.15.0",
+      "releaseTimestamp": "2026-10-21T05:14:35Z",
+      "digest": "sha256:4e324f579bdd7d0ce3cbae52e27bddeb316c9c23aa7563ac6a9811bbca55541b"
+    },
+    {
+      "version": "3.15.0-trixie",
+      "releaseTimestamp": "2026-10-21T05:14:52Z",
+      "digest": "sha256:d5ae371dc36dd95f3bb453fb64ca03377ba455d3351339f16be6c47aa10177b9"
+    },
+    {
+      "version": "3.13.16-bookworm",
+      "releaseTimestamp": "2026-10-21T08:08:33Z",
+      "digest": "sha256:dc02fc25f16160c36dee14de37869973422b2fa9e0096888328793c949c166df"
+    },
+    {
+      "version": "3.13.16-slim-trixie",
+      "releaseTimestamp": "2026-10-21T08:08:42Z",
+      "digest": "sha256:cf50a4f6ac4f026458b08d5222023d700ac806410dff5e9ca8728fa44f2b850f"
+    },
+    {
+      "version": "3.14.8-slim",
+      "releaseTimestamp": "2026-10-21T08:09:18Z",
+      "digest": "sha256:fbecd461fc72d21b2143c6eaba25143738079154a6d0ea3da3aec724f50eed4a"
+    },
+    {
+      "version": "3.14.8-slim-bookworm",
+      "releaseTimestamp": "2026-10-21T08:09:21Z",
+      "digest": "sha256:44e000a07b48bef1517a2b14adc93c17af728ca98858b5e24c6e1b18de1b2ef2"
+    },
+    {
+      "version": "3.14.8-slim-trixie",
+      "releaseTimestamp": "2026-10-21T08:09:24Z",
+      "digest": "sha256:fbecd461fc72d21b2143c6eaba25143738079154a6d0ea3da3aec724f50eed4a"
+    },
+    {
+      "version": "3.15.0-bookworm",
+      "releaseTimestamp": "2026-10-21T08:09:55Z",
+      "digest": "sha256:4f531c055767345fb2391f9def4613624805139ffc2d7472af9021935277f4d9"
+    },
+    {
+      "version": "3.15.0-slim",
+      "releaseTimestamp": "2026-10-21T08:09:58Z",
+      "digest": "sha256:f5b92f2a669a4c347044f29367f31983280b648250ca94dea66f98c53bc87e58"
+    },
+    {
+      "version": "3.15.0-slim-bookworm",
+      "releaseTimestamp": "2026-10-21T08:10:01Z",
+      "digest": "sha256:0e019bbdfb5d9874cb2389f1c2884b64aa2ac97c99960b5bc521cef978c0617d"
+    },
+    {
+      "version": "3.15.0-slim-trixie",
+      "releaseTimestamp": "2026-10-21T08:10:04Z",
+      "digest": "sha256:f5b92f2a669a4c347044f29367f31983280b648250ca94dea66f98c53bc87e58"
+    },
+    {
+      "version": "3.11.17-slim-bookworm",
+      "releaseTimestamp": "2026-10-21T11:06:56Z",
+      "digest": "sha256:f06d01d4ba3f8ad5af45a3ec87df19c1d317d8e8961edc0fabda61811af6f7cf"
+    },
+    {
+      "version": "3.12.15-slim-bookworm",
+      "releaseTimestamp": "2026-10-21T11:07:35Z",
+      "digest": "sha256:6a0e06f5ba0b373d051aabd3fffb9b873f27f9a2a3a14bcbe37dee6f0e3bbc70"
+    },
+    {
+      "version": "3.13.16-slim",
+      "releaseTimestamp": "2026-10-21T11:08:17Z",
+      "digest": "sha256:cf50a4f6ac4f026458b08d5222023d700ac806410dff5e9ca8728fa44f2b850f"
+    },
+    {
+      "version": "3.13.16-slim-bookworm",
+      "releaseTimestamp": "2026-10-21T11:08:20Z",
+      "digest": "sha256:73aa5faee130c60da030e105ec971ccf57473fbd22ce73bd6fc9ba99a40b838d"
+    },
+    {
+      "version": "3.13-windowsservercore",
+      "releaseTimestamp": "2026-10-21T23:10:10Z",
+      "digest": "sha256:551eaecf04cbfab3360985c1cd6c01c08f1a20a2e6e7e8ee2e4d8b5f51ca3926"
+    },
+    {
+      "version": "3.13-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-21T23:10:12Z",
+      "digest": "sha256:b3a7df8880937f234838b3042ccd920a350a2f53fe57c9e081d6c092122e88d5"
+    },
+    {
+      "version": "3.13-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-21T23:10:14Z",
+      "digest": "sha256:95ea7e4f26d0d8c9afed104ed3d5786bd901c95acd6fc33c9ebde1941586b4bb"
+    },
+    {
+      "version": "3.13.17-windowsservercore",
+      "releaseTimestamp": "2026-10-21T23:10:52Z",
+      "digest": "sha256:551eaecf04cbfab3360985c1cd6c01c08f1a20a2e6e7e8ee2e4d8b5f51ca3926"
+    },
+    {
+      "version": "3.13.17-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-21T23:10:55Z",
+      "digest": "sha256:b3a7df8880937f234838b3042ccd920a350a2f53fe57c9e081d6c092122e88d5"
+    },
+    {
+      "version": "3.13.17-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-21T23:10:57Z",
+      "digest": "sha256:95ea7e4f26d0d8c9afed104ed3d5786bd901c95acd6fc33c9ebde1941586b4bb"
+    },
+    {
+      "version": "3.14.9-windowsservercore",
+      "releaseTimestamp": "2026-10-21T23:13:39Z",
+      "digest": "sha256:9fc2056d3403b9b79216adc7e03c7cdabe0e8c28f4cc4a5538d9770ffbe00e75"
+    },
+    {
+      "version": "3.14.9-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-21T23:13:41Z",
+      "digest": "sha256:181b1052d9c8ba157b00a7f1d345e7a4ee292236c05902f3a6e0e2e0a0741caa"
+    },
+    {
+      "version": "3.14.9-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-21T23:13:43Z",
+      "digest": "sha256:d78b6ef570f3c95d8d61efb328468f860fed40a14cf08ca5d79928918f8e51a0"
+    },
+    {
+      "version": "3.15.1-windowsservercore",
+      "releaseTimestamp": "2026-10-21T23:14:56Z",
+      "digest": "sha256:051697c40c39d4846a270ed3babae5d91e75c82d4cc3e0001e6c4e1607fb08d9"
+    },
+    {
+      "version": "3.15.1-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-21T23:14:58Z",
+      "digest": "sha256:cad5a827df95eaf038d7b2469abd312d4e0e4ab8056a0c73dbda656db294e283"
+    },
+    {
+      "version": "3.15.1-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-21T23:14:59Z",
+      "digest": "sha256:310c064432a7947e66375f84925e615366f3c5cfe0867fed09a6b1fc583644ac"
+    },
+    {
+      "version": "3.11.17",
+      "releaseTimestamp": "2026-10-22T03:36:02Z",
+      "digest": "sha256:8f6593e62e991b818dc28750c0c67c340046a70ab5cf79df52116005ec9cbf56"
+    },
+    {
+      "version": "3.11.17-bookworm",
+      "releaseTimestamp": "2026-10-22T03:36:09Z",
+      "digest": "sha256:18d373e126e39c29c6d38e71e2f19ca66636568318fc95c7849c462b7f9d3d64"
+    },
+    {
+      "version": "3.11.17-trixie",
+      "releaseTimestamp": "2026-10-22T03:36:15Z",
+      "digest": "sha256:8f6593e62e991b818dc28750c0c67c340046a70ab5cf79df52116005ec9cbf56"
+    },
+    {
+      "version": "3.12.15",
+      "releaseTimestamp": "2026-10-22T03:36:42Z",
+      "digest": "sha256:0d0db5b17f11b1b7d1aafa74ceadaa64ba0944b267ff6fc22008a197acd6b9ad"
+    },
+    {
+      "version": "3.12.15-bookworm",
+      "releaseTimestamp": "2026-10-22T03:36:48Z",
+      "digest": "sha256:14a4933e6cef421424f7a66d89a3f4eafcbd0d90e0a822251f298e05132dc735"
+    },
+    {
+      "version": "3.12.15-trixie",
+      "releaseTimestamp": "2026-10-22T03:36:55Z",
+      "digest": "sha256:0d0db5b17f11b1b7d1aafa74ceadaa64ba0944b267ff6fc22008a197acd6b9ad"
+    },
+    {
+      "version": "3.14.9",
+      "releaseTimestamp": "2026-10-22T08:08:20Z",
+      "digest": "sha256:30a34d141e34b8fbedabecb8f86b3d49a62e348d8112ad3c1289f0b2b216ad3e"
+    },
+    {
+      "version": "3.14.9-trixie",
+      "releaseTimestamp": "2026-10-22T08:08:35Z",
+      "digest": "sha256:2c90493710bd462e097441e60b0218430d8f7e2b46779bfca3742b2efd386feb"
+    },
+    {
+      "version": "3.15.1",
+      "releaseTimestamp": "2026-10-22T08:09:07Z",
+      "digest": "sha256:dc005c4de6908d750269a5ee683da95b4cfb5bf419f69b8e95d98d9e44bb2841"
+    },
+    {
+      "version": "3.15.1-bookworm",
+      "releaseTimestamp": "2026-10-22T08:09:13Z",
+      "digest": "sha256:2734c1683bd937b316f31b18972026302f155f0ffd932b329811d2e3a8450775"
+    },
+    {
+      "version": "3.15.1-slim-bookworm",
+      "releaseTimestamp": "2026-10-22T08:09:19Z",
+      "digest": "sha256:575f8bc12ec26542e0678bc6b60e385218248019d433157ec327264a78c3a853"
+    },
+    {
+      "version": "3.15.1-trixie",
+      "releaseTimestamp": "2026-10-22T08:09:25Z",
+      "digest": "sha256:c5075348770d14159b316d99a4f65f3771d227710877021833119b014cd1a803"
+    },
+    {
+      "version": "3.13.17",
+      "releaseTimestamp": "2026-10-22T11:07:55Z",
+      "digest": "sha256:4732b037ed90bd6965ebdc6e6564895b01e6687943d1f5b99f651d073a5ac6c2"
+    },
+    {
+      "version": "3.13.17-bookworm",
+      "releaseTimestamp": "2026-10-22T11:08:01Z",
+      "digest": "sha256:a3799099b64fd333f262768c7a64733f6e4edb7bc569813710a100214bdcf278"
+    },
+    {
+      "version": "3.13.17-slim-bookworm",
+      "releaseTimestamp": "2026-10-22T11:08:07Z",
+      "digest": "sha256:e32be0e55814a08977501ca863271d9bd02443710db8f2afaf8372e2c4508530"
+    },
+    {
+      "version": "3.13.17-trixie",
+      "releaseTimestamp": "2026-10-22T11:08:13Z",
+      "digest": "sha256:d5a186865324088bd10d1671801b42297a8fe3f8059143fb22b2e2b776ffa6dd"
+    },
+    {
+      "version": "3.14.9-bookworm",
+      "releaseTimestamp": "2026-10-22T11:08:44Z",
+      "digest": "sha256:7742c7daca5b166a5a81795531dee9701c032bc0ea00027740e5e9eabfed17c6"
+    },
+    {
+      "version": "3.14.9-slim-bookworm",
+      "releaseTimestamp": "2026-10-22T11:08:48Z",
+      "digest": "sha256:945c2676dc2b18e0c1f16879244122c57c0ffede60006bf3df159c507a31bcae"
+    },
+    {
+      "version": "3.15.1-alpine3.24",
+      "releaseTimestamp": "2026-10-22T14:08:30Z",
+      "digest": "sha256:54448f67d7c31c39e5cdd3ea2d6382395ce142806c284425f8e897d78a0465b3"
+    },
+    {
+      "version": "3.11.17-alpine",
+      "releaseTimestamp": "2026-10-22T17:06:59Z",
+      "digest": "sha256:5fb4bc53dd0180955e31e5245b648bbb24a4ac4ab03a1de81513642325220bcd"
+    },
+    {
+      "version": "3.11.17-alpine3.23",
+      "releaseTimestamp": "2026-10-22T17:07:02Z",
+      "digest": "sha256:ea737b7f47756db87a12d3e0557c1c830fb0afd2c838a0edce44cfc675aa6513"
+    },
+    {
+      "version": "3.11.17-alpine3.24",
+      "releaseTimestamp": "2026-10-22T17:07:06Z",
+      "digest": "sha256:5fb4bc53dd0180955e31e5245b648bbb24a4ac4ab03a1de81513642325220bcd"
+    },
+    {
+      "version": "3.12.15-alpine",
+      "releaseTimestamp": "2026-10-22T17:07:41Z",
+      "digest": "sha256:b658b05ce9c4eb97ec6fc19424818a1f31993659c2b505a532f470e83807815d"
+    },
+    {
+      "version": "3.12.15-alpine3.23",
+      "releaseTimestamp": "2026-10-22T17:07:44Z",
+      "digest": "sha256:3d0ca66b723a0ff2a7a6e424cc2d01443e1b7c75ffcc110145f75d0f4daf6d63"
+    },
+    {
+      "version": "3.12.15-alpine3.24",
+      "releaseTimestamp": "2026-10-22T17:07:47Z",
+      "digest": "sha256:b658b05ce9c4eb97ec6fc19424818a1f31993659c2b505a532f470e83807815d"
+    },
+    {
+      "version": "3.13.17-alpine",
+      "releaseTimestamp": "2026-10-22T17:08:22Z",
+      "digest": "sha256:fa0bb0d0cd7c7d6cef30a69094d32ac2b71c7304c87c6107fec100e1ee4eda02"
+    },
+    {
+      "version": "3.13.17-alpine3.23",
+      "releaseTimestamp": "2026-10-22T17:08:26Z",
+      "digest": "sha256:df8241c52fff8aefebb789ce9e140fb20e9f1f1ff9e5bca28b2064831eb6ff04"
+    },
+    {
+      "version": "3.13.17-alpine3.24",
+      "releaseTimestamp": "2026-10-22T17:08:29Z",
+      "digest": "sha256:fa0bb0d0cd7c7d6cef30a69094d32ac2b71c7304c87c6107fec100e1ee4eda02"
+    },
+    {
+      "version": "3.14.9-alpine",
+      "releaseTimestamp": "2026-10-22T17:09:06Z",
+      "digest": "sha256:dbeb11d16bb95c3a7e3c25c842cb9f20cbc8c18f8be0461a4a0dcc861ad386a0"
+    },
+    {
+      "version": "3.14.9-alpine3.23",
+      "releaseTimestamp": "2026-10-22T17:09:09Z",
+      "digest": "sha256:a3d4eff2e4a3de12d9709b3e80cee788109d7292955972a83f5fff81b06c2e95"
+    },
+    {
+      "version": "3.14.9-alpine3.24",
+      "releaseTimestamp": "2026-10-22T17:09:12Z",
+      "digest": "sha256:dbeb11d16bb95c3a7e3c25c842cb9f20cbc8c18f8be0461a4a0dcc861ad386a0"
+    },
+    {
+      "version": "3.15.1-alpine",
+      "releaseTimestamp": "2026-10-22T17:09:41Z",
+      "digest": "sha256:54448f67d7c31c39e5cdd3ea2d6382395ce142806c284425f8e897d78a0465b3"
+    },
+    {
+      "version": "3.15.1-alpine3.23",
+      "releaseTimestamp": "2026-10-22T17:09:45Z",
+      "digest": "sha256:cb295b554dbbea09b2c0e6e6d9ce55f051347c902fbb611e618c071addfb30a3"
+    },
+    {
+      "version": "3.12.15-slim-trixie",
+      "releaseTimestamp": "2026-10-22T20:07:12Z",
+      "digest": "sha256:a0f57064cbdcd6285fa45f51237ab0b35ea8ebaed06a1f5973e89e19dfb86704"
+    },
+    {
+      "version": "3.11.17-slim",
+      "releaseTimestamp": "2026-10-22T23:06:50Z",
+      "digest": "sha256:b7a9e5f6a93d6d4a31f129bbd4bdee69efccb6ded0fb230d78aafaf37af98377"
+    },
+    {
+      "version": "3.11.17-slim-trixie",
+      "releaseTimestamp": "2026-10-22T23:06:54Z",
+      "digest": "sha256:b7a9e5f6a93d6d4a31f129bbd4bdee69efccb6ded0fb230d78aafaf37af98377"
+    },
+    {
+      "version": "3.12.15-slim",
+      "releaseTimestamp": "2026-10-22T23:07:20Z",
+      "digest": "sha256:a0f57064cbdcd6285fa45f51237ab0b35ea8ebaed06a1f5973e89e19dfb86704"
+    },
+    {
+      "version": "3.14.9-slim",
+      "releaseTimestamp": "2026-10-24T08:08:08Z",
+      "digest": "sha256:35caba83af2fe6da9a5d922f9b0156f21d1246a48278c58a08bd253303ba42e8"
+    },
+    {
+      "version": "3.14.9-slim-trixie",
+      "releaseTimestamp": "2026-10-24T08:08:12Z",
+      "digest": "sha256:35caba83af2fe6da9a5d922f9b0156f21d1246a48278c58a08bd253303ba42e8"
+    },
+    {
+      "version": "3.15.1-slim",
+      "releaseTimestamp": "2026-10-24T08:08:38Z",
+      "digest": "sha256:533b0b2f9b5d46fd097091cf826f27902f1d6c3bca714b6dc74551356aa97a51"
+    },
+    {
+      "version": "3.15.1-slim-trixie",
+      "releaseTimestamp": "2026-10-24T08:08:42Z",
+      "digest": "sha256:533b0b2f9b5d46fd097091cf826f27902f1d6c3bca714b6dc74551356aa97a51"
+    },
+    {
+      "version": "3.13.17-slim",
+      "releaseTimestamp": "2026-10-24T11:07:38Z",
+      "digest": "sha256:d98cc29d3266e535dd9da1099688d9cb3ca4753813571e071763d17725460962"
+    },
+    {
+      "version": "3.13.17-slim-trixie",
+      "releaseTimestamp": "2026-10-24T11:07:42Z",
+      "digest": "sha256:d98cc29d3266e535dd9da1099688d9cb3ca4753813571e071763d17725460962"
+    },
+    {
+      "version": "3.16.0a1-windowsservercore",
+      "releaseTimestamp": "2026-10-27T20:09:50Z",
+      "digest": "sha256:3403a8c90022c6ecc93fcc6ff29701f2640087d3e573d73ce042035a3559aa57"
+    },
+    {
+      "version": "3.16.0a1-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-27T20:09:52Z",
+      "digest": "sha256:9e58927a14c597b3fb3f1cf98410db349552afac81a31b4807be4f6c2f1b5433"
+    },
+    {
+      "version": "3.16.0a1-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-27T20:09:54Z",
+      "digest": "sha256:bbc8d43b4eeb4be525754e74aaef21ff2cf3d5123807c83f0b8db3a02157c878"
+    },
+    {
+      "version": "3-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T14:06:40Z",
+      "digest": "sha256:96599df822d0e1c6bb700014a05c7f3c8cabc6e0f7ff3c4f9f69cee033b4b5d9"
+    },
+    {
+      "version": "3.14-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T14:09:28Z",
+      "digest": "sha256:3fe1a0b6c2d6b2ebb572906cdabeca75aeb558c0c17db5ffefbcf8094871c32b"
+    },
+    {
+      "version": "3.14.10-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T14:09:51Z",
+      "digest": "sha256:3fe1a0b6c2d6b2ebb572906cdabeca75aeb558c0c17db5ffefbcf8094871c32b"
+    },
+    {
+      "version": "3.15-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T14:10:14Z",
+      "digest": "sha256:96599df822d0e1c6bb700014a05c7f3c8cabc6e0f7ff3c4f9f69cee033b4b5d9"
+    },
+    {
+      "version": "3.15.2-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T14:10:36Z",
+      "digest": "sha256:96599df822d0e1c6bb700014a05c7f3c8cabc6e0f7ff3c4f9f69cee033b4b5d9"
+    },
+    {
+      "version": "slim-bookworm",
+      "releaseTimestamp": "2026-11-05T14:11:38Z",
+      "digest": "sha256:96599df822d0e1c6bb700014a05c7f3c8cabc6e0f7ff3c4f9f69cee033b4b5d9"
+    },
+    {
+      "version": "3.11-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T17:06:44Z",
+      "digest": "sha256:a83ba18aef0f865b1a4a611c2cf460fe446f2795673bbb9fe43be570439e3b39"
+    },
+    {
+      "version": "3.11.18-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T17:07:01Z",
+      "digest": "sha256:a83ba18aef0f865b1a4a611c2cf460fe446f2795673bbb9fe43be570439e3b39"
+    },
+    {
+      "version": "3.12-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T17:07:24Z",
+      "digest": "sha256:935c3c5b12357a7e10caa9c1e6ca5692344d97cf229832ef584be2cec9fc03df"
+    },
+    {
+      "version": "3.12.16-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T17:07:40Z",
+      "digest": "sha256:935c3c5b12357a7e10caa9c1e6ca5692344d97cf229832ef584be2cec9fc03df"
+    },
+    {
+      "version": "3.13-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T17:07:58Z",
+      "digest": "sha256:a5a7017efc5969e00ae2b91c8eb0631049a569652aa4ffc4501769049ae45c72"
+    },
+    {
+      "version": "3.13.18-slim-bookworm",
+      "releaseTimestamp": "2026-11-05T17:08:12Z",
+      "digest": "sha256:a5a7017efc5969e00ae2b91c8eb0631049a569652aa4ffc4501769049ae45c72"
+    },
+    {
+      "version": "3.16.0a1-alpine",
+      "releaseTimestamp": "2026-11-05T23:11:29Z",
+      "digest": "sha256:57d59f9badcd47eabb3ed920d3bd5ae02f44664fc224ae57f1687980227741d2"
+    },
+    {
+      "version": "3.16.0a1-alpine3.23",
+      "releaseTimestamp": "2026-11-05T23:11:32Z",
+      "digest": "sha256:ed7cee59921abbacb4df7c4ea8a93e657199af922d45158ebfa1285865c0e303"
+    },
+    {
+      "version": "3.16.0a1-alpine3.24",
+      "releaseTimestamp": "2026-11-05T23:11:35Z",
+      "digest": "sha256:57d59f9badcd47eabb3ed920d3bd5ae02f44664fc224ae57f1687980227741d2"
+    },
+    {
+      "version": "3-alpine",
+      "releaseTimestamp": "2026-11-06T05:06:20Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "3-alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:06:30Z",
+      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+    },
+    {
+      "version": "3-alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:06:33Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "3-bookworm",
+      "releaseTimestamp": "2026-11-06T05:06:39Z",
+      "digest": "sha256:6f060cab421d9509c6c6a6a7762c651baf03c3f1d0145befe16b688762b7fe81"
+    },
+    {
+      "version": "3-trixie",
+      "releaseTimestamp": "2026-11-06T05:06:46Z",
+      "digest": "sha256:ce323fb792e0c3c6de88daab1a714542c6be2d4b14177aae410d0294c50b3d90"
+    },
+    {
+      "version": "3.12-trixie",
+      "releaseTimestamp": "2026-11-06T05:07:25Z",
+      "digest": "sha256:cad37dd20c7cac861af9003af8796d03ea7a998ec1e3a664429740fc9d7d2691"
+    },
+    {
+      "version": "3.12.16",
+      "releaseTimestamp": "2026-11-06T05:07:29Z",
+      "digest": "sha256:271e78638e5d4e8aeeeb4c1e72cb40c56be3add83a92eaa99b7aab83955121c0"
+    },
+    {
+      "version": "3.12.16-trixie",
+      "releaseTimestamp": "2026-11-06T05:07:40Z",
+      "digest": "sha256:271e78638e5d4e8aeeeb4c1e72cb40c56be3add83a92eaa99b7aab83955121c0"
+    },
+    {
+      "version": "3.13",
+      "releaseTimestamp": "2026-11-06T05:07:45Z",
+      "digest": "sha256:ecbe213fb818d557fd19db4078244339e2e2e52874f9c81052d3094ea114d797"
+    },
+    {
+      "version": "3.13-alpine",
+      "releaseTimestamp": "2026-11-06T05:07:52Z",
+      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+    },
+    {
+      "version": "3.13-alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:07:57Z",
+      "digest": "sha256:a0a92a22f3de839a0000df171de555624abe5b8ab235f818004ec64310e25fee"
+    },
+    {
+      "version": "3.13-alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:08:00Z",
+      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+    },
+    {
+      "version": "3.13-bookworm",
+      "releaseTimestamp": "2026-11-06T05:08:06Z",
+      "digest": "sha256:cc55e4ded9c95f6ce2133b3d096db43f214d280c2a8af65d83e246c8fa7d168c"
+    },
+    {
+      "version": "3.13-trixie",
+      "releaseTimestamp": "2026-11-06T05:08:13Z",
+      "digest": "sha256:ecbe213fb818d557fd19db4078244339e2e2e52874f9c81052d3094ea114d797"
+    },
+    {
+      "version": "3.13.18",
+      "releaseTimestamp": "2026-11-06T05:08:16Z",
+      "digest": "sha256:51db6babcbd039687e5362a676db5444b5926739abb03b10c8c6a8144872611f"
+    },
+    {
+      "version": "3.13.18-alpine",
+      "releaseTimestamp": "2026-11-06T05:08:19Z",
+      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+    },
+    {
+      "version": "3.13.18-alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:08:22Z",
+      "digest": "sha256:a0a92a22f3de839a0000df171de555624abe5b8ab235f818004ec64310e25fee"
+    },
+    {
+      "version": "3.13.18-alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:08:24Z",
+      "digest": "sha256:1e1f6334529d1fb26a2ef619d7cffb30a7c7d7cc1cc7338ebee283a58d1aeaca"
+    },
+    {
+      "version": "3.13.18-bookworm",
+      "releaseTimestamp": "2026-11-06T05:08:27Z",
+      "digest": "sha256:cc55e4ded9c95f6ce2133b3d096db43f214d280c2a8af65d83e246c8fa7d168c"
+    },
+    {
+      "version": "3.13.18-trixie",
+      "releaseTimestamp": "2026-11-06T05:08:33Z",
+      "digest": "sha256:51db6babcbd039687e5362a676db5444b5926739abb03b10c8c6a8144872611f"
+    },
+    {
+      "version": "3.14-alpine",
+      "releaseTimestamp": "2026-11-06T05:08:45Z",
+      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+    },
+    {
+      "version": "3.14-alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:08:51Z",
+      "digest": "sha256:0cdfadc8472de8f74a5d3c6e5e49d1b3f059f36cd01a0a0d4015cb1cb89df436"
+    },
+    {
+      "version": "3.14-alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:08:54Z",
+      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+    },
+    {
+      "version": "3.14-bookworm",
+      "releaseTimestamp": "2026-11-06T05:08:59Z",
+      "digest": "sha256:3fe825da0a80fa8e2cd79baadeb76b03c0ddf3d6cdbc8346778a0208b9d6038c"
+    },
+    {
+      "version": "3.14-trixie",
+      "releaseTimestamp": "2026-11-06T05:09:07Z",
+      "digest": "sha256:1cef1664561971647b94fedf437145415991d4feeda09c81df12acfad8829cde"
+    },
+    {
+      "version": "3.14.10-alpine",
+      "releaseTimestamp": "2026-11-06T05:09:13Z",
+      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+    },
+    {
+      "version": "3.14.10-alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:09:16Z",
+      "digest": "sha256:0cdfadc8472de8f74a5d3c6e5e49d1b3f059f36cd01a0a0d4015cb1cb89df436"
+    },
+    {
+      "version": "3.14.10-alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:09:19Z",
+      "digest": "sha256:a18b20ad69e74df6cf6d2e1b1a260d7a1ecf5380fd83b310f83ba88c461cf894"
+    },
+    {
+      "version": "3.14.10-bookworm",
+      "releaseTimestamp": "2026-11-06T05:09:22Z",
+      "digest": "sha256:3fe825da0a80fa8e2cd79baadeb76b03c0ddf3d6cdbc8346778a0208b9d6038c"
+    },
+    {
+      "version": "3.14.10-trixie",
+      "releaseTimestamp": "2026-11-06T05:09:28Z",
+      "digest": "sha256:8e4ff723e809a8e3bbd61bdceb92e9031689ad11edccff3306c0b3ebe60704ff"
+    },
+    {
+      "version": "3.15-alpine",
+      "releaseTimestamp": "2026-11-06T05:09:35Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "3.15-alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:09:38Z",
+      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+    },
+    {
+      "version": "3.15-alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:09:41Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "3.15-bookworm",
+      "releaseTimestamp": "2026-11-06T05:09:44Z",
+      "digest": "sha256:6f060cab421d9509c6c6a6a7762c651baf03c3f1d0145befe16b688762b7fe81"
+    },
+    {
+      "version": "3.15-trixie",
+      "releaseTimestamp": "2026-11-06T05:09:50Z",
+      "digest": "sha256:ce323fb792e0c3c6de88daab1a714542c6be2d4b14177aae410d0294c50b3d90"
+    },
+    {
+      "version": "3.15.2-alpine",
+      "releaseTimestamp": "2026-11-06T05:09:57Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "3.15.2-alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:10:00Z",
+      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+    },
+    {
+      "version": "3.15.2-alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:10:03Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "3.15.2-bookworm",
+      "releaseTimestamp": "2026-11-06T05:10:05Z",
+      "digest": "sha256:6f060cab421d9509c6c6a6a7762c651baf03c3f1d0145befe16b688762b7fe81"
+    },
+    {
+      "version": "3.15.2-trixie",
+      "releaseTimestamp": "2026-11-06T05:10:12Z",
+      "digest": "sha256:2a01fe7b84cc646c76d6fe8c8c216aef39de2617ad2723ed488e7c4f495a9539"
+    },
+    {
+      "version": "3.16.0a1",
+      "releaseTimestamp": "2026-11-06T05:10:32Z",
+      "digest": "sha256:b977a241709204181414e9f3adb87141df52319e0aee6427077e18fa34f29a67"
+    },
+    {
+      "version": "3.16.0a1-trixie",
+      "releaseTimestamp": "2026-11-06T05:10:41Z",
+      "digest": "sha256:67d601982c2fb0e4fd2f8f62c14420f761f62c858afc237469e8d52b9b9df97e"
+    },
+    {
+      "version": "alpine",
+      "releaseTimestamp": "2026-11-06T05:10:44Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "alpine3.23",
+      "releaseTimestamp": "2026-11-06T05:10:47Z",
+      "digest": "sha256:8d77d813a53e534dec9e1e5182cbd5b651b70d63b27e4ea7c1f616b37cf9aad2"
+    },
+    {
+      "version": "alpine3.24",
+      "releaseTimestamp": "2026-11-06T05:10:50Z",
+      "digest": "sha256:a0f2e268f2ce8f3709611a90054ec6a8ae31f6251f5896b8648b9bb99835e30a"
+    },
+    {
+      "version": "bookworm",
+      "releaseTimestamp": "2026-11-06T05:10:53Z",
+      "digest": "sha256:6f060cab421d9509c6c6a6a7762c651baf03c3f1d0145befe16b688762b7fe81"
+    },
+    {
+      "version": "trixie",
+      "releaseTimestamp": "2026-11-06T05:11:02Z",
+      "digest": "sha256:ce323fb792e0c3c6de88daab1a714542c6be2d4b14177aae410d0294c50b3d90"
+    },
+    {
+      "version": "3.11",
+      "releaseTimestamp": "2026-11-06T08:06:27Z",
+      "digest": "sha256:731670a425deabbc48d39f0ee3115cfa665b2a4002c19939ad3e88b2832b4549"
+    },
+    {
+      "version": "3.11-alpine",
+      "releaseTimestamp": "2026-11-06T08:06:33Z",
+      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+    },
+    {
+      "version": "3.11-alpine3.23",
+      "releaseTimestamp": "2026-11-06T08:06:39Z",
+      "digest": "sha256:24f68e1d7f9610acaeb61a0b745f26e6edb07b8094d27a533dd4c264d85f5c58"
+    },
+    {
+      "version": "3.11-alpine3.24",
+      "releaseTimestamp": "2026-11-06T08:06:42Z",
+      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+    },
+    {
+      "version": "3.11-bookworm",
+      "releaseTimestamp": "2026-11-06T08:06:47Z",
+      "digest": "sha256:726d304906fa5eb468e5531e366548d1903286352f5adb54ef508ac01fbd80c6"
+    },
+    {
+      "version": "3.11-trixie",
+      "releaseTimestamp": "2026-11-06T08:06:54Z",
+      "digest": "sha256:731670a425deabbc48d39f0ee3115cfa665b2a4002c19939ad3e88b2832b4549"
+    },
+    {
+      "version": "3.11.18",
+      "releaseTimestamp": "2026-11-06T08:06:58Z",
+      "digest": "sha256:0859a1cf34fe67ad1c91eb5c63b5846be0888e41f96906db7e0efc64a24e7105"
+    },
+    {
+      "version": "3.11.18-alpine",
+      "releaseTimestamp": "2026-11-06T08:07:00Z",
+      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+    },
+    {
+      "version": "3.11.18-alpine3.23",
+      "releaseTimestamp": "2026-11-06T08:07:04Z",
+      "digest": "sha256:24f68e1d7f9610acaeb61a0b745f26e6edb07b8094d27a533dd4c264d85f5c58"
+    },
+    {
+      "version": "3.11.18-alpine3.24",
+      "releaseTimestamp": "2026-11-06T08:07:06Z",
+      "digest": "sha256:bb1d70c1df30d8ee1e05214dbe82d6cdfd29833c1f47ce917f20991aca93acaa"
+    },
+    {
+      "version": "3.11.18-bookworm",
+      "releaseTimestamp": "2026-11-06T08:07:09Z",
+      "digest": "sha256:726d304906fa5eb468e5531e366548d1903286352f5adb54ef508ac01fbd80c6"
+    },
+    {
+      "version": "3.11.18-trixie",
+      "releaseTimestamp": "2026-11-06T08:07:16Z",
+      "digest": "sha256:0859a1cf34fe67ad1c91eb5c63b5846be0888e41f96906db7e0efc64a24e7105"
+    },
+    {
+      "version": "3.12",
+      "releaseTimestamp": "2026-11-06T08:07:19Z",
+      "digest": "sha256:cad37dd20c7cac861af9003af8796d03ea7a998ec1e3a664429740fc9d7d2691"
+    },
+    {
+      "version": "3.12-alpine",
+      "releaseTimestamp": "2026-11-06T08:07:25Z",
+      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+    },
+    {
+      "version": "3.12-alpine3.23",
+      "releaseTimestamp": "2026-11-06T08:07:30Z",
+      "digest": "sha256:20d13dc88e7bc1adf6e18cdddeb4cd53a7e0fdc3825bfe05f00c7563d4cdf102"
+    },
+    {
+      "version": "3.12-alpine3.24",
+      "releaseTimestamp": "2026-11-06T08:07:34Z",
+      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+    },
+    {
+      "version": "3.12-bookworm",
+      "releaseTimestamp": "2026-11-06T08:07:39Z",
+      "digest": "sha256:4209fae09a3e20afd863e528bfddc235da5fd5977983e1996cd54cc9a72e6267"
+    },
+    {
+      "version": "3.12.16-alpine",
+      "releaseTimestamp": "2026-11-06T08:07:48Z",
+      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+    },
+    {
+      "version": "3.12.16-alpine3.23",
+      "releaseTimestamp": "2026-11-06T08:07:51Z",
+      "digest": "sha256:20d13dc88e7bc1adf6e18cdddeb4cd53a7e0fdc3825bfe05f00c7563d4cdf102"
+    },
+    {
+      "version": "3.12.16-alpine3.24",
+      "releaseTimestamp": "2026-11-06T08:07:54Z",
+      "digest": "sha256:e064671ca452259bab50e8e2c7bd896e39e9a343bb06ca25234adf6fe18d0fc7"
+    },
+    {
+      "version": "3.12.16-bookworm",
+      "releaseTimestamp": "2026-11-06T08:07:57Z",
+      "digest": "sha256:4209fae09a3e20afd863e528bfddc235da5fd5977983e1996cd54cc9a72e6267"
+    },
+    {
+      "version": "3.16.0a1-slim",
+      "releaseTimestamp": "2026-11-07T20:08:41Z",
+      "digest": "sha256:df293ba3b89f458e1aad6051b62ff1c4fad7b3b52b8147ae9cc4b667f9cf2741"
+    },
+    {
+      "version": "3.16.0a1-slim-trixie",
+      "releaseTimestamp": "2026-11-07T20:08:44Z",
+      "digest": "sha256:df293ba3b89f458e1aad6051b62ff1c4fad7b3b52b8147ae9cc4b667f9cf2741"
+    },
+    {
+      "version": "3-slim",
+      "releaseTimestamp": "2026-11-07T23:06:18Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "3-slim-trixie",
+      "releaseTimestamp": "2026-11-07T23:06:23Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "3.15-slim",
+      "releaseTimestamp": "2026-11-07T23:08:05Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "3.15-slim-trixie",
+      "releaseTimestamp": "2026-11-07T23:08:09Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "3.15.2-slim",
+      "releaseTimestamp": "2026-11-07T23:08:20Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "3.15.2-slim-trixie",
+      "releaseTimestamp": "2026-11-07T23:08:23Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "slim",
+      "releaseTimestamp": "2026-11-07T23:08:54Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "slim-trixie",
+      "releaseTimestamp": "2026-11-07T23:08:57Z",
+      "digest": "sha256:65a65fc7b30b06cb6df4930fd4650697cb23f4c2698ab81fc87e4b031bc36928"
+    },
+    {
+      "version": "3.13-slim",
+      "releaseTimestamp": "2026-11-08T02:07:18Z",
+      "digest": "sha256:e48f59cdba69a3cbd9ed2cf0f348d90d45a8d350d98134cf1070bc106ee9ed90"
+    },
+    {
+      "version": "3.13-slim-trixie",
+      "releaseTimestamp": "2026-11-08T02:07:22Z",
+      "digest": "sha256:e48f59cdba69a3cbd9ed2cf0f348d90d45a8d350d98134cf1070bc106ee9ed90"
+    },
+    {
+      "version": "3.13.18-slim",
+      "releaseTimestamp": "2026-11-08T02:07:32Z",
+      "digest": "sha256:e48f59cdba69a3cbd9ed2cf0f348d90d45a8d350d98134cf1070bc106ee9ed90"
+    },
+    {
+      "version": "3.13.18-slim-trixie",
+      "releaseTimestamp": "2026-11-08T02:07:36Z",
+      "digest": "sha256:e48f59cdba69a3cbd9ed2cf0f348d90d45a8d350d98134cf1070bc106ee9ed90"
+    },
+    {
+      "version": "3.14-slim",
+      "releaseTimestamp": "2026-11-08T02:07:50Z",
+      "digest": "sha256:9aaa474097d094040649f2162a627c0049b408f52138d980916788d80f04802f"
+    },
+    {
+      "version": "3.14-slim-trixie",
+      "releaseTimestamp": "2026-11-08T02:07:53Z",
+      "digest": "sha256:9aaa474097d094040649f2162a627c0049b408f52138d980916788d80f04802f"
+    },
+    {
+      "version": "3.14.10-slim",
+      "releaseTimestamp": "2026-11-08T02:08:05Z",
+      "digest": "sha256:9aaa474097d094040649f2162a627c0049b408f52138d980916788d80f04802f"
+    },
+    {
+      "version": "3.14.10-slim-trixie",
+      "releaseTimestamp": "2026-11-08T02:08:09Z",
+      "digest": "sha256:9aaa474097d094040649f2162a627c0049b408f52138d980916788d80f04802f"
+    },
+    {
+      "version": "3.12-slim",
+      "releaseTimestamp": "2026-11-08T05:06:56Z",
+      "digest": "sha256:5e2bdb1b0d542d5039cffb8181c65930093949194a65c365dfb1b0fe13a4fa5b"
+    },
+    {
+      "version": "3.12-slim-trixie",
+      "releaseTimestamp": "2026-11-08T05:07:00Z",
+      "digest": "sha256:5e2bdb1b0d542d5039cffb8181c65930093949194a65c365dfb1b0fe13a4fa5b"
+    },
+    {
+      "version": "3.12.16-slim",
+      "releaseTimestamp": "2026-11-08T05:07:10Z",
+      "digest": "sha256:5e2bdb1b0d542d5039cffb8181c65930093949194a65c365dfb1b0fe13a4fa5b"
+    },
+    {
+      "version": "3.12.16-slim-trixie",
+      "releaseTimestamp": "2026-11-08T05:07:14Z",
+      "digest": "sha256:5e2bdb1b0d542d5039cffb8181c65930093949194a65c365dfb1b0fe13a4fa5b"
+    },
+    {
+      "version": "3.11-slim",
+      "releaseTimestamp": "2026-11-08T08:06:33Z",
+      "digest": "sha256:07d4824036af339fa1b6ef769cc99d9c10a141769538b52b3b597c84f7a7b535"
+    },
+    {
+      "version": "3.11-slim-trixie",
+      "releaseTimestamp": "2026-11-08T08:06:37Z",
+      "digest": "sha256:07d4824036af339fa1b6ef769cc99d9c10a141769538b52b3b597c84f7a7b535"
+    },
+    {
+      "version": "3.11.18-slim",
+      "releaseTimestamp": "2026-11-08T08:06:47Z",
+      "digest": "sha256:07d4824036af339fa1b6ef769cc99d9c10a141769538b52b3b597c84f7a7b535"
+    },
+    {
+      "version": "3.11.18-slim-trixie",
+      "releaseTimestamp": "2026-11-08T08:06:51Z",
+      "digest": "sha256:07d4824036af339fa1b6ef769cc99d9c10a141769538b52b3b597c84f7a7b535"
+    },
+    {
+      "version": "3",
+      "releaseTimestamp": "2026-11-11T23:06:14Z",
+      "digest": "sha256:df3f05ff4d74833f52146edd195c8f7913581b57796a820fb7e373457ace9bad"
+    },
+    {
+      "version": "3-windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:06:33Z",
+      "digest": "sha256:ada7fcfe2cff37aeb2f756fc4acc47729b72fa45f528095c93e36039a87a674a"
+    },
+    {
+      "version": "3-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:06:35Z",
+      "digest": "sha256:85b669bb58fe387f41f1e4c411f53d87cf6611ea32b957ea750dc06691934447"
+    },
+    {
+      "version": "3-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:06:37Z",
+      "digest": "sha256:3b51e471dd6af74fedf5b4b59920d52648d0bad6b52611ddbf5a0898c5e7663d"
+    },
+    {
+      "version": "3.14",
+      "releaseTimestamp": "2026-11-11T23:07:52Z",
+      "digest": "sha256:a7097ae62ea4cf4fec036282cbf97f0d0b7b4f9cb286277951115fb30442527d"
+    },
+    {
+      "version": "3.14-windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:08:05Z",
+      "digest": "sha256:212195a6064606e8a1176601289404a4b9f62beb0ee0fd1e41bacfd6a24a6593"
+    },
+    {
+      "version": "3.14-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:08:06Z",
+      "digest": "sha256:e9d30074a941b1ab80ada1db4d02b73c002890e3322b5bb8347d856604645e75"
+    },
+    {
+      "version": "3.14-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:08:08Z",
+      "digest": "sha256:c8aad300c5412b4a949dbc577067fb06bb4903eda4681414d3715a9a3ffb06d6"
+    },
+    {
+      "version": "3.14.10",
+      "releaseTimestamp": "2026-11-11T23:08:11Z",
+      "digest": "sha256:a0362a0fda63931168dbae73de63cdffd798aa7a52c8cf7facaf2aec2c91238e"
+    },
+    {
+      "version": "3.14.10-windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:08:23Z",
+      "digest": "sha256:212195a6064606e8a1176601289404a4b9f62beb0ee0fd1e41bacfd6a24a6593"
+    },
+    {
+      "version": "3.14.10-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:08:25Z",
+      "digest": "sha256:e9d30074a941b1ab80ada1db4d02b73c002890e3322b5bb8347d856604645e75"
+    },
+    {
+      "version": "3.14.10-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:08:26Z",
+      "digest": "sha256:c8aad300c5412b4a949dbc577067fb06bb4903eda4681414d3715a9a3ffb06d6"
+    },
+    {
+      "version": "3.15",
+      "releaseTimestamp": "2026-11-11T23:08:30Z",
+      "digest": "sha256:df3f05ff4d74833f52146edd195c8f7913581b57796a820fb7e373457ace9bad"
+    },
+    {
+      "version": "3.15-windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:08:41Z",
+      "digest": "sha256:ada7fcfe2cff37aeb2f756fc4acc47729b72fa45f528095c93e36039a87a674a"
+    },
+    {
+      "version": "3.15-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:08:43Z",
+      "digest": "sha256:85b669bb58fe387f41f1e4c411f53d87cf6611ea32b957ea750dc06691934447"
+    },
+    {
+      "version": "3.15-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:08:45Z",
+      "digest": "sha256:3b51e471dd6af74fedf5b4b59920d52648d0bad6b52611ddbf5a0898c5e7663d"
+    },
+    {
+      "version": "3.15.2",
+      "releaseTimestamp": "2026-11-11T23:08:48Z",
+      "digest": "sha256:e31e8561e10880b4e2ce95a7b3d14c3bf006bc0a7934adccd407905290e77be0"
+    },
+    {
+      "version": "3.15.2-windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:09:00Z",
+      "digest": "sha256:ada7fcfe2cff37aeb2f756fc4acc47729b72fa45f528095c93e36039a87a674a"
+    },
+    {
+      "version": "3.15.2-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:09:02Z",
+      "digest": "sha256:85b669bb58fe387f41f1e4c411f53d87cf6611ea32b957ea750dc06691934447"
+    },
+    {
+      "version": "3.15.2-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:09:04Z",
+      "digest": "sha256:3b51e471dd6af74fedf5b4b59920d52648d0bad6b52611ddbf5a0898c5e7663d"
+    },
+    {
+      "version": "3.16-rc",
+      "releaseTimestamp": "2026-11-11T23:09:29Z",
+      "digest": "sha256:31060ad4fc1bc6fd8732cda1b01537c568500d43e83383358c5bfc7463961960"
+    },
+    {
+      "version": "3.16-rc-alpine",
+      "releaseTimestamp": "2026-11-11T23:09:48Z",
+      "digest": "sha256:84981d09995e09e68eae9fd68eb2aee583d11e3883541467d7cabe8ebd09ad41"
+    },
+    {
+      "version": "3.16-rc-alpine3.23",
+      "releaseTimestamp": "2026-11-11T23:10:07Z",
+      "digest": "sha256:96e39f3ebf0bf719620a41b04b5f1f83b8ecdf98faf190ee89f6a9c8ca12b5dc"
+    },
+    {
+      "version": "3.16-rc-alpine3.24",
+      "releaseTimestamp": "2026-11-11T23:10:10Z",
+      "digest": "sha256:84981d09995e09e68eae9fd68eb2aee583d11e3883541467d7cabe8ebd09ad41"
+    },
+    {
+      "version": "3.16-rc-slim",
+      "releaseTimestamp": "2026-11-11T23:10:30Z",
+      "digest": "sha256:f92392802a5cd89c795408b1b8a46d01a0dd04b1f9be19ae1e082aad472275ab"
+    },
+    {
+      "version": "3.16-rc-slim-trixie",
+      "releaseTimestamp": "2026-11-11T23:10:33Z",
+      "digest": "sha256:f92392802a5cd89c795408b1b8a46d01a0dd04b1f9be19ae1e082aad472275ab"
+    },
+    {
+      "version": "3.16-rc-trixie",
+      "releaseTimestamp": "2026-11-11T23:10:38Z",
+      "digest": "sha256:b6e2f3d186b2fc14f5a22f1ca4e1c0b2b19e27a7c1ae85f5646ec269efdad1a5"
+    },
+    {
+      "version": "3.16-rc-windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:10:40Z",
+      "digest": "sha256:9ea713b01293711796ce7e1d0f54302b32153b4738612a501fcdc6525a41e5a2"
+    },
+    {
+      "version": "3.16-rc-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:10:42Z",
+      "digest": "sha256:6a27cbff8f0f70ca9c4de2030438e76865456634183dd22dc3db75b1c5c03334"
+    },
+    {
+      "version": "3.16-rc-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:10:44Z",
+      "digest": "sha256:a527b4d5e72051b6680dbd6c933f9249d6974ce85b1c722bb1624c6e7cf26cf4"
+    },
+    {
+      "version": "3.16.0a2",
+      "releaseTimestamp": "2026-11-11T23:10:47Z",
+      "digest": "sha256:a41361766cbe771203f28fc8963154e36c43393a54a2eff0de92a1c58feaa892"
+    },
+    {
+      "version": "3.16.0a2-alpine",
+      "releaseTimestamp": "2026-11-11T23:10:51Z",
+      "digest": "sha256:fe3a79b468fe272d1c28a7fd04de92b22916cce59379356713b2315b89be1dd8"
+    },
+    {
+      "version": "3.16.0a2-alpine3.23",
+      "releaseTimestamp": "2026-11-11T23:10:56Z",
+      "digest": "sha256:6e9750ded4d23bb476310972709bf7f933faf25e01f20cfb13ba2f9b3a168ea8"
+    },
+    {
+      "version": "3.16.0a2-alpine3.24",
+      "releaseTimestamp": "2026-11-11T23:10:59Z",
+      "digest": "sha256:fe3a79b468fe272d1c28a7fd04de92b22916cce59379356713b2315b89be1dd8"
+    },
+    {
+      "version": "3.16.0a2-slim",
+      "releaseTimestamp": "2026-11-11T23:11:24Z",
+      "digest": "sha256:b6054ebb0a93af6102a761aead215703bb1273624c3e5b1c32943edd3994822c"
+    },
+    {
+      "version": "3.16.0a2-slim-trixie",
+      "releaseTimestamp": "2026-11-11T23:11:26Z",
+      "digest": "sha256:b6054ebb0a93af6102a761aead215703bb1273624c3e5b1c32943edd3994822c"
+    },
+    {
+      "version": "3.16.0a2-trixie",
+      "releaseTimestamp": "2026-11-11T23:11:29Z",
+      "digest": "sha256:e51de8320abfe2776177a46163e1b7cd6994d830bffffd63f8a7f1677cde654c"
+    },
+    {
+      "version": "3.16.0a2-windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:11:31Z",
+      "digest": "sha256:9ea713b01293711796ce7e1d0f54302b32153b4738612a501fcdc6525a41e5a2"
+    },
+    {
+      "version": "3.16.0a2-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:11:33Z",
+      "digest": "sha256:6a27cbff8f0f70ca9c4de2030438e76865456634183dd22dc3db75b1c5c03334"
+    },
+    {
+      "version": "3.16.0a2-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:11:34Z",
+      "digest": "sha256:a527b4d5e72051b6680dbd6c933f9249d6974ce85b1c722bb1624c6e7cf26cf4"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-11T23:11:42Z",
+      "digest": "sha256:df3f05ff4d74833f52146edd195c8f7913581b57796a820fb7e373457ace9bad"
+    },
+    {
+      "version": "windowsservercore",
+      "releaseTimestamp": "2026-11-11T23:11:49Z",
+      "digest": "sha256:ada7fcfe2cff37aeb2f756fc4acc47729b72fa45f528095c93e36039a87a674a"
+    },
+    {
+      "version": "windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-11T23:11:51Z",
+      "digest": "sha256:85b669bb58fe387f41f1e4c411f53d87cf6611ea32b957ea750dc06691934447"
+    },
+    {
+      "version": "windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-11T23:11:52Z",
+      "digest": "sha256:3b51e471dd6af74fedf5b4b59920d52648d0bad6b52611ddbf5a0898c5e7663d"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "releases": [
+    {
+      "version": "prototype-v1.55.0-better-db-opening.0",
+      "releaseTimestamp": "2026-10-20T09:59:50Z",
+      "digest": "sha256:2f168611eb24e1ab83be363da9670db6ac521cac8abf70a368e3ea3a03285469"
+    },
+    {
+      "version": "v1.56.0",
+      "releaseTimestamp": "2026-10-26T10:15:18Z",
+      "digest": "sha256:1f578fa865f8251894b3bf38d6668d6209a3f451f8f65ab953e129d4c1db5ef4"
+    },
+    {
+      "version": "prototype-v1.55.0-revert-threshold-behavior.0",
+      "releaseTimestamp": "2026-10-29T15:28:36Z",
+      "digest": "sha256:2a855501c9406a1431e99bb16dc9575e68aba5c0269104c348cbecb5d814906d"
+    },
+    {
+      "version": "v1.56.1",
+      "releaseTimestamp": "2026-11-02T09:55:28Z",
+      "digest": "sha256:b7ba431bf6f9b26cc86132798f3640964147a699cf23f026b74c6c05dbb1d60d"
+    },
+    {
+      "version": "v1.55",
+      "releaseTimestamp": "2026-11-02T10:05:47Z",
+      "digest": "sha256:88f2a08eb9532cc54a60d8fd014a23bf5cfda33d0c01ecbbaca9b4b463e17466"
+    },
+    {
+      "version": "v1.55.1",
+      "releaseTimestamp": "2026-11-02T10:05:50Z",
+      "digest": "sha256:88f2a08eb9532cc54a60d8fd014a23bf5cfda33d0c01ecbbaca9b4b463e17466"
+    },
+    {
+      "version": "v1.56",
+      "releaseTimestamp": "2026-11-09T13:12:32Z",
+      "digest": "sha256:9600db22be3fcbf3d506176d3a73dd70a65c5719d9aa1d2837355b75afb8f4fb"
+    },
+    {
+      "version": "v1",
+      "releaseTimestamp": "2026-11-09T13:12:33Z",
+      "digest": "sha256:9600db22be3fcbf3d506176d3a73dd70a65c5719d9aa1d2837355b75afb8f4fb"
+    },
+    {
+      "version": "v1.56.2",
+      "releaseTimestamp": "2026-11-09T13:12:35Z",
+      "digest": "sha256:9600db22be3fcbf3d506176d3a73dd70a65c5719d9aa1d2837355b75afb8f4fb"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-09T13:12:37Z",
+      "digest": "sha256:9600db22be3fcbf3d506176d3a73dd70a65c5719d9aa1d2837355b75afb8f4fb"
+    },
+    {
+      "version": "nightly",
+      "releaseTimestamp": "2026-11-11T23:27:17Z",
+      "digest": "sha256:52cc748aa36b1deaecc1eebfbb559a12f6f9caf288b37e21fccd93e2b7e44fa9"
+    }
+  ]
+}

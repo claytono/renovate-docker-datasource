@@ -1,0 +1,394 @@
+{
+  "releases": [
+    {
+      "version": "10",
+      "releaseTimestamp": "2026-10-27T08:35:12Z",
+      "digest": "sha256:d769e37960821dfdcf096954f6e7ac89f747e116c1bba98e48edd265dfc7deae"
+    },
+    {
+      "version": "10-jammy",
+      "releaseTimestamp": "2026-10-27T08:35:14Z",
+      "digest": "sha256:d769e37960821dfdcf096954f6e7ac89f747e116c1bba98e48edd265dfc7deae"
+    },
+    {
+      "version": "10.11",
+      "releaseTimestamp": "2026-10-27T08:35:18Z",
+      "digest": "sha256:d769e37960821dfdcf096954f6e7ac89f747e116c1bba98e48edd265dfc7deae"
+    },
+    {
+      "version": "10.11-jammy",
+      "releaseTimestamp": "2026-10-27T08:35:20Z",
+      "digest": "sha256:d769e37960821dfdcf096954f6e7ac89f747e116c1bba98e48edd265dfc7deae"
+    },
+    {
+      "version": "10.11.19",
+      "releaseTimestamp": "2026-10-27T08:35:24Z",
+      "digest": "sha256:d769e37960821dfdcf096954f6e7ac89f747e116c1bba98e48edd265dfc7deae"
+    },
+    {
+      "version": "10.11.19-jammy",
+      "releaseTimestamp": "2026-10-27T08:35:26Z",
+      "digest": "sha256:d769e37960821dfdcf096954f6e7ac89f747e116c1bba98e48edd265dfc7deae"
+    },
+    {
+      "version": "10.6",
+      "releaseTimestamp": "2026-10-27T08:35:34Z",
+      "digest": "sha256:f1c56f035ed268a0d7c2c2e06dc879f6319b997cb434cf822a4cfd72a7aa184d"
+    },
+    {
+      "version": "10.6-jammy",
+      "releaseTimestamp": "2026-10-27T08:35:36Z",
+      "digest": "sha256:f1c56f035ed268a0d7c2c2e06dc879f6319b997cb434cf822a4cfd72a7aa184d"
+    },
+    {
+      "version": "10.6.28",
+      "releaseTimestamp": "2026-10-27T08:35:40Z",
+      "digest": "sha256:f1c56f035ed268a0d7c2c2e06dc879f6319b997cb434cf822a4cfd72a7aa184d"
+    },
+    {
+      "version": "10.6.28-jammy",
+      "releaseTimestamp": "2026-10-27T08:35:42Z",
+      "digest": "sha256:f1c56f035ed268a0d7c2c2e06dc879f6319b997cb434cf822a4cfd72a7aa184d"
+    },
+    {
+      "version": "11",
+      "releaseTimestamp": "2026-10-27T08:35:50Z",
+      "digest": "sha256:c4124d1afa875e47f2892edf26b482fa54f796e2f342d3717a04ca091a22a9bd"
+    },
+    {
+      "version": "11-noble",
+      "releaseTimestamp": "2026-10-27T08:35:52Z",
+      "digest": "sha256:c4124d1afa875e47f2892edf26b482fa54f796e2f342d3717a04ca091a22a9bd"
+    },
+    {
+      "version": "11.4",
+      "releaseTimestamp": "2026-10-27T08:36:00Z",
+      "digest": "sha256:d1891ede5a559f1086f55053bb8cc1569b0298338c4d72d71725a7f74f6ba620"
+    },
+    {
+      "version": "11.4-noble",
+      "releaseTimestamp": "2026-10-27T08:36:02Z",
+      "digest": "sha256:d1891ede5a559f1086f55053bb8cc1569b0298338c4d72d71725a7f74f6ba620"
+    },
+    {
+      "version": "11.4.13",
+      "releaseTimestamp": "2026-10-27T08:36:06Z",
+      "digest": "sha256:d1891ede5a559f1086f55053bb8cc1569b0298338c4d72d71725a7f74f6ba620"
+    },
+    {
+      "version": "11.4.13-noble",
+      "releaseTimestamp": "2026-10-27T08:36:08Z",
+      "digest": "sha256:d1891ede5a559f1086f55053bb8cc1569b0298338c4d72d71725a7f74f6ba620"
+    },
+    {
+      "version": "11.8",
+      "releaseTimestamp": "2026-10-27T08:36:12Z",
+      "digest": "sha256:c4124d1afa875e47f2892edf26b482fa54f796e2f342d3717a04ca091a22a9bd"
+    },
+    {
+      "version": "11.8-noble",
+      "releaseTimestamp": "2026-10-27T08:36:15Z",
+      "digest": "sha256:c4124d1afa875e47f2892edf26b482fa54f796e2f342d3717a04ca091a22a9bd"
+    },
+    {
+      "version": "11.8.9",
+      "releaseTimestamp": "2026-10-27T08:36:18Z",
+      "digest": "sha256:c4124d1afa875e47f2892edf26b482fa54f796e2f342d3717a04ca091a22a9bd"
+    },
+    {
+      "version": "11.8.9-noble",
+      "releaseTimestamp": "2026-10-27T08:36:20Z",
+      "digest": "sha256:c4124d1afa875e47f2892edf26b482fa54f796e2f342d3717a04ca091a22a9bd"
+    },
+    {
+      "version": "12",
+      "releaseTimestamp": "2026-10-27T08:36:27Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "12-noble",
+      "releaseTimestamp": "2026-10-27T08:36:30Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "12.3",
+      "releaseTimestamp": "2026-10-27T08:36:34Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "12.3-noble",
+      "releaseTimestamp": "2026-10-27T08:36:36Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "12.3.3",
+      "releaseTimestamp": "2026-10-27T08:36:40Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "12.3.3-noble",
+      "releaseTimestamp": "2026-10-27T08:36:42Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "lts",
+      "releaseTimestamp": "2026-10-27T08:37:01Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "lts-noble",
+      "releaseTimestamp": "2026-10-27T08:37:03Z",
+      "digest": "sha256:d46e102fa8b9b72bfcdeb56f9dd538742092119dc8b11f31fe662605cd234cd9"
+    },
+    {
+      "version": "13",
+      "releaseTimestamp": "2026-10-28T02:36:41Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "13-resolute",
+      "releaseTimestamp": "2026-10-28T02:36:43Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "13.0",
+      "releaseTimestamp": "2026-10-28T02:36:47Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "13.0-resolute",
+      "releaseTimestamp": "2026-10-28T02:36:49Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "13.0.2",
+      "releaseTimestamp": "2026-10-28T02:36:53Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "13.0.2-resolute",
+      "releaseTimestamp": "2026-10-28T02:36:55Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "13.1-rc",
+      "releaseTimestamp": "2026-10-28T02:37:03Z",
+      "digest": "sha256:99205f09d838b6dcb37de2b1d672d1fbb1f42040bf8fb5d0c5b6998d00cfa360"
+    },
+    {
+      "version": "13.1-resolute-rc",
+      "releaseTimestamp": "2026-10-28T02:37:05Z",
+      "digest": "sha256:99205f09d838b6dcb37de2b1d672d1fbb1f42040bf8fb5d0c5b6998d00cfa360"
+    },
+    {
+      "version": "13.1.1-rc",
+      "releaseTimestamp": "2026-10-28T02:37:09Z",
+      "digest": "sha256:99205f09d838b6dcb37de2b1d672d1fbb1f42040bf8fb5d0c5b6998d00cfa360"
+    },
+    {
+      "version": "13.1.1-resolute-rc",
+      "releaseTimestamp": "2026-10-28T02:37:12Z",
+      "digest": "sha256:99205f09d838b6dcb37de2b1d672d1fbb1f42040bf8fb5d0c5b6998d00cfa360"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-10-28T02:37:15Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "resolute",
+      "releaseTimestamp": "2026-10-28T02:37:20Z",
+      "digest": "sha256:f4054da26e3a9dd6c8b5cc97363e544408b15c0fb369d7359c25dc04826eb6e1"
+    },
+    {
+      "version": "12-ubi",
+      "releaseTimestamp": "2026-11-11T02:36:44Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "12-ubi10",
+      "releaseTimestamp": "2026-11-11T02:36:47Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "12.3-ubi",
+      "releaseTimestamp": "2026-11-11T02:36:51Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "12.3-ubi10",
+      "releaseTimestamp": "2026-11-11T02:36:53Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "12.3.3-ubi",
+      "releaseTimestamp": "2026-11-11T02:36:57Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "12.3.3-ubi10",
+      "releaseTimestamp": "2026-11-11T02:36:59Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "13-ubi",
+      "releaseTimestamp": "2026-11-11T02:37:06Z",
+      "digest": "sha256:dfe7c8031592ee139e1140c91cc9523839ff5a54e372bea55cff1b32456f4827"
+    },
+    {
+      "version": "13-ubi10",
+      "releaseTimestamp": "2026-11-11T02:37:09Z",
+      "digest": "sha256:dfe7c8031592ee139e1140c91cc9523839ff5a54e372bea55cff1b32456f4827"
+    },
+    {
+      "version": "13.0-ubi",
+      "releaseTimestamp": "2026-11-11T02:37:12Z",
+      "digest": "sha256:dfe7c8031592ee139e1140c91cc9523839ff5a54e372bea55cff1b32456f4827"
+    },
+    {
+      "version": "13.0-ubi10",
+      "releaseTimestamp": "2026-11-11T02:37:15Z",
+      "digest": "sha256:dfe7c8031592ee139e1140c91cc9523839ff5a54e372bea55cff1b32456f4827"
+    },
+    {
+      "version": "13.0.2-ubi",
+      "releaseTimestamp": "2026-11-11T02:37:18Z",
+      "digest": "sha256:dfe7c8031592ee139e1140c91cc9523839ff5a54e372bea55cff1b32456f4827"
+    },
+    {
+      "version": "13.0.2-ubi10",
+      "releaseTimestamp": "2026-11-11T02:37:21Z",
+      "digest": "sha256:dfe7c8031592ee139e1140c91cc9523839ff5a54e372bea55cff1b32456f4827"
+    },
+    {
+      "version": "13.1-ubi-rc",
+      "releaseTimestamp": "2026-11-11T02:37:28Z",
+      "digest": "sha256:1715d42fd56aec9ff0bbf03edc8472fc32edeaf9f9cea839abd51d9482a5239a"
+    },
+    {
+      "version": "13.1-ubi10-rc",
+      "releaseTimestamp": "2026-11-11T02:37:31Z",
+      "digest": "sha256:1715d42fd56aec9ff0bbf03edc8472fc32edeaf9f9cea839abd51d9482a5239a"
+    },
+    {
+      "version": "13.1.1-ubi-rc",
+      "releaseTimestamp": "2026-11-11T02:37:35Z",
+      "digest": "sha256:1715d42fd56aec9ff0bbf03edc8472fc32edeaf9f9cea839abd51d9482a5239a"
+    },
+    {
+      "version": "13.1.1-ubi10-rc",
+      "releaseTimestamp": "2026-11-11T02:37:37Z",
+      "digest": "sha256:1715d42fd56aec9ff0bbf03edc8472fc32edeaf9f9cea839abd51d9482a5239a"
+    },
+    {
+      "version": "lts-ubi",
+      "releaseTimestamp": "2026-11-11T02:37:41Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "lts-ubi10",
+      "releaseTimestamp": "2026-11-11T02:37:44Z",
+      "digest": "sha256:affae9bc0774f8fa6bd92b08909fc0eb0c56525d578c8786304713f9fce2ae14"
+    },
+    {
+      "version": "10-ubi",
+      "releaseTimestamp": "2026-11-11T23:35:22Z",
+      "digest": "sha256:9c9a3821bf934efa09982bf3d668b9c6aba5908aaff5e059d78e0550fa7bc7d4"
+    },
+    {
+      "version": "10-ubi9",
+      "releaseTimestamp": "2026-11-11T23:35:25Z",
+      "digest": "sha256:9c9a3821bf934efa09982bf3d668b9c6aba5908aaff5e059d78e0550fa7bc7d4"
+    },
+    {
+      "version": "10.11-ubi",
+      "releaseTimestamp": "2026-11-11T23:35:28Z",
+      "digest": "sha256:9c9a3821bf934efa09982bf3d668b9c6aba5908aaff5e059d78e0550fa7bc7d4"
+    },
+    {
+      "version": "10.11-ubi9",
+      "releaseTimestamp": "2026-11-11T23:35:31Z",
+      "digest": "sha256:9c9a3821bf934efa09982bf3d668b9c6aba5908aaff5e059d78e0550fa7bc7d4"
+    },
+    {
+      "version": "10.11.19-ubi",
+      "releaseTimestamp": "2026-11-11T23:35:35Z",
+      "digest": "sha256:9c9a3821bf934efa09982bf3d668b9c6aba5908aaff5e059d78e0550fa7bc7d4"
+    },
+    {
+      "version": "10.11.19-ubi9",
+      "releaseTimestamp": "2026-11-11T23:35:37Z",
+      "digest": "sha256:9c9a3821bf934efa09982bf3d668b9c6aba5908aaff5e059d78e0550fa7bc7d4"
+    },
+    {
+      "version": "10.6-ubi",
+      "releaseTimestamp": "2026-11-11T23:35:52Z",
+      "digest": "sha256:bc3025a94b5629e0a9e5f9eca14438ca5cc4fb05f3fd852136d47a68d1947080"
+    },
+    {
+      "version": "10.6-ubi9",
+      "releaseTimestamp": "2026-11-11T23:35:55Z",
+      "digest": "sha256:bc3025a94b5629e0a9e5f9eca14438ca5cc4fb05f3fd852136d47a68d1947080"
+    },
+    {
+      "version": "10.6.28-ubi",
+      "releaseTimestamp": "2026-11-11T23:35:59Z",
+      "digest": "sha256:bc3025a94b5629e0a9e5f9eca14438ca5cc4fb05f3fd852136d47a68d1947080"
+    },
+    {
+      "version": "10.6.28-ubi9",
+      "releaseTimestamp": "2026-11-11T23:36:01Z",
+      "digest": "sha256:bc3025a94b5629e0a9e5f9eca14438ca5cc4fb05f3fd852136d47a68d1947080"
+    },
+    {
+      "version": "11-ubi",
+      "releaseTimestamp": "2026-11-11T23:36:16Z",
+      "digest": "sha256:50514601155e459ddf98f55cabe4b9c254a9007a2fc8ccf557e26f35b3625cd5"
+    },
+    {
+      "version": "11-ubi9",
+      "releaseTimestamp": "2026-11-11T23:36:19Z",
+      "digest": "sha256:50514601155e459ddf98f55cabe4b9c254a9007a2fc8ccf557e26f35b3625cd5"
+    },
+    {
+      "version": "11.4-ubi",
+      "releaseTimestamp": "2026-11-11T23:36:34Z",
+      "digest": "sha256:870c2475eec3edca8d470860eeeaf2c4f7f983e46ec3b2d31ff75f5acced4c19"
+    },
+    {
+      "version": "11.4-ubi9",
+      "releaseTimestamp": "2026-11-11T23:36:36Z",
+      "digest": "sha256:870c2475eec3edca8d470860eeeaf2c4f7f983e46ec3b2d31ff75f5acced4c19"
+    },
+    {
+      "version": "11.4.13-ubi",
+      "releaseTimestamp": "2026-11-11T23:36:40Z",
+      "digest": "sha256:870c2475eec3edca8d470860eeeaf2c4f7f983e46ec3b2d31ff75f5acced4c19"
+    },
+    {
+      "version": "11.4.13-ubi9",
+      "releaseTimestamp": "2026-11-11T23:36:42Z",
+      "digest": "sha256:870c2475eec3edca8d470860eeeaf2c4f7f983e46ec3b2d31ff75f5acced4c19"
+    },
+    {
+      "version": "11.8-ubi",
+      "releaseTimestamp": "2026-11-11T23:36:46Z",
+      "digest": "sha256:50514601155e459ddf98f55cabe4b9c254a9007a2fc8ccf557e26f35b3625cd5"
+    },
+    {
+      "version": "11.8-ubi9",
+      "releaseTimestamp": "2026-11-11T23:36:48Z",
+      "digest": "sha256:50514601155e459ddf98f55cabe4b9c254a9007a2fc8ccf557e26f35b3625cd5"
+    },
+    {
+      "version": "11.8.9-ubi",
+      "releaseTimestamp": "2026-11-11T23:36:52Z",
+      "digest": "sha256:50514601155e459ddf98f55cabe4b9c254a9007a2fc8ccf557e26f35b3625cd5"
+    },
+    {
+      "version": "11.8.9-ubi9",
+      "releaseTimestamp": "2026-11-11T23:36:54Z",
+      "digest": "sha256:50514601155e459ddf98f55cabe4b9c254a9007a2fc8ccf557e26f35b3625cd5"
+    }
+  ]
+}

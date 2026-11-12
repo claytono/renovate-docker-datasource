@@ -1,0 +1,44 @@
+{
+  "releases": [
+    {
+      "version": "v1.11.5",
+      "releaseTimestamp": "2026-10-21T14:32:02Z",
+      "digest": "sha256:bf6442633f6129d3e3f9861fa14c77bc012d74b33a1dd213d7b458b89ce3cc5d"
+    },
+    {
+      "version": "v1.11.5-distroless",
+      "releaseTimestamp": "2026-10-21T14:33:48Z",
+      "digest": "sha256:4c307918b7a1eda10f7314faf9798211e63ad11e0cc8dd1088ebb2cd5e64624b"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-10-21T14:35:36Z",
+      "digest": "sha256:7332ee96119c0b927a3e64971189d884718939b6102c3e9e047bc11e83715d6f"
+    },
+    {
+      "version": "v1",
+      "releaseTimestamp": "2026-10-21T14:36:20Z",
+      "digest": "sha256:7332ee96119c0b927a3e64971189d884718939b6102c3e9e047bc11e83715d6f"
+    },
+    {
+      "version": "latest-distroless",
+      "releaseTimestamp": "2026-10-21T14:38:05Z",
+      "digest": "sha256:4c307918b7a1eda10f7314faf9798211e63ad11e0cc8dd1088ebb2cd5e64624b"
+    },
+    {
+      "version": "v1-distroless",
+      "releaseTimestamp": "2026-10-21T14:39:49Z",
+      "digest": "sha256:4c307918b7a1eda10f7314faf9798211e63ad11e0cc8dd1088ebb2cd5e64624b"
+    },
+    {
+      "version": "master",
+      "releaseTimestamp": "2026-10-22T08:21:09Z",
+      "digest": "sha256:cf34113ee8d946b59404acf882e66a56302828c6ac5323e03b270ec9f5d36cc8"
+    },
+    {
+      "version": "master-distroless",
+      "releaseTimestamp": "2026-10-22T08:23:02Z",
+      "digest": "sha256:67e4e6b46218aac82816c0df5641f84e22a980b82d028db4ba3f9b1615e566ef"
+    }
+  ]
+}

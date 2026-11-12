@@ -1,0 +1,739 @@
+{
+  "releases": [
+    {
+      "version": "tip-20261010-bookworm",
+      "releaseTimestamp": "2026-10-13T01:24:27Z",
+      "digest": "sha256:1325303a4cd0e98990423a8c4916d26d3575e314bbdd8632810101e17c018da3"
+    },
+    {
+      "version": "1.27.2-trixie",
+      "releaseTimestamp": "2026-10-13T07:23:09Z",
+      "digest": "sha256:47667934874913a449b96faa7ef4777fa285d9ec29126ee80ed61c45b7cccf0e"
+    },
+    {
+      "version": "1.26.9",
+      "releaseTimestamp": "2026-10-14T01:23:16Z",
+      "digest": "sha256:37cfcca63222ec499bec5e8ad7aad52dbf7529db36d5812b8eae2f0621aa92d6"
+    },
+    {
+      "version": "1.26.9-nanoserver",
+      "releaseTimestamp": "2026-10-14T01:23:23Z",
+      "digest": "sha256:a2a86ce44c4be359396ff963d3dae87cbc9f61f6c9ecbe3be724dc1afd14b69b"
+    },
+    {
+      "version": "1.26.9-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-10-14T01:23:25Z",
+      "digest": "sha256:29affef4c3c172b7f2789abc1adf553d38d1cef9fa475faa8d21a597e7a8794e"
+    },
+    {
+      "version": "1.26.9-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-10-14T01:23:27Z",
+      "digest": "sha256:87653b3b7862ade87dfbb96c572cda1dffe063da52796066a95bcdf4fd279f21"
+    },
+    {
+      "version": "1.26.9-windowsservercore",
+      "releaseTimestamp": "2026-10-14T01:23:30Z",
+      "digest": "sha256:26b50041c02b5ad4efb2d0893b7b9c8bf8d25ee3d6db4786cbcd6cb067489460"
+    },
+    {
+      "version": "1.26.9-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-14T01:23:32Z",
+      "digest": "sha256:78899a20a6bc0a04534ca6b812b5f6bdab478613adbca579670dac33bc6a4514"
+    },
+    {
+      "version": "1.26.9-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-14T01:23:33Z",
+      "digest": "sha256:ccae9c7fddb66cd66b88d959315a48f3ba631b9af16ea6832cb007cda2fd1d4f"
+    },
+    {
+      "version": "1.27.2",
+      "releaseTimestamp": "2026-10-14T01:23:57Z",
+      "digest": "sha256:820153096fda4de6ac1b7194d12e416b7dd8f4e9a33d17e0345b111b945162d8"
+    },
+    {
+      "version": "1.27.2-nanoserver",
+      "releaseTimestamp": "2026-10-14T01:24:04Z",
+      "digest": "sha256:06b544e9c0758097a50a1503a2353cebf93b2425a7561508df76bb58498791f0"
+    },
+    {
+      "version": "1.27.2-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-10-14T01:24:06Z",
+      "digest": "sha256:b8171b236f504e589d7c775eb3194c5f2f427dce9675be0061f44d1cfe0a5c74"
+    },
+    {
+      "version": "1.27.2-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-10-14T01:24:07Z",
+      "digest": "sha256:18fda5d9d15a64924de87a68bdfa3543ddf1ca9de436f0358a2f57c9b32b07c9"
+    },
+    {
+      "version": "1.27.2-windowsservercore",
+      "releaseTimestamp": "2026-10-14T01:24:10Z",
+      "digest": "sha256:f00fc296444a6a04bbb3a23cc1d4cb31766ca2908e578301d32b3be741be3473"
+    },
+    {
+      "version": "1.27.2-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-14T01:24:12Z",
+      "digest": "sha256:9bc44295bd5b04a4bc5acfc90d75eefa4f6f515c682d3015433022b2771cf116"
+    },
+    {
+      "version": "1.27.2-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-14T01:24:13Z",
+      "digest": "sha256:8ffe11462aee1aba1693df9dabbb370f2b696fad71391224d1c71d495dff8c96"
+    },
+    {
+      "version": "tip-20261010",
+      "releaseTimestamp": "2026-10-14T07:23:15Z",
+      "digest": "sha256:8e45c7ef49bab93e7e1bd34b36fbfe53503340ac62f3aa33d3d5ff8f0e2d3eef"
+    },
+    {
+      "version": "tip-20261010-alpine",
+      "releaseTimestamp": "2026-10-14T07:23:21Z",
+      "digest": "sha256:ff2648d6106c54e170891b6f6af3f202233515a8d23c417c24b77007098250fe"
+    },
+    {
+      "version": "tip-20261010-alpine3.23",
+      "releaseTimestamp": "2026-10-14T07:23:27Z",
+      "digest": "sha256:f33da8575c8b494a66bbdfc12e51731763d9119d0dc96245cd207d36338b1ced"
+    },
+    {
+      "version": "tip-20261010-alpine3.24",
+      "releaseTimestamp": "2026-10-14T07:23:30Z",
+      "digest": "sha256:ff2648d6106c54e170891b6f6af3f202233515a8d23c417c24b77007098250fe"
+    },
+    {
+      "version": "tip-20261010-trixie",
+      "releaseTimestamp": "2026-10-14T07:23:34Z",
+      "digest": "sha256:8e45c7ef49bab93e7e1bd34b36fbfe53503340ac62f3aa33d3d5ff8f0e2d3eef"
+    },
+    {
+      "version": "tip-20261017",
+      "releaseTimestamp": "2026-10-22T01:24:05Z",
+      "digest": "sha256:da06108bc44e68d469862bc0e8c5cbe148d443665a4ab53bc6850c79f334d3c9"
+    },
+    {
+      "version": "tip-20261017-bookworm",
+      "releaseTimestamp": "2026-10-22T01:24:37Z",
+      "digest": "sha256:c0eff78d08883f08cf74b998231449a23c471e96709feef6cc417e79944cf42a"
+    },
+    {
+      "version": "tip-20261017-trixie",
+      "releaseTimestamp": "2026-10-22T01:24:40Z",
+      "digest": "sha256:da06108bc44e68d469862bc0e8c5cbe148d443665a4ab53bc6850c79f334d3c9"
+    },
+    {
+      "version": "tip-20261017-alpine",
+      "releaseTimestamp": "2026-10-22T19:23:07Z",
+      "digest": "sha256:5ac1aa57eadaf69262fae6d6a056c7ea4a438836ff6cb5d74863dfa4fe0974a8"
+    },
+    {
+      "version": "tip-20261017-alpine3.23",
+      "releaseTimestamp": "2026-10-22T19:23:13Z",
+      "digest": "sha256:b4eccb9e40dc63ff49d402dd915337b20df0342ab1a199463b361a38e50cc8ca"
+    },
+    {
+      "version": "tip-20261017-alpine3.24",
+      "releaseTimestamp": "2026-10-22T19:23:16Z",
+      "digest": "sha256:5ac1aa57eadaf69262fae6d6a056c7ea4a438836ff6cb5d74863dfa4fe0974a8"
+    },
+    {
+      "version": "1.26.10-nanoserver",
+      "releaseTimestamp": "2026-10-28T01:23:26Z",
+      "digest": "sha256:ab146729dee478a0ff2889601e4414e0400766db954fc52d29d6ab2e8bbbf2fe"
+    },
+    {
+      "version": "1.26.10-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-10-28T01:23:28Z",
+      "digest": "sha256:f453e1e450becf0c397f37165011888da4d559699a3d192ec64e459aea183a9b"
+    },
+    {
+      "version": "1.26.10-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-10-28T01:23:29Z",
+      "digest": "sha256:65214a3acaf996bc7bd3887724281cb7e918f0d728f423b34dce9643ff454435"
+    },
+    {
+      "version": "1.26.10-windowsservercore",
+      "releaseTimestamp": "2026-10-28T01:23:32Z",
+      "digest": "sha256:a71d6a7fd2007cd95c82a904fa44d77e517e0670106829694e88b7de63c0edac"
+    },
+    {
+      "version": "1.26.10-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-28T01:23:34Z",
+      "digest": "sha256:553dff6955f108df88ef6ef549df65228d467a812e1b8c900a845ee84f8613b8"
+    },
+    {
+      "version": "1.26.10-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-28T01:23:36Z",
+      "digest": "sha256:0fed9d5e32bb223c4113019d1338bef7cf19f492c3319f02bcc026037735dfa6"
+    },
+    {
+      "version": "1.27.3-nanoserver",
+      "releaseTimestamp": "2026-10-28T01:24:05Z",
+      "digest": "sha256:fde04b3effbac1fdaf851133f127ad6569ef22c63e0dd7e90f80c25e27f3b8b6"
+    },
+    {
+      "version": "1.27.3-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-10-28T01:24:06Z",
+      "digest": "sha256:b8909473aa7c8019ea68c19965df123caaabef89d5268978fb721183feb8ea41"
+    },
+    {
+      "version": "1.27.3-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-10-28T01:24:08Z",
+      "digest": "sha256:7f5de116eab2380d37a69a768f30b491976fd2d724025507c991ab52fafbcf30"
+    },
+    {
+      "version": "1.27.3-windowsservercore",
+      "releaseTimestamp": "2026-10-28T01:24:11Z",
+      "digest": "sha256:2400c18648bfadd08153e187d8e7eabe428ae005ce2851e9268246e5ca0a338d"
+    },
+    {
+      "version": "1.27.3-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-10-28T01:24:12Z",
+      "digest": "sha256:099eaaa90e28f075d9859569dc20f28235d12018eaa74cdbecdd5bc104663e04"
+    },
+    {
+      "version": "1.27.3-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-10-28T01:24:14Z",
+      "digest": "sha256:76babbbbd90cc766054840d71bede02f87f315c16b445c9a9f10733b00c06919"
+    },
+    {
+      "version": "tip-20261025",
+      "releaseTimestamp": "2026-10-28T19:23:45Z",
+      "digest": "sha256:5728b77b202c2481e3184e00b40dd987a0c737d9cf9a37fe21df2d4e765409c3"
+    },
+    {
+      "version": "tip-20261025-bookworm",
+      "releaseTimestamp": "2026-10-28T19:23:55Z",
+      "digest": "sha256:cdc5fb8f79df796ecebc2623a7080e3f6f8d230ff1f9a2c8c8ab1e2f79c051db"
+    },
+    {
+      "version": "tip-20261025-trixie",
+      "releaseTimestamp": "2026-10-28T19:23:58Z",
+      "digest": "sha256:5728b77b202c2481e3184e00b40dd987a0c737d9cf9a37fe21df2d4e765409c3"
+    },
+    {
+      "version": "tip-20261025-alpine",
+      "releaseTimestamp": "2026-10-29T07:23:11Z",
+      "digest": "sha256:2cbff72a3aa3b69bc6f869a0385b886cb903195a8108a1ac9dc36ca607b26bf5"
+    },
+    {
+      "version": "tip-20261025-alpine3.23",
+      "releaseTimestamp": "2026-10-29T07:23:17Z",
+      "digest": "sha256:de326889906ede3ab180ee0119919f8cf22c8ec144e61ef9a2f2ec71e8abb14f"
+    },
+    {
+      "version": "tip-20261025-alpine3.24",
+      "releaseTimestamp": "2026-10-29T07:23:20Z",
+      "digest": "sha256:2cbff72a3aa3b69bc6f869a0385b886cb903195a8108a1ac9dc36ca607b26bf5"
+    },
+    {
+      "version": "1.26.10",
+      "releaseTimestamp": "2026-11-05T22:23:34Z",
+      "digest": "sha256:cfa27959837144bf4649802ba38e59daffd0dd2a7994aa83daaf113285b0f551"
+    },
+    {
+      "version": "1.26.10-bookworm",
+      "releaseTimestamp": "2026-11-05T22:23:46Z",
+      "digest": "sha256:5de7c99eb78ca5e515a4c340235d0955ec5964a5071c492c15503d7c267da473"
+    },
+    {
+      "version": "1.26.10-trixie",
+      "releaseTimestamp": "2026-11-05T22:23:49Z",
+      "digest": "sha256:fd9a91f0ece5664556f4851d06dce5e5b505a71166dffd385a03ba9d200b6983"
+    },
+    {
+      "version": "1.27.3",
+      "releaseTimestamp": "2026-11-05T22:24:12Z",
+      "digest": "sha256:e519d3b0a5b285e5aa53ab9eef02bc6bbb9cb04608389b743a136a9ce75f0d1e"
+    },
+    {
+      "version": "1.27.3-bookworm",
+      "releaseTimestamp": "2026-11-05T22:24:23Z",
+      "digest": "sha256:dc0963f32053e4bc451d24d87e3892d42d01021b61f093e98eb95c0352bb84b0"
+    },
+    {
+      "version": "1.27.3-trixie",
+      "releaseTimestamp": "2026-11-05T22:24:26Z",
+      "digest": "sha256:af1bfc2614ebb1dbd31af514b78740fd678850e76498762b425ecee4c5c6ea80"
+    },
+    {
+      "version": "1.26.10-alpine",
+      "releaseTimestamp": "2026-11-06T01:22:55Z",
+      "digest": "sha256:87c65a688975c0b1d4585d204874c45ca78354670e3a5f11368c5a492303d696"
+    },
+    {
+      "version": "1.26.10-alpine3.23",
+      "releaseTimestamp": "2026-11-06T01:22:58Z",
+      "digest": "sha256:78e7f1e419545bc4b8b5ee8a40a99ddb5df1216d38681dbab2eeb1fdb2427f43"
+    },
+    {
+      "version": "1.26.10-alpine3.24",
+      "releaseTimestamp": "2026-11-06T01:23:01Z",
+      "digest": "sha256:87c65a688975c0b1d4585d204874c45ca78354670e3a5f11368c5a492303d696"
+    },
+    {
+      "version": "1.27.3-alpine",
+      "releaseTimestamp": "2026-11-06T01:23:23Z",
+      "digest": "sha256:fa3d596898d9f126af7c01d14ee7597bab3f39cccf392ef36b69fe77cd681f18"
+    },
+    {
+      "version": "1.27.3-alpine3.23",
+      "releaseTimestamp": "2026-11-06T01:23:26Z",
+      "digest": "sha256:5d5113301ffcac84e2bfb20c42648803fecaea6789c89bb9b66884e18cbb30a7"
+    },
+    {
+      "version": "1.27.3-alpine3.24",
+      "releaseTimestamp": "2026-11-06T01:23:29Z",
+      "digest": "sha256:fa3d596898d9f126af7c01d14ee7597bab3f39cccf392ef36b69fe77cd681f18"
+    },
+    {
+      "version": "tip-20261101",
+      "releaseTimestamp": "2026-11-06T01:23:53Z",
+      "digest": "sha256:47a04190779d253020b552cfd765d39a1c02208f74ca2f4afe8b8b2f704f1a78"
+    },
+    {
+      "version": "tip-20261101-bookworm",
+      "releaseTimestamp": "2026-11-06T01:24:02Z",
+      "digest": "sha256:342183fb786b35e307e5c75b183278c7151994991757c09dbcf6f740e2c0d426"
+    },
+    {
+      "version": "tip-20261101-trixie",
+      "releaseTimestamp": "2026-11-06T01:24:05Z",
+      "digest": "sha256:47a04190779d253020b552cfd765d39a1c02208f74ca2f4afe8b8b2f704f1a78"
+    },
+    {
+      "version": "tip-20261101-alpine",
+      "releaseTimestamp": "2026-11-06T13:23:05Z",
+      "digest": "sha256:a29849aa46b7f1b374bfe15e4409f629a78a103a91a8212b7a365adbab99b5c3"
+    },
+    {
+      "version": "tip-20261101-alpine3.23",
+      "releaseTimestamp": "2026-11-06T13:23:11Z",
+      "digest": "sha256:935a1e2b24b2e297a5d80ac4d21c84a210cbac7b969c6d40b1b564d10c2384a6"
+    },
+    {
+      "version": "tip-20261101-alpine3.24",
+      "releaseTimestamp": "2026-11-06T13:23:14Z",
+      "digest": "sha256:a29849aa46b7f1b374bfe15e4409f629a78a103a91a8212b7a365adbab99b5c3"
+    },
+    {
+      "version": "1-alpine",
+      "releaseTimestamp": "2026-11-10T18:30:55Z",
+      "digest": "sha256:eb61c3873c97416fff0116553fff65d67a3549f72e11d9758849a689cdd8b523"
+    },
+    {
+      "version": "1-alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:31:15Z",
+      "digest": "sha256:eb61c3873c97416fff0116553fff65d67a3549f72e11d9758849a689cdd8b523"
+    },
+    {
+      "version": "1-bookworm",
+      "releaseTimestamp": "2026-11-10T18:31:31Z",
+      "digest": "sha256:4fa7c968ba93f1635670522dbb01a2c78150443e1385746924566079f36570ea"
+    },
+    {
+      "version": "1-trixie",
+      "releaseTimestamp": "2026-11-10T18:31:36Z",
+      "digest": "sha256:c47c3fda018d13d43a6bf5ebac3e5bba8a23a35782aa4faf531afaf47c64c39f"
+    },
+    {
+      "version": "1.26-alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:32:34Z",
+      "digest": "sha256:308364e4127bfa2b8d40676ef0b7627584f0f6f9e340f73929b01316fe35a222"
+    },
+    {
+      "version": "1.26-bookworm",
+      "releaseTimestamp": "2026-11-10T18:32:52Z",
+      "digest": "sha256:dc40a13b61304647ed7e5d581d246b86413dfc29d63c6d018310feb93cd98fc0"
+    },
+    {
+      "version": "1.26-trixie",
+      "releaseTimestamp": "2026-11-10T18:32:58Z",
+      "digest": "sha256:19ce7a1fdc59527aa568805ea100c380900d059d251e914fb86e11fd0ce68952"
+    },
+    {
+      "version": "1.26.11-alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:33:13Z",
+      "digest": "sha256:db99415e2625ce0ee03eed09edf7f32ae8c58dc399f28cc602a87fe7238119e4"
+    },
+    {
+      "version": "1.26.11-bookworm",
+      "releaseTimestamp": "2026-11-10T18:33:18Z",
+      "digest": "sha256:dc40a13b61304647ed7e5d581d246b86413dfc29d63c6d018310feb93cd98fc0"
+    },
+    {
+      "version": "1.26.11-trixie",
+      "releaseTimestamp": "2026-11-10T18:33:25Z",
+      "digest": "sha256:fa340cb59ebeb1d53ac1cccfc334201d938fe5f3458003cccb767096d8e032b8"
+    },
+    {
+      "version": "1.27-alpine",
+      "releaseTimestamp": "2026-11-10T18:33:35Z",
+      "digest": "sha256:eb61c3873c97416fff0116553fff65d67a3549f72e11d9758849a689cdd8b523"
+    },
+    {
+      "version": "1.27-alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:33:41Z",
+      "digest": "sha256:eb61c3873c97416fff0116553fff65d67a3549f72e11d9758849a689cdd8b523"
+    },
+    {
+      "version": "1.27-bookworm",
+      "releaseTimestamp": "2026-11-10T18:33:44Z",
+      "digest": "sha256:4fa7c968ba93f1635670522dbb01a2c78150443e1385746924566079f36570ea"
+    },
+    {
+      "version": "1.27-trixie",
+      "releaseTimestamp": "2026-11-10T18:33:48Z",
+      "digest": "sha256:c47c3fda018d13d43a6bf5ebac3e5bba8a23a35782aa4faf531afaf47c64c39f"
+    },
+    {
+      "version": "1.27.4-alpine",
+      "releaseTimestamp": "2026-11-10T18:33:56Z",
+      "digest": "sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf"
+    },
+    {
+      "version": "1.27.4-alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:34:03Z",
+      "digest": "sha256:0a5f7fe796599ff487605987432e7619ae45beeb2fba4c2ce0b907879932aebf"
+    },
+    {
+      "version": "1.27.4-bookworm",
+      "releaseTimestamp": "2026-11-10T18:34:06Z",
+      "digest": "sha256:4fa7c968ba93f1635670522dbb01a2c78150443e1385746924566079f36570ea"
+    },
+    {
+      "version": "1.27.4-trixie",
+      "releaseTimestamp": "2026-11-10T18:34:12Z",
+      "digest": "sha256:b54b2639de8c1bfe538ec5ffc45f29b1932235ac5f6d63c059853646677112d9"
+    },
+    {
+      "version": "alpine",
+      "releaseTimestamp": "2026-11-10T18:34:19Z",
+      "digest": "sha256:eb61c3873c97416fff0116553fff65d67a3549f72e11d9758849a689cdd8b523"
+    },
+    {
+      "version": "alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:34:25Z",
+      "digest": "sha256:eb61c3873c97416fff0116553fff65d67a3549f72e11d9758849a689cdd8b523"
+    },
+    {
+      "version": "bookworm",
+      "releaseTimestamp": "2026-11-10T18:34:27Z",
+      "digest": "sha256:4fa7c968ba93f1635670522dbb01a2c78150443e1385746924566079f36570ea"
+    },
+    {
+      "version": "trixie",
+      "releaseTimestamp": "2026-11-10T18:34:54Z",
+      "digest": "sha256:c47c3fda018d13d43a6bf5ebac3e5bba8a23a35782aa4faf531afaf47c64c39f"
+    },
+    {
+      "version": "1",
+      "releaseTimestamp": "2026-11-10T18:53:49Z",
+      "digest": "sha256:01aa404fa56b604b6f48e90c1d6e2c79fe5cd78f9592f78d80303fbe171cdcc0"
+    },
+    {
+      "version": "1-alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:53:56Z",
+      "digest": "sha256:7a93747afee80359e81dbe39c8a65037b147cada0262bf86f5b96dd06842b368"
+    },
+    {
+      "version": "1-windowsservercore",
+      "releaseTimestamp": "2026-11-10T18:54:02Z",
+      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+    },
+    {
+      "version": "1-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:54:04Z",
+      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+    },
+    {
+      "version": "1-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:54:06Z",
+      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+    },
+    {
+      "version": "1.26",
+      "releaseTimestamp": "2026-11-10T18:54:15Z",
+      "digest": "sha256:5ebd6e7dc13f9e273ed9470679eb295d8b6e7de3b6379c8a5e17a9e6c3eabd38"
+    },
+    {
+      "version": "1.26-alpine",
+      "releaseTimestamp": "2026-11-10T18:54:20Z",
+      "digest": "sha256:30b1e546a9c7fa3b747c2bdba3a0c7bdf3a02ebb4c5b8405d2f948d7e8aac4ec"
+    },
+    {
+      "version": "1.26-alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:54:24Z",
+      "digest": "sha256:30b1e546a9c7fa3b747c2bdba3a0c7bdf3a02ebb4c5b8405d2f948d7e8aac4ec"
+    },
+    {
+      "version": "1.26-windowsservercore",
+      "releaseTimestamp": "2026-11-10T18:54:29Z",
+      "digest": "sha256:1d10566a64d6a784154c1a4d9b7a880508d98c9fdb44c5ac1855176ad74b5e49"
+    },
+    {
+      "version": "1.26-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:54:31Z",
+      "digest": "sha256:462e57e7076a157af312ba4f3d80e46d69367d657a8557bbbe3b20f1eb2af971"
+    },
+    {
+      "version": "1.26-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:54:33Z",
+      "digest": "sha256:228506c01425d43c086d2b9860244147e219b7f966fbc92dad1dbad125e6a8bd"
+    },
+    {
+      "version": "1.26.11",
+      "releaseTimestamp": "2026-11-10T18:54:36Z",
+      "digest": "sha256:7af425da11f4fc1a9308eb704369e3f6d1c44e35bac0f874a59ade3f20fdc07e"
+    },
+    {
+      "version": "1.26.11-alpine",
+      "releaseTimestamp": "2026-11-10T18:54:39Z",
+      "digest": "sha256:ae52b5bc6ed045a9ed26ab03dc19327a802a9cc9aa8b27ed57f5c6b60579b0bb"
+    },
+    {
+      "version": "1.26.11-alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:54:43Z",
+      "digest": "sha256:ae52b5bc6ed045a9ed26ab03dc19327a802a9cc9aa8b27ed57f5c6b60579b0bb"
+    },
+    {
+      "version": "1.26.11-windowsservercore",
+      "releaseTimestamp": "2026-11-10T18:54:48Z",
+      "digest": "sha256:1d10566a64d6a784154c1a4d9b7a880508d98c9fdb44c5ac1855176ad74b5e49"
+    },
+    {
+      "version": "1.26.11-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:54:49Z",
+      "digest": "sha256:462e57e7076a157af312ba4f3d80e46d69367d657a8557bbbe3b20f1eb2af971"
+    },
+    {
+      "version": "1.26.11-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:54:51Z",
+      "digest": "sha256:228506c01425d43c086d2b9860244147e219b7f966fbc92dad1dbad125e6a8bd"
+    },
+    {
+      "version": "1.27",
+      "releaseTimestamp": "2026-11-10T18:54:54Z",
+      "digest": "sha256:01aa404fa56b604b6f48e90c1d6e2c79fe5cd78f9592f78d80303fbe171cdcc0"
+    },
+    {
+      "version": "1.27-alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:54:58Z",
+      "digest": "sha256:7a93747afee80359e81dbe39c8a65037b147cada0262bf86f5b96dd06842b368"
+    },
+    {
+      "version": "1.27-windowsservercore",
+      "releaseTimestamp": "2026-11-10T18:55:04Z",
+      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+    },
+    {
+      "version": "1.27-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:55:06Z",
+      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+    },
+    {
+      "version": "1.27-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:55:08Z",
+      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+    },
+    {
+      "version": "1.27.4",
+      "releaseTimestamp": "2026-11-10T18:55:11Z",
+      "digest": "sha256:08bcb99a38f85a265f9a93d1d3323e2440eec333380f3ea26ee0dec9264bb41c"
+    },
+    {
+      "version": "1.27.4-alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:55:15Z",
+      "digest": "sha256:146e3b9c7c1e2ec3d3f5348c8a686151a75e1976e50efac9fc022ebe446a9a82"
+    },
+    {
+      "version": "1.27.4-windowsservercore",
+      "releaseTimestamp": "2026-11-10T18:55:21Z",
+      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+    },
+    {
+      "version": "1.27.4-windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:55:22Z",
+      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+    },
+    {
+      "version": "1.27.4-windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:55:24Z",
+      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+    },
+    {
+      "version": "alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:55:28Z",
+      "digest": "sha256:7a93747afee80359e81dbe39c8a65037b147cada0262bf86f5b96dd06842b368"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-10T18:55:33Z",
+      "digest": "sha256:01aa404fa56b604b6f48e90c1d6e2c79fe5cd78f9592f78d80303fbe171cdcc0"
+    },
+    {
+      "version": "tip",
+      "releaseTimestamp": "2026-11-10T18:55:59Z",
+      "digest": "sha256:98da661f9b078467008cae0a4b8b4192f771df7befc023178ecb2b38b663e826"
+    },
+    {
+      "version": "tip-20261108",
+      "releaseTimestamp": "2026-11-10T18:56:03Z",
+      "digest": "sha256:cf2246ade087b9f933c8af2b4df292dbb2b0ec8c88b6a976e87879680b65c401"
+    },
+    {
+      "version": "tip-20261108-alpine",
+      "releaseTimestamp": "2026-11-10T18:56:23Z",
+      "digest": "sha256:7d5d0304357c245e51b2ef5f9934740a50418313e8fcd6c2b0286400ccc3a21a"
+    },
+    {
+      "version": "tip-20261108-alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:56:45Z",
+      "digest": "sha256:7d5d0304357c245e51b2ef5f9934740a50418313e8fcd6c2b0286400ccc3a21a"
+    },
+    {
+      "version": "tip-20261108-bookworm",
+      "releaseTimestamp": "2026-11-10T18:56:59Z",
+      "digest": "sha256:4f7b39d043c52f88b7112f0c2e7d11b8ac08f939b47c0019c5439b58c7a3eb49"
+    },
+    {
+      "version": "tip-20261108-trixie",
+      "releaseTimestamp": "2026-11-10T18:57:02Z",
+      "digest": "sha256:cf2246ade087b9f933c8af2b4df292dbb2b0ec8c88b6a976e87879680b65c401"
+    },
+    {
+      "version": "tip-alpine",
+      "releaseTimestamp": "2026-11-10T18:57:06Z",
+      "digest": "sha256:c231b9314d5a07e7a51c8ac719f6667a9ac9d543d5c011e378faf69956cc512b"
+    },
+    {
+      "version": "tip-alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:57:13Z",
+      "digest": "sha256:44e5ca885d78615998a1a827fb00dceda145c355e152fc6acee7971ca3e98e7e"
+    },
+    {
+      "version": "tip-alpine3.24",
+      "releaseTimestamp": "2026-11-10T18:57:16Z",
+      "digest": "sha256:c231b9314d5a07e7a51c8ac719f6667a9ac9d543d5c011e378faf69956cc512b"
+    },
+    {
+      "version": "tip-bookworm",
+      "releaseTimestamp": "2026-11-10T18:57:18Z",
+      "digest": "sha256:4f7b39d043c52f88b7112f0c2e7d11b8ac08f939b47c0019c5439b58c7a3eb49"
+    },
+    {
+      "version": "tip-trixie",
+      "releaseTimestamp": "2026-11-10T18:57:21Z",
+      "digest": "sha256:98da661f9b078467008cae0a4b8b4192f771df7befc023178ecb2b38b663e826"
+    },
+    {
+      "version": "windowsservercore",
+      "releaseTimestamp": "2026-11-10T18:57:24Z",
+      "digest": "sha256:c4c9159493a4ba8180807350e061995e62c038c62d2429a822207533d0593825"
+    },
+    {
+      "version": "windowsservercore-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:57:26Z",
+      "digest": "sha256:544922719ace82cb9475fad47520de60605847338632546b418f87dfcc2acebd"
+    },
+    {
+      "version": "windowsservercore-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:57:27Z",
+      "digest": "sha256:e957a78af110d92e8f193203abf5cc39f09a7ed0df89d9936f55cd33b39fc3a7"
+    },
+    {
+      "version": "1-nanoserver",
+      "releaseTimestamp": "2026-11-10T18:57:58Z",
+      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+    },
+    {
+      "version": "1-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:58:00Z",
+      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+    },
+    {
+      "version": "1-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:58:02Z",
+      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+    },
+    {
+      "version": "1.26-nanoserver",
+      "releaseTimestamp": "2026-11-10T18:58:16Z",
+      "digest": "sha256:57b47413cb0e81f2f7050d905feeedbb496108802fe46bf42dffc475e82a1d17"
+    },
+    {
+      "version": "1.26-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:58:18Z",
+      "digest": "sha256:85309b3d33d7dcca2a296271995cddcb8e98b9a3e6c2a345b55ed9a683b884c5"
+    },
+    {
+      "version": "1.26-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:58:21Z",
+      "digest": "sha256:8d10aa55f5a6d716b906123a1b063c600f64aeb4ffa9fa802160fc1752dfbee3"
+    },
+    {
+      "version": "1.26.11-nanoserver",
+      "releaseTimestamp": "2026-11-10T18:58:30Z",
+      "digest": "sha256:57b47413cb0e81f2f7050d905feeedbb496108802fe46bf42dffc475e82a1d17"
+    },
+    {
+      "version": "1.26.11-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:58:32Z",
+      "digest": "sha256:85309b3d33d7dcca2a296271995cddcb8e98b9a3e6c2a345b55ed9a683b884c5"
+    },
+    {
+      "version": "1.26.11-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:58:34Z",
+      "digest": "sha256:8d10aa55f5a6d716b906123a1b063c600f64aeb4ffa9fa802160fc1752dfbee3"
+    },
+    {
+      "version": "1.27-nanoserver",
+      "releaseTimestamp": "2026-11-10T18:58:44Z",
+      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+    },
+    {
+      "version": "1.27-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:58:45Z",
+      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+    },
+    {
+      "version": "1.27-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:58:47Z",
+      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+    },
+    {
+      "version": "1.27.4-nanoserver",
+      "releaseTimestamp": "2026-11-10T18:58:57Z",
+      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+    },
+    {
+      "version": "1.27.4-nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:58:59Z",
+      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+    },
+    {
+      "version": "1.27.4-nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:59:00Z",
+      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+    },
+    {
+      "version": "nanoserver",
+      "releaseTimestamp": "2026-11-10T18:59:10Z",
+      "digest": "sha256:37cbba75a311ec4c342f205df7230c5011a910569164135f28c7d4c4cf4cd783"
+    },
+    {
+      "version": "nanoserver-ltsc2022",
+      "releaseTimestamp": "2026-11-10T18:59:12Z",
+      "digest": "sha256:463adca1d8daa4f2c24414871dcecedfe609c25b1d9556728c4018f7e1890d70"
+    },
+    {
+      "version": "nanoserver-ltsc2025",
+      "releaseTimestamp": "2026-11-10T18:59:13Z",
+      "digest": "sha256:98261c3399ae8f4fa87f034a95fdf3ebb8379d650ca02c9dd12f3f5a508affcb"
+    },
+    {
+      "version": "tip-20261108-alpine3.23",
+      "releaseTimestamp": "2026-11-10T18:59:20Z",
+      "digest": "sha256:01f05d31ed9702219c572588ee5547a402d84c2b29fa6f461d655d92047ea858"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "releases": [
+    {
+      "version": "v3.2.2-cuda",
+      "releaseTimestamp": "2026-11-11T23:37:34Z",
+      "digest": "sha256:38001e84ce46206e9e019d8ee7f567bf55914f019dff8f6a70d02fd93bb14073"
+    }
+  ]
+}

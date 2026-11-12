@@ -1,0 +1,69 @@
+{
+  "releases": [
+    {
+      "version": "1.16.0",
+      "releaseTimestamp": "2026-10-17T11:15:41Z",
+      "digest": "sha256:b533e6eac4464d55479d030229cf9487f338972cdb88924e8060ca759d0e28b8"
+    },
+    {
+      "version": "1.16.0-phoenix-rc1",
+      "releaseTimestamp": "2026-10-17T20:50:19Z",
+      "digest": "sha256:46b7dfdd238d9ae5eb7ba458973029cd37a0431fe5a6faed15d56c3b7f0ab852"
+    },
+    {
+      "version": "1.16.0-phoenix-rc2",
+      "releaseTimestamp": "2026-10-18T07:54:58Z",
+      "digest": "sha256:fc2a53e8bfb710af0da9d0d3a4d3e075bbe4f79994a321b0050f408d91d3c181"
+    },
+    {
+      "version": "1.16.0-phoenix-rc3",
+      "releaseTimestamp": "2026-10-21T17:09:27Z",
+      "digest": "sha256:dd415b536418ab75bd9abd7aa032f51f53262eee36015e7fffd3cd5380a7cb5d"
+    },
+    {
+      "version": "1.17.0",
+      "releaseTimestamp": "2026-10-23T21:05:22Z",
+      "digest": "sha256:207dc86f8baa8fcf5b585f31186bf81b55added9c102a96f308d640e964ea60f"
+    },
+    {
+      "version": "1.18.0",
+      "releaseTimestamp": "2026-10-25T22:04:15Z",
+      "digest": "sha256:e22d39339a00ab03b057a75897a8950dfd5d084e0f23202a7c6d5e8814f96aff"
+    },
+    {
+      "version": "1.18.1",
+      "releaseTimestamp": "2026-10-26T20:40:30Z",
+      "digest": "sha256:a2b93286a973b2e4b55d6a1ebd8009a65b8624639687ca95e909d0aac27324f5"
+    },
+    {
+      "version": "1.19.0",
+      "releaseTimestamp": "2026-10-27T23:29:38Z",
+      "digest": "sha256:d9385242202ae385a5d8064f41a59a0b58218399e60e7e499d2a6afb449bc304"
+    },
+    {
+      "version": "1.20.0",
+      "releaseTimestamp": "2026-10-31T10:58:17Z",
+      "digest": "sha256:18945f609942056e55fb24988229499be7bbe4703177fac662225dad465b021f"
+    },
+    {
+      "version": "1.20.1",
+      "releaseTimestamp": "2026-11-01T22:50:52Z",
+      "digest": "sha256:0640f5adafd7acfcd8a3c79bb3bd0162d5df9108ebcde8734785f8925d2a01a4"
+    },
+    {
+      "version": "1.21.0",
+      "releaseTimestamp": "2026-11-04T08:03:10Z",
+      "digest": "sha256:aae6cabd95c1dd5e5d4e2c920692a1b11524feec143d295a9bcc914df7ffdcdf"
+    },
+    {
+      "version": "1.22.0",
+      "releaseTimestamp": "2026-11-07T22:12:14Z",
+      "digest": "sha256:b8ee8d9fdff92a9d6ca570f98e0e875624f4bfb24b61363f8246bba124d5849d"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-07T22:12:16Z",
+      "digest": "sha256:b8ee8d9fdff92a9d6ca570f98e0e875624f4bfb24b61363f8246bba124d5849d"
+    }
+  ]
+}

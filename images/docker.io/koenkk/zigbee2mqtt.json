@@ -1,0 +1,34 @@
+{
+  "releases": [
+    {
+      "version": "2.14.2",
+      "releaseTimestamp": "2026-10-01T20:27:12Z",
+      "digest": "sha256:addbfb08fcef2e4477de1535636118241e10d13e898fbe4d9faba8a4d7396311"
+    },
+    {
+      "version": "2.14.3",
+      "releaseTimestamp": "2026-11-01T06:47:41Z",
+      "digest": "sha256:fb4a6b0f6868ad1cd6a9996479802b2420e599c3463b62bbff8c8cd9a908f43a"
+    },
+    {
+      "version": "2.14",
+      "releaseTimestamp": "2026-11-01T06:47:45Z",
+      "digest": "sha256:fb4a6b0f6868ad1cd6a9996479802b2420e599c3463b62bbff8c8cd9a908f43a"
+    },
+    {
+      "version": "2",
+      "releaseTimestamp": "2026-11-01T06:47:48Z",
+      "digest": "sha256:fb4a6b0f6868ad1cd6a9996479802b2420e599c3463b62bbff8c8cd9a908f43a"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-01T06:47:52Z",
+      "digest": "sha256:fb4a6b0f6868ad1cd6a9996479802b2420e599c3463b62bbff8c8cd9a908f43a"
+    },
+    {
+      "version": "latest-dev",
+      "releaseTimestamp": "2026-11-11T20:10:58Z",
+      "digest": "sha256:53042d1999ca6ad396953c8ebd71ff4e74d5dc62d938abc7bf23a4215f3bbe58"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Repositories whose Docker images are tracked.
+repositories = [
+  "claytono/go-unifi-mcp",
+  "claytono/health-hub",
+  "claytono/infra",
+  "claytono/pybirdfy",
+  "claytono/readest-hardcover-sync",
+]
+
+# A tag stays in its image's releases while it is newer than `days`, is
+# among the `count` most recently seen, or is in use in any repository.
+[retention]
+days = 30
+count = 5

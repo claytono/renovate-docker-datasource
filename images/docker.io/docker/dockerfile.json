@@ -1,0 +1,39 @@
+{
+  "releases": [
+    {
+      "version": "1",
+      "releaseTimestamp": "2026-09-30T17:29:28Z",
+      "digest": "sha256:4edf897a3ffa55b89f906fc8cc78afdb3f1834cc9c7083565e611a8a7d5fe99e"
+    },
+    {
+      "version": "1.29.0",
+      "releaseTimestamp": "2026-11-11T21:41:20Z",
+      "digest": "sha256:572cebbc2b15e6f84c077742952674889cb63cd5e9b80abdffcbe587b6f19183"
+    },
+    {
+      "version": "1.29",
+      "releaseTimestamp": "2026-11-11T21:41:21Z",
+      "digest": "sha256:572cebbc2b15e6f84c077742952674889cb63cd5e9b80abdffcbe587b6f19183"
+    },
+    {
+      "version": "1.29.0-labs",
+      "releaseTimestamp": "2026-11-11T22:35:25Z",
+      "digest": "sha256:36366b12c1dffb228bb25e9feffb73707b93388f084f4927d2b7686dba29e76a"
+    },
+    {
+      "version": "1.29-labs",
+      "releaseTimestamp": "2026-11-11T22:35:27Z",
+      "digest": "sha256:36366b12c1dffb228bb25e9feffb73707b93388f084f4927d2b7686dba29e76a"
+    },
+    {
+      "version": "1-labs",
+      "releaseTimestamp": "2026-11-11T22:35:28Z",
+      "digest": "sha256:36366b12c1dffb228bb25e9feffb73707b93388f084f4927d2b7686dba29e76a"
+    },
+    {
+      "version": "labs",
+      "releaseTimestamp": "2026-11-11T22:35:30Z",
+      "digest": "sha256:36366b12c1dffb228bb25e9feffb73707b93388f084f4927d2b7686dba29e76a"
+    }
+  ]
+}

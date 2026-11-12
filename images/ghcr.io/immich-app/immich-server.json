@@ -1,0 +1,9 @@
+{
+  "releases": [
+    {
+      "version": "v3.2.2",
+      "releaseTimestamp": "2026-11-11T23:37:34Z",
+      "digest": "sha256:79cc1623323d5894922686d8743b4780181428f98eecbfb58ce12c41ef02d1ea"
+    }
+  ]
+}

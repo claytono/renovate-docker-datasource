@@ -1,0 +1,70 @@
+name: Update image data
+
+# Records the tags each image in the configured repositories gained since
+# the last run and opens a pull request that merges once CI passes. The PAT
+# makes the pull request; one opened with GITHUB_TOKEN would not run CI.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions: {}
+
+concurrency:
+  group: update-image-data
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+
+      - uses: cachix/install-nix-action@3dc140bfc76c49fbd4dd958429132e3746bcb086 # v31
+
+      # A failed image leaves its files unchanged; the others still go into
+      # the pull request, and the last step fails the run.
+      - name: Refresh image data
+        id: refresh
+        continue-on-error: true
+        run: nix develop --command uv run python -m renovate_docker_datasource
+        env:
+          READ_TOKEN: ${{ secrets.READ_TOKEN }}
+
+      - name: Create pull request
+        id: pr
+        uses: peter-evans/create-pull-request@3ffccacd46053766916f087ce41d627c0b8cf2d1 # v8
+        with:
+          token: ${{ secrets.PAT }}
+          add-paths: |
+            images
+            seen
+          branch: update-image-data
+          delete-branch: true
+          title: Update image data
+          commit-message: |
+            Update image data
+
+            Record the tags each image gained since the last run, dated by
+            their Docker Hub push or by when this job first saw them, and
+            retire tags that have left the retention window.
+          body: Daily update from the Update image data workflow.
+
+      - name: Enable auto-merge
+        if: steps.pr.outputs.pull-request-number != ''
+        run: gh pr merge --auto --rebase "$PR_NUMBER"
+        env:
+          GH_TOKEN: ${{ secrets.PAT }}
+          GH_REPO: ${{ github.repository }}
+          PR_NUMBER: ${{ steps.pr.outputs.pull-request-number }}
+
+      - name: Fail if an image failed
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo "::error::Some images failed to refresh; see the Refresh image data step."
+          exit 1

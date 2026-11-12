@@ -1,0 +1,69 @@
+{
+  "releases": [
+    {
+      "version": "v0.29.0",
+      "releaseTimestamp": "2026-10-07T08:05:28Z",
+      "digest": "sha256:9613f2884689b6fad9f1939f6a3b0388c93a022cfaededb19545b329b5c83dea"
+    },
+    {
+      "version": "v0.29.1-busybox",
+      "releaseTimestamp": "2026-10-21T18:13:19Z",
+      "digest": "sha256:ea1c7aa3ef3f307cd03e85f34abb604478ccb90b567fc690da0cd9776da76b13"
+    },
+    {
+      "version": "v0.29.1",
+      "releaseTimestamp": "2026-10-21T18:13:32Z",
+      "digest": "sha256:ea1c7aa3ef3f307cd03e85f34abb604478ccb90b567fc690da0cd9776da76b13"
+    },
+    {
+      "version": "v0.29.1-distroless",
+      "releaseTimestamp": "2026-10-21T18:14:02Z",
+      "digest": "sha256:4d6d2d50ecabf3a0b10e8f6f5c4b14fc0c2326dcc2f7fe161668de722d5bf61e"
+    },
+    {
+      "version": "latest-busybox",
+      "releaseTimestamp": "2026-10-21T18:15:15Z",
+      "digest": "sha256:ea1c7aa3ef3f307cd03e85f34abb604478ccb90b567fc690da0cd9776da76b13"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-10-21T18:15:28Z",
+      "digest": "sha256:ea1c7aa3ef3f307cd03e85f34abb604478ccb90b567fc690da0cd9776da76b13"
+    },
+    {
+      "version": "v0-busybox",
+      "releaseTimestamp": "2026-10-21T18:15:41Z",
+      "digest": "sha256:ea1c7aa3ef3f307cd03e85f34abb604478ccb90b567fc690da0cd9776da76b13"
+    },
+    {
+      "version": "v0",
+      "releaseTimestamp": "2026-10-21T18:15:55Z",
+      "digest": "sha256:ea1c7aa3ef3f307cd03e85f34abb604478ccb90b567fc690da0cd9776da76b13"
+    },
+    {
+      "version": "latest-distroless",
+      "releaseTimestamp": "2026-10-21T18:16:26Z",
+      "digest": "sha256:4d6d2d50ecabf3a0b10e8f6f5c4b14fc0c2326dcc2f7fe161668de722d5bf61e"
+    },
+    {
+      "version": "v0-distroless",
+      "releaseTimestamp": "2026-10-21T18:16:57Z",
+      "digest": "sha256:4d6d2d50ecabf3a0b10e8f6f5c4b14fc0c2326dcc2f7fe161668de722d5bf61e"
+    },
+    {
+      "version": "master-busybox",
+      "releaseTimestamp": "2026-10-26T06:45:15Z",
+      "digest": "sha256:5f6f07a718f8ed106aea203611fa5bc6960455e8776711fe122b8553f4b194e8"
+    },
+    {
+      "version": "master",
+      "releaseTimestamp": "2026-10-26T06:45:56Z",
+      "digest": "sha256:5f6f07a718f8ed106aea203611fa5bc6960455e8776711fe122b8553f4b194e8"
+    },
+    {
+      "version": "master-distroless",
+      "releaseTimestamp": "2026-10-26T06:47:42Z",
+      "digest": "sha256:ecb474ad55a9feae4e8e53dfcc1f6c0c5e8b18814149b792d7bf689ba651e9a1"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "releases": [
+    {
+      "version": "v3.13.5-busybox",
+      "releaseTimestamp": "2026-10-21T11:07:17Z",
+      "digest": "sha256:aafa9d694e6a883c02db516d9f6e5b84e14195f49a2a6456a4cca815edda72b9"
+    },
+    {
+      "version": "v3.13.5",
+      "releaseTimestamp": "2026-10-21T11:08:04Z",
+      "digest": "sha256:aafa9d694e6a883c02db516d9f6e5b84e14195f49a2a6456a4cca815edda72b9"
+    },
+    {
+      "version": "v3.13.5-distroless",
+      "releaseTimestamp": "2026-10-21T11:09:25Z",
+      "digest": "sha256:a50ed27b1ed863a606c301eacc3f1f89d18a5735a96da4798c3809c0d0894b2c"
+    },
+    {
+      "version": "v3.15.1-busybox",
+      "releaseTimestamp": "2026-10-21T14:07:39Z",
+      "digest": "sha256:fa3302279710be2f21a8301ec17a8b4f2301fd829bd113839b3b6b02b6f191a2"
+    },
+    {
+      "version": "v3.15.1",
+      "releaseTimestamp": "2026-10-21T14:08:25Z",
+      "digest": "sha256:fa3302279710be2f21a8301ec17a8b4f2301fd829bd113839b3b6b02b6f191a2"
+    },
+    {
+      "version": "v3.15.1-distroless",
+      "releaseTimestamp": "2026-10-21T14:09:45Z",
+      "digest": "sha256:451a845bae1d51622b41af1780eb2ad911bbb79a9855bc8e9bb67fabbc03f934"
+    },
+    {
+      "version": "v3.16.0-rc.4-busybox",
+      "releaseTimestamp": "2026-11-03T18:52:37Z",
+      "digest": "sha256:c59191f6efdb816fca3059ed1fd128422c4e178029ad1089adf172cc98aa3521"
+    },
+    {
+      "version": "v3.16.0-rc.4",
+      "releaseTimestamp": "2026-11-03T18:52:40Z",
+      "digest": "sha256:c59191f6efdb816fca3059ed1fd128422c4e178029ad1089adf172cc98aa3521"
+    },
+    {
+      "version": "v3.16.0-rc.4-distroless",
+      "releaseTimestamp": "2026-11-03T18:52:57Z",
+      "digest": "sha256:9be880702e82f0da986aaf79c16a49ebb7bc38bd244f1b3c4a478fbe84c94403"
+    },
+    {
+      "version": "v3.16.0-busybox",
+      "releaseTimestamp": "2026-11-05T15:45:46Z",
+      "digest": "sha256:e04987641b57704f408e31f6373ba4138ecf27cb4a165d24aabb6c38fddd0f06"
+    },
+    {
+      "version": "v3.16.0",
+      "releaseTimestamp": "2026-11-05T15:45:48Z",
+      "digest": "sha256:e04987641b57704f408e31f6373ba4138ecf27cb4a165d24aabb6c38fddd0f06"
+    },
+    {
+      "version": "v3.16.0-distroless",
+      "releaseTimestamp": "2026-11-05T15:46:02Z",
+      "digest": "sha256:e8b8fb0e336fe0affce6f9ea347b11d24975465fd3ba8119420186679c3efd5f"
+    },
+    {
+      "version": "latest-busybox",
+      "releaseTimestamp": "2026-11-05T15:47:04Z",
+      "digest": "sha256:e04987641b57704f408e31f6373ba4138ecf27cb4a165d24aabb6c38fddd0f06"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-05T15:47:06Z",
+      "digest": "sha256:e04987641b57704f408e31f6373ba4138ecf27cb4a165d24aabb6c38fddd0f06"
+    },
+    {
+      "version": "v3-busybox",
+      "releaseTimestamp": "2026-11-05T15:47:09Z",
+      "digest": "sha256:e04987641b57704f408e31f6373ba4138ecf27cb4a165d24aabb6c38fddd0f06"
+    },
+    {
+      "version": "v3",
+      "releaseTimestamp": "2026-11-05T15:47:11Z",
+      "digest": "sha256:e04987641b57704f408e31f6373ba4138ecf27cb4a165d24aabb6c38fddd0f06"
+    },
+    {
+      "version": "latest-distroless",
+      "releaseTimestamp": "2026-11-05T15:47:14Z",
+      "digest": "sha256:e8b8fb0e336fe0affce6f9ea347b11d24975465fd3ba8119420186679c3efd5f"
+    },
+    {
+      "version": "v3-distroless",
+      "releaseTimestamp": "2026-11-05T15:47:16Z",
+      "digest": "sha256:e8b8fb0e336fe0affce6f9ea347b11d24975465fd3ba8119420186679c3efd5f"
+    },
+    {
+      "version": "main-busybox",
+      "releaseTimestamp": "2026-11-11T09:24:57Z",
+      "digest": "sha256:a0ee2d9710299d90e6b0db936819e03fa283fce82f2c1532564e257174827b2c"
+    },
+    {
+      "version": "main",
+      "releaseTimestamp": "2026-11-11T09:25:01Z",
+      "digest": "sha256:a0ee2d9710299d90e6b0db936819e03fa283fce82f2c1532564e257174827b2c"
+    },
+    {
+      "version": "main-distroless",
+      "releaseTimestamp": "2026-11-11T09:25:29Z",
+      "digest": "sha256:e810e58d55dc9ce2746d9902cd8e8aeec2a6f6cc7a8f739ae3c3716a17ef285c"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[project]
+name = "renovate-docker-datasource"
+version = "0.1.0"
+description = "First-seen dates and digests for the Docker image tags Renovate reads"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]

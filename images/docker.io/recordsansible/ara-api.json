@@ -1,0 +1,34 @@
+{
+  "releases": [
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-07-13T13:30:35Z",
+      "digest": "sha256:9dfd6e18f474c2437081a0397310a264aa368b8364aea772c3b5b22bdd788cf5"
+    },
+    {
+      "version": "fedora44-source-latest",
+      "releaseTimestamp": "2026-07-13T13:30:53Z",
+      "digest": "sha256:6227fb42a83e2b1d2eb5bcaea929d830e53a40e7f75ab6c5f48ee61f71de7bd5"
+    },
+    {
+      "version": "alma10-source-latest",
+      "releaseTimestamp": "2026-07-13T13:31:11Z",
+      "digest": "sha256:a06645098b37cf46a7bee39aa8b6a473ad9430374180f94ae7adb0bcf4de76a0"
+    },
+    {
+      "version": "fedora44-pypi-latest",
+      "releaseTimestamp": "2026-07-13T13:31:15Z",
+      "digest": "sha256:9dfd6e18f474c2437081a0397310a264aa368b8364aea772c3b5b22bdd788cf5"
+    },
+    {
+      "version": "alma10-pypi-latest",
+      "releaseTimestamp": "2026-07-13T13:31:32Z",
+      "digest": "sha256:163bab8a6e643a90bb9703059181cd5858cba07a9a828dcae09b928378500a2f"
+    },
+    {
+      "version": "fedora44-distribution-latest",
+      "releaseTimestamp": "2026-07-13T13:31:48Z",
+      "digest": "sha256:9a4b41d76447aa22bf3c158b62bffb07fe9e4ba62256bc5fe3da95a1f47f3bf8"
+    }
+  ]
+}

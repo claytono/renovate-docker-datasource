@@ -1,0 +1,264 @@
+{
+  "releases": [
+    {
+      "version": "2026.9.4",
+      "releaseTimestamp": "2026-09-27T10:04:09Z",
+      "digest": "sha256:3e6710a7ab2a61311d9d899b719f6c3657791c63e8f4942cec4ebc42401d6b76"
+    },
+    {
+      "version": "2026.11.0.dev202610130239",
+      "releaseTimestamp": "2026-10-13T02:49:50Z",
+      "digest": "sha256:570fe067d4e46ff20ce5fe375c6618ea861bcf6ab531ed24d5edf7ed13f5f425"
+    },
+    {
+      "version": "2026.11.0.dev202610140225",
+      "releaseTimestamp": "2026-10-14T02:36:58Z",
+      "digest": "sha256:c741ec05c86c88f6a5943b4d948abbe65da4d7f9a7518b88a9e613817245da9b"
+    },
+    {
+      "version": "2026.11.0.dev202610150225",
+      "releaseTimestamp": "2026-10-15T02:36:35Z",
+      "digest": "sha256:313876e975cd1f926f1803cd0c65fbb5c8f9644280c9ece0c06136ede8447423"
+    },
+    {
+      "version": "2026.11.0.dev202610160225",
+      "releaseTimestamp": "2026-10-16T02:35:55Z",
+      "digest": "sha256:6c8a865e84f0626211eca585e071becff6a093f12d16e440f86983d5da20105f"
+    },
+    {
+      "version": "2026.10.2",
+      "releaseTimestamp": "2026-10-16T20:18:45Z",
+      "digest": "sha256:33afb0659d786213264c2211f8d91c5fe87461c56eba6a3a546eb05fc71e89f4"
+    },
+    {
+      "version": "2026.11.0.dev202610170224",
+      "releaseTimestamp": "2026-10-17T02:34:54Z",
+      "digest": "sha256:5e708f76ed9b28d1b7191a0d4ca54baf32830014433ff357fa5359f0f138d7c8"
+    },
+    {
+      "version": "2026.11.0.dev202610180224",
+      "releaseTimestamp": "2026-10-18T02:33:37Z",
+      "digest": "sha256:e84417abc596cd47b35351381d2f90fd5001380a78e0c27db52ad0d2f4a7832b"
+    },
+    {
+      "version": "2026.11.0.dev202610190228",
+      "releaseTimestamp": "2026-10-19T02:38:22Z",
+      "digest": "sha256:a7cbe0392ca14abef442cbead4bd8192612b98576c562177ae41d13c0477dafb"
+    },
+    {
+      "version": "2026.11.0.dev202610200224",
+      "releaseTimestamp": "2026-10-20T02:35:07Z",
+      "digest": "sha256:90860961f9e05d2e731219da652cd66b456ea717d5debbb2a098e38ea50504cd"
+    },
+    {
+      "version": "2026.11.0.dev202610210226",
+      "releaseTimestamp": "2026-10-21T02:35:08Z",
+      "digest": "sha256:592240932a1c4ef66eb53946f922d1bf2fd8f23be93039f1c6c58d85c9861026"
+    },
+    {
+      "version": "2026.11.0.dev202610220226",
+      "releaseTimestamp": "2026-10-22T02:40:52Z",
+      "digest": "sha256:3b5b5471ac4cd1e30f0bb23fe5b445f049d62c14274fdbd71119ce2e133f4b60"
+    },
+    {
+      "version": "2026.11.0.dev202610230226",
+      "releaseTimestamp": "2026-10-23T02:38:14Z",
+      "digest": "sha256:ab9a72edb5cf22bc43047a58a62805bb4d378a6fb85dc5178ee3476eb0523f27"
+    },
+    {
+      "version": "2026.11.0.dev202610231458",
+      "releaseTimestamp": "2026-10-23T15:24:21Z",
+      "digest": "sha256:56e7104b15d22baabe3dad0245d4f11ab6d955e91838bc753a9b0ff6ae4473de"
+    },
+    {
+      "version": "2026.10.3",
+      "releaseTimestamp": "2026-10-23T19:04:57Z",
+      "digest": "sha256:407b89cd11a8cb67d388d21739a226c74acbbebe1ac59e3b83b11b43ce76b98f"
+    },
+    {
+      "version": "2026.11.0.dev202610240224",
+      "releaseTimestamp": "2026-10-24T02:34:10Z",
+      "digest": "sha256:042338ce441e5169f3446093ae791970dfad0aeba2c335889bb07f9018a16d39"
+    },
+    {
+      "version": "2026.11.0.dev202610241721",
+      "releaseTimestamp": "2026-10-24T17:31:53Z",
+      "digest": "sha256:2e5f46b84772e9e4d4fdf447f1705de4b919532e069a873182c376e295e85faa"
+    },
+    {
+      "version": "2026.10.4",
+      "releaseTimestamp": "2026-10-24T20:31:15Z",
+      "digest": "sha256:23f4dfbb69ce76315dbc4de7915504f1c2dcecd7ca2648113a493a385972e133"
+    },
+    {
+      "version": "2026.10",
+      "releaseTimestamp": "2026-10-24T20:31:16Z",
+      "digest": "sha256:23f4dfbb69ce76315dbc4de7915504f1c2dcecd7ca2648113a493a385972e133"
+    },
+    {
+      "version": "2026.11.0.dev202610250226",
+      "releaseTimestamp": "2026-10-25T02:36:41Z",
+      "digest": "sha256:c13677962cfc59212529539a1ca6bd73f9a71f648d67fcbccdfba0ca6957aefe"
+    },
+    {
+      "version": "2026.11.0.dev202610260230",
+      "releaseTimestamp": "2026-10-26T02:40:47Z",
+      "digest": "sha256:cd88fb7b537d4a3be9d3a5442109a5089765830be0e74b30d5adabf74358b417"
+    },
+    {
+      "version": "2026.11.0.dev202610280219",
+      "releaseTimestamp": "2026-10-28T02:28:49Z",
+      "digest": "sha256:4b43a25aba8724e73db5c213c718c510dbf2b6b819074bd192188f8cc40c682b"
+    },
+    {
+      "version": "2026.11.0.dev202610281312",
+      "releaseTimestamp": "2026-10-28T13:24:04Z",
+      "digest": "sha256:4f9fc9aaf7667902170d152dd29843559cd66dc358db4a28125994b4b9f513c4"
+    },
+    {
+      "version": "2026.11.0b0",
+      "releaseTimestamp": "2026-10-28T16:17:06Z",
+      "digest": "sha256:3daf04fd3c3986353cd36d3dc7daa89a105535edb5f80ec464621d71be3f81d5"
+    },
+    {
+      "version": "2026.12.0.dev202610290219",
+      "releaseTimestamp": "2026-10-29T02:31:22Z",
+      "digest": "sha256:5b496567cbfe549152b160bb900c0e4d9c1931f5d7c56629d4bb2b66b03fa65f"
+    },
+    {
+      "version": "2026.11.0b1",
+      "releaseTimestamp": "2026-10-29T17:04:24Z",
+      "digest": "sha256:0480fba9b81b3cda8226c3054b5bf4aa52589735ceb17f23ba47ddbf68790875"
+    },
+    {
+      "version": "2026.12.0.dev202610300219",
+      "releaseTimestamp": "2026-10-30T02:30:26Z",
+      "digest": "sha256:bad589a7975df20217d2d460c2a130603b68db7e3979576a882de053f3385497"
+    },
+    {
+      "version": "2026.11.0b2",
+      "releaseTimestamp": "2026-10-30T23:18:23Z",
+      "digest": "sha256:dc3e4f99a631ce15a0854c720815adf40ab5ca850809fee5edcc4c2c1cc6a6fd"
+    },
+    {
+      "version": "2026.12.0.dev202610310215",
+      "releaseTimestamp": "2026-10-31T02:25:41Z",
+      "digest": "sha256:91f45b0c6f72e9cd23e3ff5b2a2beb0decaa37de85a0265926dae411f08f7302"
+    },
+    {
+      "version": "2026.12.0.dev202611010216",
+      "releaseTimestamp": "2026-11-01T02:26:17Z",
+      "digest": "sha256:569f55a15907b18066fd9a76c736b9924836e8b76255bd8763cdd1b9a03f54a9"
+    },
+    {
+      "version": "2026.12.0.dev202611020217",
+      "releaseTimestamp": "2026-11-02T02:28:54Z",
+      "digest": "sha256:2fbb486df80de5b2dd8756c2f43e96d5b51fabda1fc7a5266559c8d50c39bf44"
+    },
+    {
+      "version": "2026.11.0b3",
+      "releaseTimestamp": "2026-11-02T17:06:44Z",
+      "digest": "sha256:bae27da70db7cfcab0980c6d82f106ef1d4946cd4860d95c14525aef5d101577"
+    },
+    {
+      "version": "2026.12.0.dev202611030216",
+      "releaseTimestamp": "2026-11-03T02:26:57Z",
+      "digest": "sha256:a45d640693075e788627d500563a0f18170be230bd30783a414a778327eddb0d"
+    },
+    {
+      "version": "2026.11.0b4",
+      "releaseTimestamp": "2026-11-03T13:59:40Z",
+      "digest": "sha256:f36152252955854503afddf21c86305f70c4d707645600deb5f12956c310661a"
+    },
+    {
+      "version": "2026.12.0.dev202611040215",
+      "releaseTimestamp": "2026-11-04T02:33:41Z",
+      "digest": "sha256:e84b67afb0443ad40428b51ee8f1b590bc8053f93cb21e29287b2e2c6d206d50"
+    },
+    {
+      "version": "2026.11.0b5",
+      "releaseTimestamp": "2026-11-04T12:36:50Z",
+      "digest": "sha256:f02510607708104cf610f801acfde3f9eab4e010db7d3b7c911c8271e35f3ee4"
+    },
+    {
+      "version": "2026.11.0b6",
+      "releaseTimestamp": "2026-11-04T16:37:27Z",
+      "digest": "sha256:dfeb3e4b50095f0cbb68e1069427249e30d16971927cb04fc59c99b67de76642"
+    },
+    {
+      "version": "2026.11.0",
+      "releaseTimestamp": "2026-11-04T17:53:33Z",
+      "digest": "sha256:c6c1ca9931036bf3a2c4cc088d8db25dfea3b33935a5ecc83c40349462e2f69e"
+    },
+    {
+      "version": "2026.12.0.dev202611050216",
+      "releaseTimestamp": "2026-11-05T02:30:37Z",
+      "digest": "sha256:8a735742917c0f8094c8196ea250982146d852bcd0b1a36ddbb7956bf8885478"
+    },
+    {
+      "version": "2026.12.0.dev202611060216",
+      "releaseTimestamp": "2026-11-06T02:27:26Z",
+      "digest": "sha256:28a5442313697bad87a0035d819405ba8658833e80dacd3faca4671da75e070f"
+    },
+    {
+      "version": "2026.12.0.dev202611070215",
+      "releaseTimestamp": "2026-11-07T02:26:07Z",
+      "digest": "sha256:69f375a747e7f2790ce54fab131b6e4d4c777463576f982bffb8814a092080e9"
+    },
+    {
+      "version": "2026.12.0.dev202611080216",
+      "releaseTimestamp": "2026-11-08T02:25:40Z",
+      "digest": "sha256:ddc1d2c28a388744dbfc241116d70325814500623d2353504d5030de6eeeb597"
+    },
+    {
+      "version": "2026.12.0.dev202611090217",
+      "releaseTimestamp": "2026-11-09T02:27:29Z",
+      "digest": "sha256:802c3f129f98b740affc450070ae00f0d5f655176fffbbcadee94c4604ee87e0"
+    },
+    {
+      "version": "2026.11.1",
+      "releaseTimestamp": "2026-11-09T19:08:39Z",
+      "digest": "sha256:6785d1eca68747a524c156faae1b139ed415c07357386ae6fe17291986e59e82"
+    },
+    {
+      "version": "2026.11",
+      "releaseTimestamp": "2026-11-09T19:08:41Z",
+      "digest": "sha256:6785d1eca68747a524c156faae1b139ed415c07357386ae6fe17291986e59e82"
+    },
+    {
+      "version": "beta",
+      "releaseTimestamp": "2026-11-09T19:08:42Z",
+      "digest": "sha256:6785d1eca68747a524c156faae1b139ed415c07357386ae6fe17291986e59e82"
+    },
+    {
+      "version": "rc",
+      "releaseTimestamp": "2026-11-09T19:08:44Z",
+      "digest": "sha256:6785d1eca68747a524c156faae1b139ed415c07357386ae6fe17291986e59e82"
+    },
+    {
+      "version": "stable",
+      "releaseTimestamp": "2026-11-09T19:08:45Z",
+      "digest": "sha256:6785d1eca68747a524c156faae1b139ed415c07357386ae6fe17291986e59e82"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-09T19:08:47Z",
+      "digest": "sha256:6785d1eca68747a524c156faae1b139ed415c07357386ae6fe17291986e59e82"
+    },
+    {
+      "version": "2026.12.0.dev202611100215",
+      "releaseTimestamp": "2026-11-10T02:27:18Z",
+      "digest": "sha256:ff13dda277e44bae826bb1293eb77f90df19911bf134abbfbfc1924a0e916185"
+    },
+    {
+      "version": "2026.12.0.dev202611110215",
+      "releaseTimestamp": "2026-11-11T02:25:55Z",
+      "digest": "sha256:23477b0194c01463120e44afc41da1fb56aba1bd61c11347ec305bd76a20d413"
+    },
+    {
+      "version": "dev",
+      "releaseTimestamp": "2026-11-11T02:25:56Z",
+      "digest": "sha256:23477b0194c01463120e44afc41da1fb56aba1bd61c11347ec305bd76a20d413"
+    }
+  ]
+}

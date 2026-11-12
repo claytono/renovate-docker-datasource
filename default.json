@@ -1,0 +1,20 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Look up Docker images in claytono/renovate-docker-datasource, which dates each tag by its Docker Hub push date or by when it was first seen elsewhere",
+  "customDatasources": {
+    "docker-first-seen": {
+      "transformTemplates": ["$eval($base64decode(content))"]
+    }
+  },
+  "packageRules": [
+    {
+      "description": "Look up versioned Docker tags in the image's file. The nested replaces turn the name as written (nginx, linuxserver/sonarr) into the file's path (docker.io/library/nginx, docker.io/linuxserver/sonarr). The URL is set here rather than as the datasource's default so that it replaces any registry URL a repository sets. Floating tags such as latest or stable are not versions to Renovate, which only updates their digest, so they stay on the Docker datasource.",
+      "matchDatasources": ["docker"],
+      "matchCurrentValue": "/^[vV]?\\d+(\\.\\d+)*\\w*(-.*)?$/",
+      "overrideDatasource": "custom.docker-first-seen",
+      "registryUrls": [
+        "https://api.github.com/repos/claytono/renovate-docker-datasource/contents/images/{{{replace '^docker\\.io/([^/]+)$' 'docker.io/library/$1' (replace '^([^/.:]+/.*|[^/]+)$' 'docker.io/$1' (replace '^(index|registry-1)\\.docker\\.io/' 'docker.io/' packageName))}}}.json"
+      ]
+    }
+  ]
+}

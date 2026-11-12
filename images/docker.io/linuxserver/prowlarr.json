@@ -1,0 +1,1054 @@
+{
+  "releases": [
+    {
+      "version": "amd64-nightly-2.6.5.5668-ls20",
+      "releaseTimestamp": "2026-10-13T17:10:38Z",
+      "digest": "sha256:42d74a8c27acebed8b48c1fc05b5da45b884cc00503559b9274b6457bfe97a83"
+    },
+    {
+      "version": "amd64-nightly-version-2.6.5.5668",
+      "releaseTimestamp": "2026-10-13T17:10:41Z",
+      "digest": "sha256:42d74a8c27acebed8b48c1fc05b5da45b884cc00503559b9274b6457bfe97a83"
+    },
+    {
+      "version": "arm64v8-nightly-2.6.5.5668-ls20",
+      "releaseTimestamp": "2026-10-13T17:10:51Z",
+      "digest": "sha256:6ff844ee2c297cb5b472f5accc97c6bc122ecbc7605e4dfe992ef9829b9f66cb"
+    },
+    {
+      "version": "arm64v8-nightly-version-2.6.5.5668",
+      "releaseTimestamp": "2026-10-13T17:10:54Z",
+      "digest": "sha256:6ff844ee2c297cb5b472f5accc97c6bc122ecbc7605e4dfe992ef9829b9f66cb"
+    },
+    {
+      "version": "nightly-2.6.5.5668-ls20",
+      "releaseTimestamp": "2026-10-13T17:17:43Z",
+      "digest": "sha256:e32e72f1fb2c02cc70d37673f0a444579a3851dc7d14202e953faa5adf6bd847"
+    },
+    {
+      "version": "nightly-version-2.6.5.5668",
+      "releaseTimestamp": "2026-10-13T17:17:47Z",
+      "digest": "sha256:e32e72f1fb2c02cc70d37673f0a444579a3851dc7d14202e953faa5adf6bd847"
+    },
+    {
+      "version": "amd64-nightly-2.6.5.5672-ls20",
+      "releaseTimestamp": "2026-10-14T01:11:57Z",
+      "digest": "sha256:04dd3012cbb31c5a4fa66822a99785e77968478e73d9a059a7f2f7bc910ecc7f"
+    },
+    {
+      "version": "arm64v8-nightly-2.6.5.5672-ls20",
+      "releaseTimestamp": "2026-10-14T01:12:10Z",
+      "digest": "sha256:6d1a3341c0267b381f4dbd8a0ec19ac11a49e359b8b4005d471d272a0be59541"
+    },
+    {
+      "version": "nightly-2.6.5.5672-ls20",
+      "releaseTimestamp": "2026-10-14T01:17:21Z",
+      "digest": "sha256:5944ab837fccdcfe5a18f271d095ba24c037fa1cef085b5ee66daeae792cc9f4"
+    },
+    {
+      "version": "amd64-develop-2.6.5.5623-ls277",
+      "releaseTimestamp": "2026-10-18T22:38:08Z",
+      "digest": "sha256:c2feaea5a0d98b24fb8ac21151b71abb9a3ca769ac0d9db246fb802e57cc17d5"
+    },
+    {
+      "version": "arm64v8-develop-2.6.5.5623-ls277",
+      "releaseTimestamp": "2026-10-18T22:38:21Z",
+      "digest": "sha256:d19533b5760111c5bc9852d17447ff1cbfe8cceca0c7072ea233d3a4062e3fa6"
+    },
+    {
+      "version": "develop-2.6.5.5623-ls277",
+      "releaseTimestamp": "2026-10-18T22:43:43Z",
+      "digest": "sha256:45c0a6350f4c78178ec2a7f608da3e7e696b6a5e374cbd925d132bf053b99c58"
+    },
+    {
+      "version": "amd64-2.6.5.5623-ls164",
+      "releaseTimestamp": "2026-10-18T23:17:19Z",
+      "digest": "sha256:6cbd8e0e5e4d7ee817e8993a13d7c9fa32ab41733a00a5cf1b251438ce124b0f"
+    },
+    {
+      "version": "arm64v8-2.6.5.5623-ls164",
+      "releaseTimestamp": "2026-10-18T23:17:31Z",
+      "digest": "sha256:b8527519d754938e12136bd77cbc0d73764fa83f1b9c6c17399d592e026f96cc"
+    },
+    {
+      "version": "2.6.5.5623-ls164",
+      "releaseTimestamp": "2026-10-18T23:22:47Z",
+      "digest": "sha256:4e992f9b9229bc8c97c666b10b042a7360bce1d99b196e8aa29fd9805849cbf1"
+    },
+    {
+      "version": "amd64-nightly-2.6.5.5672-ls21",
+      "releaseTimestamp": "2026-10-19T17:12:01Z",
+      "digest": "sha256:9654b4ac8cffc04d7d4ceda11d35c8235a74e9e9a029b215eca885fcbe6e26e8"
+    },
+    {
+      "version": "amd64-nightly-version-2.6.5.5672",
+      "releaseTimestamp": "2026-10-19T17:12:05Z",
+      "digest": "sha256:9654b4ac8cffc04d7d4ceda11d35c8235a74e9e9a029b215eca885fcbe6e26e8"
+    },
+    {
+      "version": "arm64v8-nightly-2.6.5.5672-ls21",
+      "releaseTimestamp": "2026-10-19T17:12:14Z",
+      "digest": "sha256:887d9d44677fb11063dbafd1637c33c60c51b425114ea468d31236814dc91798"
+    },
+    {
+      "version": "arm64v8-nightly-version-2.6.5.5672",
+      "releaseTimestamp": "2026-10-19T17:12:18Z",
+      "digest": "sha256:887d9d44677fb11063dbafd1637c33c60c51b425114ea468d31236814dc91798"
+    },
+    {
+      "version": "amd64-develop-2.6.5.5623-ls278",
+      "releaseTimestamp": "2026-10-19T17:14:57Z",
+      "digest": "sha256:8515a525bac4fcc8a52b45c6639f8707c03a2d14157278c391c2f105b4cbab88"
+    },
+    {
+      "version": "amd64-develop-version-2.6.5.5623",
+      "releaseTimestamp": "2026-10-19T17:15:00Z",
+      "digest": "sha256:8515a525bac4fcc8a52b45c6639f8707c03a2d14157278c391c2f105b4cbab88"
+    },
+    {
+      "version": "arm64v8-develop-2.6.5.5623-ls278",
+      "releaseTimestamp": "2026-10-19T17:15:09Z",
+      "digest": "sha256:aeb7de2a3dc1cc78fbe25f5a5faf262d777bfa5ce09952001cfb88b92d5377ab"
+    },
+    {
+      "version": "arm64v8-develop-version-2.6.5.5623",
+      "releaseTimestamp": "2026-10-19T17:15:13Z",
+      "digest": "sha256:aeb7de2a3dc1cc78fbe25f5a5faf262d777bfa5ce09952001cfb88b92d5377ab"
+    },
+    {
+      "version": "amd64-2.6.5-develop",
+      "releaseTimestamp": "2026-10-19T17:15:17Z",
+      "digest": "sha256:8515a525bac4fcc8a52b45c6639f8707c03a2d14157278c391c2f105b4cbab88"
+    },
+    {
+      "version": "arm64v8-2.6.5-develop",
+      "releaseTimestamp": "2026-10-19T17:15:21Z",
+      "digest": "sha256:aeb7de2a3dc1cc78fbe25f5a5faf262d777bfa5ce09952001cfb88b92d5377ab"
+    },
+    {
+      "version": "nightly-2.6.5.5672-ls21",
+      "releaseTimestamp": "2026-10-19T17:17:42Z",
+      "digest": "sha256:6e1039e118fd4ac41a9874d60d4542388718136f0b9844368172619ae32bf3d9"
+    },
+    {
+      "version": "nightly-version-2.6.5.5672",
+      "releaseTimestamp": "2026-10-19T17:17:46Z",
+      "digest": "sha256:6e1039e118fd4ac41a9874d60d4542388718136f0b9844368172619ae32bf3d9"
+    },
+    {
+      "version": "develop-2.6.5.5623-ls278",
+      "releaseTimestamp": "2026-10-19T17:20:39Z",
+      "digest": "sha256:5f2281d9ba83f1edebe8e38823e6e5b174cf7958f6deb0cb992fc5f17eb0761f"
+    },
+    {
+      "version": "develop-version-2.6.5.5623",
+      "releaseTimestamp": "2026-10-19T17:20:43Z",
+      "digest": "sha256:5f2281d9ba83f1edebe8e38823e6e5b174cf7958f6deb0cb992fc5f17eb0761f"
+    },
+    {
+      "version": "2.6.5-develop",
+      "releaseTimestamp": "2026-10-19T17:20:47Z",
+      "digest": "sha256:5f2281d9ba83f1edebe8e38823e6e5b174cf7958f6deb0cb992fc5f17eb0761f"
+    },
+    {
+      "version": "amd64-2.6.5.5623-ls165",
+      "releaseTimestamp": "2026-10-20T19:07:32Z",
+      "digest": "sha256:605f935bdd516419a1ece31f4075f4c8387f34b2227ca54f1cc00c305168110b"
+    },
+    {
+      "version": "amd64-version-2.6.5.5623",
+      "releaseTimestamp": "2026-10-20T19:07:35Z",
+      "digest": "sha256:605f935bdd516419a1ece31f4075f4c8387f34b2227ca54f1cc00c305168110b"
+    },
+    {
+      "version": "arm64v8-2.6.5.5623-ls165",
+      "releaseTimestamp": "2026-10-20T19:07:45Z",
+      "digest": "sha256:c39b3c3d7d9f21bd05c18edbfe848bf1a069b8f01f978d628feb11baa219d9c0"
+    },
+    {
+      "version": "arm64v8-version-2.6.5.5623",
+      "releaseTimestamp": "2026-10-20T19:07:48Z",
+      "digest": "sha256:c39b3c3d7d9f21bd05c18edbfe848bf1a069b8f01f978d628feb11baa219d9c0"
+    },
+    {
+      "version": "amd64-2.6.5",
+      "releaseTimestamp": "2026-10-20T19:07:52Z",
+      "digest": "sha256:605f935bdd516419a1ece31f4075f4c8387f34b2227ca54f1cc00c305168110b"
+    },
+    {
+      "version": "arm64v8-2.6.5",
+      "releaseTimestamp": "2026-10-20T19:07:56Z",
+      "digest": "sha256:c39b3c3d7d9f21bd05c18edbfe848bf1a069b8f01f978d628feb11baa219d9c0"
+    },
+    {
+      "version": "2.6.5.5623-ls165",
+      "releaseTimestamp": "2026-10-20T19:13:20Z",
+      "digest": "sha256:b3b00047ed20f6ce2b16780145cb6a0acb51c9e28ea6aa6f5dcd33c7034f1797"
+    },
+    {
+      "version": "version-2.6.5.5623",
+      "releaseTimestamp": "2026-10-20T19:13:24Z",
+      "digest": "sha256:b3b00047ed20f6ce2b16780145cb6a0acb51c9e28ea6aa6f5dcd33c7034f1797"
+    },
+    {
+      "version": "2.6.5",
+      "releaseTimestamp": "2026-10-20T19:13:28Z",
+      "digest": "sha256:b3b00047ed20f6ce2b16780145cb6a0acb51c9e28ea6aa6f5dcd33c7034f1797"
+    },
+    {
+      "version": "amd64-nightly-2.6.5.5715-ls22",
+      "releaseTimestamp": "2026-10-25T01:28:45Z",
+      "digest": "sha256:d925901f8ef081f77e06f3c7ca230dce622cf347a7db86ed15e7b5183c0acddc"
+    },
+    {
+      "version": "amd64-nightly-version-2.6.5.5715",
+      "releaseTimestamp": "2026-10-25T01:28:48Z",
+      "digest": "sha256:d925901f8ef081f77e06f3c7ca230dce622cf347a7db86ed15e7b5183c0acddc"
+    },
+    {
+      "version": "arm64v8-nightly-2.6.5.5715-ls22",
+      "releaseTimestamp": "2026-10-25T01:28:59Z",
+      "digest": "sha256:4e0df9b7573e5c2b83c0c7a7c84dc714505e9c5917c3144807f1876da3f7161a"
+    },
+    {
+      "version": "arm64v8-nightly-version-2.6.5.5715",
+      "releaseTimestamp": "2026-10-25T01:29:02Z",
+      "digest": "sha256:4e0df9b7573e5c2b83c0c7a7c84dc714505e9c5917c3144807f1876da3f7161a"
+    },
+    {
+      "version": "amd64-2.6.5-nightly",
+      "releaseTimestamp": "2026-10-25T01:29:06Z",
+      "digest": "sha256:d925901f8ef081f77e06f3c7ca230dce622cf347a7db86ed15e7b5183c0acddc"
+    },
+    {
+      "version": "arm64v8-2.6.5-nightly",
+      "releaseTimestamp": "2026-10-25T01:29:10Z",
+      "digest": "sha256:4e0df9b7573e5c2b83c0c7a7c84dc714505e9c5917c3144807f1876da3f7161a"
+    },
+    {
+      "version": "nightly-2.6.5.5715-ls22",
+      "releaseTimestamp": "2026-10-25T01:34:30Z",
+      "digest": "sha256:c07891ad06fb4c06239e433411cee004dadcc69854650bb7d205cc5411147709"
+    },
+    {
+      "version": "nightly-version-2.6.5.5715",
+      "releaseTimestamp": "2026-10-25T01:34:34Z",
+      "digest": "sha256:c07891ad06fb4c06239e433411cee004dadcc69854650bb7d205cc5411147709"
+    },
+    {
+      "version": "2.6.5-nightly",
+      "releaseTimestamp": "2026-10-25T01:34:38Z",
+      "digest": "sha256:c07891ad06fb4c06239e433411cee004dadcc69854650bb7d205cc5411147709"
+    },
+    {
+      "version": "amd64-nightly-2.6.6.5717-ls22",
+      "releaseTimestamp": "2026-10-25T06:08:26Z",
+      "digest": "sha256:92716466489a575a8e609235d73daadebe284698100ee35668434d47e30f1473"
+    },
+    {
+      "version": "amd64-nightly-version-2.6.6.5717",
+      "releaseTimestamp": "2026-10-25T06:08:29Z",
+      "digest": "sha256:92716466489a575a8e609235d73daadebe284698100ee35668434d47e30f1473"
+    },
+    {
+      "version": "arm64v8-nightly-2.6.6.5717-ls22",
+      "releaseTimestamp": "2026-10-25T06:08:39Z",
+      "digest": "sha256:5422e8710c3b5af14ffa9b6aebdb09051a2fb337a1afb5559abd6d84771e38c4"
+    },
+    {
+      "version": "arm64v8-nightly-version-2.6.6.5717",
+      "releaseTimestamp": "2026-10-25T06:08:42Z",
+      "digest": "sha256:5422e8710c3b5af14ffa9b6aebdb09051a2fb337a1afb5559abd6d84771e38c4"
+    },
+    {
+      "version": "amd64-2.6.6-nightly",
+      "releaseTimestamp": "2026-10-25T06:08:46Z",
+      "digest": "sha256:92716466489a575a8e609235d73daadebe284698100ee35668434d47e30f1473"
+    },
+    {
+      "version": "arm64v8-2.6.6-nightly",
+      "releaseTimestamp": "2026-10-25T06:08:50Z",
+      "digest": "sha256:5422e8710c3b5af14ffa9b6aebdb09051a2fb337a1afb5559abd6d84771e38c4"
+    },
+    {
+      "version": "nightly-2.6.6.5717-ls22",
+      "releaseTimestamp": "2026-10-25T06:14:02Z",
+      "digest": "sha256:5fd454ff793dbbeb78ebb1efbec6e90f880f43e8464d87dbf3aa461596d34f25"
+    },
+    {
+      "version": "nightly-version-2.6.6.5717",
+      "releaseTimestamp": "2026-10-25T06:14:06Z",
+      "digest": "sha256:5fd454ff793dbbeb78ebb1efbec6e90f880f43e8464d87dbf3aa461596d34f25"
+    },
+    {
+      "version": "2.6.6-nightly",
+      "releaseTimestamp": "2026-10-25T06:14:10Z",
+      "digest": "sha256:5fd454ff793dbbeb78ebb1efbec6e90f880f43e8464d87dbf3aa461596d34f25"
+    },
+    {
+      "version": "amd64-develop-2.6.6.5717-ls279",
+      "releaseTimestamp": "2026-10-26T18:30:34Z",
+      "digest": "sha256:8ad1ec53616855ec30fd0fea7b0e37251d1d3997ff1e526f36137e16a981104b"
+    },
+    {
+      "version": "amd64-develop-version-2.6.6.5717",
+      "releaseTimestamp": "2026-10-26T18:30:38Z",
+      "digest": "sha256:8ad1ec53616855ec30fd0fea7b0e37251d1d3997ff1e526f36137e16a981104b"
+    },
+    {
+      "version": "arm64v8-develop-2.6.6.5717-ls279",
+      "releaseTimestamp": "2026-10-26T18:30:47Z",
+      "digest": "sha256:d59a4b339fa8024528908d1ca5785854f18f55eb74ef8815f88fc2522f2cee68"
+    },
+    {
+      "version": "arm64v8-develop-version-2.6.6.5717",
+      "releaseTimestamp": "2026-10-26T18:30:50Z",
+      "digest": "sha256:d59a4b339fa8024528908d1ca5785854f18f55eb74ef8815f88fc2522f2cee68"
+    },
+    {
+      "version": "amd64-2.6.6-develop",
+      "releaseTimestamp": "2026-10-26T18:30:54Z",
+      "digest": "sha256:8ad1ec53616855ec30fd0fea7b0e37251d1d3997ff1e526f36137e16a981104b"
+    },
+    {
+      "version": "arm64v8-2.6.6-develop",
+      "releaseTimestamp": "2026-10-26T18:30:58Z",
+      "digest": "sha256:d59a4b339fa8024528908d1ca5785854f18f55eb74ef8815f88fc2522f2cee68"
+    },
+    {
+      "version": "develop-2.6.6.5717-ls279",
+      "releaseTimestamp": "2026-10-26T18:36:14Z",
+      "digest": "sha256:e95fafe9edac0dc687b17e7c18f38722968e086a0ff59fc5f18eba28648dd51a"
+    },
+    {
+      "version": "develop-version-2.6.6.5717",
+      "releaseTimestamp": "2026-10-26T18:36:19Z",
+      "digest": "sha256:e95fafe9edac0dc687b17e7c18f38722968e086a0ff59fc5f18eba28648dd51a"
+    },
+    {
+      "version": "2.6.6-develop",
+      "releaseTimestamp": "2026-10-26T18:36:23Z",
+      "digest": "sha256:e95fafe9edac0dc687b17e7c18f38722968e086a0ff59fc5f18eba28648dd51a"
+    },
+    {
+      "version": "amd64-nightly-2.7.0.5722-ls22",
+      "releaseTimestamp": "2026-10-26T19:14:32Z",
+      "digest": "sha256:9be6ede274b137a976a6b7e56d1a493bf7e729ebbb9ff74a7525b68f5951ca89"
+    },
+    {
+      "version": "amd64-nightly-version-2.7.0.5722",
+      "releaseTimestamp": "2026-10-26T19:14:35Z",
+      "digest": "sha256:9be6ede274b137a976a6b7e56d1a493bf7e729ebbb9ff74a7525b68f5951ca89"
+    },
+    {
+      "version": "arm64v8-nightly-2.7.0.5722-ls22",
+      "releaseTimestamp": "2026-10-26T19:14:45Z",
+      "digest": "sha256:11470b13d7784be5608e677925473df8ccd6dcedad6f4e97134c279895f5a7c2"
+    },
+    {
+      "version": "arm64v8-nightly-version-2.7.0.5722",
+      "releaseTimestamp": "2026-10-26T19:14:48Z",
+      "digest": "sha256:11470b13d7784be5608e677925473df8ccd6dcedad6f4e97134c279895f5a7c2"
+    },
+    {
+      "version": "amd64-2.7.0-nightly",
+      "releaseTimestamp": "2026-10-26T19:14:52Z",
+      "digest": "sha256:9be6ede274b137a976a6b7e56d1a493bf7e729ebbb9ff74a7525b68f5951ca89"
+    },
+    {
+      "version": "arm64v8-2.7.0-nightly",
+      "releaseTimestamp": "2026-10-26T19:14:56Z",
+      "digest": "sha256:11470b13d7784be5608e677925473df8ccd6dcedad6f4e97134c279895f5a7c2"
+    },
+    {
+      "version": "nightly-2.7.0.5722-ls22",
+      "releaseTimestamp": "2026-10-26T19:20:09Z",
+      "digest": "sha256:fe653acffa654a661c37754f9bea7314bb3c98711c9c71ab256242e6b5080ec2"
+    },
+    {
+      "version": "nightly-version-2.7.0.5722",
+      "releaseTimestamp": "2026-10-26T19:20:13Z",
+      "digest": "sha256:fe653acffa654a661c37754f9bea7314bb3c98711c9c71ab256242e6b5080ec2"
+    },
+    {
+      "version": "2.7.0-nightly",
+      "releaseTimestamp": "2026-10-26T19:20:17Z",
+      "digest": "sha256:fe653acffa654a661c37754f9bea7314bb3c98711c9c71ab256242e6b5080ec2"
+    },
+    {
+      "version": "amd64-develop-2.7.0.5723-ls279",
+      "releaseTimestamp": "2026-10-27T18:27:40Z",
+      "digest": "sha256:9b0250ec198a9971a0c0b2215e7549664cb1face9d45eea57e4d51bf13c6be3f"
+    },
+    {
+      "version": "amd64-develop-version-2.7.0.5723",
+      "releaseTimestamp": "2026-10-27T18:27:43Z",
+      "digest": "sha256:9b0250ec198a9971a0c0b2215e7549664cb1face9d45eea57e4d51bf13c6be3f"
+    },
+    {
+      "version": "arm64v8-develop-2.7.0.5723-ls279",
+      "releaseTimestamp": "2026-10-27T18:27:52Z",
+      "digest": "sha256:2bef633d33318f4a3cb11101297c75d7a2feec936e62ea90cb1ab6be8f0dd723"
+    },
+    {
+      "version": "arm64v8-develop-version-2.7.0.5723",
+      "releaseTimestamp": "2026-10-27T18:27:55Z",
+      "digest": "sha256:2bef633d33318f4a3cb11101297c75d7a2feec936e62ea90cb1ab6be8f0dd723"
+    },
+    {
+      "version": "amd64-2.7.0-develop",
+      "releaseTimestamp": "2026-10-27T18:27:59Z",
+      "digest": "sha256:9b0250ec198a9971a0c0b2215e7549664cb1face9d45eea57e4d51bf13c6be3f"
+    },
+    {
+      "version": "arm64v8-2.7.0-develop",
+      "releaseTimestamp": "2026-10-27T18:28:03Z",
+      "digest": "sha256:2bef633d33318f4a3cb11101297c75d7a2feec936e62ea90cb1ab6be8f0dd723"
+    },
+    {
+      "version": "develop-2.7.0.5723-ls279",
+      "releaseTimestamp": "2026-10-27T18:33:22Z",
+      "digest": "sha256:b8b1bb2c5514b46128309411d007c20c6372e8cef09977ee135488e22b0c1962"
+    },
+    {
+      "version": "develop-version-2.7.0.5723",
+      "releaseTimestamp": "2026-10-27T18:33:27Z",
+      "digest": "sha256:b8b1bb2c5514b46128309411d007c20c6372e8cef09977ee135488e22b0c1962"
+    },
+    {
+      "version": "2.7.0-develop",
+      "releaseTimestamp": "2026-10-27T18:33:31Z",
+      "digest": "sha256:b8b1bb2c5514b46128309411d007c20c6372e8cef09977ee135488e22b0c1962"
+    },
+    {
+      "version": "amd64-nightly-3.0.0.5726-ls23",
+      "releaseTimestamp": "2026-10-27T19:00:23Z",
+      "digest": "sha256:64d2570872d801b75046b00f945b78c63a0aced0483fad343f0d972e1f732ca5"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.0.5726",
+      "releaseTimestamp": "2026-10-27T19:00:27Z",
+      "digest": "sha256:64d2570872d801b75046b00f945b78c63a0aced0483fad343f0d972e1f732ca5"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.0.5726-ls23",
+      "releaseTimestamp": "2026-10-27T19:00:37Z",
+      "digest": "sha256:4baeb28c5c9125fda258f2d4f767d988f3d0af794a416e8981200fb418cfb38f"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.0.5726",
+      "releaseTimestamp": "2026-10-27T19:00:41Z",
+      "digest": "sha256:4baeb28c5c9125fda258f2d4f767d988f3d0af794a416e8981200fb418cfb38f"
+    },
+    {
+      "version": "nightly-3.0.0.5726-ls23",
+      "releaseTimestamp": "2026-10-27T19:06:21Z",
+      "digest": "sha256:a25afaa4ea5b3ca6c0449d34210e5f85a358f7b9e6c80b505242922636e00c9d"
+    },
+    {
+      "version": "nightly-version-3.0.0.5726",
+      "releaseTimestamp": "2026-10-27T19:06:25Z",
+      "digest": "sha256:a25afaa4ea5b3ca6c0449d34210e5f85a358f7b9e6c80b505242922636e00c9d"
+    },
+    {
+      "version": "amd64-2.7.0.5723-ls166",
+      "releaseTimestamp": "2026-10-27T21:21:02Z",
+      "digest": "sha256:4c2279345c3f4b7c5da6ce3ecf444f7c4cd2c1773ff9f2295422bfe758607cd8"
+    },
+    {
+      "version": "arm64v8-2.7.0.5723-ls166",
+      "releaseTimestamp": "2026-10-27T21:21:14Z",
+      "digest": "sha256:b36fedea245bc6e49f050161790e06222d5f2e7f2b1db7ff558e14891376e087"
+    },
+    {
+      "version": "2.7.0.5723-ls166",
+      "releaseTimestamp": "2026-10-27T21:26:44Z",
+      "digest": "sha256:04be30163fbaf48d6aeee7b5893c9f6614ffbad6d853971df0d6dcdf01c7f104"
+    },
+    {
+      "version": "amd64-nightly-3.0.0.5732-ls23",
+      "releaseTimestamp": "2026-10-30T19:51:04Z",
+      "digest": "sha256:cef9a2e80b21d20b297375035bbba53fe579ca0ed6f0ae78ff36a3301bb7288f"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.0.5732",
+      "releaseTimestamp": "2026-10-30T19:51:07Z",
+      "digest": "sha256:cef9a2e80b21d20b297375035bbba53fe579ca0ed6f0ae78ff36a3301bb7288f"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.0.5732-ls23",
+      "releaseTimestamp": "2026-10-30T19:51:17Z",
+      "digest": "sha256:76d76012aac2fdfd7a3cacff399d1f0677f7622434cd756d9a30ac1f2f952386"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.0.5732",
+      "releaseTimestamp": "2026-10-30T19:51:20Z",
+      "digest": "sha256:76d76012aac2fdfd7a3cacff399d1f0677f7622434cd756d9a30ac1f2f952386"
+    },
+    {
+      "version": "nightly-3.0.0.5732-ls23",
+      "releaseTimestamp": "2026-10-30T19:56:54Z",
+      "digest": "sha256:49c6597326d06de48c9e0c27c5b7bcf2618ed301d044043328e85045214cece5"
+    },
+    {
+      "version": "nightly-version-3.0.0.5732",
+      "releaseTimestamp": "2026-10-30T19:56:58Z",
+      "digest": "sha256:49c6597326d06de48c9e0c27c5b7bcf2618ed301d044043328e85045214cece5"
+    },
+    {
+      "version": "amd64-nightly-3.0.0.5736-ls24",
+      "releaseTimestamp": "2026-11-01T18:38:00Z",
+      "digest": "sha256:bc650a949fd514d80557683c3daca6155a69fc9435f4988c60c26b2df8b4d4ce"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.0.5736",
+      "releaseTimestamp": "2026-11-01T18:38:03Z",
+      "digest": "sha256:bc650a949fd514d80557683c3daca6155a69fc9435f4988c60c26b2df8b4d4ce"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.0.5736-ls24",
+      "releaseTimestamp": "2026-11-01T18:38:13Z",
+      "digest": "sha256:23cb704f3117b7e10c9fa623cf9b056447e5b38b66efb647c043c6966bb6421f"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.0.5736",
+      "releaseTimestamp": "2026-11-01T18:38:17Z",
+      "digest": "sha256:23cb704f3117b7e10c9fa623cf9b056447e5b38b66efb647c043c6966bb6421f"
+    },
+    {
+      "version": "nightly-3.0.0.5736-ls24",
+      "releaseTimestamp": "2026-11-01T18:44:02Z",
+      "digest": "sha256:85cd8590fa4ae56f033ab98aebac007e4b679156417ea6204e1ae26a9266c29a"
+    },
+    {
+      "version": "nightly-version-3.0.0.5736",
+      "releaseTimestamp": "2026-11-01T18:44:06Z",
+      "digest": "sha256:85cd8590fa4ae56f033ab98aebac007e4b679156417ea6204e1ae26a9266c29a"
+    },
+    {
+      "version": "amd64-nightly-3.0.0.5737-ls24",
+      "releaseTimestamp": "2026-11-02T18:18:13Z",
+      "digest": "sha256:7f72e6fe2055b7dbe65e66d9015e8f8d04c06792e71942c2998365ed7702f0ff"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.0.5737",
+      "releaseTimestamp": "2026-11-02T18:18:16Z",
+      "digest": "sha256:7f72e6fe2055b7dbe65e66d9015e8f8d04c06792e71942c2998365ed7702f0ff"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.0.5737-ls24",
+      "releaseTimestamp": "2026-11-02T18:18:26Z",
+      "digest": "sha256:3eb9fb5cfbb177a4de874d8585b08eb2e980ad8df4f5da09de1d51ac7427f8d3"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.0.5737",
+      "releaseTimestamp": "2026-11-02T18:18:29Z",
+      "digest": "sha256:3eb9fb5cfbb177a4de874d8585b08eb2e980ad8df4f5da09de1d51ac7427f8d3"
+    },
+    {
+      "version": "amd64-3.0.0-nightly",
+      "releaseTimestamp": "2026-11-02T18:18:33Z",
+      "digest": "sha256:7f72e6fe2055b7dbe65e66d9015e8f8d04c06792e71942c2998365ed7702f0ff"
+    },
+    {
+      "version": "arm64v8-3.0.0-nightly",
+      "releaseTimestamp": "2026-11-02T18:18:37Z",
+      "digest": "sha256:3eb9fb5cfbb177a4de874d8585b08eb2e980ad8df4f5da09de1d51ac7427f8d3"
+    },
+    {
+      "version": "nightly-3.0.0.5737-ls24",
+      "releaseTimestamp": "2026-11-02T18:24:17Z",
+      "digest": "sha256:b232ffdc7edcb463c109b3b44536872123594e7ce68e6198e6909c0c0a46e0c3"
+    },
+    {
+      "version": "nightly-version-3.0.0.5737",
+      "releaseTimestamp": "2026-11-02T18:24:22Z",
+      "digest": "sha256:b232ffdc7edcb463c109b3b44536872123594e7ce68e6198e6909c0c0a46e0c3"
+    },
+    {
+      "version": "3.0.0-nightly",
+      "releaseTimestamp": "2026-11-02T18:24:26Z",
+      "digest": "sha256:b232ffdc7edcb463c109b3b44536872123594e7ce68e6198e6909c0c0a46e0c3"
+    },
+    {
+      "version": "amd64-develop-3.0.0.5737-ls280",
+      "releaseTimestamp": "2026-11-02T20:14:34Z",
+      "digest": "sha256:052b2d7c1fbf2bf65dec1d8825bf690ce00ef802c7619751cfdf7cf0c3d0bb13"
+    },
+    {
+      "version": "amd64-develop-version-3.0.0.5737",
+      "releaseTimestamp": "2026-11-02T20:14:37Z",
+      "digest": "sha256:052b2d7c1fbf2bf65dec1d8825bf690ce00ef802c7619751cfdf7cf0c3d0bb13"
+    },
+    {
+      "version": "arm64v8-develop-3.0.0.5737-ls280",
+      "releaseTimestamp": "2026-11-02T20:14:46Z",
+      "digest": "sha256:2283fc49c447debbce4bef6f2706a13ef7222ac1de4b9654c25162b90dd27fa0"
+    },
+    {
+      "version": "arm64v8-develop-version-3.0.0.5737",
+      "releaseTimestamp": "2026-11-02T20:14:49Z",
+      "digest": "sha256:2283fc49c447debbce4bef6f2706a13ef7222ac1de4b9654c25162b90dd27fa0"
+    },
+    {
+      "version": "amd64-3.0.0-develop",
+      "releaseTimestamp": "2026-11-02T20:14:53Z",
+      "digest": "sha256:052b2d7c1fbf2bf65dec1d8825bf690ce00ef802c7619751cfdf7cf0c3d0bb13"
+    },
+    {
+      "version": "arm64v8-3.0.0-develop",
+      "releaseTimestamp": "2026-11-02T20:14:57Z",
+      "digest": "sha256:2283fc49c447debbce4bef6f2706a13ef7222ac1de4b9654c25162b90dd27fa0"
+    },
+    {
+      "version": "develop-3.0.0.5737-ls280",
+      "releaseTimestamp": "2026-11-02T20:20:27Z",
+      "digest": "sha256:e2382127fec5c61ca6b6eb528fd4dcf8a8255ef2957ca334d782dbaf46d4c0c7"
+    },
+    {
+      "version": "develop-version-3.0.0.5737",
+      "releaseTimestamp": "2026-11-02T20:20:32Z",
+      "digest": "sha256:e2382127fec5c61ca6b6eb528fd4dcf8a8255ef2957ca334d782dbaf46d4c0c7"
+    },
+    {
+      "version": "3.0.0-develop",
+      "releaseTimestamp": "2026-11-02T20:20:36Z",
+      "digest": "sha256:e2382127fec5c61ca6b6eb528fd4dcf8a8255ef2957ca334d782dbaf46d4c0c7"
+    },
+    {
+      "version": "amd64-nightly-3.0.1.5738-ls24",
+      "releaseTimestamp": "2026-11-02T20:40:33Z",
+      "digest": "sha256:5a624e5bbfbb2c5ce51e1918455fc1737557e2bc5246ec4f6b64aadc85b26522"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.1.5738",
+      "releaseTimestamp": "2026-11-02T20:40:36Z",
+      "digest": "sha256:5a624e5bbfbb2c5ce51e1918455fc1737557e2bc5246ec4f6b64aadc85b26522"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.1.5738-ls24",
+      "releaseTimestamp": "2026-11-02T20:40:46Z",
+      "digest": "sha256:9873981075b16738432fc803365d1fea99a96fb94b6d5a3e44de51e20d0bab5c"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.1.5738",
+      "releaseTimestamp": "2026-11-02T20:40:49Z",
+      "digest": "sha256:9873981075b16738432fc803365d1fea99a96fb94b6d5a3e44de51e20d0bab5c"
+    },
+    {
+      "version": "nightly-3.0.1.5738-ls24",
+      "releaseTimestamp": "2026-11-02T20:46:18Z",
+      "digest": "sha256:495340d3bc4cd513998162339181b6bcf1f191a3a651ed07987234aa7582f05c"
+    },
+    {
+      "version": "nightly-version-3.0.1.5738",
+      "releaseTimestamp": "2026-11-02T20:46:22Z",
+      "digest": "sha256:495340d3bc4cd513998162339181b6bcf1f191a3a651ed07987234aa7582f05c"
+    },
+    {
+      "version": "amd64-2.7.0.5723-ls167",
+      "releaseTimestamp": "2026-11-04T11:37:27Z",
+      "digest": "sha256:6c4cac319afde29b13c0819f9fb1f45f8d95b8fccc16f8e7b065c7a0cb874ebe"
+    },
+    {
+      "version": "arm64v8-2.7.0.5723-ls167",
+      "releaseTimestamp": "2026-11-04T11:37:40Z",
+      "digest": "sha256:673e5868f8134d2de8477f0f88b82cd66b9892b984380a959e30e7a47b1f2bce"
+    },
+    {
+      "version": "2.7.0.5723-ls167",
+      "releaseTimestamp": "2026-11-04T11:43:07Z",
+      "digest": "sha256:431d7efebcef466e56adaa40a7a2fa2b0e85159a037b8bf465eaadbf0cf5bedf"
+    },
+    {
+      "version": "amd64-nightly-3.0.1.5741-ls24",
+      "releaseTimestamp": "2026-11-04T18:23:16Z",
+      "digest": "sha256:26a6d00b246e434add7da9dc0170702adbb8ee33e47886212660bb25f36785b2"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.1.5741",
+      "releaseTimestamp": "2026-11-04T18:23:19Z",
+      "digest": "sha256:26a6d00b246e434add7da9dc0170702adbb8ee33e47886212660bb25f36785b2"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.1.5741-ls24",
+      "releaseTimestamp": "2026-11-04T18:23:28Z",
+      "digest": "sha256:f1ce70944714e2d0ddef3277bb7842ab537bde7111083d0eec1bfdd4a087465f"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.1.5741",
+      "releaseTimestamp": "2026-11-04T18:23:31Z",
+      "digest": "sha256:f1ce70944714e2d0ddef3277bb7842ab537bde7111083d0eec1bfdd4a087465f"
+    },
+    {
+      "version": "nightly-3.0.1.5741-ls24",
+      "releaseTimestamp": "2026-11-04T18:29:03Z",
+      "digest": "sha256:4b52008384d9d0ace794abb85709849cebcc5713fa00c2d66175ba8426d4b56b"
+    },
+    {
+      "version": "nightly-version-3.0.1.5741",
+      "releaseTimestamp": "2026-11-04T18:29:08Z",
+      "digest": "sha256:4b52008384d9d0ace794abb85709849cebcc5713fa00c2d66175ba8426d4b56b"
+    },
+    {
+      "version": "amd64-nightly-3.0.1.5747-ls24",
+      "releaseTimestamp": "2026-11-06T17:28:08Z",
+      "digest": "sha256:e57061b2eedd4534da38923d54d7fd630ada075391c092313503c2177a291cb5"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.1.5747",
+      "releaseTimestamp": "2026-11-06T17:28:11Z",
+      "digest": "sha256:e57061b2eedd4534da38923d54d7fd630ada075391c092313503c2177a291cb5"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.1.5747-ls24",
+      "releaseTimestamp": "2026-11-06T17:28:20Z",
+      "digest": "sha256:09165618119677530baee62553da5f3980c67ab7788fc2f67f5363fe8698124f"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.1.5747",
+      "releaseTimestamp": "2026-11-06T17:28:24Z",
+      "digest": "sha256:09165618119677530baee62553da5f3980c67ab7788fc2f67f5363fe8698124f"
+    },
+    {
+      "version": "nightly-3.0.1.5747-ls24",
+      "releaseTimestamp": "2026-11-06T17:33:59Z",
+      "digest": "sha256:a9963930d1634907c3134d439eac7cd5390bfa4d4f5a752f604112fe9bb85293"
+    },
+    {
+      "version": "nightly-version-3.0.1.5747",
+      "releaseTimestamp": "2026-11-06T17:34:03Z",
+      "digest": "sha256:a9963930d1634907c3134d439eac7cd5390bfa4d4f5a752f604112fe9bb85293"
+    },
+    {
+      "version": "amd64-nightly-3.0.1.5748-ls25",
+      "releaseTimestamp": "2026-11-06T23:12:14Z",
+      "digest": "sha256:07b18d6ece4cd422cc085efff8a0cc3077a2d41e038010d7ede84544f5796008"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.1.5748-ls25",
+      "releaseTimestamp": "2026-11-06T23:12:26Z",
+      "digest": "sha256:2006304f7df7b80ed86d6f55eb6ef0e58197e420373098208e8856933575084a"
+    },
+    {
+      "version": "nightly-3.0.1.5748-ls25",
+      "releaseTimestamp": "2026-11-06T23:17:57Z",
+      "digest": "sha256:d96cc15eda6cb7e791d453c04041bc6a485ad35f59085f66c18498a14a5b5e21"
+    },
+    {
+      "version": "amd64-nightly-3.0.1.5748-ls26",
+      "releaseTimestamp": "2026-11-07T16:25:13Z",
+      "digest": "sha256:773a0dc789040afce2d6733852b303412320e585ab5a65260e0d7d259f86f814"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.1.5748",
+      "releaseTimestamp": "2026-11-07T16:25:16Z",
+      "digest": "sha256:773a0dc789040afce2d6733852b303412320e585ab5a65260e0d7d259f86f814"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.1.5748-ls26",
+      "releaseTimestamp": "2026-11-07T16:25:26Z",
+      "digest": "sha256:4e7419be1a693b7bde23ef3ec4dfb487389aebc48a13df4fff386d2ac44e2b42"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.1.5748",
+      "releaseTimestamp": "2026-11-07T16:25:29Z",
+      "digest": "sha256:4e7419be1a693b7bde23ef3ec4dfb487389aebc48a13df4fff386d2ac44e2b42"
+    },
+    {
+      "version": "nightly-3.0.1.5748-ls26",
+      "releaseTimestamp": "2026-11-07T16:31:05Z",
+      "digest": "sha256:0cd85c73dbefc8d5e23ead7720749b4ce8b4f8b71f6786b8482a73577669ef0a"
+    },
+    {
+      "version": "nightly-version-3.0.1.5748",
+      "releaseTimestamp": "2026-11-07T16:31:09Z",
+      "digest": "sha256:0cd85c73dbefc8d5e23ead7720749b4ce8b4f8b71f6786b8482a73577669ef0a"
+    },
+    {
+      "version": "amd64-nightly-3.0.1.5752-ls27",
+      "releaseTimestamp": "2026-11-08T07:15:21Z",
+      "digest": "sha256:fe0e2f9886cbb222fd7eb76852350370f91deed628abc57b587acb376205f9eb"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.1.5752",
+      "releaseTimestamp": "2026-11-08T07:15:24Z",
+      "digest": "sha256:fe0e2f9886cbb222fd7eb76852350370f91deed628abc57b587acb376205f9eb"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.1.5752-ls27",
+      "releaseTimestamp": "2026-11-08T07:15:35Z",
+      "digest": "sha256:0c810487826b06cfe20e34f0778dbaa78172b8d86b2aeb0b7b2b7f9e761dc9e2"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.1.5752",
+      "releaseTimestamp": "2026-11-08T07:15:38Z",
+      "digest": "sha256:0c810487826b06cfe20e34f0778dbaa78172b8d86b2aeb0b7b2b7f9e761dc9e2"
+    },
+    {
+      "version": "amd64-3.0.1-nightly",
+      "releaseTimestamp": "2026-11-08T07:15:42Z",
+      "digest": "sha256:fe0e2f9886cbb222fd7eb76852350370f91deed628abc57b587acb376205f9eb"
+    },
+    {
+      "version": "arm64v8-3.0.1-nightly",
+      "releaseTimestamp": "2026-11-08T07:15:46Z",
+      "digest": "sha256:0c810487826b06cfe20e34f0778dbaa78172b8d86b2aeb0b7b2b7f9e761dc9e2"
+    },
+    {
+      "version": "nightly-3.0.1.5752-ls27",
+      "releaseTimestamp": "2026-11-08T07:21:16Z",
+      "digest": "sha256:3552475b796d3083a64e8287dfd1c07e40422438cacd11a7a03af7937ff2cb41"
+    },
+    {
+      "version": "nightly-version-3.0.1.5752",
+      "releaseTimestamp": "2026-11-08T07:21:20Z",
+      "digest": "sha256:3552475b796d3083a64e8287dfd1c07e40422438cacd11a7a03af7937ff2cb41"
+    },
+    {
+      "version": "3.0.1-nightly",
+      "releaseTimestamp": "2026-11-08T07:21:25Z",
+      "digest": "sha256:3552475b796d3083a64e8287dfd1c07e40422438cacd11a7a03af7937ff2cb41"
+    },
+    {
+      "version": "amd64-develop-3.0.1.5752-ls281",
+      "releaseTimestamp": "2026-11-08T16:13:36Z",
+      "digest": "sha256:3d517b2b228fb75d78ac0ce81a88e2806e246093ea00f368b1f0da1d73d8c909"
+    },
+    {
+      "version": "arm64v8-develop-3.0.1.5752-ls281",
+      "releaseTimestamp": "2026-11-08T16:13:48Z",
+      "digest": "sha256:6eee5e2d5d3ec2f93df64b1521a40950919ec72fefad76408b4fb635aefac71b"
+    },
+    {
+      "version": "develop-3.0.1.5752-ls281",
+      "releaseTimestamp": "2026-11-08T16:20:42Z",
+      "digest": "sha256:5db7018b2f18de5f6f4265eb54e210ad3880be6692f23648b193020fdad6ad50"
+    },
+    {
+      "version": "amd64-nightly-3.0.2.5756-ls27",
+      "releaseTimestamp": "2026-11-08T19:36:58Z",
+      "digest": "sha256:a89cd331208bf46642555effcd2dd8b328a9d849764b48d115dc3d1ad59a7a49"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.2.5756-ls27",
+      "releaseTimestamp": "2026-11-08T19:37:10Z",
+      "digest": "sha256:a57541e373660e9ecd47a2a1710adb234b05c66d032c6e368cc8583f97428337"
+    },
+    {
+      "version": "nightly-3.0.2.5756-ls27",
+      "releaseTimestamp": "2026-11-08T19:42:59Z",
+      "digest": "sha256:7baa3253a4e9f7118b9baab22927ff5d69df821f7fa98cbbee6a7185b6d4cfb1"
+    },
+    {
+      "version": "amd64-2.7.0.5723-ls168",
+      "releaseTimestamp": "2026-11-11T11:33:16Z",
+      "digest": "sha256:4b7b900a08ca30eea5d332d3eab652a72cb34bc0d0874a9d8bcd2ba2f68bbc7f"
+    },
+    {
+      "version": "amd64-develop-3.0.1.5752-ls282",
+      "releaseTimestamp": "2026-11-11T11:33:16Z",
+      "digest": "sha256:550249dd204e62c3777e787d34556ab8fb953bb48eb0625c5c49bab686499a89"
+    },
+    {
+      "version": "amd64-develop",
+      "releaseTimestamp": "2026-11-11T11:33:17Z",
+      "digest": "sha256:550249dd204e62c3777e787d34556ab8fb953bb48eb0625c5c49bab686499a89"
+    },
+    {
+      "version": "amd64-latest",
+      "releaseTimestamp": "2026-11-11T11:33:18Z",
+      "digest": "sha256:4b7b900a08ca30eea5d332d3eab652a72cb34bc0d0874a9d8bcd2ba2f68bbc7f"
+    },
+    {
+      "version": "amd64-develop-version-3.0.1.5752",
+      "releaseTimestamp": "2026-11-11T11:33:19Z",
+      "digest": "sha256:550249dd204e62c3777e787d34556ab8fb953bb48eb0625c5c49bab686499a89"
+    },
+    {
+      "version": "amd64-version-2.7.0.5723",
+      "releaseTimestamp": "2026-11-11T11:33:19Z",
+      "digest": "sha256:4b7b900a08ca30eea5d332d3eab652a72cb34bc0d0874a9d8bcd2ba2f68bbc7f"
+    },
+    {
+      "version": "arm64v8-2.7.0.5723-ls168",
+      "releaseTimestamp": "2026-11-11T11:33:28Z",
+      "digest": "sha256:90fc8510f641ecf3ffe062e7861ce74e5c66b3c601b6443d2be8bc6e39aa2ce0"
+    },
+    {
+      "version": "arm64v8-develop-3.0.1.5752-ls282",
+      "releaseTimestamp": "2026-11-11T11:33:28Z",
+      "digest": "sha256:1b6bea82148994d0333e451e16cefb8088b79f05a43344d2408346d432de3303"
+    },
+    {
+      "version": "arm64v8-develop",
+      "releaseTimestamp": "2026-11-11T11:33:30Z",
+      "digest": "sha256:1b6bea82148994d0333e451e16cefb8088b79f05a43344d2408346d432de3303"
+    },
+    {
+      "version": "arm64v8-latest",
+      "releaseTimestamp": "2026-11-11T11:33:30Z",
+      "digest": "sha256:90fc8510f641ecf3ffe062e7861ce74e5c66b3c601b6443d2be8bc6e39aa2ce0"
+    },
+    {
+      "version": "arm64v8-version-2.7.0.5723",
+      "releaseTimestamp": "2026-11-11T11:33:31Z",
+      "digest": "sha256:90fc8510f641ecf3ffe062e7861ce74e5c66b3c601b6443d2be8bc6e39aa2ce0"
+    },
+    {
+      "version": "arm64v8-develop-version-3.0.1.5752",
+      "releaseTimestamp": "2026-11-11T11:33:32Z",
+      "digest": "sha256:1b6bea82148994d0333e451e16cefb8088b79f05a43344d2408346d432de3303"
+    },
+    {
+      "version": "amd64-2.7.0",
+      "releaseTimestamp": "2026-11-11T11:33:35Z",
+      "digest": "sha256:4b7b900a08ca30eea5d332d3eab652a72cb34bc0d0874a9d8bcd2ba2f68bbc7f"
+    },
+    {
+      "version": "amd64-3.0.1-develop",
+      "releaseTimestamp": "2026-11-11T11:33:35Z",
+      "digest": "sha256:550249dd204e62c3777e787d34556ab8fb953bb48eb0625c5c49bab686499a89"
+    },
+    {
+      "version": "arm64v8-2.7.0",
+      "releaseTimestamp": "2026-11-11T11:33:38Z",
+      "digest": "sha256:90fc8510f641ecf3ffe062e7861ce74e5c66b3c601b6443d2be8bc6e39aa2ce0"
+    },
+    {
+      "version": "arm64v8-3.0.1-develop",
+      "releaseTimestamp": "2026-11-11T11:33:39Z",
+      "digest": "sha256:1b6bea82148994d0333e451e16cefb8088b79f05a43344d2408346d432de3303"
+    },
+    {
+      "version": "amd64-nightly-3.0.2.5756-ls28",
+      "releaseTimestamp": "2026-11-11T11:33:49Z",
+      "digest": "sha256:869fdd9728e83ff6a53146765c833937a184bed55e87bbf86fb728038f1c641b"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.2.5756",
+      "releaseTimestamp": "2026-11-11T11:33:52Z",
+      "digest": "sha256:869fdd9728e83ff6a53146765c833937a184bed55e87bbf86fb728038f1c641b"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.2.5756-ls28",
+      "releaseTimestamp": "2026-11-11T11:34:02Z",
+      "digest": "sha256:d40d370e7b4dcac7a79f1828e2cc2460709666e3b076b69f97b9856e1a3efdb7"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.2.5756",
+      "releaseTimestamp": "2026-11-11T11:34:05Z",
+      "digest": "sha256:d40d370e7b4dcac7a79f1828e2cc2460709666e3b076b69f97b9856e1a3efdb7"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-11-11T11:38:49Z",
+      "digest": "sha256:6660787a99b2e58203539583663c973b48979fc00ff2cb78dc0ea17429e1f6ef"
+    },
+    {
+      "version": "2.7.0.5723-ls168",
+      "releaseTimestamp": "2026-11-11T11:38:54Z",
+      "digest": "sha256:6660787a99b2e58203539583663c973b48979fc00ff2cb78dc0ea17429e1f6ef"
+    },
+    {
+      "version": "develop",
+      "releaseTimestamp": "2026-11-11T11:38:57Z",
+      "digest": "sha256:5ec14c4970719d112664557a824b468512adc3b07e9f394a4f0b856dc2a777c0"
+    },
+    {
+      "version": "version-2.7.0.5723",
+      "releaseTimestamp": "2026-11-11T11:38:58Z",
+      "digest": "sha256:6660787a99b2e58203539583663c973b48979fc00ff2cb78dc0ea17429e1f6ef"
+    },
+    {
+      "version": "develop-3.0.1.5752-ls282",
+      "releaseTimestamp": "2026-11-11T11:39:01Z",
+      "digest": "sha256:5ec14c4970719d112664557a824b468512adc3b07e9f394a4f0b856dc2a777c0"
+    },
+    {
+      "version": "2.7.0",
+      "releaseTimestamp": "2026-11-11T11:39:03Z",
+      "digest": "sha256:6660787a99b2e58203539583663c973b48979fc00ff2cb78dc0ea17429e1f6ef"
+    },
+    {
+      "version": "develop-version-3.0.1.5752",
+      "releaseTimestamp": "2026-11-11T11:39:05Z",
+      "digest": "sha256:5ec14c4970719d112664557a824b468512adc3b07e9f394a4f0b856dc2a777c0"
+    },
+    {
+      "version": "3.0.1-develop",
+      "releaseTimestamp": "2026-11-11T11:39:10Z",
+      "digest": "sha256:5ec14c4970719d112664557a824b468512adc3b07e9f394a4f0b856dc2a777c0"
+    },
+    {
+      "version": "nightly-3.0.2.5756-ls28",
+      "releaseTimestamp": "2026-11-11T11:39:31Z",
+      "digest": "sha256:2e62269156d518e4ab3d8c9bfbca1907b7428147ca21ca9cb19fbbdbf2349f10"
+    },
+    {
+      "version": "nightly-version-3.0.2.5756",
+      "releaseTimestamp": "2026-11-11T11:39:36Z",
+      "digest": "sha256:2e62269156d518e4ab3d8c9bfbca1907b7428147ca21ca9cb19fbbdbf2349f10"
+    },
+    {
+      "version": "amd64-nightly-3.0.2.5761-ls29",
+      "releaseTimestamp": "2026-11-11T15:53:49Z",
+      "digest": "sha256:cc703dc2554008afa87b327f87cf56f1931a3f6a5de8e736494aace13585b57d"
+    },
+    {
+      "version": "amd64-nightly",
+      "releaseTimestamp": "2026-11-11T15:53:50Z",
+      "digest": "sha256:cc703dc2554008afa87b327f87cf56f1931a3f6a5de8e736494aace13585b57d"
+    },
+    {
+      "version": "amd64-nightly-version-3.0.2.5761",
+      "releaseTimestamp": "2026-11-11T15:53:52Z",
+      "digest": "sha256:cc703dc2554008afa87b327f87cf56f1931a3f6a5de8e736494aace13585b57d"
+    },
+    {
+      "version": "arm64v8-nightly-3.0.2.5761-ls29",
+      "releaseTimestamp": "2026-11-11T15:54:01Z",
+      "digest": "sha256:5c3ba1b847402be0f6711b60abe915b0bcb47d8c9e4adedc785e94934d71f93b"
+    },
+    {
+      "version": "arm64v8-nightly",
+      "releaseTimestamp": "2026-11-11T15:54:03Z",
+      "digest": "sha256:5c3ba1b847402be0f6711b60abe915b0bcb47d8c9e4adedc785e94934d71f93b"
+    },
+    {
+      "version": "arm64v8-nightly-version-3.0.2.5761",
+      "releaseTimestamp": "2026-11-11T15:54:04Z",
+      "digest": "sha256:5c3ba1b847402be0f6711b60abe915b0bcb47d8c9e4adedc785e94934d71f93b"
+    },
+    {
+      "version": "amd64-3.0.2-nightly",
+      "releaseTimestamp": "2026-11-11T15:54:08Z",
+      "digest": "sha256:cc703dc2554008afa87b327f87cf56f1931a3f6a5de8e736494aace13585b57d"
+    },
+    {
+      "version": "arm64v8-3.0.2-nightly",
+      "releaseTimestamp": "2026-11-11T15:54:12Z",
+      "digest": "sha256:5c3ba1b847402be0f6711b60abe915b0bcb47d8c9e4adedc785e94934d71f93b"
+    },
+    {
+      "version": "nightly",
+      "releaseTimestamp": "2026-11-11T15:59:35Z",
+      "digest": "sha256:fe8631da9662fd2a3a9e8304670fc2cf450f9c0459ef7e568c33cbe491553638"
+    },
+    {
+      "version": "nightly-3.0.2.5761-ls29",
+      "releaseTimestamp": "2026-11-11T15:59:39Z",
+      "digest": "sha256:fe8631da9662fd2a3a9e8304670fc2cf450f9c0459ef7e568c33cbe491553638"
+    },
+    {
+      "version": "nightly-version-3.0.2.5761",
+      "releaseTimestamp": "2026-11-11T15:59:43Z",
+      "digest": "sha256:fe8631da9662fd2a3a9e8304670fc2cf450f9c0459ef7e568c33cbe491553638"
+    },
+    {
+      "version": "3.0.2-nightly",
+      "releaseTimestamp": "2026-11-11T15:59:48Z",
+      "digest": "sha256:fe8631da9662fd2a3a9e8304670fc2cf450f9c0459ef7e568c33cbe491553638"
+    }
+  ]
+}

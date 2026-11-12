@@ -1,0 +1,34 @@
+{
+  "releases": [
+    {
+      "version": "1.1.53",
+      "releaseTimestamp": "2025-10-25T16:29:56Z",
+      "digest": "sha256:9ea262ff902fa18fcca8688af4c7fe62988254f5cf08f273193bec6b4cf626be"
+    },
+    {
+      "version": "mongodb-1.1.53",
+      "releaseTimestamp": "2025-10-25T16:45:12Z",
+      "digest": "sha256:b3d68d4602c3cd0c65d2831c602be1880be504280b4c14050c13cafdc9a2b615"
+    },
+    {
+      "version": "preloadlibs-latest",
+      "releaseTimestamp": "2025-10-25T16:46:04Z",
+      "digest": "sha256:2bbe1f8c6b2b86b4b5cc0b8eddcc9fb708ebf128bdce2d564ea595403a53ced2"
+    },
+    {
+      "version": "preloadlibs-1.1.53",
+      "releaseTimestamp": "2025-10-25T16:46:07Z",
+      "digest": "sha256:2bbe1f8c6b2b86b4b5cc0b8eddcc9fb708ebf128bdce2d564ea595403a53ced2"
+    },
+    {
+      "version": "preloadlibs-mongodb-latest",
+      "releaseTimestamp": "2025-10-25T16:46:23Z",
+      "digest": "sha256:3c1024bb294aa32d8d20f7ae2ef49f168ee53ca7a5004ec8f10ba165bd3c5d8f"
+    },
+    {
+      "version": "preloadlibs-mongodb-1.1.53",
+      "releaseTimestamp": "2025-10-25T16:46:25Z",
+      "digest": "sha256:3c1024bb294aa32d8d20f7ae2ef49f168ee53ca7a5004ec8f10ba165bd3c5d8f"
+    }
+  ]
+}

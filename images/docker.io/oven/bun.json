@@ -1,0 +1,134 @@
+{
+  "releases": [
+    {
+      "version": "1.4.3-alpine",
+      "releaseTimestamp": "2026-10-10T05:28:55Z",
+      "digest": "sha256:629e17411f1f129dbec3af78d5af9c9f2a937435c80349437206c6b0b7422373"
+    },
+    {
+      "version": "1.4.4-alpine",
+      "releaseTimestamp": "2026-10-22T10:15:44Z",
+      "digest": "sha256:4cf82f5686b196504fe119db3fcd9185b191f82ece82c40680e597228ec6070a"
+    },
+    {
+      "version": "1.4-alpine",
+      "releaseTimestamp": "2026-10-22T10:15:47Z",
+      "digest": "sha256:4cf82f5686b196504fe119db3fcd9185b191f82ece82c40680e597228ec6070a"
+    },
+    {
+      "version": "1-alpine",
+      "releaseTimestamp": "2026-10-22T10:15:49Z",
+      "digest": "sha256:4cf82f5686b196504fe119db3fcd9185b191f82ece82c40680e597228ec6070a"
+    },
+    {
+      "version": "alpine",
+      "releaseTimestamp": "2026-10-22T10:15:51Z",
+      "digest": "sha256:4cf82f5686b196504fe119db3fcd9185b191f82ece82c40680e597228ec6070a"
+    },
+    {
+      "version": "1.4.4-slim",
+      "releaseTimestamp": "2026-10-22T10:16:55Z",
+      "digest": "sha256:1846adf22496bd711036aae8be147e57bdebbaea2e5264e3e0b5af1db187d9a4"
+    },
+    {
+      "version": "1.4-slim",
+      "releaseTimestamp": "2026-10-22T10:16:57Z",
+      "digest": "sha256:1846adf22496bd711036aae8be147e57bdebbaea2e5264e3e0b5af1db187d9a4"
+    },
+    {
+      "version": "1-slim",
+      "releaseTimestamp": "2026-10-22T10:17:00Z",
+      "digest": "sha256:1846adf22496bd711036aae8be147e57bdebbaea2e5264e3e0b5af1db187d9a4"
+    },
+    {
+      "version": "slim",
+      "releaseTimestamp": "2026-10-22T10:17:02Z",
+      "digest": "sha256:1846adf22496bd711036aae8be147e57bdebbaea2e5264e3e0b5af1db187d9a4"
+    },
+    {
+      "version": "1.4.4-distroless",
+      "releaseTimestamp": "2026-10-22T10:17:26Z",
+      "digest": "sha256:153a951ae40106e125898103e6e990ee0f38e6aee7f561029e26cf9fbed23470"
+    },
+    {
+      "version": "1.4-distroless",
+      "releaseTimestamp": "2026-10-22T10:17:29Z",
+      "digest": "sha256:153a951ae40106e125898103e6e990ee0f38e6aee7f561029e26cf9fbed23470"
+    },
+    {
+      "version": "1-distroless",
+      "releaseTimestamp": "2026-10-22T10:17:31Z",
+      "digest": "sha256:153a951ae40106e125898103e6e990ee0f38e6aee7f561029e26cf9fbed23470"
+    },
+    {
+      "version": "distroless",
+      "releaseTimestamp": "2026-10-22T10:17:34Z",
+      "digest": "sha256:153a951ae40106e125898103e6e990ee0f38e6aee7f561029e26cf9fbed23470"
+    },
+    {
+      "version": "1.4.4",
+      "releaseTimestamp": "2026-10-22T10:17:36Z",
+      "digest": "sha256:1d22548f177f4ff38e0c15baa3c2c46c6c2060ba2d1bc573bb4720b407548f1d"
+    },
+    {
+      "version": "1.4",
+      "releaseTimestamp": "2026-10-22T10:17:38Z",
+      "digest": "sha256:1d22548f177f4ff38e0c15baa3c2c46c6c2060ba2d1bc573bb4720b407548f1d"
+    },
+    {
+      "version": "1",
+      "releaseTimestamp": "2026-10-22T10:17:40Z",
+      "digest": "sha256:1d22548f177f4ff38e0c15baa3c2c46c6c2060ba2d1bc573bb4720b407548f1d"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-10-22T10:17:42Z",
+      "digest": "sha256:1d22548f177f4ff38e0c15baa3c2c46c6c2060ba2d1bc573bb4720b407548f1d"
+    },
+    {
+      "version": "1.4.4-debian",
+      "releaseTimestamp": "2026-10-22T10:37:32Z",
+      "digest": "sha256:93d5032fe06d163427822dc1598f420363759bb18155c9cc90eb1be05a64a19e"
+    },
+    {
+      "version": "1.4-debian",
+      "releaseTimestamp": "2026-10-22T10:37:34Z",
+      "digest": "sha256:93d5032fe06d163427822dc1598f420363759bb18155c9cc90eb1be05a64a19e"
+    },
+    {
+      "version": "1-debian",
+      "releaseTimestamp": "2026-10-22T10:37:36Z",
+      "digest": "sha256:93d5032fe06d163427822dc1598f420363759bb18155c9cc90eb1be05a64a19e"
+    },
+    {
+      "version": "debian",
+      "releaseTimestamp": "2026-10-22T10:37:38Z",
+      "digest": "sha256:93d5032fe06d163427822dc1598f420363759bb18155c9cc90eb1be05a64a19e"
+    },
+    {
+      "version": "canary-alpine",
+      "releaseTimestamp": "2026-11-11T14:10:09Z",
+      "digest": "sha256:19f02db28b44c2f07553538821537515b383e7025079c941227448e6cd4bf2cb"
+    },
+    {
+      "version": "canary-distroless",
+      "releaseTimestamp": "2026-11-11T14:11:47Z",
+      "digest": "sha256:56b50f969c9b58ac4b3aab7d51b04a2ca69e3dcde0bc1468a46c0c8b5103ba09"
+    },
+    {
+      "version": "canary-slim",
+      "releaseTimestamp": "2026-11-11T14:12:03Z",
+      "digest": "sha256:7ecc7e5470ffd9e2742a3e94723838b3a30cfb28cede547a4930b161d1395399"
+    },
+    {
+      "version": "canary-debian",
+      "releaseTimestamp": "2026-11-11T14:12:25Z",
+      "digest": "sha256:0c923b0e9cabe79fa52553e935e6d5e2c377403547c40f58126712576c9fae0d"
+    },
+    {
+      "version": "canary",
+      "releaseTimestamp": "2026-11-11T14:12:57Z",
+      "digest": "sha256:2d64ae2d0789e0db8f6cbaac3c6197e81fa9fae1aa741ff6c291277e127f495e"
+    }
+  ]
+}

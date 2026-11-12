@@ -1,0 +1,60 @@
+# nodeenv's default "latest" can resolve to a Node pre-release it can't
+# install, and CI would otherwise use the runner's Node instead.
+default_language_version:
+  node: lts
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+      # The seen lists of images with many tags run to megabytes.
+      - id: check-added-large-files
+        exclude: ^seen/
+      - id: check-merge-conflict
+
+  - repo: local
+    hooks:
+      - id: prettier
+        name: prettier
+        entry: prettier --write --list-different --ignore-unknown
+        language: node
+        additional_dependencies: [prettier@3.9.10]
+        types: [text]
+        types_or: [json, markdown, yaml]
+        # The job writes these; reformatting them would fail every update PR.
+        exclude: ^images/
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.17.2
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
+
+  - repo: https://github.com/kjanat/actionlint
+    rev: v1.17.0
+    hooks:
+      - id: actionlint
+
+  - repo: https://github.com/woodruffw/zizmor-pre-commit
+    rev: v1.31.1
+    hooks:
+      - id: zizmor
+
+  - repo: https://github.com/renovatebot/pre-commit-hooks
+    rev: 44.45.4
+    hooks:
+      - id: renovate-config-validator
+        # default.json is the preset other repositories extend.
+        files: ^(renovate|default)\.json$
+
+  - repo: local
+    hooks:
+      - id: check-image-data
+        name: check image data
+        entry: uv run python -m renovate_docker_datasource.check
+        language: system
+        pass_filenames: false
+        files: ^(images|seen)/

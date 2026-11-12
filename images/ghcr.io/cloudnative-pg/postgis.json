@@ -1,0 +1,9 @@
+{
+  "releases": [
+    {
+      "version": "17.7-3.6.1-standard-trixie",
+      "releaseTimestamp": "2026-11-11T23:37:34Z",
+      "digest": "sha256:d7ef4f25f5833a1056673f964c2ddf6d6b38e72dc62f75623238c50dc2075fe6"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "releases": [
+    {
+      "version": "python3.13-trixie",
+      "releaseTimestamp": "2026-11-11T23:37:34Z",
+      "digest": "sha256:6299696d13e91e9d58e910fca4e503e89f217229a2c4c840a11b367dc24816f4"
+    },
+    {
+      "version": "python3.14-trixie-slim",
+      "releaseTimestamp": "2026-11-11T23:37:34Z",
+      "digest": "sha256:e80c05a310400cfc90af00b5b7271ef9ad24816e3265e1162af8a678e1aad099"
+    }
+  ]
+}

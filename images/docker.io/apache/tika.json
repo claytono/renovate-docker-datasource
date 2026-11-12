@@ -1,0 +1,94 @@
+{
+  "releases": [
+    {
+      "version": "3.3.3.0",
+      "releaseTimestamp": "2026-10-21T19:57:19Z",
+      "digest": "sha256:326b238b37904c94ff61fed87afe0af72e6a29fa715933b10af97b7d56f1d4cb"
+    },
+    {
+      "version": "3.3.3.0-full",
+      "releaseTimestamp": "2026-10-21T20:16:43Z",
+      "digest": "sha256:6ef30abd65df4b6c478907904099d0245bdb0e0686f94fb9bc7493558442bb74"
+    },
+    {
+      "version": "4.1.0",
+      "releaseTimestamp": "2026-10-21T23:11:55Z",
+      "digest": "sha256:fe2c6e3fca77b986ff3368107a20fa5060a3eefd03d14c12b45c0334626335d2"
+    },
+    {
+      "version": "4.1.0-2",
+      "releaseTimestamp": "2026-10-21T23:11:57Z",
+      "digest": "sha256:fe2c6e3fca77b986ff3368107a20fa5060a3eefd03d14c12b45c0334626335d2"
+    },
+    {
+      "version": "4.1.0-full",
+      "releaseTimestamp": "2026-10-21T23:23:48Z",
+      "digest": "sha256:d69fab827fa004a5e1db786e6d78da947a6cfeedbf595bc5c353ef99622bb2e2"
+    },
+    {
+      "version": "4.1.0-2-full",
+      "releaseTimestamp": "2026-10-21T23:23:50Z",
+      "digest": "sha256:d69fab827fa004a5e1db786e6d78da947a6cfeedbf595bc5c353ef99622bb2e2"
+    },
+    {
+      "version": "4.2.0-SNAPSHOT",
+      "releaseTimestamp": "2026-10-25T16:48:09Z",
+      "digest": "sha256:5d03bf7f7cdb072a532061c2a067ab975dbd996328c5c56d54d6ab6f76d18682"
+    },
+    {
+      "version": "4.2.0-SNAPSHOT-full",
+      "releaseTimestamp": "2026-10-25T17:01:52Z",
+      "digest": "sha256:0a67e7538d75ab73b53043edd2f274cfc78c10dc563a12ef6ba1e9b3c20f9a25"
+    },
+    {
+      "version": "4.2.0",
+      "releaseTimestamp": "2026-10-28T21:25:14Z",
+      "digest": "sha256:b99f19c4fd76237dafe7d22f719b9bddfa9a449da687c597a41e2f6d9a595418"
+    },
+    {
+      "version": "4.2.0-1",
+      "releaseTimestamp": "2026-10-28T21:25:16Z",
+      "digest": "sha256:b99f19c4fd76237dafe7d22f719b9bddfa9a449da687c597a41e2f6d9a595418"
+    },
+    {
+      "version": "latest",
+      "releaseTimestamp": "2026-10-28T21:25:18Z",
+      "digest": "sha256:b99f19c4fd76237dafe7d22f719b9bddfa9a449da687c597a41e2f6d9a595418"
+    },
+    {
+      "version": "4.2.0-full",
+      "releaseTimestamp": "2026-10-28T21:41:08Z",
+      "digest": "sha256:4774eaac44f86cdf648ae7b5a367016eaf6f9052adec31e5cff07cff1a0c6e24"
+    },
+    {
+      "version": "4.2.0-1-full",
+      "releaseTimestamp": "2026-10-28T21:41:10Z",
+      "digest": "sha256:4774eaac44f86cdf648ae7b5a367016eaf6f9052adec31e5cff07cff1a0c6e24"
+    },
+    {
+      "version": "latest-full",
+      "releaseTimestamp": "2026-10-28T21:41:12Z",
+      "digest": "sha256:4774eaac44f86cdf648ae7b5a367016eaf6f9052adec31e5cff07cff1a0c6e24"
+    },
+    {
+      "version": "4.2.1-SNAPSHOT",
+      "releaseTimestamp": "2026-10-29T20:14:20Z",
+      "digest": "sha256:a76efcd4aa0ae7cfdf65ee5a58b75fd31c0839b4aaf4c88ebf222cde6c913b2d"
+    },
+    {
+      "version": "4.2.1-SNAPSHOT-full",
+      "releaseTimestamp": "2026-10-29T20:27:16Z",
+      "digest": "sha256:1dab21a2664214557ab4f132812865af0b6daf37a045f1c3de4fef8211399f79"
+    },
+    {
+      "version": "4.3.0-SNAPSHOT",
+      "releaseTimestamp": "2026-11-09T22:36:43Z",
+      "digest": "sha256:f4e161ad99f48c992662a06634b5cb92621cacef1632e8e9fc4ad3bbe04af088"
+    },
+    {
+      "version": "4.3.0-SNAPSHOT-full",
+      "releaseTimestamp": "2026-11-09T22:47:42Z",
+      "digest": "sha256:5e338b6726ede7fb6ee91884836c3c799552240c35a137b4d4387b2e9d00b359"
+    }
+  ]
+}
