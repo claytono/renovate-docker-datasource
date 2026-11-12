@@ -108,27 +108,27 @@
     {
       "version": "canary-alpine",
       "releaseTimestamp": "2026-11-11T14:10:09Z",
-      "digest": "sha256:19f02db28b44c2f07553538821537515b383e7025079c941227448e6cd4bf2cb"
+      "digest": "sha256:7373e28903793d98334aa6a7af8c35884e07c3a6e950aa2508f472cf84bd2228"
     },
     {
       "version": "canary-distroless",
       "releaseTimestamp": "2026-11-11T14:11:47Z",
-      "digest": "sha256:56b50f969c9b58ac4b3aab7d51b04a2ca69e3dcde0bc1468a46c0c8b5103ba09"
+      "digest": "sha256:62f66049a83b488f1f3a05273c92608b70edd330d63684609859a4bf4a4c99d3"
     },
     {
       "version": "canary-slim",
       "releaseTimestamp": "2026-11-11T14:12:03Z",
-      "digest": "sha256:7ecc7e5470ffd9e2742a3e94723838b3a30cfb28cede547a4930b161d1395399"
+      "digest": "sha256:6f4d0045c473de1f7152a32e1674c6ab20ead9bd629ac22a9b491002f20c3767"
     },
     {
       "version": "canary-debian",
       "releaseTimestamp": "2026-11-11T14:12:25Z",
-      "digest": "sha256:0c923b0e9cabe79fa52553e935e6d5e2c377403547c40f58126712576c9fae0d"
+      "digest": "sha256:7eb770e42ff981d724bed5a8140c0b7d49c7c29664d18f22afaeafd2f318d911"
     },
     {
       "version": "canary",
       "releaseTimestamp": "2026-11-11T14:12:57Z",
-      "digest": "sha256:2d64ae2d0789e0db8f6cbaac3c6197e81fa9fae1aa741ff6c291277e127f495e"
+      "digest": "sha256:a851e1fbde7b7149ca702fec405241684686d0cfe25665a3ca9522f99287007f"
     }
   ]
 }

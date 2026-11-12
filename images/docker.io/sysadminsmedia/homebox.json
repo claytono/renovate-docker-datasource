@@ -78,32 +78,32 @@
     {
       "version": "nightly-rootless",
       "releaseTimestamp": "2026-11-11T00:08:34Z",
-      "digest": "sha256:68bf8d615b595db1632e049160333bf887ed6472fd9e1eaddfd4135426b40fbb"
+      "digest": "sha256:c8746277194b4b0f8b0a71282786db89e5942f09bd9dab200fe7b2fb96325423"
     },
     {
       "version": "main-rootless",
       "releaseTimestamp": "2026-11-11T00:08:35Z",
-      "digest": "sha256:68bf8d615b595db1632e049160333bf887ed6472fd9e1eaddfd4135426b40fbb"
+      "digest": "sha256:c8746277194b4b0f8b0a71282786db89e5942f09bd9dab200fe7b2fb96325423"
     },
     {
       "version": "nightly",
       "releaseTimestamp": "2026-11-11T00:09:53Z",
-      "digest": "sha256:1de40031909c5acb8b6267c455e8ac3cd8182594e7f3a5c393c5a4db352fa4ca"
+      "digest": "sha256:a2a22334709481842bea48b94f950608fa7d637d62d29681d350fcc15b331cd7"
     },
     {
       "version": "main",
       "releaseTimestamp": "2026-11-11T00:09:54Z",
-      "digest": "sha256:1de40031909c5acb8b6267c455e8ac3cd8182594e7f3a5c393c5a4db352fa4ca"
+      "digest": "sha256:a2a22334709481842bea48b94f950608fa7d637d62d29681d350fcc15b331cd7"
     },
     {
       "version": "nightly-hardened",
       "releaseTimestamp": "2026-11-11T00:15:48Z",
-      "digest": "sha256:d52ad9984b0649bc6458ca6ef0b762c02f18bb0c104e3bb3e0b2509ee61585d1"
+      "digest": "sha256:b7975958e63aee3dc8f445cbf75469c6215007f5953fe52ba7f1cf431e516dbc"
     },
     {
       "version": "main-hardened",
       "releaseTimestamp": "2026-11-11T00:15:50Z",
-      "digest": "sha256:d52ad9984b0649bc6458ca6ef0b762c02f18bb0c104e3bb3e0b2509ee61585d1"
+      "digest": "sha256:b7975958e63aee3dc8f445cbf75469c6215007f5953fe52ba7f1cf431e516dbc"
     }
   ]
 }

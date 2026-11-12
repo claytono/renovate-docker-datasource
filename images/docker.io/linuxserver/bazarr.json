@@ -6,36 +6,6 @@
       "digest": "sha256:762f802274598da27255b2e5778f262b2b71b355a23e3812d9ee1520f8dbe37c"
     },
     {
-      "version": "amd64-development-v1.6.3-beta.11-ls22",
-      "releaseTimestamp": "2026-10-13T07:50:31Z",
-      "digest": "sha256:7e2526cbea4d1e699d6d9dcc5ef6040132e28fbdf8e4527c8f6a794f86e4f28d"
-    },
-    {
-      "version": "amd64-development-version-v1.6.3-beta.11",
-      "releaseTimestamp": "2026-10-13T07:50:34Z",
-      "digest": "sha256:7e2526cbea4d1e699d6d9dcc5ef6040132e28fbdf8e4527c8f6a794f86e4f28d"
-    },
-    {
-      "version": "arm64v8-development-v1.6.3-beta.11-ls22",
-      "releaseTimestamp": "2026-10-13T07:50:45Z",
-      "digest": "sha256:facd1800544bd07d03e110b4f8941c3c2e2bd35665db6e7f2c7b9b4fe32917b3"
-    },
-    {
-      "version": "arm64v8-development-version-v1.6.3-beta.11",
-      "releaseTimestamp": "2026-10-13T07:50:48Z",
-      "digest": "sha256:facd1800544bd07d03e110b4f8941c3c2e2bd35665db6e7f2c7b9b4fe32917b3"
-    },
-    {
-      "version": "development-v1.6.3-beta.11-ls22",
-      "releaseTimestamp": "2026-10-13T08:00:24Z",
-      "digest": "sha256:ee36767f3e182cced6b7c8553e1e24a07d0c7df0a6e5c3140ee6eb4112504578"
-    },
-    {
-      "version": "development-version-v1.6.3-beta.11",
-      "releaseTimestamp": "2026-10-13T08:00:29Z",
-      "digest": "sha256:ee36767f3e182cced6b7c8553e1e24a07d0c7df0a6e5c3140ee6eb4112504578"
-    },
-    {
       "version": "amd64-v1.6.2-ls368",
       "releaseTimestamp": "2026-10-14T00:26:58Z",
       "digest": "sha256:48662067d9757aa46fba6fbab7d006d483490429409d4ba484b2b3219b7c3936"

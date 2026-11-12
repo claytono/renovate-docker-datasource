@@ -6,21 +6,6 @@
       "digest": "sha256:078e1753d0cf680103e1d70121ead63335ad5952328650d43ccab593097e7ae2"
     },
     {
-      "version": "cicd-f1272e0-arm64",
-      "releaseTimestamp": "2026-10-13T13:22:13Z",
-      "digest": "sha256:50c0cd84b034fe4036aac087b73370d62dc47a277e34beb359f75c244d523368"
-    },
-    {
-      "version": "cicd-f1272e0-amd64",
-      "releaseTimestamp": "2026-10-13T13:22:18Z",
-      "digest": "sha256:5019414c2c717bfc0fa0adf208bb1b33cd4b53ca00b0088264c0dcd473d93ff8"
-    },
-    {
-      "version": "cicd-f1272e0",
-      "releaseTimestamp": "2026-10-13T13:22:58Z",
-      "digest": "sha256:59e9e7bcc65d2bc96fde936d967f2252e9044e8894b5c196cbffd947cd203c6f"
-    },
-    {
       "version": "cicd-da9342e-amd64",
       "releaseTimestamp": "2026-10-14T23:40:56Z",
       "digest": "sha256:835bf983e786eafccf6ae7a1dd1030e23d9af6ac02013d25f1035bb72fb0db80"
@@ -238,307 +223,307 @@
     {
       "version": "pg18-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T12:42:39Z",
-      "digest": "sha256:55de4eaf9bcfdc5a0789b815371711488b5f9891a5af6c0552d024f6b8d2393d"
+      "digest": "sha256:e63c706e986e2ba901d9e3d602fee6c1376ca3117f251d047e7c0203aaa76421"
     },
     {
       "version": "pg18-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T12:43:10Z",
-      "digest": "sha256:f5f437b65beed5c7574eb8aa7562423dc794a57ff0acc7d65b2bebf45e995b14"
+      "digest": "sha256:9181ab24f24a6a63aa3015ae5250ab4a7dcc4ec0781f54a65c37b2951ed35804"
     },
     {
       "version": "pg18-oss-amd64",
       "releaseTimestamp": "2026-11-11T12:43:43Z",
-      "digest": "sha256:62301f5d315e398262d430687a67ed7b64c5233845dff745a816b28f196820f0"
+      "digest": "sha256:317711c6de80cc140e2bcdf22d2929e6abd4505fa6882044570e1f64a17e0841"
     },
     {
       "version": "pg18-oss-arm64",
       "releaseTimestamp": "2026-11-11T12:44:16Z",
-      "digest": "sha256:c519902d17b17cfe23a4fa84eb9cd4d4b729a1358cab0193d0ce6a1ce2f559df"
+      "digest": "sha256:6983ed2c0ef1f81ba8b5bf66230d9d6d812ee8a2e0ccdb3ed4678af555da80cc"
     },
     {
       "version": "pg15-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T12:47:42Z",
-      "digest": "sha256:d4f2505ab8955e95cc99a596b26b9c39d791e66f4fa5a425eabe0a670ac99b40"
+      "digest": "sha256:512c20ad84241c0ae834664bae017a20707b5fa523d4c91a89edf78e738ff653"
     },
     {
       "version": "pg17-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T12:47:57Z",
-      "digest": "sha256:01191dd4c9e13e3d82ee6fcccdf1ea89b0492bc61408f00b2065a15ac70d1f83"
+      "digest": "sha256:ed219b989a3f893bc9afaea39a976b048d289409cf85f58122383f5d7f68bdb6"
     },
     {
       "version": "pg17-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T12:48:11Z",
-      "digest": "sha256:d093a48607f5d64d2219d4d8c7eedda81288db4640b1f972cc4aac33c1852e04"
+      "digest": "sha256:1dd209416abd65d6fec952dd03f0e9ce07dc11c9594621300b42a3939012af16"
     },
     {
       "version": "pg15-all-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T12:48:25Z",
-      "digest": "sha256:eb5d80abc6eaf1b6ad6c92aaae0a1ec389750e000ba7f3ba908326e653849fca"
+      "digest": "sha256:7c5d94f55077638b73424195efbd186d57826ae97c461e8c7464516ed4b08927"
     },
     {
       "version": "pg15-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T12:48:44Z",
-      "digest": "sha256:1131692be2cae71e9870f1c8b12b5d941fa8b52a824eb7587889ab19b333a24a"
+      "digest": "sha256:64aca6d9595c7aed4b2376155e06e0041288634ab4639aedafe6578a5a82ba7e"
     },
     {
       "version": "pg15-all-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T12:48:45Z",
-      "digest": "sha256:4929a459a07b7e52304238a46a09290896aebd5825f9a1acf575fcfb3a2466a1"
+      "digest": "sha256:14db6da73c46840fa795df5a71dcba9bfbce10e6aa7f3b9d41c69a660cb0069c"
     },
     {
       "version": "pg15-oss-amd64",
       "releaseTimestamp": "2026-11-11T12:48:59Z",
-      "digest": "sha256:7c671dec34bb28c7f877872a16479033849dfc2b19186fe01a897a10bcbcfb36"
+      "digest": "sha256:39b72b16111d309413f6e3de3f18b02308032a7b9fe81d9b59767d20337a2ee0"
     },
     {
       "version": "pg17-oss-amd64",
       "releaseTimestamp": "2026-11-11T12:49:16Z",
-      "digest": "sha256:afd849b66499a06f819f068f71003f8f66d741c9fc6df03e5c37bc1cb6f08060"
+      "digest": "sha256:c83daa09302b61fba8bc5ba81f0051fc77e294debeafa07b5f0c06384ade9427"
     },
     {
       "version": "pg17-oss-arm64",
       "releaseTimestamp": "2026-11-11T12:49:29Z",
-      "digest": "sha256:f2f03a794dae2075baf28ec19c8ae17d256245959fbcee64bcd1c4477122ccfd"
+      "digest": "sha256:2aee6ffd44a571543f48d64a640a62bc4ce25bd8b7047914beb656c68944d3a1"
     },
     {
       "version": "pg16-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T12:49:34Z",
-      "digest": "sha256:60b004174fbce14914ffee0da586db0d604150a981e6a1fbe6a95138b8a323e7"
+      "digest": "sha256:3c6e7f3752ea566387f2c228a7bea5c06e8396fb4f2e3259b43264cb078c3555"
     },
     {
       "version": "pg15-all-oss-amd64",
       "releaseTimestamp": "2026-11-11T12:49:41Z",
-      "digest": "sha256:89b7d574944537a0ecbafea97876dd465f66ed3891f8800557d5ae8192d3b279"
+      "digest": "sha256:f9df87bd928967c0b77d51b78f56d4ad68bdd28bfd52f47cb1ec9318ebb0b654"
     },
     {
       "version": "pg15-oss-arm64",
       "releaseTimestamp": "2026-11-11T12:50:01Z",
-      "digest": "sha256:122859231e33fdecbed01533729ca6cfbdb9fc163f03e7a19ba95fbfa9c0eedc"
+      "digest": "sha256:ff886c231e33fbd8ea81c3d4dae4c7f17a024d5f16d0bb2e358a77e4058e5a9a"
     },
     {
       "version": "pg15-all-oss-arm64",
       "releaseTimestamp": "2026-11-11T12:50:03Z",
-      "digest": "sha256:48b5675f5462528133216a52608f3ddc98de8b1279dc6adbdd0cabe5a06c9a25"
+      "digest": "sha256:ce026c1c10b7a9e9bb3810fa62964bd9ee7fe8c15f3d4da6f757c6f59300e222"
     },
     {
       "version": "pg16-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T12:50:12Z",
-      "digest": "sha256:d506b223f154df3ba288e0b63ec03ce1a6e3101eef3383e998a1c82df1576f21"
+      "digest": "sha256:52a7b0f7e3d31228cf54d0d8a3c945198af77781364611dd398cc27a8249d95f"
     },
     {
       "version": "pg16-oss-amd64",
       "releaseTimestamp": "2026-11-11T12:50:58Z",
-      "digest": "sha256:ca32cc4531c2099cd49dd18b3fe4b48b48b51a8edaa3e60b036088d007423f21"
+      "digest": "sha256:f7d892f01eb469796a4afdf7b22afa3176452a15461b6dcb29843acae6862aa2"
     },
     {
       "version": "pg16-oss-arm64",
       "releaseTimestamp": "2026-11-11T12:51:34Z",
-      "digest": "sha256:86295f6c1135d293ef68c27d88bca130c0277d221c52450c781a0b7f1fe739cb"
+      "digest": "sha256:9ba017cc65f6e8fee4c6ddaf2048a52edf6cb2608bcd4619b3167ac0be3bfc1d"
     },
     {
       "version": "pg16-all-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T12:57:35Z",
-      "digest": "sha256:bf4f8639e5e99de29581d33e38151e1b0e79165e60e1aa5ef5703d0ae3e57663"
+      "digest": "sha256:077d5245c400fe36e795062e946272a3618721dd1c072b4239f7f6e0a14d52c0"
     },
     {
       "version": "pg18-builder-amd64",
       "releaseTimestamp": "2026-11-11T12:57:41Z",
-      "digest": "sha256:e673e9b19de26994d19a8db4693a4431da0ef52f9355fb1d817a02ae0d0b84ec"
+      "digest": "sha256:aeb13bbf49249d94e356174f9a538fca31f7119f1499bf3bd1731e116cc0b972"
     },
     {
       "version": "pg18-builder-arm64",
       "releaseTimestamp": "2026-11-11T12:58:30Z",
-      "digest": "sha256:3ccce26a74c18b9f632d64b23692f1478f8bc58fb338cccbd00ba35d01dce10e"
+      "digest": "sha256:2e37c381cc3034fd28bdfef882414f363637eea2e6942ef62aff8efa0730c8b1"
     },
     {
       "version": "pg18-amd64",
       "releaseTimestamp": "2026-11-11T12:59:06Z",
-      "digest": "sha256:086c4c59c9541f4b6ecd41c4f5bd7311be1256fb4f34865c824fa7a453114c5b"
+      "digest": "sha256:f0cfab1091db36532fb1470cba2196642223dd953bfd36c1a09a5c0b094888a7"
     },
     {
       "version": "pg16-all-oss-amd64",
       "releaseTimestamp": "2026-11-11T12:59:23Z",
-      "digest": "sha256:0ccea89d3851664d45f9ec03fbf7d5859035a414db8d7d69def7e8b10d6f9ed0"
+      "digest": "sha256:d0f1e5a3bd21cd6b9f14808717b98b003ee6c104864a720b7f9f8c77601d18c9"
     },
     {
       "version": "pg18-arm64",
       "releaseTimestamp": "2026-11-11T12:59:55Z",
-      "digest": "sha256:e9cc8bc8bb915541a821cbb362e513c4b49e988a1519b9ab5dfb4a6ec72f9282"
+      "digest": "sha256:4c0e03395d736bf7e980ff3ab1eb5ca4374b8c7bd3559ff8c407c8932c6e44df"
     },
     {
       "version": "pg16-all-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T12:59:57Z",
-      "digest": "sha256:6906a4b8e10f9b0367307b8229f4a920ae1c309da42012efd33cd0c5a7a11fe6"
+      "digest": "sha256:1f6a2493fa61a521003a97c0051a9b3b1b13db58506bea522439cf63a9a6313d"
     },
     {
       "version": "pg16-all-oss-arm64",
       "releaseTimestamp": "2026-11-11T13:01:51Z",
-      "digest": "sha256:29d3b3dcc39875e87619c91ee79b1016296dcbc85f85575ca9bc14b8f7f4bac1"
+      "digest": "sha256:0909b508e61e322a9e5fd61c570ec3f64489d24840a40ed5b7cd670dd02dc51f"
     },
     {
       "version": "pg17-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:02:44Z",
-      "digest": "sha256:2e4da9d0ecc18af11abc7c1385c43e740062f7998b1556722e1e5758316cd436"
+      "digest": "sha256:d781b01ba5b6b80bcc4f64f51b5396b4ddd0c193ed496d443609dd59767d5ec4"
     },
     {
       "version": "pg15-all-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:03:02Z",
-      "digest": "sha256:6b476445a4981cdabd7dbd8a37eebbc37f7d6dfe46a74a9bf8483cf5fa064fdb"
+      "digest": "sha256:3eed80ceaca7a830c47d19845cabc51aeae52261b79a74615226b7444470f14f"
     },
     {
       "version": "pg15-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:03:05Z",
-      "digest": "sha256:e574604e22982ae19fd72770373bf63ee5ba741d05fa52ea5df7500701a0a7fb"
+      "digest": "sha256:fc70f9e3e24ba37edfd448f7f1983420c5aaa4d99cdfef9a9b52192e9a85172b"
     },
     {
       "version": "pg17-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:03:25Z",
-      "digest": "sha256:42e6b1a8ead99ebcded1bd68e784d6e2d251c267798f25b47eae9e30cfed4135"
+      "digest": "sha256:05184378532f530a996ba427dfabcd4677a10469213b9f1dcc13af5c7cc4d7a4"
     },
     {
       "version": "pg16-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:04:05Z",
-      "digest": "sha256:bf7246facb987ccf6a16367fef03e2acc33984fa3f845931cd9826aa1860cd0b"
+      "digest": "sha256:d0dc3a44f397993df444c04e3b1560e3c45a333bdb0aac2cdfd65232b7b67243"
     },
     {
       "version": "pg15-all-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:04:17Z",
-      "digest": "sha256:9c1b4396eeb0c31a99be5cefe64ffd4ce6f5b35c62a2869e222c8892cad13b06"
+      "digest": "sha256:7be4d4e7acc3c4c2c7eb8147d997c54d4e380e6caebfa8ea1bbd972f416ac78e"
     },
     {
       "version": "pg17-amd64",
       "releaseTimestamp": "2026-11-11T13:04:30Z",
-      "digest": "sha256:83658833570dfd4e8cc7e94da4b9e4c4314ff6c35e6908fc4bd1313e2afeea28"
+      "digest": "sha256:e7f9e8a59ec4cc08d8337105dcbc9ff64f45bc96774164288d7f1ba9a2f97ec4"
     },
     {
       "version": "pg15-all-amd64",
       "releaseTimestamp": "2026-11-11T13:04:44Z",
-      "digest": "sha256:ff88a17f22120a99e2f9ac58fc7f1c69bba196a276937ee0e60bb534594fca15"
+      "digest": "sha256:2b1501bf523de521f3d729a120f74e4fdb38fb3fa8a25cd86cf6715cb2dccbc2"
     },
     {
       "version": "pg15-amd64",
       "releaseTimestamp": "2026-11-11T13:04:48Z",
-      "digest": "sha256:79755d9416cdc189c4df1f584d875735d0cf39268172b1e229895d98abdacaa3"
+      "digest": "sha256:5a7cf13813cc4c5eb7a1e85e3b5335a345500fb5ba3b8624e544b59f58cb9705"
     },
     {
       "version": "pg15-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:05:08Z",
-      "digest": "sha256:d4772d3b9d1b0dcab894910f29dc89b6bacb1672a0a3538059e3566b9cd36be8"
+      "digest": "sha256:5d2db8ef8fa98de49399ef0a268fa393863b52780b5057963c7154964657f2d8"
     },
     {
       "version": "pg17-arm64",
       "releaseTimestamp": "2026-11-11T13:05:09Z",
-      "digest": "sha256:23cafd4dfa38838585d7a10044882b2cea98003267381dfa2adb8fbdbdd943c9"
+      "digest": "sha256:7c24e5542547465e29d8a51efd8025f5cc0f3eb58110cfc75e2f625877e8509d"
     },
     {
       "version": "pg16-amd64",
       "releaseTimestamp": "2026-11-11T13:05:54Z",
-      "digest": "sha256:a746007fc3e94894ca8488594287d25d5934748b275b80c7b717ce31dc3add2c"
+      "digest": "sha256:635a87946fbf7030a7cdddd22e3efe105cd767122216abe58edfdfb1f2840c66"
     },
     {
       "version": "pg15-all-arm64",
       "releaseTimestamp": "2026-11-11T13:05:59Z",
-      "digest": "sha256:76867f06d506062f8c71c103a33ab04ac839b1c829c5fc1eaca187940f837267"
+      "digest": "sha256:6485c1214e1b4f9db64744c5e6bdde12cf3a915fd5f4b0333e2e15045b634464"
     },
     {
       "version": "pg16-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:06:23Z",
-      "digest": "sha256:ad6790c589a9da4b9209f251ab0d0bf6628d253e3175db7c996aaff20cfebaae"
+      "digest": "sha256:2b2c527a49d6461c8761fa2a47ea1636e650843c58658122a6e485544a86ba2e"
     },
     {
       "version": "pg15-arm64",
       "releaseTimestamp": "2026-11-11T13:06:51Z",
-      "digest": "sha256:e1748e7ce6f3d0bfcd779ca64fd35e92be11955e325751e6d6c610deee53099a"
+      "digest": "sha256:f3ee12560be4690aaf2bbd15beab819b61932af725839022de549ffe2b1e4fbb"
     },
     {
       "version": "pg16-arm64",
       "releaseTimestamp": "2026-11-11T13:08:13Z",
-      "digest": "sha256:e7a6c38fadefd58c73ac7b9cdbaaa964e633672c1c61a623fa70482443ca6b56"
+      "digest": "sha256:346036df5d1aefa970675d83fb79d23be554f083e20776337c175243bfa54b16"
     },
     {
       "version": "pg17-all-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:08:43Z",
-      "digest": "sha256:9b263734bd145f7bdc8a38349ad2111697d777b87c3950dfe5eb6bf3d4a4844f"
+      "digest": "sha256:fe575fe748fd206be002ba1065392de7be6dc7b39e616cf5cbe79a715e794884"
     },
     {
       "version": "pg17-all-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:10:50Z",
-      "digest": "sha256:9e7a409bdf20c8de6ab5346802a1a6db2627ebe2cbd403fcf0dd1e35d2c5c030"
+      "digest": "sha256:b9a51b9de65adc7cbade52bfa6cd53402749b9cffcb01320de46264d3d9cd64b"
     },
     {
       "version": "pg18-all-oss-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:11:52Z",
-      "digest": "sha256:4b03e2856b08388e922799105a79ea7f453ed66fd26a9660ec458a973dea9cfe"
+      "digest": "sha256:0686c5d42bcf7ff3ddc30269b1833a868c5cd714fb9dbb2d2e31561b4156d029"
     },
     {
       "version": "pg17-all-oss-amd64",
       "releaseTimestamp": "2026-11-11T13:12:03Z",
-      "digest": "sha256:81982fbe2e39310f4a1e39fd2e3d35f11f0f15a23f0494ab367f0539ec89620d"
+      "digest": "sha256:b94a02c22c51d204753f2b8262e7a2a669ba589abb264321b47cb859a17ac0e8"
     },
     {
       "version": "pg17-all-oss-arm64",
       "releaseTimestamp": "2026-11-11T13:13:58Z",
-      "digest": "sha256:6991659f49ac139a28aed2cd95889049cb9e3c990c80cee15d64283d7e329e47"
+      "digest": "sha256:7e9756e7044aafc504594d2273c1f7ff7210032e237c528a07286b7327733449"
     },
     {
       "version": "pg18-all-oss-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:15:28Z",
-      "digest": "sha256:3917fdfaa03b553f5e0aa1cefe98db136614111c6874e8c1f0f04831385d91c3"
+      "digest": "sha256:6539b8f9dc713536e0db526df297480053962bb326fb7f211d5b9e640bd00987"
     },
     {
       "version": "pg18-all-oss-amd64",
       "releaseTimestamp": "2026-11-11T13:15:29Z",
-      "digest": "sha256:95cbc7ce62ccdeddc671730f17bac24674b7ab8440efe26d8c6c284d2e9a31d1"
+      "digest": "sha256:16d24341d51477946b39374c3a458742e733711cd1ebd433a685421e07d1b7d0"
     },
     {
       "version": "pg18-all-oss-arm64",
       "releaseTimestamp": "2026-11-11T13:19:16Z",
-      "digest": "sha256:c90dcdffb6358fbe0166dd24fac86e9e32d62a88856ca9210bf460e2abbf1056"
+      "digest": "sha256:a54cd37ab3efa0d87dc2928edebeb1dbad56882743de0dd091c684c5bbad4008"
     },
     {
       "version": "pg16-all-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:28:50Z",
-      "digest": "sha256:66c3f8dfb3cb4f277a16a4f9e25ea33a333f2fa674375d38e518fc29b714a84a"
+      "digest": "sha256:bfe80f3b46de621c9f6745bf7041e9891cb07e931ce4e6f6e2895f763ff9be60"
     },
     {
       "version": "pg16-all-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:31:15Z",
-      "digest": "sha256:302de05fe78ee0c8e1cb19d6021a31099d99b57381f91c18272d73a0f1e1c14b"
+      "digest": "sha256:3ccc3b04d120d2130360c661102bdbee70048ca436a7978c888fea8ad953c175"
     },
     {
       "version": "pg16-all-amd64",
       "releaseTimestamp": "2026-11-11T13:32:10Z",
-      "digest": "sha256:342e133a4736e707d995ca79717817680760742e65fd4feaf0d33f69faa5b0cb"
+      "digest": "sha256:e96dc1bd3f59ab7be3893bd322bd5a5e9df91d77bfdce9f1be5e070aea7d781e"
     },
     {
       "version": "pg16-all-arm64",
       "releaseTimestamp": "2026-11-11T13:34:29Z",
-      "digest": "sha256:dced814a7004a0d7f0ecb0d1b651bbe5eb5bcf85a161a18d22ff10619374d289"
+      "digest": "sha256:211fda7540d8d9e5b6aa82dcae301a2e223fa33360eca7e9dde91f3b3a5c2f72"
     },
     {
       "version": "pg17-all-builder-amd64",
       "releaseTimestamp": "2026-11-11T13:51:31Z",
-      "digest": "sha256:9dd3fb292557377e93a5109a4b2fef4cf62d858245d68e6ee066a46419f3cee5"
+      "digest": "sha256:2b844fad4f4b2aa662ddab4e14e0d920938d8e9c70f11f69f36f980717c122f1"
     },
     {
       "version": "pg17-all-amd64",
       "releaseTimestamp": "2026-11-11T13:55:52Z",
-      "digest": "sha256:3abcdd6c2790cba5113fddd1e84501255cdd4175faa5cc75a3136442d323625b"
+      "digest": "sha256:4dce4f95f8cbb6d3e30e34fd62a9bd14bb5a83e2d728b762146521a2c32cd54b"
     },
     {
       "version": "pg17-all-builder-arm64",
       "releaseTimestamp": "2026-11-11T13:59:40Z",
-      "digest": "sha256:953b7c0b74a9f371a7e131a97fb8e95e87d99f78906506eada5fd42ff7fb16f5"
+      "digest": "sha256:be45c67180dbef721bbc4def015b99ddf4c01f7e2802b475307554a25fcbadf3"
     },
     {
       "version": "pg17-all-arm64",
       "releaseTimestamp": "2026-11-11T14:04:06Z",
-      "digest": "sha256:c86665ee4898fd38a1a8eb69f8bace1e7739bd78b3ab168cea963f0a634a3c83"
+      "digest": "sha256:f205537ce377db09e12cf275af8ed46292662198c4f637a4f1634006fa34c79d"
     },
     {
       "version": "pg18-all-builder-amd64",
       "releaseTimestamp": "2026-11-11T14:10:59Z",
-      "digest": "sha256:9e26fb36202973e1fd1fc361c2b9a16d5a0410ae7c591213d85acdde0284e86d"
+      "digest": "sha256:aebcd93608e95c713f3dbf33b9cdf2317605cc32380878be22691909327f7847"
     },
     {
       "version": "cicd-e807b16-amd64",
@@ -548,12 +533,12 @@
     {
       "version": "pg18-all-amd64",
       "releaseTimestamp": "2026-11-11T14:16:05Z",
-      "digest": "sha256:4b1107ee2f3e0d28cf4f5f4cc49574f88b1c2090b58f223b9920b7999e70b2c8"
+      "digest": "sha256:bdb64e53d04604be8ac88722d332abce30dee11560f8e0845adccdef52a0b826"
     },
     {
       "version": "pg18-all-builder-arm64",
       "releaseTimestamp": "2026-11-11T14:18:01Z",
-      "digest": "sha256:51097dc6ce0422a7cd134649bbd0774ba1a614db7ee61b6279f9f3b0bf5eb10d"
+      "digest": "sha256:984da45df76317149db983ae1038c0fd771c34ff3ed9b0247234b4d3993bc04a"
     },
     {
       "version": "cicd-e807b16-arm64",
@@ -568,407 +553,407 @@
     {
       "version": "pg18-all-arm64",
       "releaseTimestamp": "2026-11-11T14:23:05Z",
-      "digest": "sha256:5f8f4ab8ab100c7a3e7ae24f680352313a391e3490d6a2f972679f75a483b2c6"
+      "digest": "sha256:4d3ec80c991294495b8b9ec3a0ba91aed9816eea3973c3e6a900ca48873fd4ab"
     },
     {
       "version": "pg15-builder",
       "releaseTimestamp": "2026-11-11T14:25:19Z",
-      "digest": "sha256:6227f10c33e16aaec17fadc898700b03e69aa1df75762a7e235a13d92d4a441e"
+      "digest": "sha256:efd96c0971cfe9e50cb389f7b231b84dd7e18d477dfcd137aace620f64321a31"
     },
     {
       "version": "pg15-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:19Z",
-      "digest": "sha256:70fdfecd39736259a07c5b4389c5841070b0f3a3cbae555d92b60661d0d1c829"
+      "digest": "sha256:172b25717653ad13d53996ee139696f908b8618595e2b12aa8a2fefde346bae3"
     },
     {
       "version": "pg17-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:20Z",
-      "digest": "sha256:7effe4d57d2c027ff0c408086168385145d51b3bf571b63bc070bbf293a6fa41"
+      "digest": "sha256:bceaaae8d0d93f0ff06c2e205934857e8103ca32b9ca4f28664ed29ef042e398"
     },
     {
       "version": "pg15.18-builder",
       "releaseTimestamp": "2026-11-11T14:25:21Z",
-      "digest": "sha256:6227f10c33e16aaec17fadc898700b03e69aa1df75762a7e235a13d92d4a441e"
+      "digest": "sha256:efd96c0971cfe9e50cb389f7b231b84dd7e18d477dfcd137aace620f64321a31"
     },
     {
       "version": "pg15.18-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:21Z",
-      "digest": "sha256:70fdfecd39736259a07c5b4389c5841070b0f3a3cbae555d92b60661d0d1c829"
+      "digest": "sha256:172b25717653ad13d53996ee139696f908b8618595e2b12aa8a2fefde346bae3"
     },
     {
       "version": "pg17.11-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:21Z",
-      "digest": "sha256:7effe4d57d2c027ff0c408086168385145d51b3bf571b63bc070bbf293a6fa41"
+      "digest": "sha256:bceaaae8d0d93f0ff06c2e205934857e8103ca32b9ca4f28664ed29ef042e398"
     },
     {
       "version": "pg15-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:22Z",
-      "digest": "sha256:5cf876acd0b91b92c458b5b8b6c6c7cf1c49cc528bd823bbd32142fa9aacba5f"
+      "digest": "sha256:986dbad6f1d52c16b15568e8ebbdafc06d15ccc50a0d9dde2ed1d7c0cab103db"
     },
     {
       "version": "pg15",
       "releaseTimestamp": "2026-11-11T14:25:23Z",
-      "digest": "sha256:76f49c369445067b9cd0e79bbc467bcb241c5db60848e5b615c0323bb91ea251"
+      "digest": "sha256:9acb59a741bbbcfe19b41eac4b8c1f611dd532d4ba8d3759b932126b54d0c4f8"
     },
     {
       "version": "pg15-oss",
       "releaseTimestamp": "2026-11-11T14:25:23Z",
-      "digest": "sha256:ec2c0dd485b02a90166bd9f60a9c7be96b87df6871eb4566136fb68599f4a314"
+      "digest": "sha256:9237952fa6d1167d7afc6810866d711d2ac909780fc73be8a2c05833e04bf5d3"
     },
     {
       "version": "pg15.18-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:23Z",
-      "digest": "sha256:5cf876acd0b91b92c458b5b8b6c6c7cf1c49cc528bd823bbd32142fa9aacba5f"
+      "digest": "sha256:986dbad6f1d52c16b15568e8ebbdafc06d15ccc50a0d9dde2ed1d7c0cab103db"
     },
     {
       "version": "pg17-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:24Z",
-      "digest": "sha256:652ddcd168a7126dd6beeb80d63671f9260964f50f346dd5d5c5c3e2e155a112"
+      "digest": "sha256:9add4267871996fc4c89a8a3593858ba031a811c6145b9bae040feda17bb4f1e"
     },
     {
       "version": "pg18-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:24Z",
-      "digest": "sha256:d6c441827fd391a60cad93a7df1ffabf41c5fdd672fc3f0690e5c408a4c14d4f"
+      "digest": "sha256:0bc42b14cb927f1fc30d8cbea7a858ffdeaea00e16a597efadea3cd0d673d155"
     },
     {
       "version": "pg15-all",
       "releaseTimestamp": "2026-11-11T14:25:25Z",
-      "digest": "sha256:fe75fa3f34a791a2c58205c483456b355733fc35faf7e50ea29a84960eb0863d"
+      "digest": "sha256:27a0992916e38ccd80c7d779515facabe21ed99d7a224a8fffec607a30c1578d"
     },
     {
       "version": "pg15-ts2.28",
       "releaseTimestamp": "2026-11-11T14:25:25Z",
-      "digest": "sha256:76f49c369445067b9cd0e79bbc467bcb241c5db60848e5b615c0323bb91ea251"
+      "digest": "sha256:9acb59a741bbbcfe19b41eac4b8c1f611dd532d4ba8d3759b932126b54d0c4f8"
     },
     {
       "version": "pg15-ts2.28-oss",
       "releaseTimestamp": "2026-11-11T14:25:25Z",
-      "digest": "sha256:ec2c0dd485b02a90166bd9f60a9c7be96b87df6871eb4566136fb68599f4a314"
+      "digest": "sha256:9237952fa6d1167d7afc6810866d711d2ac909780fc73be8a2c05833e04bf5d3"
     },
     {
       "version": "pg16-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:25Z",
-      "digest": "sha256:269bedd945b1a41f51b2c60bd67c0672699f0e9380de10a933933e51f2a86397"
+      "digest": "sha256:4bbadd58513271ea978ca0370e568b4e3d70a3ff9370a276572409e114496dc2"
     },
     {
       "version": "pg15-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:26Z",
-      "digest": "sha256:387944d238eb3e24e448ddf2a1240332d348f5bd3a4cf305fa76a4bdb23756c8"
+      "digest": "sha256:2749b4ddf65b1f2b97798de6a213fa7bbe8746bbc2610210940c9f289421a5bb"
     },
     {
       "version": "pg16.15-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:26Z",
-      "digest": "sha256:269bedd945b1a41f51b2c60bd67c0672699f0e9380de10a933933e51f2a86397"
+      "digest": "sha256:4bbadd58513271ea978ca0370e568b4e3d70a3ff9370a276572409e114496dc2"
     },
     {
       "version": "pg18.6-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:26Z",
-      "digest": "sha256:d6c441827fd391a60cad93a7df1ffabf41c5fdd672fc3f0690e5c408a4c14d4f"
+      "digest": "sha256:0bc42b14cb927f1fc30d8cbea7a858ffdeaea00e16a597efadea3cd0d673d155"
     },
     {
       "version": "pg15.18-ts2.28.3",
       "releaseTimestamp": "2026-11-11T14:25:27Z",
-      "digest": "sha256:76f49c369445067b9cd0e79bbc467bcb241c5db60848e5b615c0323bb91ea251"
+      "digest": "sha256:9acb59a741bbbcfe19b41eac4b8c1f611dd532d4ba8d3759b932126b54d0c4f8"
     },
     {
       "version": "pg15.18-ts2.28.3-oss",
       "releaseTimestamp": "2026-11-11T14:25:27Z",
-      "digest": "sha256:ec2c0dd485b02a90166bd9f60a9c7be96b87df6871eb4566136fb68599f4a314"
+      "digest": "sha256:9237952fa6d1167d7afc6810866d711d2ac909780fc73be8a2c05833e04bf5d3"
     },
     {
       "version": "pg15.18-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:28Z",
-      "digest": "sha256:387944d238eb3e24e448ddf2a1240332d348f5bd3a4cf305fa76a4bdb23756c8"
+      "digest": "sha256:2749b4ddf65b1f2b97798de6a213fa7bbe8746bbc2610210940c9f289421a5bb"
     },
     {
       "version": "pg16-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:28Z",
-      "digest": "sha256:a201bbf3cf3ab3944222aa226a87592af670dd66284f7accad0bb5084950cd72"
+      "digest": "sha256:7ee2c52e5e376c699329bbeee070b78679ad3af9eec70d081ed7300c1851afe9"
     },
     {
       "version": "pg16-oss",
       "releaseTimestamp": "2026-11-11T14:25:28Z",
-      "digest": "sha256:27aa6d2ee200683fdf057c57f3ed383889b5be264ef0db03c3c31785f4eb27a7"
+      "digest": "sha256:129c49630ee00802d7fe5ce9612a257b21bfcf2c444ea3cb511ee00820f5eca6"
     },
     {
       "version": "pg18-all",
       "releaseTimestamp": "2026-11-11T14:25:28Z",
-      "digest": "sha256:ede4a6821c1c3949dc4d5da325e2fcd7293351260a2f3331e508485c239e512b"
+      "digest": "sha256:132673e96bdddc6b0963a66d326069787a87fbba11013d13f5dbedd702860edd"
     },
     {
       "version": "pg18-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:28Z",
-      "digest": "sha256:21e1f633f574c287e466c50ff59e79416ad0baf7d52c493b848748e64e8aa132"
+      "digest": "sha256:0b987ba74ed5306de0d8d33deacb28ee0d8e4506de6b0af2fabf4e5b7011d2d5"
     },
     {
       "version": "pg16-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:29Z",
-      "digest": "sha256:7d05ce78d4bc042ce9d5cb090ae855b098f88801fb90d4b75d59f97edf4c86e0"
+      "digest": "sha256:bc4896b93704887b628aafcfc1eaef98531f7bec59bf6b6ef953dff2362b7f99"
     },
     {
       "version": "pg17-builder",
       "releaseTimestamp": "2026-11-11T14:25:29Z",
-      "digest": "sha256:d7fbd0097d594498cbc15c6f82db5ce81345b34b1489f084f22993f1f3cf68b2"
+      "digest": "sha256:f1e34a358aa0ee031ee0b089542344894581f3cbe12519562b5b765353966bed"
     },
     {
       "version": "pg15-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:30Z",
-      "digest": "sha256:94252245200e8c0a0b12e3873d6973c0662ce2b170e914fe3ac2699757af6382"
+      "digest": "sha256:5620402a37b5757049a940e1f5cbf94d589c9d745cd1c5dc36c82c20aeea89b8"
     },
     {
       "version": "pg16-ts2.31-oss",
       "releaseTimestamp": "2026-11-11T14:25:30Z",
-      "digest": "sha256:27aa6d2ee200683fdf057c57f3ed383889b5be264ef0db03c3c31785f4eb27a7"
+      "digest": "sha256:9c4dc5a8220484cfc869a1d367fbd5a31298b63ae1394645d3fce27d9574a0c4"
     },
     {
       "version": "pg16.15-all-builder",
       "releaseTimestamp": "2026-11-11T14:25:30Z",
-      "digest": "sha256:a201bbf3cf3ab3944222aa226a87592af670dd66284f7accad0bb5084950cd72"
+      "digest": "sha256:7ee2c52e5e376c699329bbeee070b78679ad3af9eec70d081ed7300c1851afe9"
     },
     {
       "version": "pg18-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:30Z",
-      "digest": "sha256:4c34d4bb137b15d15333d16c846fed043377d6877273790793a203a9f2cc3e1c"
+      "digest": "sha256:c0c2253c25720b3f137a03a2aebc47d195115f574f6285c05615eb06eed90c89"
     },
     {
       "version": "pg18-ts2.31-all",
       "releaseTimestamp": "2026-11-11T14:25:30Z",
-      "digest": "sha256:ede4a6821c1c3949dc4d5da325e2fcd7293351260a2f3331e508485c239e512b"
+      "digest": "sha256:d22b2be6c77006f75f6ba04d136c7a0f986cca41b4cf9294a289ea28e3964a65"
     },
     {
       "version": "pg18.6-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:30Z",
-      "digest": "sha256:21e1f633f574c287e466c50ff59e79416ad0baf7d52c493b848748e64e8aa132"
+      "digest": "sha256:0b987ba74ed5306de0d8d33deacb28ee0d8e4506de6b0af2fabf4e5b7011d2d5"
     },
     {
       "version": "pg15-ts2.28-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:31Z",
-      "digest": "sha256:94252245200e8c0a0b12e3873d6973c0662ce2b170e914fe3ac2699757af6382"
+      "digest": "sha256:5620402a37b5757049a940e1f5cbf94d589c9d745cd1c5dc36c82c20aeea89b8"
     },
     {
       "version": "pg16-builder",
       "releaseTimestamp": "2026-11-11T14:25:31Z",
-      "digest": "sha256:030833adab1c31d057daa599c252d298dd6f259e26064627395e99bf84ef4bd1"
+      "digest": "sha256:15f3b553c39a820b155600ded46c84fb72fc9bcd912d15ae3397e76f01e3029c"
     },
     {
       "version": "pg16.15-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:31Z",
-      "digest": "sha256:7d05ce78d4bc042ce9d5cb090ae855b098f88801fb90d4b75d59f97edf4c86e0"
+      "digest": "sha256:bc4896b93704887b628aafcfc1eaef98531f7bec59bf6b6ef953dff2362b7f99"
     },
     {
       "version": "pg17.11-builder",
       "releaseTimestamp": "2026-11-11T14:25:31Z",
-      "digest": "sha256:d7fbd0097d594498cbc15c6f82db5ce81345b34b1489f084f22993f1f3cf68b2"
+      "digest": "sha256:f1e34a358aa0ee031ee0b089542344894581f3cbe12519562b5b765353966bed"
     },
     {
       "version": "pg18-builder",
       "releaseTimestamp": "2026-11-11T14:25:31Z",
-      "digest": "sha256:7a67d841b2b02105fdada0111d87246aae80dc2ae88023c7125adfbc4b0f0374"
+      "digest": "sha256:4c434310426286655589f4a30ab14bebef5d18204bd94c5327abc4b2990be9fc"
     },
     {
       "version": "pg16.15-ts2.31.0-oss",
       "releaseTimestamp": "2026-11-11T14:25:32Z",
-      "digest": "sha256:27aa6d2ee200683fdf057c57f3ed383889b5be264ef0db03c3c31785f4eb27a7"
+      "digest": "sha256:9c4dc5a8220484cfc869a1d367fbd5a31298b63ae1394645d3fce27d9574a0c4"
     },
     {
       "version": "pg18.6-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:32Z",
-      "digest": "sha256:4c34d4bb137b15d15333d16c846fed043377d6877273790793a203a9f2cc3e1c"
+      "digest": "sha256:c0c2253c25720b3f137a03a2aebc47d195115f574f6285c05615eb06eed90c89"
     },
     {
       "version": "pg18.6-ts2.31.0-all",
       "releaseTimestamp": "2026-11-11T14:25:32Z",
-      "digest": "sha256:ede4a6821c1c3949dc4d5da325e2fcd7293351260a2f3331e508485c239e512b"
+      "digest": "sha256:d22b2be6c77006f75f6ba04d136c7a0f986cca41b4cf9294a289ea28e3964a65"
     },
     {
       "version": "pg15.18-ts2.28.3-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:33Z",
-      "digest": "sha256:94252245200e8c0a0b12e3873d6973c0662ce2b170e914fe3ac2699757af6382"
+      "digest": "sha256:5620402a37b5757049a940e1f5cbf94d589c9d745cd1c5dc36c82c20aeea89b8"
     },
     {
       "version": "pg16-all",
       "releaseTimestamp": "2026-11-11T14:25:33Z",
-      "digest": "sha256:55517aef85e5f8b22ca44a72a5d767e177a0f6b616626cba18fd919a9c0d36f1"
+      "digest": "sha256:b15d402942eb87304351289bf4c4c9a49113bb02484daa5e7de0e92623a8bc18"
     },
     {
       "version": "pg16-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:33Z",
-      "digest": "sha256:7a792d9544f0b034d09d8e584d464a7b7ed0b4d81ab2bd2142882e0ad1d08824"
+      "digest": "sha256:bc5ec9937e69d03bd7b2334eaaceded754ec236f696810bff7b0a52c6b572fd5"
     },
     {
       "version": "pg16.15-builder",
       "releaseTimestamp": "2026-11-11T14:25:33Z",
-      "digest": "sha256:030833adab1c31d057daa599c252d298dd6f259e26064627395e99bf84ef4bd1"
+      "digest": "sha256:15f3b553c39a820b155600ded46c84fb72fc9bcd912d15ae3397e76f01e3029c"
     },
     {
       "version": "pg17",
       "releaseTimestamp": "2026-11-11T14:25:33Z",
-      "digest": "sha256:cab80343772cb8273c7cf403007d47cc294e2b6d773e519eae1c515a58007e60"
+      "digest": "sha256:e801086738f54cd32949baae7c78033fb774bca3c3abb50e1af59a72caf745e9"
     },
     {
       "version": "pg18-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:33Z",
-      "digest": "sha256:047581d3257f71829c1588271cf3a602f64be81355f9f6f7c51dfd644c7ece3e"
+      "digest": "sha256:1f862af3cc948a9d22db4776a220f29d0b6893b344c75b0cae37415eb17ccc08"
     },
     {
       "version": "pg18.6-builder",
       "releaseTimestamp": "2026-11-11T14:25:33Z",
-      "digest": "sha256:7a67d841b2b02105fdada0111d87246aae80dc2ae88023c7125adfbc4b0f0374"
+      "digest": "sha256:4c434310426286655589f4a30ab14bebef5d18204bd94c5327abc4b2990be9fc"
     },
     {
       "version": "pg17-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:34Z",
-      "digest": "sha256:fb62d7521b9eea696015c3a0e40325b5ebf65246cb260241084670601f0103db"
+      "digest": "sha256:f94635359fbee68b22eef58e8993737ff49463a688177c17a0ec68a0c7cbcb26"
     },
     {
       "version": "pg18-oss",
       "releaseTimestamp": "2026-11-11T14:25:34Z",
-      "digest": "sha256:ab03e28b85b053f31616bf21ef3770fa5279091ea800df31354d67fe00fdd088"
+      "digest": "sha256:2dc507f66f67dd7f69f3ce771939c07af6997c373dfe17bb628b00c6dc09e903"
     },
     {
       "version": "pg16",
       "releaseTimestamp": "2026-11-11T14:25:35Z",
-      "digest": "sha256:954de98d8fc1e1a330fd2788d807405907a974a54273dc55815bb875c6d6b0d3"
+      "digest": "sha256:5d1a6980aa255b5035e24e0de6808c134bf2bf19cf551571acbd092ad38a4b8d"
     },
     {
       "version": "pg16-ts2.31-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:35Z",
-      "digest": "sha256:7a792d9544f0b034d09d8e584d464a7b7ed0b4d81ab2bd2142882e0ad1d08824"
+      "digest": "sha256:11ccbb0abb2fe72219116d1aa0b86a806d5d727caf5c74e76bb9f9deab3c3889"
     },
     {
       "version": "pg17-ts2.31",
       "releaseTimestamp": "2026-11-11T14:25:35Z",
-      "digest": "sha256:cab80343772cb8273c7cf403007d47cc294e2b6d773e519eae1c515a58007e60"
+      "digest": "sha256:13da447e61af81b7c37eefcd320a0146c86f3f0e363994258bfdc18dafa35d09"
     },
     {
       "version": "pg18-ts2.31-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:35Z",
-      "digest": "sha256:047581d3257f71829c1588271cf3a602f64be81355f9f6f7c51dfd644c7ece3e"
+      "digest": "sha256:702e1eac82acc5cfb3e6d638ab2a9abb06b009ba71a4d1552bf171d281b9212e"
     },
     {
       "version": "pg16-ts2.31-all",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:55517aef85e5f8b22ca44a72a5d767e177a0f6b616626cba18fd919a9c0d36f1"
+      "digest": "sha256:5c32c32d7676358014598c8ddce07cfaac7b1bc6c4c9322b4df4f0cd120d9f53"
     },
     {
       "version": "pg16.15-ts2.31.0-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:7a792d9544f0b034d09d8e584d464a7b7ed0b4d81ab2bd2142882e0ad1d08824"
+      "digest": "sha256:11ccbb0abb2fe72219116d1aa0b86a806d5d727caf5c74e76bb9f9deab3c3889"
     },
     {
       "version": "pg17-all",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:e98b990c77d804c3ae34bd8eed3dfd6598976e57b994816e76efdbb35a581b05"
+      "digest": "sha256:f7b64fc93882e093553b53c6b78842157373987ad63f7a90b6b90e69083a8423"
     },
     {
       "version": "pg17.11-all-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:fb62d7521b9eea696015c3a0e40325b5ebf65246cb260241084670601f0103db"
+      "digest": "sha256:f94635359fbee68b22eef58e8993737ff49463a688177c17a0ec68a0c7cbcb26"
     },
     {
       "version": "pg17.11-ts2.31.0",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:cab80343772cb8273c7cf403007d47cc294e2b6d773e519eae1c515a58007e60"
+      "digest": "sha256:13da447e61af81b7c37eefcd320a0146c86f3f0e363994258bfdc18dafa35d09"
     },
     {
       "version": "pg18",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:b1986a09acde299108011583f50fffdd92847eb2d2abfdffb219520aaac64c27"
+      "digest": "sha256:96b6033e7e54c26099f29cb46f634953b749b8c2c92c77bfb715cd630cdadf2e"
     },
     {
       "version": "pg18-ts2.31-oss",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:ab03e28b85b053f31616bf21ef3770fa5279091ea800df31354d67fe00fdd088"
+      "digest": "sha256:fdbbe815e182e96def2400e5cc6e693d0fdc2e63ab8b8f7566e1bae64ba98a8a"
     },
     {
       "version": "pg18.6-ts2.31.0-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:36Z",
-      "digest": "sha256:047581d3257f71829c1588271cf3a602f64be81355f9f6f7c51dfd644c7ece3e"
+      "digest": "sha256:702e1eac82acc5cfb3e6d638ab2a9abb06b009ba71a4d1552bf171d281b9212e"
     },
     {
       "version": "pg16-ts2.31",
       "releaseTimestamp": "2026-11-11T14:25:37Z",
-      "digest": "sha256:954de98d8fc1e1a330fd2788d807405907a974a54273dc55815bb875c6d6b0d3"
+      "digest": "sha256:0ec512f75994967c7aef209db96162c84f2f083631c6f448e9e6d08fc61b0892"
     },
     {
       "version": "pg18.6-ts2.31.0-oss",
       "releaseTimestamp": "2026-11-11T14:25:37Z",
-      "digest": "sha256:ab03e28b85b053f31616bf21ef3770fa5279091ea800df31354d67fe00fdd088"
+      "digest": "sha256:fdbbe815e182e96def2400e5cc6e693d0fdc2e63ab8b8f7566e1bae64ba98a8a"
     },
     {
       "version": "pg16.15-ts2.31.0-all",
       "releaseTimestamp": "2026-11-11T14:25:38Z",
-      "digest": "sha256:55517aef85e5f8b22ca44a72a5d767e177a0f6b616626cba18fd919a9c0d36f1"
+      "digest": "sha256:5c32c32d7676358014598c8ddce07cfaac7b1bc6c4c9322b4df4f0cd120d9f53"
     },
     {
       "version": "pg17-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:38Z",
-      "digest": "sha256:5fece996e350c0a031a094f81f48aaa51fcd5aa4212744a85d73cee775827cbd"
+      "digest": "sha256:55c44e3df40584b52fd6af5c66543705b2ef99a380db4e1e3ca30984c19b9332"
     },
     {
       "version": "pg17-ts2.31-all",
       "releaseTimestamp": "2026-11-11T14:25:38Z",
-      "digest": "sha256:e98b990c77d804c3ae34bd8eed3dfd6598976e57b994816e76efdbb35a581b05"
+      "digest": "sha256:d86badfc7678aca53ca4772f10e3d35b021c537f1ccbf6ef1efe8a0205b5f308"
     },
     {
       "version": "pg18-ts2.31",
       "releaseTimestamp": "2026-11-11T14:25:38Z",
-      "digest": "sha256:b1986a09acde299108011583f50fffdd92847eb2d2abfdffb219520aaac64c27"
+      "digest": "sha256:b548f0d2afa7bbce9ab4f51268e095c6bd9725ab19f9df5792e62d0bbaad8d34"
     },
     {
       "version": "pg16.15-ts2.31.0",
       "releaseTimestamp": "2026-11-11T14:25:39Z",
-      "digest": "sha256:954de98d8fc1e1a330fd2788d807405907a974a54273dc55815bb875c6d6b0d3"
+      "digest": "sha256:0ec512f75994967c7aef209db96162c84f2f083631c6f448e9e6d08fc61b0892"
     },
     {
       "version": "pg17.11-oss-builder",
       "releaseTimestamp": "2026-11-11T14:25:39Z",
-      "digest": "sha256:652ddcd168a7126dd6beeb80d63671f9260964f50f346dd5d5c5c3e2e155a112"
+      "digest": "sha256:9add4267871996fc4c89a8a3593858ba031a811c6145b9bae040feda17bb4f1e"
     },
     {
       "version": "pg15-ts2.28-all",
       "releaseTimestamp": "2026-11-11T14:25:40Z",
-      "digest": "sha256:fe75fa3f34a791a2c58205c483456b355733fc35faf7e50ea29a84960eb0863d"
+      "digest": "sha256:27a0992916e38ccd80c7d779515facabe21ed99d7a224a8fffec607a30c1578d"
     },
     {
       "version": "pg17-ts2.31-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:40Z",
-      "digest": "sha256:5fece996e350c0a031a094f81f48aaa51fcd5aa4212744a85d73cee775827cbd"
+      "digest": "sha256:943cdfa08ad127a8140d0da755c54e25e86b3b9a89c187df15a842605b268e89"
     },
     {
       "version": "pg17.11-ts2.31.0-all",
       "releaseTimestamp": "2026-11-11T14:25:40Z",
-      "digest": "sha256:e98b990c77d804c3ae34bd8eed3dfd6598976e57b994816e76efdbb35a581b05"
+      "digest": "sha256:d86badfc7678aca53ca4772f10e3d35b021c537f1ccbf6ef1efe8a0205b5f308"
     },
     {
       "version": "pg18.6-ts2.31.0",
       "releaseTimestamp": "2026-11-11T14:25:40Z",
-      "digest": "sha256:b1986a09acde299108011583f50fffdd92847eb2d2abfdffb219520aaac64c27"
+      "digest": "sha256:b548f0d2afa7bbce9ab4f51268e095c6bd9725ab19f9df5792e62d0bbaad8d34"
     },
     {
       "version": "pg17-oss",
       "releaseTimestamp": "2026-11-11T14:25:41Z",
-      "digest": "sha256:f0bd0b7a6dd0af5116d1ea22920984a8f1cae23db6f53ead6dc8479368ea7df2"
+      "digest": "sha256:282cb902467f4d46d92540c6fa5ea8179c33c4a2526d861cf9b38dabd1d3c596"
     },
     {
       "version": "pg17.11-ts2.31.0-all-oss",
       "releaseTimestamp": "2026-11-11T14:25:41Z",
-      "digest": "sha256:5fece996e350c0a031a094f81f48aaa51fcd5aa4212744a85d73cee775827cbd"
+      "digest": "sha256:943cdfa08ad127a8140d0da755c54e25e86b3b9a89c187df15a842605b268e89"
     },
     {
       "version": "pg15.18-ts2.28.3-all",
       "releaseTimestamp": "2026-11-11T14:25:42Z",
-      "digest": "sha256:fe75fa3f34a791a2c58205c483456b355733fc35faf7e50ea29a84960eb0863d"
+      "digest": "sha256:27a0992916e38ccd80c7d779515facabe21ed99d7a224a8fffec607a30c1578d"
     },
     {
       "version": "pg17-ts2.31-oss",
       "releaseTimestamp": "2026-11-11T14:25:43Z",
-      "digest": "sha256:f0bd0b7a6dd0af5116d1ea22920984a8f1cae23db6f53ead6dc8479368ea7df2"
+      "digest": "sha256:f69fb2809deec71990bef7b3c462de13e712c2436ad3f0730637cb7790830964"
     },
     {
       "version": "pg17.11-ts2.31.0-oss",
       "releaseTimestamp": "2026-11-11T14:25:44Z",
-      "digest": "sha256:f0bd0b7a6dd0af5116d1ea22920984a8f1cae23db6f53ead6dc8479368ea7df2"
+      "digest": "sha256:f69fb2809deec71990bef7b3c462de13e712c2436ad3f0730637cb7790830964"
     },
     {
       "version": "cicd-285d24f-arm64",
@@ -1019,6 +1004,926 @@
       "version": "pg18-cicheck-all-arm64",
       "releaseTimestamp": "2026-11-11T20:10:45Z",
       "digest": "sha256:c7109e3c6acd10c24f598fac8e6fbe3615b0203b8d79cdd77f91efb7bf61237e"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-all-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:28Z",
+      "digest": "sha256:c683977cea4e7448072c3b3e6306d83bd62c187e4d70b62f39350ce98e1d85bf"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:28Z",
+      "digest": "sha256:0330be34d0ab0c38bcefe6e50b87eba25e867809fdff23dff5f7ef4d358a1733"
+    },
+    {
+      "version": "pg15.18-all-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:30Z",
+      "digest": "sha256:3d572a4129c18ff6b7509752d3ddeef6b9cdf4aa5244a4c6efc9814775ebcb24"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-all-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:30Z",
+      "digest": "sha256:18246fce72a39c85cbaadbb19bdd5f6ebbc53d428992fd97d93da361a289edf4"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:30Z",
+      "digest": "sha256:35a911ad324e1606e7562eb33afdd7715bbc9ddddb3b1de52fae19e3f621c461"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-all-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:30Z",
+      "digest": "sha256:5a4794c2fb5e7ca7cd21c25b6a807e62f4f99588b9e192e8d3d49acd86687569"
+    },
+    {
+      "version": "pg15.18-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:31Z",
+      "digest": "sha256:0c038e36684ad19ed844597e979fa644654bc924ae2b157095ba61a9fd22d58b"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-all-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:31Z",
+      "digest": "sha256:486132feca6455d25480ebda7b8aaa07f1b18664d2b8a06d6538d77a03f98548"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-all-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:31Z",
+      "digest": "sha256:f400acd869ae51ac7aa81758e2b3d09ec89d578654d7f7ba59cfa1f01908c7bc"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:32Z",
+      "digest": "sha256:c82b69bff736aa3ca32a253dd98859cc8e7b9114531d86048f5412ed4358a436"
+    },
+    {
+      "version": "pg17.11-all-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:32Z",
+      "digest": "sha256:095a9b7e7ecd53acff1e394fc9e94289034e4d4f1d56698cb8e23c38f2bdbdce"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-all-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:32Z",
+      "digest": "sha256:28612d4c653003f6eb84712bc82d35b3e38380cb07383a9367ac77c7b2b9131a"
+    },
+    {
+      "version": "pg18.6-all-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:32Z",
+      "digest": "sha256:c45fda149f95122473a37148bc03bc6ed842bc9abb0a4cca14e0b1fdee3997af"
+    },
+    {
+      "version": "pg16.15-all-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:33Z",
+      "digest": "sha256:86412333d03dac1560168391d5da38e70745640d1859373545a774e86f7b1c95"
+    },
+    {
+      "version": "pg16.15-all-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:33Z",
+      "digest": "sha256:ecb09fbdab6306073a3b91513ff6e208da5facbf0972243d589aa6b67040da41"
+    },
+    {
+      "version": "pg17.11-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:33Z",
+      "digest": "sha256:42751e3546092fff24545dd4783693b15cc27d0401f2dd6c07f80c27892f156c"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:33Z",
+      "digest": "sha256:e222ffc65197fcdbf9e8f02e45406462a22702c8632f1c5abf084a28ec2b7446"
+    },
+    {
+      "version": "pg16.15-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:34Z",
+      "digest": "sha256:5b257deb60b3f3fcba815b13159a788406d566a438b70fa5ae1fb3e9d5cedd24"
+    },
+    {
+      "version": "pg17.11-all-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:34Z",
+      "digest": "sha256:ce18c2423414142108c516ae4aad89d2d7edc20a16b53f743d423186c87c80d0"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-all-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:35Z",
+      "digest": "sha256:d5fa3a599b19518972ca37095bb2ca0bd931c55378f0231d4088fb8a6dc0ac08"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:35Z",
+      "digest": "sha256:5569c6dd260c24cc61ded545f01848c1c6dfa7d3311815c07ddfcf4d67286c79"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-all-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:35Z",
+      "digest": "sha256:5b66f38e76c11a9d19d6c6750af5fa3f5d51c84e7c8c2ca67510129008c25f7b"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:35Z",
+      "digest": "sha256:c17067ffdd8104617cae66c6aa274e1ac66a4b9ffb05fd380781bc2f8fc4a7cd"
+    },
+    {
+      "version": "pg18.6-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:36Z",
+      "digest": "sha256:e0bf324e7ae27b747af2c842384928846b2af5132d4b65b0cc3df5d0850a4dfa"
+    },
+    {
+      "version": "pg15.18-all-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:37Z",
+      "digest": "sha256:1baa5518b91a9b9f0a688d3bf39a826b63e90df18e0db51af5dc7a7949bf3533"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-oss-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:37Z",
+      "digest": "sha256:e07e8e88d82eed224a39707f5923bb98efbb2e2ddea4828bab77cfbe243a8f6c"
+    },
+    {
+      "version": "pg16.15-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:37Z",
+      "digest": "sha256:9aef885615f665f2254d26daefd835dcea252b67c59c9ae0cf4ea702847b0209"
+    },
+    {
+      "version": "pg18.6-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:37Z",
+      "digest": "sha256:ec9d654206a28e12eac10f30d6de4ae370cb4c65a140713923f031e8b8ec586c"
+    },
+    {
+      "version": "pg18.6-all-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:38Z",
+      "digest": "sha256:6e1f13c1a7790a6ee545ca3e634f17598455d0d2ca941e1a38a75c314cc018cd"
+    },
+    {
+      "version": "pg15.18-oss-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:39Z",
+      "digest": "sha256:254410c84458765db2e13e7fddec9e202eb55de7925f36cc351c74e1c43c1153"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:39Z",
+      "digest": "sha256:3c148fa6aa54c48b5ec76b55f84b7d5957418fdf4d27ac447a36570737183554"
+    },
+    {
+      "version": "pg17.11-builder-r594.3",
+      "releaseTimestamp": "2026-11-12T10:04:41Z",
+      "digest": "sha256:0df47a459f87ec5b6c53da5ab01bd581b34ab675a342af2fa084a093f14d30f5"
+    },
+    {
+      "version": "pg16.15-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:30Z",
+      "digest": "sha256:e2a198cbf807a76f15a063fef0080469c2c4892ed7432d8915ef4dcc7c90f339"
+    },
+    {
+      "version": "pg17.11-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:30Z",
+      "digest": "sha256:6b303ff2044c4a0d72f7e7179963aa8270f882726cab3dfa62336d29215a96b4"
+    },
+    {
+      "version": "pg17.11-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:31Z",
+      "digest": "sha256:c20d1ce7f8be7eb12b5eccf46e759439480baa284e8d7fcca69372a4979637dc"
+    },
+    {
+      "version": "pg15.18-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:33Z",
+      "digest": "sha256:d3c80d194abab900169a0f472763ccb07399e29871b26ee02b2cafbeb6c88739"
+    },
+    {
+      "version": "pg18.6-all-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:33Z",
+      "digest": "sha256:58c1db32fe0fb120544ccbe4ab23615a89aae67c3e3a2b6e844d88a846fd091c"
+    },
+    {
+      "version": "pg18.6-all-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:34Z",
+      "digest": "sha256:be09eef47fb58dbff743a005fad347e764adbc5579cbdf49fc4766b72ff791aa"
+    },
+    {
+      "version": "pg16.15-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:35Z",
+      "digest": "sha256:02234df889165e663c4f10ad0d6dc1a15dd2ca5fb98933dbd095fa04b2a12d50"
+    },
+    {
+      "version": "pg16.15-all-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:36Z",
+      "digest": "sha256:9f905178df2950973067c02f86fcd91e41e7fb8173bf1dccfcb9867e47449307"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:36Z",
+      "digest": "sha256:0ec512f75994967c7aef209db96162c84f2f083631c6f448e9e6d08fc61b0892"
+    },
+    {
+      "version": "pg17.11-all-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:36Z",
+      "digest": "sha256:cb2b6b42c36afeffe75dcf710a9d4c1b9cb362649f3050caa0166740a0feabc3"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:36Z",
+      "digest": "sha256:13da447e61af81b7c37eefcd320a0146c86f3f0e363994258bfdc18dafa35d09"
+    },
+    {
+      "version": "pg15.18-all-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:37Z",
+      "digest": "sha256:422e65deacb9e71ca9f3fb8edd59e64670a2da76a296d40b2f903d12edbdb4b5"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:37Z",
+      "digest": "sha256:f69fb2809deec71990bef7b3c462de13e712c2436ad3f0730637cb7790830964"
+    },
+    {
+      "version": "pg18.6-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:37Z",
+      "digest": "sha256:96d9c9c1fbe9e79297921396d56f7b0ae47323814f049adb1fe6a68ee2bdb36a"
+    },
+    {
+      "version": "pg15.18-all-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:38Z",
+      "digest": "sha256:55480a49eb90e869662a48b298f771fcb0149f3ab0f50c3a5bb98138a8068c4b"
+    },
+    {
+      "version": "pg16.15-all-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:38Z",
+      "digest": "sha256:d4859ac2939fac2be1d31605f481ba55b78c2a31547fc50223b0752dbff80024"
+    },
+    {
+      "version": "pg18.6-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:38Z",
+      "digest": "sha256:9bdb4fa0ce0d8cb7be103af6e97e2d6c3977df3f32a86ac771b07fb49a8025ee"
+    },
+    {
+      "version": "pg15.18-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:39Z",
+      "digest": "sha256:8dd36fe1e566500b16008ceed3cc66fa0edb06b62149162a4fbc1e246aaaff27"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:39Z",
+      "digest": "sha256:27b758ca56f025ee879a1c57fbf488f8d0a4bd53114c8312eedb99dbd9a99488"
+    },
+    {
+      "version": "pg17.11-all-oss-builder-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:39Z",
+      "digest": "sha256:628a33ad84a386e1664fdc7c35fc7dad87addb8a56a4da8b4aa1bf872fa1f834"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-all-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:39Z",
+      "digest": "sha256:702e1eac82acc5cfb3e6d638ab2a9abb06b009ba71a4d1552bf171d281b9212e"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:40Z",
+      "digest": "sha256:9c4dc5a8220484cfc869a1d367fbd5a31298b63ae1394645d3fce27d9574a0c4"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-all-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:41Z",
+      "digest": "sha256:5c32c32d7676358014598c8ddce07cfaac7b1bc6c4c9322b4df4f0cd120d9f53"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-all-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:41Z",
+      "digest": "sha256:d86badfc7678aca53ca4772f10e3d35b021c537f1ccbf6ef1efe8a0205b5f308"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-all-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:41Z",
+      "digest": "sha256:d22b2be6c77006f75f6ba04d136c7a0f986cca41b4cf9294a289ea28e3964a65"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-all-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:43Z",
+      "digest": "sha256:07276c91845e667c44a22947049c70b911742eb766324c9ae29d7c5c65ca1e28"
+    },
+    {
+      "version": "pg16.15-ts2.31.0-all-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:43Z",
+      "digest": "sha256:11ccbb0abb2fe72219116d1aa0b86a806d5d727caf5c74e76bb9f9deab3c3889"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:43Z",
+      "digest": "sha256:fdbbe815e182e96def2400e5cc6e693d0fdc2e63ab8b8f7566e1bae64ba98a8a"
+    },
+    {
+      "version": "pg18.6-ts2.31.0-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:43Z",
+      "digest": "sha256:b548f0d2afa7bbce9ab4f51268e095c6bd9725ab19f9df5792e62d0bbaad8d34"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-all-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:44Z",
+      "digest": "sha256:4ec3657c013c02b7b63a41d62e90eaa2f01ea3d2a30e38992bccb77ea4868923"
+    },
+    {
+      "version": "pg17.11-ts2.31.0-all-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:44Z",
+      "digest": "sha256:943cdfa08ad127a8140d0da755c54e25e86b3b9a89c187df15a842605b268e89"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-oss-r598.1",
+      "releaseTimestamp": "2026-11-12T14:40:46Z",
+      "digest": "sha256:5b86db1333eb97fae08f65623a4c7c49212143a70792c4926eb1ec1c9f815386"
+    },
+    {
+      "version": "staging-pg18-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T15:59:57Z",
+      "digest": "sha256:4d9b8d35b225c595bb124df19d5afaad1cd100042f975e7f32948e2c1b1d9925"
+    },
+    {
+      "version": "staging-pg15-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T15:59:58Z",
+      "digest": "sha256:67ba9d5e02f9ea86fa4a03eaf63b9b33f38216a21a482bff7d883b7536a11bf0"
+    },
+    {
+      "version": "staging-pg15-all-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:12Z",
+      "digest": "sha256:3cd7715b2402a8e2e0991a235200d6e32d6a7ea963e45ede9600144f48cdfecd"
+    },
+    {
+      "version": "staging-pg15-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:15Z",
+      "digest": "sha256:c6b7fbae4f59c0ec99725e28c536430197e653451ecb46357e27a162c12a985e"
+    },
+    {
+      "version": "staging-pg15-all-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:18Z",
+      "digest": "sha256:3c3299abed1b72e15cecd06725b50e3f3d236154d1f78c2525e3f8461dcee764"
+    },
+    {
+      "version": "staging-pg17-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:19Z",
+      "digest": "sha256:07e04f017f5b890190763b9fc27abd63c7ceb7010b30651f336dbe34efb2c9f3"
+    },
+    {
+      "version": "staging-pg18-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:19Z",
+      "digest": "sha256:d081cf960af911d72d541e8ec9c763a4849b4624091952ef600dac92ac3170ec"
+    },
+    {
+      "version": "staging-pg18-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:20Z",
+      "digest": "sha256:48b826960cd185e6cb68c13674d0ab8fd79dbb970fc7053affa770ef91d8db2d"
+    },
+    {
+      "version": "staging-pg17-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:22Z",
+      "digest": "sha256:9ecc9079a5cd606646c911b6f6d18956c8fc4b39d08948c3a97a15b5e5b97da0"
+    },
+    {
+      "version": "staging-pg18-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:24Z",
+      "digest": "sha256:f000da08580580a77a73fb050ae1efa494f594d48b1a49aa722bdeae71a3ccf8"
+    },
+    {
+      "version": "staging-pg16-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:27Z",
+      "digest": "sha256:f5154c03b898fb4d954a139a1d13cdf08a4c59f2ccb8e27f6b2fdd4549be99ac"
+    },
+    {
+      "version": "staging-pg15-all-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:28Z",
+      "digest": "sha256:bfdf595d8e65fbf28f62b9292c9e16c2af496183f0bd788afa6b4a53bf2464d1"
+    },
+    {
+      "version": "staging-pg16-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:28Z",
+      "digest": "sha256:b2f96abe1b75723d7d288b0140ecec1b7d162dfeb2fe16f1431bab86e58b3d3e"
+    },
+    {
+      "version": "staging-pg15-all-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:34Z",
+      "digest": "sha256:36aea15fdb7e15e3bf6d126cbdaf47c06189b36379ce025e1f2903e679a72003"
+    },
+    {
+      "version": "staging-pg15-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:38Z",
+      "digest": "sha256:994285d018a9e1877393ea25bc476ad4003e2fd5f422eb6315672a35eaf5cf0d"
+    },
+    {
+      "version": "staging-pg15-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:39Z",
+      "digest": "sha256:799eba8de5fab87232f7296ec06d3f49c1c776d90827f0e2878852c3bf537774"
+    },
+    {
+      "version": "staging-pg17-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:00:49Z",
+      "digest": "sha256:049734b7ea3e7b6d794ba28a6cbc4d4c70e6e43a1e2c823f2a998161b91906cf"
+    },
+    {
+      "version": "staging-pg17-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:00:55Z",
+      "digest": "sha256:6df54664627160e3ee38d6e428c58ae136b04da67628e957dded2a8901b4dd74"
+    },
+    {
+      "version": "staging-pg16-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:02Z",
+      "digest": "sha256:9600a7c3412e59dec65618d5509ff370e6ef273393ae52b705c74aacbf717936"
+    },
+    {
+      "version": "staging-pg18-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:08Z",
+      "digest": "sha256:6983ed2c0ef1f81ba8b5bf66230d9d6d812ee8a2e0ccdb3ed4678af555da80cc"
+    },
+    {
+      "version": "staging-pg16-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:10Z",
+      "digest": "sha256:fd532dadc8160129414e1546d8f1c4361bff09e6b7e1f31edec72194b6f2ccdf"
+    },
+    {
+      "version": "staging-pg15-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:20Z",
+      "digest": "sha256:39b72b16111d309413f6e3de3f18b02308032a7b9fe81d9b59767d20337a2ee0"
+    },
+    {
+      "version": "staging-pg15-all-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:26Z",
+      "digest": "sha256:f9df87bd928967c0b77d51b78f56d4ad68bdd28bfd52f47cb1ec9318ebb0b654"
+    },
+    {
+      "version": "staging-pg16-all-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:26Z",
+      "digest": "sha256:f00b5796ec1b1c356930d6148e1c86c95c8ef2f518bc9c99e81aa6b08ba3e92a"
+    },
+    {
+      "version": "staging-pg18-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:28Z",
+      "digest": "sha256:317711c6de80cc140e2bcdf22d2929e6abd4505fa6882044570e1f64a17e0841"
+    },
+    {
+      "version": "staging-pg15-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:31Z",
+      "digest": "sha256:ff886c231e33fbd8ea81c3d4dae4c7f17a024d5f16d0bb2e358a77e4058e5a9a"
+    },
+    {
+      "version": "staging-pg15-all-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:34Z",
+      "digest": "sha256:ce026c1c10b7a9e9bb3810fa62964bd9ee7fe8c15f3d4da6f757c6f59300e222"
+    },
+    {
+      "version": "staging-pg17-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:39Z",
+      "digest": "sha256:c83daa09302b61fba8bc5ba81f0051fc77e294debeafa07b5f0c06384ade9427"
+    },
+    {
+      "version": "staging-pg17-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:39Z",
+      "digest": "sha256:2aee6ffd44a571543f48d64a640a62bc4ce25bd8b7047914beb656c68944d3a1"
+    },
+    {
+      "version": "staging-pg16-all-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:40Z",
+      "digest": "sha256:4540c94c78673a541d45349c6e4dd7a947348801690714768418f34300163e2d"
+    },
+    {
+      "version": "staging-pg18-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:46Z",
+      "digest": "sha256:4c0e03395d736bf7e980ff3ab1eb5ca4374b8c7bd3559ff8c407c8932c6e44df"
+    },
+    {
+      "version": "staging-pg18-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:48Z",
+      "digest": "sha256:f0cfab1091db36532fb1470cba2196642223dd953bfd36c1a09a5c0b094888a7"
+    },
+    {
+      "version": "staging-pg16-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:01:50Z",
+      "digest": "sha256:9ba017cc65f6e8fee4c6ddaf2048a52edf6cb2608bcd4619b3167ac0be3bfc1d"
+    },
+    {
+      "version": "staging-pg16-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:01:52Z",
+      "digest": "sha256:f7d892f01eb469796a4afdf7b22afa3176452a15461b6dcb29843acae6862aa2"
+    },
+    {
+      "version": "staging-pg15-all-amd64",
+      "releaseTimestamp": "2026-11-12T16:02:09Z",
+      "digest": "sha256:2b1501bf523de521f3d729a120f74e4fdb38fb3fa8a25cd86cf6715cb2dccbc2"
+    },
+    {
+      "version": "staging-pg16-all-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:02:10Z",
+      "digest": "sha256:7bea04abeb4e0588def5363b57c2348363242bef17768cfcede61035e53fb081"
+    },
+    {
+      "version": "staging-pg15-all-arm64",
+      "releaseTimestamp": "2026-11-12T16:02:17Z",
+      "digest": "sha256:6485c1214e1b4f9db64744c5e6bdde12cf3a915fd5f4b0333e2e15045b634464"
+    },
+    {
+      "version": "staging-pg15-amd64",
+      "releaseTimestamp": "2026-11-12T16:02:20Z",
+      "digest": "sha256:5a7cf13813cc4c5eb7a1e85e3b5335a345500fb5ba3b8624e544b59f58cb9705"
+    },
+    {
+      "version": "staging-pg15-arm64",
+      "releaseTimestamp": "2026-11-12T16:02:20Z",
+      "digest": "sha256:f3ee12560be4690aaf2bbd15beab819b61932af725839022de549ffe2b1e4fbb"
+    },
+    {
+      "version": "staging-pg16-all-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:02:23Z",
+      "digest": "sha256:5c0458cb490fec20cc55df06931585e53cfbe817445a9274ccd295a45ecb32dd"
+    },
+    {
+      "version": "staging-pg17-all-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:02:26Z",
+      "digest": "sha256:04fc6bb0656a5c2efa6f48182f73d9e3eb15a7b1ef1f3d47fd9f067fd8b5d3e0"
+    },
+    {
+      "version": "staging-pg17-amd64",
+      "releaseTimestamp": "2026-11-12T16:02:34Z",
+      "digest": "sha256:e7f9e8a59ec4cc08d8337105dcbc9ff64f45bc96774164288d7f1ba9a2f97ec4"
+    },
+    {
+      "version": "staging-pg17-all-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:02:40Z",
+      "digest": "sha256:b0871d2a1fa7c0146c624d5ce44428d0493769efa7a390596dba734e6d2ddaa8"
+    },
+    {
+      "version": "staging-pg17-arm64",
+      "releaseTimestamp": "2026-11-12T16:02:41Z",
+      "digest": "sha256:7c24e5542547465e29d8a51efd8025f5cc0f3eb58110cfc75e2f625877e8509d"
+    },
+    {
+      "version": "staging-pg16-arm64",
+      "releaseTimestamp": "2026-11-12T16:02:51Z",
+      "digest": "sha256:346036df5d1aefa970675d83fb79d23be554f083e20776337c175243bfa54b16"
+    },
+    {
+      "version": "staging-pg16-amd64",
+      "releaseTimestamp": "2026-11-12T16:03:00Z",
+      "digest": "sha256:635a87946fbf7030a7cdddd22e3efe105cd767122216abe58edfdfb1f2840c66"
+    },
+    {
+      "version": "staging-pg18-all-oss-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:03:09Z",
+      "digest": "sha256:89d6a40e6553e6068688de3ced00eae016808941696d7e8aaf4e5ec3813ed671"
+    },
+    {
+      "version": "staging-pg16-all-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:03:14Z",
+      "digest": "sha256:d0f1e5a3bd21cd6b9f14808717b98b003ee6c104864a720b7f9f8c77601d18c9"
+    },
+    {
+      "version": "staging-pg18-all-oss-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:03:31Z",
+      "digest": "sha256:54a172d429d77afd3d0ba5c29cd81d7bf20c3d9ab3953b29f6a1fd3c038ca2e4"
+    },
+    {
+      "version": "staging-pg16-all-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:03:34Z",
+      "digest": "sha256:0909b508e61e322a9e5fd61c570ec3f64489d24840a40ed5b7cd670dd02dc51f"
+    },
+    {
+      "version": "staging-pg17-all-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:03:44Z",
+      "digest": "sha256:7fd7881b4de47794d18b721a5dec796a36e09ec3a9909bec738132d795401536"
+    },
+    {
+      "version": "staging-pg17-all-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:03:53Z",
+      "digest": "sha256:3598403e0b7eff8b42b434d85a656e1c2e2d1336b22ddab5e7de180bd09d3319"
+    },
+    {
+      "version": "staging-pg17-all-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:04:48Z",
+      "digest": "sha256:b94a02c22c51d204753f2b8262e7a2a669ba589abb264321b47cb859a17ac0e8"
+    },
+    {
+      "version": "staging-pg16-all-amd64",
+      "releaseTimestamp": "2026-11-12T16:04:56Z",
+      "digest": "sha256:e96dc1bd3f59ab7be3893bd322bd5a5e9df91d77bfdce9f1be5e070aea7d781e"
+    },
+    {
+      "version": "staging-pg18-all-builder-amd64",
+      "releaseTimestamp": "2026-11-12T16:05:01Z",
+      "digest": "sha256:05aa3c76b01c144f6f7dda4acd63ab54341f0b0c1dcb5f38780d42825cc5f67c"
+    },
+    {
+      "version": "staging-pg17-all-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:05:02Z",
+      "digest": "sha256:7e9756e7044aafc504594d2273c1f7ff7210032e237c528a07286b7327733449"
+    },
+    {
+      "version": "staging-pg16-all-arm64",
+      "releaseTimestamp": "2026-11-12T16:05:09Z",
+      "digest": "sha256:211fda7540d8d9e5b6aa82dcae301a2e223fa33360eca7e9dde91f3b3a5c2f72"
+    },
+    {
+      "version": "staging-pg18-all-builder-arm64",
+      "releaseTimestamp": "2026-11-12T16:05:13Z",
+      "digest": "sha256:28b60abfb86ca10127d3ebdedbba4b0a51a7105616e1e4bf1d28e7caada50871"
+    },
+    {
+      "version": "staging-pg18-all-oss-amd64",
+      "releaseTimestamp": "2026-11-12T16:05:48Z",
+      "digest": "sha256:16d24341d51477946b39374c3a458742e733711cd1ebd433a685421e07d1b7d0"
+    },
+    {
+      "version": "staging-pg18-all-oss-arm64",
+      "releaseTimestamp": "2026-11-12T16:06:13Z",
+      "digest": "sha256:a54cd37ab3efa0d87dc2928edebeb1dbad56882743de0dd091c684c5bbad4008"
+    },
+    {
+      "version": "staging-pg17-all-arm64",
+      "releaseTimestamp": "2026-11-12T16:07:55Z",
+      "digest": "sha256:f205537ce377db09e12cf275af8ed46292662198c4f637a4f1634006fa34c79d"
+    },
+    {
+      "version": "staging-pg17-all-amd64",
+      "releaseTimestamp": "2026-11-12T16:08:24Z",
+      "digest": "sha256:4dce4f95f8cbb6d3e30e34fd62a9bd14bb5a83e2d728b762146521a2c32cd54b"
+    },
+    {
+      "version": "staging-pg18-all-amd64",
+      "releaseTimestamp": "2026-11-12T16:10:21Z",
+      "digest": "sha256:bdb64e53d04604be8ac88722d332abce30dee11560f8e0845adccdef52a0b826"
+    },
+    {
+      "version": "staging-pg18-all-arm64",
+      "releaseTimestamp": "2026-11-12T16:10:31Z",
+      "digest": "sha256:4d3ec80c991294495b8b9ec3a0ba91aed9816eea3973c3e6a900ca48873fd4ab"
+    },
+    {
+      "version": "pg15.18-all-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:35Z",
+      "digest": "sha256:986dbad6f1d52c16b15568e8ebbdafc06d15ccc50a0d9dde2ed1d7c0cab103db"
+    },
+    {
+      "version": "pg16.15-all-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:36Z",
+      "digest": "sha256:bc4896b93704887b628aafcfc1eaef98531f7bec59bf6b6ef953dff2362b7f99"
+    },
+    {
+      "version": "pg16.15-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:38Z",
+      "digest": "sha256:4bbadd58513271ea978ca0370e568b4e3d70a3ff9370a276572409e114496dc2"
+    },
+    {
+      "version": "pg17.11-all-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:38Z",
+      "digest": "sha256:bceaaae8d0d93f0ff06c2e205934857e8103ca32b9ca4f28664ed29ef042e398"
+    },
+    {
+      "version": "pg15.18-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:40Z",
+      "digest": "sha256:172b25717653ad13d53996ee139696f908b8618595e2b12aa8a2fefde346bae3"
+    },
+    {
+      "version": "pg18.6-all-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:40Z",
+      "digest": "sha256:0b987ba74ed5306de0d8d33deacb28ee0d8e4506de6b0af2fabf4e5b7011d2d5"
+    },
+    {
+      "version": "pg18.6-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:40Z",
+      "digest": "sha256:c0c2253c25720b3f137a03a2aebc47d195115f574f6285c05615eb06eed90c89"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-all-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:41Z",
+      "digest": "sha256:27a0992916e38ccd80c7d779515facabe21ed99d7a224a8fffec607a30c1578d"
+    },
+    {
+      "version": "pg16.15-ts2.32.0-all-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:41Z",
+      "digest": "sha256:bc5ec9937e69d03bd7b2334eaaceded754ec236f696810bff7b0a52c6b572fd5"
+    },
+    {
+      "version": "pg17.11-all-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:41Z",
+      "digest": "sha256:f94635359fbee68b22eef58e8993737ff49463a688177c17a0ec68a0c7cbcb26"
+    },
+    {
+      "version": "pg15.18-all-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:42Z",
+      "digest": "sha256:2749b4ddf65b1f2b97798de6a213fa7bbe8746bbc2610210940c9f289421a5bb"
+    },
+    {
+      "version": "pg17.11-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:43Z",
+      "digest": "sha256:f1e34a358aa0ee031ee0b089542344894581f3cbe12519562b5b765353966bed"
+    },
+    {
+      "version": "pg17.11-oss-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:43Z",
+      "digest": "sha256:9add4267871996fc4c89a8a3593858ba031a811c6145b9bae040feda17bb4f1e"
+    },
+    {
+      "version": "pg15.18-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:44Z",
+      "digest": "sha256:efd96c0971cfe9e50cb389f7b231b84dd7e18d477dfcd137aace620f64321a31"
+    },
+    {
+      "version": "pg16.15-all-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:44Z",
+      "digest": "sha256:7ee2c52e5e376c699329bbeee070b78679ad3af9eec70d081ed7300c1851afe9"
+    },
+    {
+      "version": "pg16.15-ts2.32.0-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:44Z",
+      "digest": "sha256:129c49630ee00802d7fe5ce9612a257b21bfcf2c444ea3cb511ee00820f5eca6"
+    },
+    {
+      "version": "pg17.11-ts2.32.0-all-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:44Z",
+      "digest": "sha256:f7b64fc93882e093553b53c6b78842157373987ad63f7a90b6b90e69083a8423"
+    },
+    {
+      "version": "pg18.6-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:44Z",
+      "digest": "sha256:4c434310426286655589f4a30ab14bebef5d18204bd94c5327abc4b2990be9fc"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:45Z",
+      "digest": "sha256:9237952fa6d1167d7afc6810866d711d2ac909780fc73be8a2c05833e04bf5d3"
+    },
+    {
+      "version": "pg16-ts2.32-all-oss",
+      "releaseTimestamp": "2026-11-12T16:12:45Z",
+      "digest": "sha256:bc5ec9937e69d03bd7b2334eaaceded754ec236f696810bff7b0a52c6b572fd5"
+    },
+    {
+      "version": "pg18.6-all-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:45Z",
+      "digest": "sha256:0bc42b14cb927f1fc30d8cbea7a858ffdeaea00e16a597efadea3cd0d673d155"
+    },
+    {
+      "version": "pg18.6-ts2.32.0-all-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:45Z",
+      "digest": "sha256:1f862af3cc948a9d22db4776a220f29d0b6893b344c75b0cae37415eb17ccc08"
+    },
+    {
+      "version": "pg16.15-ts2.32.0-all-oss",
+      "releaseTimestamp": "2026-11-12T16:12:46Z",
+      "digest": "sha256:bc5ec9937e69d03bd7b2334eaaceded754ec236f696810bff7b0a52c6b572fd5"
+    },
+    {
+      "version": "pg17.11-ts2.32.0-all-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:46Z",
+      "digest": "sha256:55c44e3df40584b52fd6af5c66543705b2ef99a380db4e1e3ca30984c19b9332"
+    },
+    {
+      "version": "pg18.6-ts2.32.0-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:46Z",
+      "digest": "sha256:2dc507f66f67dd7f69f3ce771939c07af6997c373dfe17bb628b00c6dc09e903"
+    },
+    {
+      "version": "pg16-ts2.32-oss",
+      "releaseTimestamp": "2026-11-12T16:12:47Z",
+      "digest": "sha256:129c49630ee00802d7fe5ce9612a257b21bfcf2c444ea3cb511ee00820f5eca6"
+    },
+    {
+      "version": "pg17-ts2.32-all",
+      "releaseTimestamp": "2026-11-12T16:12:47Z",
+      "digest": "sha256:f7b64fc93882e093553b53c6b78842157373987ad63f7a90b6b90e69083a8423"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-all-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:48Z",
+      "digest": "sha256:5620402a37b5757049a940e1f5cbf94d589c9d745cd1c5dc36c82c20aeea89b8"
+    },
+    {
+      "version": "pg17.11-ts2.32.0-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:48Z",
+      "digest": "sha256:e801086738f54cd32949baae7c78033fb774bca3c3abb50e1af59a72caf745e9"
+    },
+    {
+      "version": "pg15.18-ts2.28.3-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:9acb59a741bbbcfe19b41eac4b8c1f611dd532d4ba8d3759b932126b54d0c4f8"
+    },
+    {
+      "version": "pg16.15-builder-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:15f3b553c39a820b155600ded46c84fb72fc9bcd912d15ae3397e76f01e3029c"
+    },
+    {
+      "version": "pg16.15-ts2.32.0-all-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:b15d402942eb87304351289bf4c4c9a49113bb02484daa5e7de0e92623a8bc18"
+    },
+    {
+      "version": "pg16.15-ts2.32.0-oss",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:129c49630ee00802d7fe5ce9612a257b21bfcf2c444ea3cb511ee00820f5eca6"
+    },
+    {
+      "version": "pg17.11-ts2.32.0-all",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:f7b64fc93882e093553b53c6b78842157373987ad63f7a90b6b90e69083a8423"
+    },
+    {
+      "version": "pg17.11-ts2.32.0-oss-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:282cb902467f4d46d92540c6fa5ea8179c33c4a2526d861cf9b38dabd1d3c596"
+    },
+    {
+      "version": "pg18-ts2.32-all-oss",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:1f862af3cc948a9d22db4776a220f29d0b6893b344c75b0cae37415eb17ccc08"
+    },
+    {
+      "version": "pg18-ts2.32-oss",
+      "releaseTimestamp": "2026-11-12T16:12:49Z",
+      "digest": "sha256:2dc507f66f67dd7f69f3ce771939c07af6997c373dfe17bb628b00c6dc09e903"
+    },
+    {
+      "version": "pg17-ts2.32-all-oss",
+      "releaseTimestamp": "2026-11-12T16:12:50Z",
+      "digest": "sha256:55c44e3df40584b52fd6af5c66543705b2ef99a380db4e1e3ca30984c19b9332"
+    },
+    {
+      "version": "pg18.6-ts2.32.0-all-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:50Z",
+      "digest": "sha256:132673e96bdddc6b0963a66d326069787a87fbba11013d13f5dbedd702860edd"
+    },
+    {
+      "version": "pg18.6-ts2.32.0-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:50Z",
+      "digest": "sha256:96b6033e7e54c26099f29cb46f634953b749b8c2c92c77bfb715cd630cdadf2e"
+    },
+    {
+      "version": "pg17-ts2.32",
+      "releaseTimestamp": "2026-11-12T16:12:51Z",
+      "digest": "sha256:e801086738f54cd32949baae7c78033fb774bca3c3abb50e1af59a72caf745e9"
+    },
+    {
+      "version": "pg17.11-ts2.32.0-all-oss",
+      "releaseTimestamp": "2026-11-12T16:12:51Z",
+      "digest": "sha256:55c44e3df40584b52fd6af5c66543705b2ef99a380db4e1e3ca30984c19b9332"
+    },
+    {
+      "version": "pg18.6-ts2.32.0-all-oss",
+      "releaseTimestamp": "2026-11-12T16:12:51Z",
+      "digest": "sha256:1f862af3cc948a9d22db4776a220f29d0b6893b344c75b0cae37415eb17ccc08"
+    },
+    {
+      "version": "pg18.6-ts2.32.0-oss",
+      "releaseTimestamp": "2026-11-12T16:12:51Z",
+      "digest": "sha256:2dc507f66f67dd7f69f3ce771939c07af6997c373dfe17bb628b00c6dc09e903"
+    },
+    {
+      "version": "pg16-ts2.32-all",
+      "releaseTimestamp": "2026-11-12T16:12:52Z",
+      "digest": "sha256:b15d402942eb87304351289bf4c4c9a49113bb02484daa5e7de0e92623a8bc18"
+    },
+    {
+      "version": "pg17-ts2.32-oss",
+      "releaseTimestamp": "2026-11-12T16:12:52Z",
+      "digest": "sha256:282cb902467f4d46d92540c6fa5ea8179c33c4a2526d861cf9b38dabd1d3c596"
+    },
+    {
+      "version": "pg17.11-ts2.32.0",
+      "releaseTimestamp": "2026-11-12T16:12:53Z",
+      "digest": "sha256:e801086738f54cd32949baae7c78033fb774bca3c3abb50e1af59a72caf745e9"
+    },
+    {
+      "version": "pg18-ts2.32",
+      "releaseTimestamp": "2026-11-12T16:12:53Z",
+      "digest": "sha256:96b6033e7e54c26099f29cb46f634953b749b8c2c92c77bfb715cd630cdadf2e"
+    },
+    {
+      "version": "pg16.15-ts2.32.0-all",
+      "releaseTimestamp": "2026-11-12T16:12:54Z",
+      "digest": "sha256:b15d402942eb87304351289bf4c4c9a49113bb02484daa5e7de0e92623a8bc18"
+    },
+    {
+      "version": "pg16.15-ts2.32.0-r599.1",
+      "releaseTimestamp": "2026-11-12T16:12:54Z",
+      "digest": "sha256:5d1a6980aa255b5035e24e0de6808c134bf2bf19cf551571acbd092ad38a4b8d"
+    },
+    {
+      "version": "pg17.11-ts2.32.0-oss",
+      "releaseTimestamp": "2026-11-12T16:12:54Z",
+      "digest": "sha256:282cb902467f4d46d92540c6fa5ea8179c33c4a2526d861cf9b38dabd1d3c596"
+    },
+    {
+      "version": "pg18-ts2.32-all",
+      "releaseTimestamp": "2026-11-12T16:12:54Z",
+      "digest": "sha256:132673e96bdddc6b0963a66d326069787a87fbba11013d13f5dbedd702860edd"
+    },
+    {
+      "version": "pg18.6-ts2.32.0",
+      "releaseTimestamp": "2026-11-12T16:12:55Z",
+      "digest": "sha256:96b6033e7e54c26099f29cb46f634953b749b8c2c92c77bfb715cd630cdadf2e"
+    },
+    {
+      "version": "pg18.6-ts2.32.0-all",
+      "releaseTimestamp": "2026-11-12T16:12:56Z",
+      "digest": "sha256:132673e96bdddc6b0963a66d326069787a87fbba11013d13f5dbedd702860edd"
+    },
+    {
+      "version": "pg16-ts2.32",
+      "releaseTimestamp": "2026-11-12T16:12:58Z",
+      "digest": "sha256:5d1a6980aa255b5035e24e0de6808c134bf2bf19cf551571acbd092ad38a4b8d"
+    },
+    {
+      "version": "pg16.15-ts2.32.0",
+      "releaseTimestamp": "2026-11-12T16:13:00Z",
+      "digest": "sha256:5d1a6980aa255b5035e24e0de6808c134bf2bf19cf551571acbd092ad38a4b8d"
     }
   ]
 }
