@@ -1,8 +1,9 @@
 name: Update image data
 
-# Records the tags each image in the configured repositories gained since
-# the last run and opens a pull request that merges once CI passes. The PAT
-# makes the pull request; one opened with GITHUB_TOKEN would not run CI.
+# Records the tags each image in the repositories listed in the
+# REPOSITORIES variable gained since the last run and opens a pull request
+# that merges once CI passes. The PAT makes the pull request; one opened with
+# GITHUB_TOKEN would not run CI.
 
 on:
   workflow_dispatch:
@@ -34,6 +35,7 @@ jobs:
         continue-on-error: true
         run: nix develop --command uv run python -m renovate_docker_datasource
         env:
+          REPOSITORIES: ${{ vars.REPOSITORIES }}
           READ_TOKEN: ${{ secrets.READ_TOKEN }}
 
       - name: Create pull request
