@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://cubic.dev/schema/cubic-repository-config.schema.json
+
+version: 1
+
+reviews:
+  # The daily data pull request merges itself once CI passes.
+  ignore:
+    head_branches:
+      - update-image-data
