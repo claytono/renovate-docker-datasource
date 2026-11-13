@@ -43,8 +43,10 @@ nothing for it until a newer tag appears.
   here while it is newer than the retention window in `config.toml`, is one
   of the few most recent (`count` in `config.toml`, currently 5), or is in use
   in any of the repositories. Renovate sees only the tags in this file.
-- `seen/<image>.txt` lists every other tag the job has seen, one per line, so
-  that an old tag is not mistaken for a new one.
+- `images/<image>.txt`, beside it, lists every other tag the job has seen, one
+  per line, so that an old tag is not mistaken for a new one. Keeping the two
+  files together puts a tag leaving the JSON file next to its arrival in the
+  list in a diff.
 
 When no repository uses an image any more, the job removes both files.
 
