@@ -4,26 +4,6 @@
       "version": "v1.14.4",
       "releaseTimestamp": "2026-09-28T07:40:59Z",
       "digest": "sha256:c85a7fa803569e3128c33e4f5766f84ab156c8d171c9f1dd2715581d45ce98fa"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-09-28T07:41:01Z",
-      "digest": "sha256:c85a7fa803569e3128c33e4f5766f84ab156c8d171c9f1dd2715581d45ce98fa"
-    },
-    {
-      "version": "main",
-      "releaseTimestamp": "2026-11-06T02:33:13Z",
-      "digest": "sha256:c80a64273d4856f6b11494626392ffd7258e280d0e15d76d51fd1082a424b4fa"
-    },
-    {
-      "version": "release-1.15-dev",
-      "releaseTimestamp": "2026-11-07T07:05:08Z",
-      "digest": "sha256:e1fa2f82d349c540cde9de74ea7508ea5fe19d7caac04a2897b36d189485c9c1"
-    },
-    {
-      "version": "v1.15.0-rc.1",
-      "releaseTimestamp": "2026-11-07T07:18:28Z",
-      "digest": "sha256:c3e1d0b6e0e97af43db5866e2731a40960e9756c736130a3e54ab88024884fec"
     }
   ]
 }

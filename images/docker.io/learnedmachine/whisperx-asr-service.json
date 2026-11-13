@@ -1,49 +1,14 @@
 {
   "releases": [
     {
-      "version": "0.4.4-blackwell",
-      "releaseTimestamp": "2026-10-23T20:42:00Z",
-      "digest": "sha256:1c71fabf8661df046a3b885448e0b3e5fad5e7d694d4b8633d29822b9a02cebd"
-    },
-    {
-      "version": "0.4-blackwell",
-      "releaseTimestamp": "2026-10-23T20:42:02Z",
-      "digest": "sha256:1c71fabf8661df046a3b885448e0b3e5fad5e7d694d4b8633d29822b9a02cebd"
-    },
-    {
-      "version": "blackwell",
-      "releaseTimestamp": "2026-10-23T20:42:03Z",
-      "digest": "sha256:1c71fabf8661df046a3b885448e0b3e5fad5e7d694d4b8633d29822b9a02cebd"
-    },
-    {
-      "version": "0.4.4-spark",
-      "releaseTimestamp": "2026-10-23T20:43:15Z",
-      "digest": "sha256:cc2e70ab903c53ffa36c6c341ce951ba4bc54be989a9b4511ecc91248dbf2606"
-    },
-    {
-      "version": "0.4-spark",
-      "releaseTimestamp": "2026-10-23T20:43:17Z",
-      "digest": "sha256:cc2e70ab903c53ffa36c6c341ce951ba4bc54be989a9b4511ecc91248dbf2606"
-    },
-    {
-      "version": "spark",
-      "releaseTimestamp": "2026-10-23T20:43:18Z",
-      "digest": "sha256:cc2e70ab903c53ffa36c6c341ce951ba4bc54be989a9b4511ecc91248dbf2606"
-    },
-    {
       "version": "0.4.4",
       "releaseTimestamp": "2026-10-23T20:48:41Z",
       "digest": "sha256:8759ddaf004948dc096b57cf52e3a93c85c5e8c788841440f34816f3aa467c4b"
     },
     {
-      "version": "0.4",
-      "releaseTimestamp": "2026-10-23T20:48:43Z",
-      "digest": "sha256:8759ddaf004948dc096b57cf52e3a93c85c5e8c788841440f34816f3aa467c4b"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-10-23T20:48:45Z",
-      "digest": "sha256:8759ddaf004948dc096b57cf52e3a93c85c5e8c788841440f34816f3aa467c4b"
+      "version": "0.5.0",
+      "releaseTimestamp": "2026-11-13T15:30:32Z",
+      "digest": "sha256:d7369c946aa14fbc316357a95d6378fcd2e20ec2144a37a7676c9f7981ef7059"
     }
   ]
 }

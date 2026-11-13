@@ -4,6 +4,11 @@
       "version": "v2.7.0",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
       "digest": "sha256:19c5c09184458a41b7b5915e71463a39f36cd33540f41bdbed008791b8182d5f"
+    },
+    {
+      "version": "v2.8.0",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:019d8f063a7299e7c1c51ee4a70b692291809af3244894fbec2c2ac7d1f71b18"
     }
   ]
 }

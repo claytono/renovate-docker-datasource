@@ -8,9 +8,9 @@
   },
   "packageRules": [
     {
-      "description": "Look up versioned Docker tags in the image's file. The nested replaces turn the name as written (nginx, linuxserver/sonarr) into the file's path (docker.io/library/nginx, docker.io/linuxserver/sonarr). The URL is set here rather than as the datasource's default so that it replaces any registry URL a repository sets. Floating tags such as latest or stable are not versions to Renovate, which only updates their digest, so they stay on the Docker datasource.",
+      "description": "Look up versioned Docker tags in the image's file. A tag counts when it has a number, optionally after a word such as python or web-v, so that repository versioning rules such as python3.14-trixie-slim work. The nested replaces turn the name as written (nginx, linuxserver/sonarr) into the file's path (docker.io/library/nginx, docker.io/linuxserver/sonarr). The URL is set here rather than as the datasource's default so that it replaces any registry URL a repository sets. Floating tags such as latest or stable stay on the Docker datasource: Renovate updates only their digest, and a custom datasource cannot look up the digest of a tag that is not a version.",
       "matchDatasources": ["docker"],
-      "matchCurrentValue": "/^[vV]?\\d+(\\.\\d+)*\\w*(-.*)?$/",
+      "matchCurrentValue": "/^[a-zA-Z-]*\\d+(\\.\\d+)*\\w*(-.*)?$/",
       "overrideDatasource": "custom.docker-first-seen",
       "registryUrls": [
         "https://api.github.com/repos/claytono/renovate-docker-datasource/contents/images/{{{replace '^docker\\.io/([^/]+)$' 'docker.io/library/$1' (replace '^([^/.:]+/.*|[^/]+)$' 'docker.io/$1' (replace '^(index|registry-1)\\.docker\\.io/' 'docker.io/' packageName))}}}.json"

@@ -4,6 +4,86 @@
       "version": "17.7-3.6.1-standard-trixie",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
       "digest": "sha256:d7ef4f25f5833a1056673f964c2ddf6d6b38e72dc62f75623238c50dc2075fe6"
+    },
+    {
+      "version": "17.10-3.6.3-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:2b06fd2e4caef7364f46b1378e4c79794a171e0c1d2ad22ecdccc94438a2daf4"
+    },
+    {
+      "version": "17.10-3.6.4-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:6dc27e2032e3357f66d5fc2eba57a95c15f0be0dd9aeb46d1acd2c54cedd5342"
+    },
+    {
+      "version": "17.11-3.6.4-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:73593f14ce3ef6f5401a9867e6bbbcd9b8814029435d8d9dd32104458e06f769"
+    },
+    {
+      "version": "17.11-3.7.0-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:d58e2f4392387daab0bef8302594af6355771bd3d6fa33cd7822a8ca702e0b02"
+    },
+    {
+      "version": "17.12-3.7.0-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:85b23233af37a4235e9208abbc8ce1f97e4d41fb319b7436b7a3dde398513e65"
+    },
+    {
+      "version": "17.9-3.6.2-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:5728343b3b651d953fc304dfe5690209a7e4ee636b4842b0f06236f7d6ccbb9f"
+    },
+    {
+      "version": "17.9-3.6.3-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:9ae4a1abaf21135ed6318bb0402b55a5c6d585e321265642e561d13af6573ff6"
+    },
+    {
+      "version": "18.0-3.6.0-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:490ff3b5c300766bee9b88f94841b76a3a0022d5d883bc4be6bd5376609e3de9"
+    },
+    {
+      "version": "18.1-3.6.1-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:d984f9154f9b603ff8edfb807660dccb705729d4ed8409f3000fe5bcb42bec8c"
+    },
+    {
+      "version": "18.3-3.6.2-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:14f49d36efa14d6ac902ba84f9bbb7b82fd7b919b0e5316d5ff4662ce247e42a"
+    },
+    {
+      "version": "18.3-3.6.3-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:8bcdc53bc981108406bdd8bdb1159a756fec128503b3bff9e35be7e7273e13df"
+    },
+    {
+      "version": "18.4-3.6.3-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:7f28d6553568a26e07f9f47064c3847820854df12df0bef403cb8f29856c6521"
+    },
+    {
+      "version": "18.4-3.6.4-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:d00cc29f954513813c836a269494f3439a95fd1d2793a7887a29310263229100"
+    },
+    {
+      "version": "18.6-3.6.4-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:17f7fe666f6048120ed1a04f21e34791ed1ea5d7ddec83bab0931d4adf0748f0"
+    },
+    {
+      "version": "18.6-3.7.0-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:4954d1ede0f4106683da47e3eb00bc89af113ccfc689b72b3bccffe51ddf9677"
+    },
+    {
+      "version": "18.7-3.7.0-standard-trixie",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:54919d0029709c1b668e646f8e99e9093633911c6a6f0c78fe97146e5889c462"
     }
   ]
 }

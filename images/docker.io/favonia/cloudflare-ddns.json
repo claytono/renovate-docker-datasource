@@ -9,26 +9,6 @@
       "version": "1.18.0",
       "releaseTimestamp": "2026-10-23T14:02:43Z",
       "digest": "sha256:345b41895a8846d74c62d30bd27e61101a754f8ab8da10c68115823883803afb"
-    },
-    {
-      "version": "1",
-      "releaseTimestamp": "2026-10-23T14:02:47Z",
-      "digest": "sha256:345b41895a8846d74c62d30bd27e61101a754f8ab8da10c68115823883803afb"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-10-23T14:02:51Z",
-      "digest": "sha256:345b41895a8846d74c62d30bd27e61101a754f8ab8da10c68115823883803afb"
-    },
-    {
-      "version": "edge",
-      "releaseTimestamp": "2026-10-24T04:20:17Z",
-      "digest": "sha256:6820039b90b33d20cc1105d02fbab1e840e8c03aabaed8f4a2d7e3fcca674fee"
-    },
-    {
-      "version": "edge-alpine",
-      "releaseTimestamp": "2026-10-24T04:20:49Z",
-      "digest": "sha256:0bd248d0d9accbb9d03e53ab98fe6725cb09bad4c79e04b58950e516a5198dca"
     }
   ]
 }

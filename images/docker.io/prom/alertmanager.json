@@ -14,41 +14,6 @@
       "version": "v0.35.0",
       "releaseTimestamp": "2026-11-09T16:55:12Z",
       "digest": "sha256:e638797febd034838eca8b98cdbd46f951e9bf7f178777aa8669167406a9946c"
-    },
-    {
-      "version": "v0.35.0-distroless",
-      "releaseTimestamp": "2026-11-09T16:55:22Z",
-      "digest": "sha256:ebc1ffd7b63c0bc5110fa9ea0e345199aba82216b41b609467d8451b951c8e3d"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-11-09T16:55:57Z",
-      "digest": "sha256:e638797febd034838eca8b98cdbd46f951e9bf7f178777aa8669167406a9946c"
-    },
-    {
-      "version": "v0",
-      "releaseTimestamp": "2026-11-09T16:55:59Z",
-      "digest": "sha256:e638797febd034838eca8b98cdbd46f951e9bf7f178777aa8669167406a9946c"
-    },
-    {
-      "version": "latest-distroless",
-      "releaseTimestamp": "2026-11-09T16:56:01Z",
-      "digest": "sha256:ebc1ffd7b63c0bc5110fa9ea0e345199aba82216b41b609467d8451b951c8e3d"
-    },
-    {
-      "version": "v0-distroless",
-      "releaseTimestamp": "2026-11-09T16:56:04Z",
-      "digest": "sha256:ebc1ffd7b63c0bc5110fa9ea0e345199aba82216b41b609467d8451b951c8e3d"
-    },
-    {
-      "version": "main",
-      "releaseTimestamp": "2026-11-11T17:53:09Z",
-      "digest": "sha256:754d08e800398adc3b7bd8ad7edaa35493b4f5837bd8eeae3e950b57c3ffc827"
-    },
-    {
-      "version": "main-distroless",
-      "releaseTimestamp": "2026-11-11T17:53:18Z",
-      "digest": "sha256:38cb81e50a59a5f14d784d6d2a39c4e4153f79adc8a184da1bbe457b778cf0b9"
     }
   ]
 }

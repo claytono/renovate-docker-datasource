@@ -1,5 +1,6 @@
 """Bring one image's recorded tags up to date with its registry."""
 
+from collections.abc import Callable
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta
@@ -20,8 +21,8 @@ class State:
     """What the job knows about one image.
 
     `releases` are the tags inside the retention window, which Renovate
-    reads. `retired` are the names of every other tag the job has seen, kept
-    only so that they are not mistaken for new tags on the next run.
+    reads. `retired` are the names of the tags that have left it, kept only
+    so that they are not mistaken for new tags on the next run.
     """
 
     releases: dict[str, Release] = field(default_factory=dict)
@@ -37,6 +38,7 @@ class Retention:
 def refresh(
     image: Image,
     in_use: set[str],
+    offerable: Callable[[set[str]], set[str]],
     previous: State | None,
     registry: Registry,
     retention: Retention,
@@ -49,12 +51,14 @@ def refresh(
     once: a new digest for a known tag keeps it, so a rebuild does not
     restart the wait.
 
-    The first time an image is seen, its existing tags on other registries
-    cannot be dated, so they go straight to `retired`, apart from the tags
-    in use.
+    Only the tags in use and the tags `offerable` says Renovate could offer
+    in their place are recorded. The rest, such as Windows builds of a
+    Linux image, are left out and asked about again on the next run, so a
+    repository that starts using one of them dates it then.
     """
     bootstrap = previous is None
     tags = set(registry.list_tags(image))
+    tags = (tags & in_use) | offerable(tags - in_use)
     state = State(
         {v: r for v, r in previous.releases.items() if v in tags} if previous else {},
         (previous.retired & tags) if previous else set(),
@@ -70,10 +74,8 @@ def refresh(
     for tag in sorted(tags - state.releases.keys() - state.retired):
         if tag in docker_hub and docker_hub[tag].pushed:
             state.releases[tag] = Release(tag, docker_hub[tag].pushed.replace(microsecond=0))
-        elif not bootstrap or tag in in_use:
-            state.releases[tag] = Release(tag, now)
         else:
-            state.retired.add(tag)
+            state.releases[tag] = Release(tag, now)
     for tag in in_use & state.retired:
         state.retired.discard(tag)
         state.releases[tag] = Release(tag, now)

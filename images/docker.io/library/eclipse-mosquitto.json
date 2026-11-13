@@ -1,69 +1,9 @@
 {
   "releases": [
     {
-      "version": "2-openssl",
-      "releaseTimestamp": "2026-11-05T23:52:48Z",
-      "digest": "sha256:81a6193ae693942a3231cd3ac52875b02b7e3a19da671b2fb4b55cc874c5b279"
-    },
-    {
       "version": "2.0",
       "releaseTimestamp": "2026-11-05T23:52:51Z",
       "digest": "sha256:81a6193ae693942a3231cd3ac52875b02b7e3a19da671b2fb4b55cc874c5b279"
-    },
-    {
-      "version": "2.0-openssl",
-      "releaseTimestamp": "2026-11-05T23:52:54Z",
-      "digest": "sha256:81a6193ae693942a3231cd3ac52875b02b7e3a19da671b2fb4b55cc874c5b279"
-    },
-    {
-      "version": "2.0.22",
-      "releaseTimestamp": "2026-11-05T23:52:56Z",
-      "digest": "sha256:81a6193ae693942a3231cd3ac52875b02b7e3a19da671b2fb4b55cc874c5b279"
-    },
-    {
-      "version": "2.0.22-openssl",
-      "releaseTimestamp": "2026-11-05T23:52:59Z",
-      "digest": "sha256:81a6193ae693942a3231cd3ac52875b02b7e3a19da671b2fb4b55cc874c5b279"
-    },
-    {
-      "version": "openssl",
-      "releaseTimestamp": "2026-11-05T23:53:11Z",
-      "digest": "sha256:81a6193ae693942a3231cd3ac52875b02b7e3a19da671b2fb4b55cc874c5b279"
-    },
-    {
-      "version": "2",
-      "releaseTimestamp": "2026-11-06T17:52:14Z",
-      "digest": "sha256:75d6662dee52c947dc9dd9c29f1d8d7ffef78ddaf38001caa09755681e8bbc98"
-    },
-    {
-      "version": "2.1-alpine",
-      "releaseTimestamp": "2026-11-06T17:52:22Z",
-      "digest": "sha256:75d6662dee52c947dc9dd9c29f1d8d7ffef78ddaf38001caa09755681e8bbc98"
-    },
-    {
-      "version": "2.1.2-alpine",
-      "releaseTimestamp": "2026-11-06T17:52:24Z",
-      "digest": "sha256:75d6662dee52c947dc9dd9c29f1d8d7ffef78ddaf38001caa09755681e8bbc98"
-    },
-    {
-      "version": "alpine",
-      "releaseTimestamp": "2026-11-06T17:52:27Z",
-      "digest": "sha256:75d6662dee52c947dc9dd9c29f1d8d7ffef78ddaf38001caa09755681e8bbc98"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-11-06T17:52:29Z",
-      "digest": "sha256:75d6662dee52c947dc9dd9c29f1d8d7ffef78ddaf38001caa09755681e8bbc98"
-    },
-    {
-      "version": "1.6-openssl",
-      "releaseTimestamp": "2026-11-07T08:52:11Z",
-      "digest": "sha256:f2fe73eaab09bc0573211e185a993098660c99025a8aa20286d986a98dd8d2a9"
-    },
-    {
-      "version": "1.6.15-openssl",
-      "releaseTimestamp": "2026-11-07T08:52:14Z",
-      "digest": "sha256:f2fe73eaab09bc0573211e185a993098660c99025a8aa20286d986a98dd8d2a9"
     }
   ]
 }

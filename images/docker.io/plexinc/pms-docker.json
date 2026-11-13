@@ -1,69 +1,9 @@
 {
   "releases": [
     {
-      "version": "1.43.5.11029-6bf8af3f0-arm64",
-      "releaseTimestamp": "2026-10-20T13:50:31Z",
-      "digest": "sha256:6ed648bee48b37c8c73e9044b339bafcf6748a48dff922807d50c4b0e71a4018"
-    },
-    {
-      "version": "1.43.5.11029-6bf8af3f0-amd64",
-      "releaseTimestamp": "2026-10-20T13:50:49Z",
-      "digest": "sha256:066877418cd11b59edbf56ee31848ee96381b9860eccea94d6233ebf7ece15cf"
-    },
-    {
-      "version": "1.43.5.11029-6bf8af3f0-armhf",
-      "releaseTimestamp": "2026-10-20T13:51:05Z",
-      "digest": "sha256:927a6577a73abd5cb5657df785241e84711c0f3c64ef84c350b7d4312a8ebdee"
-    },
-    {
-      "version": "1.43.5.11029-6bf8af3f0",
-      "releaseTimestamp": "2026-10-20T13:51:07Z",
-      "digest": "sha256:01bdf0ad6d53198da4331540c1e73ab65db7a72e961fff97ecb0847d46055c5f"
-    },
-    {
-      "version": "public",
-      "releaseTimestamp": "2026-10-22T20:15:49Z",
-      "digest": "sha256:1de9c641cddb30884794a98a5b476fc39e11d0d0703fe1b37c328f59f71590cc"
-    },
-    {
-      "version": "beta",
-      "releaseTimestamp": "2026-10-22T20:15:53Z",
-      "digest": "sha256:f00d6009c4becccfba7c1ef6670f442149c639fe124859c94b5af53503f5eb80"
-    },
-    {
-      "version": "plexpass",
-      "releaseTimestamp": "2026-10-22T20:15:55Z",
-      "digest": "sha256:f00d6009c4becccfba7c1ef6670f442149c639fe124859c94b5af53503f5eb80"
-    },
-    {
-      "version": "1.43.5.11079-b3b13e506-arm64",
-      "releaseTimestamp": "2026-10-26T08:05:18Z",
-      "digest": "sha256:95c17b8aceb0e2a09a226d466a2d62fd0abf7a069033efa307db279190e23bae"
-    },
-    {
-      "version": "1.43.5.11079-b3b13e506-amd64",
-      "releaseTimestamp": "2026-10-26T08:05:30Z",
-      "digest": "sha256:32dead43c01e8ff6189504ff0d048b16cf084a1dc37d8906fef8f3537d067e4d"
-    },
-    {
-      "version": "1.43.5.11079-b3b13e506-armhf",
-      "releaseTimestamp": "2026-10-26T08:05:42Z",
-      "digest": "sha256:02208d84ff33f3ecec37b7700f7fe60086b130c07d1f8dc7b76d399b3b8ece6f"
-    },
-    {
       "version": "1.43.5.11079-b3b13e506",
       "releaseTimestamp": "2026-10-26T08:05:43Z",
       "digest": "sha256:6d778d41daae68f89115aa87a44ae14a96b23e71a2093da173b5a9aac4091336"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-10-26T08:05:43Z",
-      "digest": "sha256:6d778d41daae68f89115aa87a44ae14a96b23e71a2093da173b5a9aac4091336"
-    },
-    {
-      "version": "transcoder-update",
-      "releaseTimestamp": "2026-11-05T19:13:04Z",
-      "digest": "sha256:531ad94c469748dcaa9d6f3d6c6160ad3598617a55319d389e7d08216bc680a7"
     }
   ]
 }

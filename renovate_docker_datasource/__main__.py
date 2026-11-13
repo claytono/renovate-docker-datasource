@@ -23,9 +23,10 @@ import tomllib
 import traceback
 from collections import defaultdict
 from datetime import UTC, datetime
+from functools import partial
 from pathlib import Path
 
-from .discover import docker_images, extract
+from .discover import InUse, docker_images, lookup, offerable
 from .refresh import Retention, refresh
 from .registry import Image, Registry, parse_image
 from .store import Store
@@ -58,24 +59,36 @@ def main() -> int:
     store = Store(args.root)
     now = datetime.now(UTC).replace(microsecond=0)
 
-    in_use: dict[Image, set[str]] = defaultdict(set)
+    in_use: dict[Image, set[InUse]] = defaultdict(set)
     with tempfile.TemporaryDirectory() as tmp:
         checkouts = args.checkout or [
             clone(repo, Path(tmp) / repo.replace("/", "__")) for repo in repositories
         ]
         for checkout in checkouts:
-            for name, tags in docker_images(extract(checkout)).items():
+            for name, tags in docker_images(lookup(checkout)).items():
                 in_use[parse_image(name)] |= tags
 
     selected = {parse_image(name) for name in args.image}
     registry = Registry()
     failed, unreachable = [], []
     for image in sorted(selected or in_use, key=lambda i: i.name):
+        # With no tag in use, nothing qualifies, and saving would empty the file.
+        if image not in in_use:
+            print(f"{image.name}: not used in any repository, skipped")
+            continue
         try:
             # Read outside the OSError handler: a local file error is never the registry's.
             previous = store.load(image)
             try:
-                state = refresh(image, in_use.get(image, set()), previous, registry, retention, now)
+                state = refresh(
+                    image,
+                    {u.tag for u in in_use[image]},
+                    partial(offerable, in_use=in_use[image]),
+                    previous,
+                    registry,
+                    retention,
+                    now,
+                )
             except OSError as err:  # HTTP and network errors: the registry, not this code
                 print(f"{image.name}: {err}", file=sys.stderr)
                 unreachable.append(image.name)

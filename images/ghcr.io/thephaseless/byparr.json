@@ -4,6 +4,16 @@
       "version": "3.0.4",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
       "digest": "sha256:874f719518f617d03a60e03411fc5d090647e1a877041e81f8dc965927c7deb6"
+    },
+    {
+      "version": "3.1.0",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:d7950b23caae2649a81cb2dc0946e152eaa91ac026246597d85b7f0fe73eb8f7"
+    },
+    {
+      "version": "3.1.1",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:c66fa161187b8fa527bfad7eefa2647ea1c553f77df68cbffd6fe83366d1787b"
     }
   ]
 }
