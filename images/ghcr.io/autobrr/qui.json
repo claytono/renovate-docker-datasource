@@ -44,6 +44,46 @@
       "version": "pr-4064",
       "releaseTimestamp": "2026-11-12T16:25:12Z",
       "digest": "sha256:fb2fc051013a00c172f9fa848b6b52a2d9000f9ab9ea35f04d75431760c97317"
+    },
+    {
+      "version": "pr-4066",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:01602db52a0659ff68109fcb91604512aa416806d26e2ea76bf98bb147b80c81"
+    },
+    {
+      "version": "pr-4068",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:39edcf98647f94174e99e07dc02d548a528b12ab4b5a8603ee2d37f2b3e6b203"
+    },
+    {
+      "version": "pr-4070",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:8cbf63caa7ad286e698ddddd24a93e607167084fca43d132738b54acfe8baca0"
+    },
+    {
+      "version": "pr-4071",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:fbc9d9efbc492601530a382e552862b16e2bf5b57a3d3264f2aee7f6a6b4e22d"
+    },
+    {
+      "version": "pr-4072",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:9ad7aec4a1472e4c97c11424bca4a102f885b66c851133cf776f7f1a7fbeea67"
+    },
+    {
+      "version": "pr-4076",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:88f6ccefe9fb5ff3e7ac8a3fc243f9a59cc921b69ac0f2dedd146023bcfb3b3d"
+    },
+    {
+      "version": "pr-4077",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:038d2d63c96cdbbde06388a920b02004b3ab13a21b3e98b51cb6d928e663e507"
+    },
+    {
+      "version": "pr-4078",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:83faeefb1c5e20e23da6a88892fb8b5b6a98e2ac899eb04d299f524e7818009f"
     }
   ]
 }

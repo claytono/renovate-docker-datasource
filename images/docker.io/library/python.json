@@ -1,51 +1,6 @@
 {
   "releases": [
     {
-      "version": "3.13.16-windowsservercore",
-      "releaseTimestamp": "2026-10-14T02:07:56Z",
-      "digest": "sha256:3c73540ac4da8cbe8b3ba40f0c8e87edd9204a6dadf5bfef868d3f2e63e81e54"
-    },
-    {
-      "version": "3.13.16-windowsservercore-ltsc2022",
-      "releaseTimestamp": "2026-10-14T02:07:58Z",
-      "digest": "sha256:bb4b8c07608adcd17e24d1634455b21d5ff49e89789951b473b2473023132edb"
-    },
-    {
-      "version": "3.13.16-windowsservercore-ltsc2025",
-      "releaseTimestamp": "2026-10-14T02:08:00Z",
-      "digest": "sha256:328ab3492e1464c6e7aa7350619c7340472de9f6a7bb0e58f9910df365ed1963"
-    },
-    {
-      "version": "3.14.8-windowsservercore",
-      "releaseTimestamp": "2026-10-14T02:08:39Z",
-      "digest": "sha256:7acb30d6deb9eec8f5b0bb0cea734ad18f25bed4b100b26cc71e9d37c2c97837"
-    },
-    {
-      "version": "3.14.8-windowsservercore-ltsc2022",
-      "releaseTimestamp": "2026-10-14T02:08:41Z",
-      "digest": "sha256:fea3fa3e18313544703dc4e0d3c58c92849bcce1717ffd4377ca93ddd8e932bc"
-    },
-    {
-      "version": "3.14.8-windowsservercore-ltsc2025",
-      "releaseTimestamp": "2026-10-14T02:08:43Z",
-      "digest": "sha256:23a513fb1e2fe0b51bc0a82d596b4bd11168ac4798d839335a531bb2616a1cc0"
-    },
-    {
-      "version": "3.15.0-windowsservercore",
-      "releaseTimestamp": "2026-10-14T02:09:15Z",
-      "digest": "sha256:f9f55bb2ed120411ef635ea94abf80ca9357835ff4d2f8c6057a3a2bf0455527"
-    },
-    {
-      "version": "3.15.0-windowsservercore-ltsc2022",
-      "releaseTimestamp": "2026-10-14T02:09:16Z",
-      "digest": "sha256:89bd6a1f107abb73244bd7e9c87ceb8c90b1ad751abbf0b9386545cc81ae5e02"
-    },
-    {
-      "version": "3.15.0-windowsservercore-ltsc2025",
-      "releaseTimestamp": "2026-10-14T02:09:18Z",
-      "digest": "sha256:7da47370f7cb0cfe46eb23944fb9f857494e9dbe63daa1a5ac8569d79250efbf"
-    },
-    {
       "version": "3.15.0-alpine",
       "releaseTimestamp": "2026-10-17T14:08:29Z",
       "digest": "sha256:2699b90f4d562a22e2dd076c82f964032f64814204bff36d271a54ba4cc2c7e2"

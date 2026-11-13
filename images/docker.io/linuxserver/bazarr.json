@@ -6,21 +6,6 @@
       "digest": "sha256:762f802274598da27255b2e5778f262b2b71b355a23e3812d9ee1520f8dbe37c"
     },
     {
-      "version": "amd64-v1.6.2-ls368",
-      "releaseTimestamp": "2026-10-14T00:26:58Z",
-      "digest": "sha256:48662067d9757aa46fba6fbab7d006d483490429409d4ba484b2b3219b7c3936"
-    },
-    {
-      "version": "arm64v8-v1.6.2-ls368",
-      "releaseTimestamp": "2026-10-14T00:27:13Z",
-      "digest": "sha256:d45c72ea0f14a04015ecf5671f8072219b1ce04ef062117ce77d3968545f451e"
-    },
-    {
-      "version": "v1.6.2-ls368",
-      "releaseTimestamp": "2026-10-14T00:36:57Z",
-      "digest": "sha256:fb0437897eaa7f96cf6ac42f795f8dcc208d34ec969eac5d366454e767304eb9"
-    },
-    {
       "version": "amd64-development-v1.6.3-beta.12-ls22",
       "releaseTimestamp": "2026-10-14T06:16:24Z",
       "digest": "sha256:8589ed8143aba25ee468cdd42f452e7fed39d3120031467f5523b85fb6e0047b"

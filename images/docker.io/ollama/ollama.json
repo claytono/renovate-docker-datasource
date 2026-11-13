@@ -1,26 +1,6 @@
 {
   "releases": [
     {
-      "version": "0.40.4-rc2",
-      "releaseTimestamp": "2026-10-13T22:00:27Z",
-      "digest": "sha256:797f5feebbbfaad6f29df15b9d15c045b1137f9ca7c146ce7d12d1c7469ba483"
-    },
-    {
-      "version": "0.40.4-rc2-rocm",
-      "releaseTimestamp": "2026-10-13T22:00:28Z",
-      "digest": "sha256:5710645248fd28a2a1e02ea5b20d07d59f7f3a5b76247a7c30a5e3e217a3a80b"
-    },
-    {
-      "version": "0.40.4",
-      "releaseTimestamp": "2026-10-14T00:31:39Z",
-      "digest": "sha256:926d40fd6eeeebd346b5c358a63de2a10ec995371cd93dd22f1843200694b1a6"
-    },
-    {
-      "version": "0.40.4-rocm",
-      "releaseTimestamp": "2026-10-14T00:31:40Z",
-      "digest": "sha256:86f96f13977da6a2f4819962fc040c01987eff2d14660441b247ff4e48bcf459"
-    },
-    {
       "version": "0.40.5-rc0",
       "releaseTimestamp": "2026-10-14T18:57:34Z",
       "digest": "sha256:3ee90c1c2a0e7ab03082ed1307fa2bfe6cd54736448eb3a2d840f043b909164d"
