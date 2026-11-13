@@ -41,10 +41,10 @@ def check_releases(path: Path) -> list[str]:
     return problems
 
 
-def check_seen(images: Path, seen: Path) -> list[str]:
+def check_seen(images: Path) -> list[str]:
     problems = []
-    for path in sorted(seen.rglob("*.txt")):
-        releases_path = images / path.relative_to(seen).with_suffix(".json")
+    for path in sorted(images.rglob("*.txt")):
+        releases_path = path.with_suffix(".json")
         if not releases_path.exists():
             problems.append(f"{path}: no {releases_path}")
             continue
@@ -64,9 +64,9 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=Path())
     args = parser.parse_args()
-    images, seen = args.root / "images", args.root / "seen"
+    images = args.root / "images"
     problems = [p for path in sorted(images.rglob("*.json")) for p in check_releases(path)]
-    problems += check_seen(images, seen)
+    problems += check_seen(images)
     for problem in problems:
         print(problem, file=sys.stderr)
     return 1 if problems else 0

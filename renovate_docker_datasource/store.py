@@ -1,8 +1,8 @@
 """Read and write the per-image files.
 
 `images/<image>.json` holds the releases in the retention window, in the
-shape Renovate's custom datasources expect. `seen/<image>.txt` lists the
-names of every other tag the job has seen, one per line.
+shape Renovate's custom datasources expect. `images/<image>.txt`, beside it,
+lists the names of every other tag the job has seen, one per line.
 """
 
 import json
@@ -16,10 +16,9 @@ from .registry import Image, parse_image
 class Store:
     def __init__(self, root: Path) -> None:
         self.images = root / "images"
-        self.seen = root / "seen"
 
     def _paths(self, image: Image) -> tuple[Path, Path]:
-        return self.images / f"{image.name}.json", self.seen / f"{image.name}.txt"
+        return self.images / f"{image.name}.json", self.images / f"{image.name}.txt"
 
     def load(self, image: Image) -> State | None:
         releases_path, seen_path = self._paths(image)
@@ -68,7 +67,6 @@ class Store:
         for path in self._paths(image):
             path.unlink(missing_ok=True)
         _prune_empty_dirs(self.images)
-        _prune_empty_dirs(self.seen)
 
 
 def _prune_empty_dirs(root: Path) -> None:

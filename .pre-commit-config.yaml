@@ -11,7 +11,7 @@ repos:
       - id: end-of-file-fixer
       # The seen lists of images with many tags run to megabytes.
       - id: check-added-large-files
-        exclude: ^seen/
+        exclude: ^images/.*\.txt$
       - id: check-merge-conflict
 
   - repo: local
@@ -57,4 +57,4 @@ repos:
         entry: uv run python -m renovate_docker_datasource.check
         language: system
         pass_filenames: false
-        files: ^(images|seen)/
+        files: ^images/

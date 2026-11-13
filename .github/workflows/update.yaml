@@ -43,9 +43,7 @@ jobs:
         uses: peter-evans/create-pull-request@3ffccacd46053766916f087ce41d627c0b8cf2d1 # v8
         with:
           token: ${{ secrets.PAT }}
-          add-paths: |
-            images
-            seen
+          add-paths: images
           branch: update-image-data
           delete-branch: true
           title: Update image data
