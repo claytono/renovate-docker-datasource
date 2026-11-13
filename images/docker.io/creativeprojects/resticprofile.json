@@ -33,12 +33,17 @@
     {
       "version": "latest",
       "releaseTimestamp": "2026-11-08T13:49:46Z",
-      "digest": "sha256:b919f7ae7adfa4b0900ac87ab5314fb88229698b0a8d38ebc3882a27ac9e73d1"
+      "digest": "sha256:e17dbdfa280c0031ba54399805675b9795cea78a33e202925a3f1850da2acfc1"
     },
     {
       "version": "nightly",
       "releaseTimestamp": "2026-11-10T21:05:59Z",
-      "digest": "sha256:5ab757d98035494452944aa29c7b1f4030938ff6bd17ab1abb717624c99bd582"
+      "digest": "sha256:299fd18f9857d9413cb64a4c3ce07302e546c2b603dfd7bbddc25c72735e9852"
+    },
+    {
+      "version": "0.34.0",
+      "releaseTimestamp": "2026-11-12T21:55:31Z",
+      "digest": "sha256:e17dbdfa280c0031ba54399805675b9795cea78a33e202925a3f1850da2acfc1"
     }
   ]
 }

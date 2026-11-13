@@ -1,31 +1,6 @@
 {
   "releases": [
     {
-      "version": "nightly-2.6.5.5668-ls20",
-      "releaseTimestamp": "2026-10-13T17:17:43Z",
-      "digest": "sha256:e32e72f1fb2c02cc70d37673f0a444579a3851dc7d14202e953faa5adf6bd847"
-    },
-    {
-      "version": "nightly-version-2.6.5.5668",
-      "releaseTimestamp": "2026-10-13T17:17:47Z",
-      "digest": "sha256:e32e72f1fb2c02cc70d37673f0a444579a3851dc7d14202e953faa5adf6bd847"
-    },
-    {
-      "version": "amd64-nightly-2.6.5.5672-ls20",
-      "releaseTimestamp": "2026-10-14T01:11:57Z",
-      "digest": "sha256:04dd3012cbb31c5a4fa66822a99785e77968478e73d9a059a7f2f7bc910ecc7f"
-    },
-    {
-      "version": "arm64v8-nightly-2.6.5.5672-ls20",
-      "releaseTimestamp": "2026-10-14T01:12:10Z",
-      "digest": "sha256:6d1a3341c0267b381f4dbd8a0ec19ac11a49e359b8b4005d471d272a0be59541"
-    },
-    {
-      "version": "nightly-2.6.5.5672-ls20",
-      "releaseTimestamp": "2026-10-14T01:17:21Z",
-      "digest": "sha256:5944ab837fccdcfe5a18f271d095ba24c037fa1cef085b5ee66daeae792cc9f4"
-    },
-    {
       "version": "amd64-develop-2.6.5.5623-ls277",
       "releaseTimestamp": "2026-10-18T22:38:08Z",
       "digest": "sha256:c2feaea5a0d98b24fb8ac21151b71abb9a3ca769ac0d9db246fb802e57cc17d5"

@@ -6,11 +6,6 @@
       "digest": "sha256:3e6710a7ab2a61311d9d899b719f6c3657791c63e8f4942cec4ebc42401d6b76"
     },
     {
-      "version": "2026.11.0.dev202610140225",
-      "releaseTimestamp": "2026-10-14T02:36:58Z",
-      "digest": "sha256:c741ec05c86c88f6a5943b4d948abbe65da4d7f9a7518b88a9e613817245da9b"
-    },
-    {
       "version": "2026.11.0.dev202610150225",
       "releaseTimestamp": "2026-10-15T02:36:35Z",
       "digest": "sha256:313876e975cd1f926f1803cd0c65fbb5c8f9644280c9ece0c06136ede8447423"
@@ -253,12 +248,17 @@
     {
       "version": "dev",
       "releaseTimestamp": "2026-11-11T02:25:56Z",
-      "digest": "sha256:8f76ab6ea4c5e770c6fe0ae4e2836fb916ef8b28cd76d6106a16de272e467723"
+      "digest": "sha256:41ed528d48eb773ff101eb29cedd57ac0adf2c601494551dfab3ac9911e2911f"
     },
     {
       "version": "2026.12.0.dev202611120215",
       "releaseTimestamp": "2026-11-12T02:26:25Z",
       "digest": "sha256:8f76ab6ea4c5e770c6fe0ae4e2836fb916ef8b28cd76d6106a16de272e467723"
+    },
+    {
+      "version": "2026.12.0.dev202611130214",
+      "releaseTimestamp": "2026-11-13T02:25:56Z",
+      "digest": "sha256:41ed528d48eb773ff101eb29cedd57ac0adf2c601494551dfab3ac9911e2911f"
     }
   ]
 }

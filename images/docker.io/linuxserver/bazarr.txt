@@ -4072,6 +4072,7 @@ amd64-v1.6.1-ls364
 amd64-v1.6.1-ls365
 amd64-v1.6.2-ls366
 amd64-v1.6.2-ls367
+amd64-v1.6.2-ls368
 amd64-version-108540db
 amd64-version-11060792
 amd64-version-1d0d6821
@@ -9831,6 +9832,7 @@ arm64v8-v1.6.1-ls364
 arm64v8-v1.6.1-ls365
 arm64v8-v1.6.2-ls366
 arm64v8-v1.6.2-ls367
+arm64v8-v1.6.2-ls368
 arm64v8-version-108540db
 arm64v8-version-11060792
 arm64v8-version-1d0d6821
@@ -12816,6 +12818,7 @@ v1.6.1-ls364
 v1.6.1-ls365
 v1.6.2-ls366
 v1.6.2-ls367
+v1.6.2-ls368
 version-108540db
 version-11060792
 version-1d0d6821

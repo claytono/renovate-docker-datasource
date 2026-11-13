@@ -3399,6 +3399,7 @@ amd64-nightly-2.6.5.5649-ls19
 amd64-nightly-2.6.5.5659-ls19
 amd64-nightly-2.6.5.5664-ls20
 amd64-nightly-2.6.5.5668-ls20
+amd64-nightly-2.6.5.5672-ls20
 amd64-nightly-alpine
 amd64-nightly-alpine-0.1.10.1324-ls4
 amd64-nightly-alpine-0.1.10.1326-ls5
@@ -9980,6 +9981,7 @@ arm64v8-nightly-2.6.5.5649-ls19
 arm64v8-nightly-2.6.5.5659-ls19
 arm64v8-nightly-2.6.5.5664-ls20
 arm64v8-nightly-2.6.5.5668-ls20
+arm64v8-nightly-2.6.5.5672-ls20
 arm64v8-nightly-alpine
 arm64v8-nightly-alpine-0.1.10.1324-ls4
 arm64v8-nightly-alpine-0.1.10.1326-ls5
@@ -13848,6 +13850,8 @@ nightly-2.6.5.5649-ls18
 nightly-2.6.5.5649-ls19
 nightly-2.6.5.5659-ls19
 nightly-2.6.5.5664-ls20
+nightly-2.6.5.5668-ls20
+nightly-2.6.5.5672-ls20
 nightly-alpine
 nightly-alpine-0.1.10.1324-ls4
 nightly-alpine-0.1.10.1326-ls5
@@ -15524,6 +15528,7 @@ nightly-version-2.6.5.5620
 nightly-version-2.6.5.5649
 nightly-version-2.6.5.5659
 nightly-version-2.6.5.5664
+nightly-version-2.6.5.5668
 version-1.0.1.2220
 version-1.1.3.2521
 version-1.10.5.4116

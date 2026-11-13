@@ -83,12 +83,12 @@
     {
       "version": "4.3.0-SNAPSHOT",
       "releaseTimestamp": "2026-11-09T22:36:43Z",
-      "digest": "sha256:f4e161ad99f48c992662a06634b5cb92621cacef1632e8e9fc4ad3bbe04af088"
+      "digest": "sha256:629763207e3b780224b28f830dba0bad0da7a6350bc3b99399fac3db11dbb482"
     },
     {
       "version": "4.3.0-SNAPSHOT-full",
       "releaseTimestamp": "2026-11-09T22:47:42Z",
-      "digest": "sha256:5e338b6726ede7fb6ee91884836c3c799552240c35a137b4d4387b2e9d00b359"
+      "digest": "sha256:6be6ee8ef59354cab1d7599e9c81bc64a41774b9f1d65a5cd0888320633d2385"
     }
   ]
 }

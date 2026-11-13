@@ -828,12 +828,12 @@
     {
       "version": "master",
       "releaseTimestamp": "2026-11-11T16:33:24Z",
-      "digest": "sha256:8cac48580005cd582f3d542bed086daebe0a9166ce3534927192e3007192dec3"
+      "digest": "sha256:ae714747bf8a65e81758cef2ad71f0fa50b2c6438c3f19150d3f69a079d6a644"
     },
     {
       "version": "beta",
       "releaseTimestamp": "2026-11-11T16:33:25Z",
-      "digest": "sha256:8cac48580005cd582f3d542bed086daebe0a9166ce3534927192e3007192dec3"
+      "digest": "sha256:ae714747bf8a65e81758cef2ad71f0fa50b2c6438c3f19150d3f69a079d6a644"
     },
     {
       "version": "sha-f42d829",
@@ -844,6 +844,26 @@
       "version": "sha-9622aff",
       "releaseTimestamp": "2026-11-12T06:41:14Z",
       "digest": "sha256:8cac48580005cd582f3d542bed086daebe0a9166ce3534927192e3007192dec3"
+    },
+    {
+      "version": "sha-060195c",
+      "releaseTimestamp": "2026-11-12T20:59:08Z",
+      "digest": "sha256:e151fa4e15728e58b786850d1934356b596f8b2fd63e4639733b5d0c4eb1f082"
+    },
+    {
+      "version": "sha-644dd73",
+      "releaseTimestamp": "2026-11-12T22:51:49Z",
+      "digest": "sha256:c73941edcea01afd50418d82f146f60c2b73f78d3fd3da6321428b0546411176"
+    },
+    {
+      "version": "sha-2033adc",
+      "releaseTimestamp": "2026-11-12T22:55:03Z",
+      "digest": "sha256:bfe9249eb41ef6bdfdf6ffb660268c2eb244990145254c83625d5f79dda38fb9"
+    },
+    {
+      "version": "sha-b0ef5f6",
+      "releaseTimestamp": "2026-11-12T23:01:58Z",
+      "digest": "sha256:ae714747bf8a65e81758cef2ad71f0fa50b2c6438c3f19150d3f69a079d6a644"
     }
   ]
 }

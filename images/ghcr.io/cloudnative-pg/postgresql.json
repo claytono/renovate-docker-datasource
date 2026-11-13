@@ -4,6 +4,546 @@
       "version": "18.6-standard-trixie",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
       "digest": "sha256:de572898499fab9406f0da51929da562f96f3be40ca79fafea8ec1a8d5b42065"
+    },
+    {
+      "version": "14.25-202611122305-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0ff3a8e0bc7c152ec9402386382b941d652fe36e0d2e38aba78345f414c3a5d7"
+    },
+    {
+      "version": "14.25-202611122305-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c3c62fb81ef26f60ad0a04e374aca6c5ae58f76d788c9786d3e19fe8013ea69b"
+    },
+    {
+      "version": "14.25-202611122305-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:f0775abe46ca73acb58d10dfeb1dada7c4eec93f6ec497b790dd54179593518f"
+    },
+    {
+      "version": "14.25-202611122305-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:1c6400e89a6f16732c3fcda3ea2011255fe9b3e92d39c009177c4fb94f6fa206"
+    },
+    {
+      "version": "14.25-202611122305-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2740776dbfed3d8329e935ca42288c027b2864966db31b87ea74421350da2e0d"
+    },
+    {
+      "version": "14.25-202611122305-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:7d7eef29a18d75c44ce783f09e0277689ec77e934711b827f8fef3e00e6113f3"
+    },
+    {
+      "version": "14.25-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0ff3a8e0bc7c152ec9402386382b941d652fe36e0d2e38aba78345f414c3a5d7"
+    },
+    {
+      "version": "14.25-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c3c62fb81ef26f60ad0a04e374aca6c5ae58f76d788c9786d3e19fe8013ea69b"
+    },
+    {
+      "version": "14.25-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:f0775abe46ca73acb58d10dfeb1dada7c4eec93f6ec497b790dd54179593518f"
+    },
+    {
+      "version": "14.25-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:1c6400e89a6f16732c3fcda3ea2011255fe9b3e92d39c009177c4fb94f6fa206"
+    },
+    {
+      "version": "14.25-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2740776dbfed3d8329e935ca42288c027b2864966db31b87ea74421350da2e0d"
+    },
+    {
+      "version": "14.25-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:7d7eef29a18d75c44ce783f09e0277689ec77e934711b827f8fef3e00e6113f3"
+    },
+    {
+      "version": "15.20-202611122305-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:936f5db28034837d6283354da3eeb367fcb3bc32ba9fb6025464b32292ac36e7"
+    },
+    {
+      "version": "15.20-202611122305-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:8b00131cea7769e387c66b3bd9fdad43e0474c10b3d43d414a0d93b78a754ed0"
+    },
+    {
+      "version": "15.20-202611122305-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:70e28ca15b5e5adadeb6e01eded196ae55bbaa35750cce6a8afbb8e39b802e0c"
+    },
+    {
+      "version": "15.20-202611122305-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:75f812674d86aa2ed05205f90f797f9e258b32a2866c50342821f169e4f0e716"
+    },
+    {
+      "version": "15.20-202611122305-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:24c58a7026676fd140e03b720a527d7bcf1837c042d4ea0ee50d5165d43d8c83"
+    },
+    {
+      "version": "15.20-202611122305-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:629f887c290fef0a17830b9d76925d4d67e1e6d45a0c8f596ee2570746c491a5"
+    },
+    {
+      "version": "15.20-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:936f5db28034837d6283354da3eeb367fcb3bc32ba9fb6025464b32292ac36e7"
+    },
+    {
+      "version": "15.20-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:8b00131cea7769e387c66b3bd9fdad43e0474c10b3d43d414a0d93b78a754ed0"
+    },
+    {
+      "version": "15.20-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:70e28ca15b5e5adadeb6e01eded196ae55bbaa35750cce6a8afbb8e39b802e0c"
+    },
+    {
+      "version": "15.20-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:75f812674d86aa2ed05205f90f797f9e258b32a2866c50342821f169e4f0e716"
+    },
+    {
+      "version": "15.20-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:24c58a7026676fd140e03b720a527d7bcf1837c042d4ea0ee50d5165d43d8c83"
+    },
+    {
+      "version": "15.20-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:629f887c290fef0a17830b9d76925d4d67e1e6d45a0c8f596ee2570746c491a5"
+    },
+    {
+      "version": "16.16-202611122305-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:3b31e85d0f0e42057faad111181e4bb3cb7a4e1c38d32cbf35d6efcd5a1185c1"
+    },
+    {
+      "version": "16.16-202611122305-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:b51a1204a6978da0eeea8273181c002ce1f6da3001323ca80f74b054e3cb3d4a"
+    },
+    {
+      "version": "16.16-202611122305-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2c67c494d664301367b027976d02f1e2aca372b01f8051d15d1e8c6c68bb616e"
+    },
+    {
+      "version": "16.16-202611122305-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:56ff6dee0ae923d9b796fe645f7d39c46e109952dbecdf560db4d2a9c243e02a"
+    },
+    {
+      "version": "16.16-202611122305-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0acc198c1ee2a17a52a2ec9d774ed21e8a8e3020e34818f802e87536bc312138"
+    },
+    {
+      "version": "16.16-202611122305-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:017d5ebbdc3769d2946c0b9856febaadeb80bf74ca28d3e7958346d696925bf2"
+    },
+    {
+      "version": "16.16-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:3b31e85d0f0e42057faad111181e4bb3cb7a4e1c38d32cbf35d6efcd5a1185c1"
+    },
+    {
+      "version": "16.16-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:b51a1204a6978da0eeea8273181c002ce1f6da3001323ca80f74b054e3cb3d4a"
+    },
+    {
+      "version": "16.16-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2c67c494d664301367b027976d02f1e2aca372b01f8051d15d1e8c6c68bb616e"
+    },
+    {
+      "version": "16.16-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:56ff6dee0ae923d9b796fe645f7d39c46e109952dbecdf560db4d2a9c243e02a"
+    },
+    {
+      "version": "16.16-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0acc198c1ee2a17a52a2ec9d774ed21e8a8e3020e34818f802e87536bc312138"
+    },
+    {
+      "version": "16.16-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:017d5ebbdc3769d2946c0b9856febaadeb80bf74ca28d3e7958346d696925bf2"
+    },
+    {
+      "version": "17.12-202611122305-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:a98d12254368403c9be1f7a665d50db7d8ff33ad42343c3d4f84a8cf358c209e"
+    },
+    {
+      "version": "17.12-202611122305-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:4ae89311e5031155a139a5c6d31a80f6deb135443711e61ff7df41cb549fdcaa"
+    },
+    {
+      "version": "17.12-202611122305-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0639bd0d131295e149a6ab187dd0b3818ec12d6a32c83159b830d5c5bbf29949"
+    },
+    {
+      "version": "17.12-202611122305-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2a2fe731f3b421d1a1c1f84e70e95ef0658bf198b6c8dbbfe53d51f24c3275b8"
+    },
+    {
+      "version": "17.12-202611122305-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:896cf8ed0d1f5825091f9f6760c5c0f88d8e9477658eada7dac7929c4f395476"
+    },
+    {
+      "version": "17.12-202611122305-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:6b8f23131e02fb4f2765fd1c7f9bca1c09a0b8b5aa90d69a3c5e8e5c60fa3d76"
+    },
+    {
+      "version": "17.12-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:a98d12254368403c9be1f7a665d50db7d8ff33ad42343c3d4f84a8cf358c209e"
+    },
+    {
+      "version": "17.12-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:4ae89311e5031155a139a5c6d31a80f6deb135443711e61ff7df41cb549fdcaa"
+    },
+    {
+      "version": "17.12-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0639bd0d131295e149a6ab187dd0b3818ec12d6a32c83159b830d5c5bbf29949"
+    },
+    {
+      "version": "17.12-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2a2fe731f3b421d1a1c1f84e70e95ef0658bf198b6c8dbbfe53d51f24c3275b8"
+    },
+    {
+      "version": "17.12-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:896cf8ed0d1f5825091f9f6760c5c0f88d8e9477658eada7dac7929c4f395476"
+    },
+    {
+      "version": "17.12-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:6b8f23131e02fb4f2765fd1c7f9bca1c09a0b8b5aa90d69a3c5e8e5c60fa3d76"
+    },
+    {
+      "version": "18.7-202611122305-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:683ceb5b4d1045f7544bef9fe4e729b729b5ea7c5cdb4088d502c23e69ce9553"
+    },
+    {
+      "version": "18.7-202611122305-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:b98ae0b74a12f20ccff32219be0e33fdd35c7e2e8e73c8bff9173f1128e167d1"
+    },
+    {
+      "version": "18.7-202611122305-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2643d7a683334dea20ba3171634f303eaf023605e709aa0f60ccc6aebf9fda18"
+    },
+    {
+      "version": "18.7-202611122305-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:23719505c7cc417b043ffd9998b44ab8d57fec1d92f0bf11b231a1754a5962f2"
+    },
+    {
+      "version": "18.7-202611122305-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:4b6c13e807656537a424b29fd4265da331d9869578007dd34faf810f0ed8cb9a"
+    },
+    {
+      "version": "18.7-202611122305-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:5a5dfbde88d5909fd4938189c141f53fb153f53c519f14907dce9e7c04baa153"
+    },
+    {
+      "version": "18.7-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:683ceb5b4d1045f7544bef9fe4e729b729b5ea7c5cdb4088d502c23e69ce9553"
+    },
+    {
+      "version": "18.7-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:b98ae0b74a12f20ccff32219be0e33fdd35c7e2e8e73c8bff9173f1128e167d1"
+    },
+    {
+      "version": "18.7-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2643d7a683334dea20ba3171634f303eaf023605e709aa0f60ccc6aebf9fda18"
+    },
+    {
+      "version": "18.7-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:23719505c7cc417b043ffd9998b44ab8d57fec1d92f0bf11b231a1754a5962f2"
+    },
+    {
+      "version": "18.7-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:4b6c13e807656537a424b29fd4265da331d9869578007dd34faf810f0ed8cb9a"
+    },
+    {
+      "version": "18.7-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:5a5dfbde88d5909fd4938189c141f53fb153f53c519f14907dce9e7c04baa153"
+    },
+    {
+      "version": "19rc2-202611122305-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:a538c4ba683b73a5826fe5b3ac765b1c592fe64d170df1b31d8df34ba828efe7"
+    },
+    {
+      "version": "19rc2-202611122305-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c218773d33f8b692153cc31165a1582f554d4665822e1cb8f8fc8207f2bdb051"
+    },
+    {
+      "version": "19rc2-202611122305-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:335857abea95e55b0815cbc10053f78cb516966668a55fbcd7141483a7e577e3"
+    },
+    {
+      "version": "19rc2-202611122305-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:b8bd512601de07c70267113e561676f770b9c6598fdea5043a8af2ca21c653d8"
+    },
+    {
+      "version": "19rc2-202611122305-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:74f3b02a40da2852cc26f9b918d1f181345247361f8401d8b00195319e1fc0df"
+    },
+    {
+      "version": "19rc2-202611122305-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:746dc7513adfc2d7d1312bfdfc9b26efabc960f0c731cba563148165aea26421"
+    },
+    {
+      "version": "19rc2-minimal-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:a538c4ba683b73a5826fe5b3ac765b1c592fe64d170df1b31d8df34ba828efe7"
+    },
+    {
+      "version": "19rc2-minimal-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c218773d33f8b692153cc31165a1582f554d4665822e1cb8f8fc8207f2bdb051"
+    },
+    {
+      "version": "19rc2-standard-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:335857abea95e55b0815cbc10053f78cb516966668a55fbcd7141483a7e577e3"
+    },
+    {
+      "version": "19rc2-standard-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:b8bd512601de07c70267113e561676f770b9c6598fdea5043a8af2ca21c653d8"
+    },
+    {
+      "version": "19rc2-system-bookworm",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:74f3b02a40da2852cc26f9b918d1f181345247361f8401d8b00195319e1fc0df"
+    },
+    {
+      "version": "19rc2-system-trixie",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:746dc7513adfc2d7d1312bfdfc9b26efabc960f0c731cba563148165aea26421"
+    },
+    {
+      "version": "sha256-017d5ebbdc3769d2946c0b9856febaadeb80bf74ca28d3e7958346d696925bf2",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:abf37ad96aa363fa0139305d5eae435ef9d901a166a0c15d19bac754b8dbdd45"
+    },
+    {
+      "version": "sha256-0639bd0d131295e149a6ab187dd0b3818ec12d6a32c83159b830d5c5bbf29949",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:f77e3e2a48a9644430ac960ab5090849489b286a32a3af9743a16736a3e33ebe"
+    },
+    {
+      "version": "sha256-0acc198c1ee2a17a52a2ec9d774ed21e8a8e3020e34818f802e87536bc312138",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:6052be1eb9b194bf54d961219e49509974c18754ff91fc785c30a00103e0c9a5"
+    },
+    {
+      "version": "sha256-0ff3a8e0bc7c152ec9402386382b941d652fe36e0d2e38aba78345f414c3a5d7",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:85c72842d72b367eaab6456f8e4137c17c4b41e00b782ace9e15d104dd949565"
+    },
+    {
+      "version": "sha256-1c6400e89a6f16732c3fcda3ea2011255fe9b3e92d39c009177c4fb94f6fa206",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:2d62e4d67ec8fa42d768e4dec6bae5bce3b8acfbe95f475993c9372b0ec8becc"
+    },
+    {
+      "version": "sha256-23719505c7cc417b043ffd9998b44ab8d57fec1d92f0bf11b231a1754a5962f2",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:96271e81590f29c578db66e61cd5221fcafec7ec5c8a4f4a4c2d8c0f148cc690"
+    },
+    {
+      "version": "sha256-24c58a7026676fd140e03b720a527d7bcf1837c042d4ea0ee50d5165d43d8c83",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:785668c37526c5385f6f3c0d5a31c37a2e09a4330eae33a693378eb6964dff97"
+    },
+    {
+      "version": "sha256-2643d7a683334dea20ba3171634f303eaf023605e709aa0f60ccc6aebf9fda18",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:05cb33bda83b2173a7cb2bc688d243941cab86c446db533949280d832b0dc4d7"
+    },
+    {
+      "version": "sha256-2740776dbfed3d8329e935ca42288c027b2864966db31b87ea74421350da2e0d",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:3d8e9353223801c881bc8fdb150ef0f382d956f580f8a2128c0c81261855b1a6"
+    },
+    {
+      "version": "sha256-2a2fe731f3b421d1a1c1f84e70e95ef0658bf198b6c8dbbfe53d51f24c3275b8",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:77960f4327180e3bca98e7c40321b8f2506cc12658e7ebc9fff45a1d9cbca7b0"
+    },
+    {
+      "version": "sha256-2c67c494d664301367b027976d02f1e2aca372b01f8051d15d1e8c6c68bb616e",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c0a24b0509a3e7a92d41a4c1e015c925f0de2e4832e5cf13e62d6fde4ff0b8a6"
+    },
+    {
+      "version": "sha256-335857abea95e55b0815cbc10053f78cb516966668a55fbcd7141483a7e577e3",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:ef09b03a6349a79cd13dc2501262d45963f2d59d5e104415175f01f825f8fcc1"
+    },
+    {
+      "version": "sha256-3b31e85d0f0e42057faad111181e4bb3cb7a4e1c38d32cbf35d6efcd5a1185c1",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:8ad3939b083f18c3388e4cc967d4decaef94f12ab890271acf07673c4d048750"
+    },
+    {
+      "version": "sha256-4ae89311e5031155a139a5c6d31a80f6deb135443711e61ff7df41cb549fdcaa",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c077ad66b0df42b217d55b279a483052b1aa86b59c5c8d71a03330c1b1ba4438"
+    },
+    {
+      "version": "sha256-4b6c13e807656537a424b29fd4265da331d9869578007dd34faf810f0ed8cb9a",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:6dfe8d03d6388b7f606e231fd189a226b80874be7f0756914154061000f92a03"
+    },
+    {
+      "version": "sha256-56ff6dee0ae923d9b796fe645f7d39c46e109952dbecdf560db4d2a9c243e02a",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0c7876958fe801ec18a8f27647797bb9e377c757d93e21bb4a2cf69aa3b4881f"
+    },
+    {
+      "version": "sha256-5a5dfbde88d5909fd4938189c141f53fb153f53c519f14907dce9e7c04baa153",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:95e715e710106ebb64021f85c87535cade5ea446b2166805c4784e55ce52e0ea"
+    },
+    {
+      "version": "sha256-629f887c290fef0a17830b9d76925d4d67e1e6d45a0c8f596ee2570746c491a5",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:5584e632942ae718437df2d2a096e9bb66069f62b728127bf138638dbc5195ea"
+    },
+    {
+      "version": "sha256-683ceb5b4d1045f7544bef9fe4e729b729b5ea7c5cdb4088d502c23e69ce9553",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:b3b452e8bd86e390daf5071cbe8add3857bd7fd4cd8cacb0940cf94ed4318f78"
+    },
+    {
+      "version": "sha256-6b8f23131e02fb4f2765fd1c7f9bca1c09a0b8b5aa90d69a3c5e8e5c60fa3d76",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:95ececd81c607a8e928437e5b10a22a11156974c88a3ca022801c11adcf96898"
+    },
+    {
+      "version": "sha256-70e28ca15b5e5adadeb6e01eded196ae55bbaa35750cce6a8afbb8e39b802e0c",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:ea1ff6f6c52734856411248d201277aeb270fdc35b859a3e39192607ccd1bfdf"
+    },
+    {
+      "version": "sha256-746dc7513adfc2d7d1312bfdfc9b26efabc960f0c731cba563148165aea26421",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:ebb74d10c2167b59d28fd66a4a3d406efa69ebc7c358bf4b3878e59abc4b26fe"
+    },
+    {
+      "version": "sha256-74f3b02a40da2852cc26f9b918d1f181345247361f8401d8b00195319e1fc0df",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:6d20ee183a0aeddf03bef4ac735e9bba00cffd3f5dae9bc6da5292e1d85f9d83"
+    },
+    {
+      "version": "sha256-75f812674d86aa2ed05205f90f797f9e258b32a2866c50342821f169e4f0e716",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:337eb13f1093d9edf4402a9809322e7240ea5ac7acbf6818c7f83b62070d48fb"
+    },
+    {
+      "version": "sha256-7d7eef29a18d75c44ce783f09e0277689ec77e934711b827f8fef3e00e6113f3",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:0347a86ddb85ea4e7835d4a885c28e097b43eb221a01dd52fb507369fe2c6bb4"
+    },
+    {
+      "version": "sha256-896cf8ed0d1f5825091f9f6760c5c0f88d8e9477658eada7dac7929c4f395476",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:cd36573c96ce61c8b18f512bff2ac504b370328e16a4ddb378773c22f6d1f2e9"
+    },
+    {
+      "version": "sha256-8b00131cea7769e387c66b3bd9fdad43e0474c10b3d43d414a0d93b78a754ed0",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:3f766b553cd632f961412b5716d8fb321a03aeffcd910d1ec5ff64984f337c14"
+    },
+    {
+      "version": "sha256-936f5db28034837d6283354da3eeb367fcb3bc32ba9fb6025464b32292ac36e7",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c5dc22053f063bff2ee2b2467842a5c5c9c0cf7818c40b2a35fbfb824c6b7449"
+    },
+    {
+      "version": "sha256-a538c4ba683b73a5826fe5b3ac765b1c592fe64d170df1b31d8df34ba828efe7",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:dca4b36acaf65d2024c5b8bd05f75cde0a8a16fa17f146300b10a95c37470849"
+    },
+    {
+      "version": "sha256-a98d12254368403c9be1f7a665d50db7d8ff33ad42343c3d4f84a8cf358c209e",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:3734a863d9a155435f0fa89322a36dd2784e0e54fa1367d7f059c460dbb4d9bc"
+    },
+    {
+      "version": "sha256-b51a1204a6978da0eeea8273181c002ce1f6da3001323ca80f74b054e3cb3d4a",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:f2eba1f11e5b9e009873b8356246c03bf50be084ce6a7a9cf7b71af41e4fe659"
+    },
+    {
+      "version": "sha256-b8bd512601de07c70267113e561676f770b9c6598fdea5043a8af2ca21c653d8",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:a8ecb43c4e87ed42077016809b79c0695b0f47838934b2e87135e45705dcf16c"
+    },
+    {
+      "version": "sha256-b98ae0b74a12f20ccff32219be0e33fdd35c7e2e8e73c8bff9173f1128e167d1",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c4a42905dff710b874f14524b48f7f8c3f79bcbd2dd271da69ee7b80e502634f"
+    },
+    {
+      "version": "sha256-c218773d33f8b692153cc31165a1582f554d4665822e1cb8f8fc8207f2bdb051",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:af57ecc80b76624e5e3914285fcc16e3ea32a6743109fba30606b59301b4abf0"
+    },
+    {
+      "version": "sha256-c3c62fb81ef26f60ad0a04e374aca6c5ae58f76d788c9786d3e19fe8013ea69b",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:c985d0f6d5a032e639a2d2ba69763b1cb6ccc6dba66a84b268bb4c54bac262dd"
+    },
+    {
+      "version": "sha256-f0775abe46ca73acb58d10dfeb1dada7c4eec93f6ec497b790dd54179593518f",
+      "releaseTimestamp": "2026-11-13T03:45:15Z",
+      "digest": "sha256:f558fdd0ca8fc50a29fff82c662cf1d43f06aa40b7a7311187817ff4eee03c8c"
     }
   ]
 }
