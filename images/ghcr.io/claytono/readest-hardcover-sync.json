@@ -1,9 +1,0 @@
-{
-  "releases": [
-    {
-      "version": "edge",
-      "releaseTimestamp": "2026-11-11T23:37:34Z",
-      "digest": "sha256:ac6856bdbd6f4d7e5abde1034f1b42c9073e2bd04a88a540206fa2a6412c78f1"
-    }
-  ]
-}

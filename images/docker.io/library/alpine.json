@@ -1,73 +1,13 @@
 {
   "releases": [
     {
-      "version": "3.21.9",
-      "releaseTimestamp": "2026-10-23T05:24:21Z",
-      "digest": "sha256:ee16d92f96db08d9d2d07da48555a27f3a69d8f0759021dbc601195ed0d2b5bd"
-    },
-    {
-      "version": "3.22.7",
-      "releaseTimestamp": "2026-10-23T05:24:29Z",
-      "digest": "sha256:2e0b81d60597f449baa56dc25d355367869d2dca4cd57e866f1e2b52af3eb55f"
-    },
-    {
-      "version": "3.23.7",
-      "releaseTimestamp": "2026-10-23T05:24:37Z",
-      "digest": "sha256:ff7f0c727dd796aa36787bfcd9a64bf35a6ce72a73451b3359fde849b6703d63"
-    },
-    {
-      "version": "3.24.3",
-      "releaseTimestamp": "2026-10-23T05:24:43Z",
-      "digest": "sha256:be2656061b536c1883c4034790e21d0a09c5aaaf51968b89368a3c0371ea2c9a"
-    },
-    {
-      "version": "3",
-      "releaseTimestamp": "2026-11-08T14:24:13Z",
-      "digest": "sha256:f59abe656b692d901e184be3445e084786602108599d2a51d229c0f5a48c71bf"
-    },
-    {
-      "version": "3.21",
-      "releaseTimestamp": "2026-11-08T14:24:18Z",
-      "digest": "sha256:bc21487101ae47172509130ee1092cc273a831968d64b617776d1f69c81e42ab"
-    },
-    {
-      "version": "3.21.10",
-      "releaseTimestamp": "2026-11-08T14:24:21Z",
-      "digest": "sha256:bc21487101ae47172509130ee1092cc273a831968d64b617776d1f69c81e42ab"
-    },
-    {
-      "version": "3.22",
-      "releaseTimestamp": "2026-11-08T14:24:26Z",
-      "digest": "sha256:49340b346798875b5592e5d420241f2f9cfba5f47e62ebb1446a1b34734e898f"
-    },
-    {
-      "version": "3.22.8",
-      "releaseTimestamp": "2026-11-08T14:24:29Z",
-      "digest": "sha256:49340b346798875b5592e5d420241f2f9cfba5f47e62ebb1446a1b34734e898f"
-    },
-    {
       "version": "3.23",
       "releaseTimestamp": "2026-11-08T14:24:34Z",
       "digest": "sha256:469c9ea410b9215eaee7976ba6c0639039b444be8e5d638f7abbada189971eb2"
     },
     {
-      "version": "3.23.8",
-      "releaseTimestamp": "2026-11-08T14:24:37Z",
-      "digest": "sha256:469c9ea410b9215eaee7976ba6c0639039b444be8e5d638f7abbada189971eb2"
-    },
-    {
       "version": "3.24",
       "releaseTimestamp": "2026-11-08T14:24:40Z",
-      "digest": "sha256:f59abe656b692d901e184be3445e084786602108599d2a51d229c0f5a48c71bf"
-    },
-    {
-      "version": "3.24.4",
-      "releaseTimestamp": "2026-11-08T14:24:43Z",
-      "digest": "sha256:f59abe656b692d901e184be3445e084786602108599d2a51d229c0f5a48c71bf"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-11-08T14:24:47Z",
       "digest": "sha256:f59abe656b692d901e184be3445e084786602108599d2a51d229c0f5a48c71bf"
     }
   ]

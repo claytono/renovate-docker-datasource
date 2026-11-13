@@ -4,6 +4,11 @@
       "version": "5.2.4-lt2-1",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
       "digest": "sha256:f3f7ae6679270fa4f2ab724c6c87dc5471beb6fade88861ce7ad834048ab6c26"
+    },
+    {
+      "version": "5.3.0-lt2-1",
+      "releaseTimestamp": "2026-11-13T17:34:40Z",
+      "digest": "sha256:265e7483604f34f0e632a0f4358bb33783700bc224a89b16a6df41b7e7eb5bac"
     }
   ]
 }

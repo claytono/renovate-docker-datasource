@@ -14,21 +14,6 @@
       "version": "v2.19.1",
       "releaseTimestamp": "2026-11-10T22:59:57Z",
       "digest": "sha256:239cd6dbc429a0eb441bdf88a7a015871e2d4d6e02b6e6039af30c0487528a8e"
-    },
-    {
-      "version": "latest",
-      "releaseTimestamp": "2026-11-10T23:08:02Z",
-      "digest": "sha256:e2f9410116ffd6667c32875ba2f3038aa0a6acb6c4f64403f535ae435eeaab2a"
-    },
-    {
-      "version": "beta",
-      "releaseTimestamp": "2026-11-10T23:17:14Z",
-      "digest": "sha256:005826252bca4bf45fd0a38deef3c00d931d8bc25352ece754567f161c91a115"
-    },
-    {
-      "version": "nightly",
-      "releaseTimestamp": "2026-11-11T17:40:47Z",
-      "digest": "sha256:cbd9b51d7e09862721bb1911dd655cbddf1dcc09f8040293f18fb22c2c5a6c24"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 `images/<image>.json` holds the releases in the retention window, in the
 shape Renovate's custom datasources expect. `images/<image>.txt`, beside it,
-lists the names of every other tag the job has seen, one per line.
+lists the names of the tags that have left the window, one per line.
 """
 
 import json
