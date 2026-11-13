@@ -1,16 +1,6 @@
 {
   "releases": [
     {
-      "version": "v0.22.0",
-      "releaseTimestamp": "2026-10-14T04:06:58Z",
-      "digest": "sha256:c69536a39e885b8943329bda68cdf44492458b96aa74a212239bde9d2aeb406a"
-    },
-    {
-      "version": "v0.22.0-desktop",
-      "releaseTimestamp": "2026-10-14T04:07:05Z",
-      "digest": "sha256:7fd67a1490faa3da766e4499c34b7df2ea16c986560aaa8ba2e702ec54f6dc05"
-    },
-    {
       "version": "rc.1-v0.22.1-amd64",
       "releaseTimestamp": "2026-10-14T04:38:30Z",
       "digest": "sha256:8ce1d0f725ff811fb5703a518ea3621d5d55edbacdce296fcb73c1a8fdf353bd"
