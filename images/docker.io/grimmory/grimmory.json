@@ -6,11 +6,6 @@
       "digest": "sha256:bf6fe21c6e247597f7869664a440b5a34242e2d2940575cae39c17bfaa66dc0b"
     },
     {
-      "version": "nightly-20261014-56ba9f72d",
-      "releaseTimestamp": "2026-10-14T04:20:47Z",
-      "digest": "sha256:71a416b5a3d637cdd1b4b9fd6af31eb46ce8b285c090a31e14cbd109d7a3fd3c"
-    },
-    {
       "version": "nightly-20261015-70234d2c0",
       "releaseTimestamp": "2026-10-15T04:21:09Z",
       "digest": "sha256:22a2a6a7ad89eabf074fc4d11b01a60effe452412aca67d84d8f03660b0fb759"
@@ -148,7 +143,7 @@
     {
       "version": "nightly",
       "releaseTimestamp": "2026-11-11T04:17:07Z",
-      "digest": "sha256:be2955da4181529ee2a1803d2dd19b4657028a73edb24595280f51e594622cdb"
+      "digest": "sha256:17fdd4b2f202c591b94f01f7c2bce722a70e983613a43a35e3bc367f35f0696b"
     },
     {
       "version": "nightly-20261111-37ccdf4df",
@@ -159,6 +154,11 @@
       "version": "nightly-20261112-c80ce813b",
       "releaseTimestamp": "2026-11-12T04:16:28Z",
       "digest": "sha256:be2955da4181529ee2a1803d2dd19b4657028a73edb24595280f51e594622cdb"
+    },
+    {
+      "version": "nightly-20261113-6ba63c198",
+      "releaseTimestamp": "2026-11-13T04:18:34Z",
+      "digest": "sha256:17fdd4b2f202c591b94f01f7c2bce722a70e983613a43a35e3bc367f35f0696b"
     }
   ]
 }
