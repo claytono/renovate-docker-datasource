@@ -39,6 +39,11 @@
       "version": "0.10.21-alpha",
       "releaseTimestamp": "2026-11-13T06:06:11Z",
       "digest": "sha256:83ce931443fdb16fae048981a87213ffa597f7f1228b99d32a2dc3e15195faf3"
+    },
+    {
+      "version": "0.10.22-alpha",
+      "releaseTimestamp": "2026-11-13T22:56:35Z",
+      "digest": "sha256:31be1bca7563ee034c16d5afea4632589d88e3636cffef663c1d435f1bf70d15"
     }
   ]
 }
