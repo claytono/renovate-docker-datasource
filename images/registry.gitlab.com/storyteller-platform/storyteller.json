@@ -4,6 +4,26 @@
       "version": "web-v2.14.18",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
       "digest": "sha256:36bb96654e8a4de5e461b5185add550a0f747b6f142f3540c6313985f7b943d2"
+    },
+    {
+      "version": "web-v2.14.19",
+      "releaseTimestamp": "2026-11-14T04:20:46Z",
+      "digest": "sha256:cca1ba22c1f8547d0daf3dee7881a9aa9fa0c8e7132a38872429f981d6f86c87"
+    },
+    {
+      "version": "web-v2.14.20",
+      "releaseTimestamp": "2026-11-14T04:20:46Z",
+      "digest": "sha256:ecb106aa321e8c6c6be78c041cc40606270a955a6035d0a72829c5f946cf26eb"
+    },
+    {
+      "version": "web-v2.14.21",
+      "releaseTimestamp": "2026-11-14T04:20:46Z",
+      "digest": "sha256:f063fcd838ffd9723d581d7a190135069c58c595e6ce9ac41b5e2f8bec090db7"
+    },
+    {
+      "version": "web-v2.14.23",
+      "releaseTimestamp": "2026-11-14T04:20:46Z",
+      "digest": "sha256:1ae16005572519f56abac2d65ab879d20115cd257fde7e89cf739ea82aed4de3"
     }
   ]
 }

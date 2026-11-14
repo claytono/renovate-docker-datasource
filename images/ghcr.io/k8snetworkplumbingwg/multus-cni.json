@@ -1,11 +1,6 @@
 {
   "releases": [
     {
-      "version": "snapshot-thick",
-      "releaseTimestamp": "2026-11-11T23:37:34Z",
-      "digest": "sha256:24406387876bf7f3c8c9015c178faff3f06f2010d8d00ae113fb55759acc3f35"
-    },
-    {
       "version": "v4.3.2-thick",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
       "digest": "sha256:109b885d8752fe7a7bc3b2371750bfad6789b8b8e2d0b0820b337386ba9b93c9"
