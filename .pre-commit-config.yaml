@@ -44,7 +44,7 @@ repos:
       - id: zizmor
 
   - repo: https://github.com/renovatebot/pre-commit-hooks
-    rev: 44.45.4
+    rev: 44.202.1
     hooks:
       - id: renovate-config-validator
         # default.json is the preset other repositories extend.
