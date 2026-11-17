@@ -34,6 +34,11 @@
       "version": "11.26.2",
       "releaseTimestamp": "2026-11-10T12:56:19Z",
       "digest": "sha256:00360afd0b0e833d6166d4127f4ef41d2b24c75f2b2172d32dd4e9d26d613778"
+    },
+    {
+      "version": "11.27.0",
+      "releaseTimestamp": "2026-11-16T15:56:48Z",
+      "digest": "sha256:0f3ad23ccf5ff2256ad8cc060ab0fc987b8f52a8427eac337f93b058fa628f35"
     }
   ]
 }
