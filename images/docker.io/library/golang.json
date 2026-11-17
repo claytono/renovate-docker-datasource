@@ -18,12 +18,12 @@
     {
       "version": "1.26",
       "releaseTimestamp": "2026-11-10T18:54:15Z",
-      "digest": "sha256:978e0a4e3d953662577d784471db27742f543ab09eead06839a838188c73314b"
+      "digest": "sha256:4165ee6bf3b7811fd7b40373290405c83d0167dcb87ee5f29c427cdcef45ff8f"
     },
     {
       "version": "1.27",
       "releaseTimestamp": "2026-11-10T18:54:54Z",
-      "digest": "sha256:ec47ea3725fea0cc88f6de94919aef19f40f12fc1ec0e2d1b3426dbf15ecca04"
+      "digest": "sha256:205c7636d74e0ffbe3d007162df7d74f859f5a8c8322dfb9f907977686c126cf"
     }
   ]
 }

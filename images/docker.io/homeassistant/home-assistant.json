@@ -59,6 +59,11 @@
       "version": "2026.11.1",
       "releaseTimestamp": "2026-11-09T19:08:39Z",
       "digest": "sha256:6785d1eca68747a524c156faae1b139ed415c07357386ae6fe17291986e59e82"
+    },
+    {
+      "version": "2026.11.2",
+      "releaseTimestamp": "2026-11-16T20:16:55Z",
+      "digest": "sha256:493a07e8f6530fc640223f4a0a5248f20a61ca2f718bb1d31efbf08a2c5ea28f"
     }
   ]
 }

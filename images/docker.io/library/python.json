@@ -8,12 +8,12 @@
     {
       "version": "3.14",
       "releaseTimestamp": "2026-11-11T23:07:52Z",
-      "digest": "sha256:a7097ae62ea4cf4fec036282cbf97f0d0b7b4f9cb286277951115fb30442527d"
+      "digest": "sha256:58d8af3449d3df790948b8b27268fc5eb481a477edc58e119b40d653dd860848"
     },
     {
       "version": "3.15",
       "releaseTimestamp": "2026-11-11T23:08:30Z",
-      "digest": "sha256:df3f05ff4d74833f52146edd195c8f7913581b57796a820fb7e373457ace9bad"
+      "digest": "sha256:61c06383336ec271f3ff69ceae4a4f011faa6f78638fefad00a1d82e807e5c39"
     }
   ]
 }
