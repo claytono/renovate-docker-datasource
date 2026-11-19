@@ -259,6 +259,46 @@
       "version": "44.251.0",
       "releaseTimestamp": "2026-11-18T04:22:15Z",
       "digest": "sha256:64adaabe8ee3e34820c2b044b5f87e281aa278bf53e5d76df2ce800f9cc9407a"
+    },
+    {
+      "version": "44.252.0",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:37432e08074a54371a8a3106cf5a6737ae87765f82cc2c4ffee43f30f5d6f058"
+    },
+    {
+      "version": "44.252.1",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:a74eddc5305b4ec5597971b3b30a6b998838a3322edf928e2789ea26af4facbe"
+    },
+    {
+      "version": "44.252.2",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:41181eb144264edf900c9031694f72bb4c147063491d7edcaeeb2f2772419b5f"
+    },
+    {
+      "version": "44.252.3",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:71315c0978221efdb17304ccf117538bf5d73f4054daccc8d97aa641d124e8db"
+    },
+    {
+      "version": "44.252.4",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:afa496405afd0257dea2f182d529d17fd5274bd4732821c31dad2ebbe045760e"
+    },
+    {
+      "version": "44.252.5",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:e4d29c5451c80fc7fa967c27a8cd93a6330300ee36a82364839b2c81575552cc"
+    },
+    {
+      "version": "44.252.6",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:a5db2980cdc3339bb6af11c5c5f46f5b561c821f69b9bcb5607c19d02078ea2e"
+    },
+    {
+      "version": "44.252.7",
+      "releaseTimestamp": "2026-11-19T04:22:38Z",
+      "digest": "sha256:da2082c34a7e8aee0fbf50122d71a052ba32ea5f51aeded502b742ad7bc9d5a2"
     }
   ]
 }
