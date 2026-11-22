@@ -404,6 +404,21 @@
       "version": "44.257.6",
       "releaseTimestamp": "2026-11-21T04:21:02Z",
       "digest": "sha256:6a036e222c8b172734be034d22d3df96d73a4e701a38bd14ea1bb97887705e75"
+    },
+    {
+      "version": "44.257.7",
+      "releaseTimestamp": "2026-11-22T04:21:46Z",
+      "digest": "sha256:62b884d6b537e3bf2e76be3d7b621d582c10ddcee5dda74b0c2ea17901db5129"
+    },
+    {
+      "version": "44.257.8",
+      "releaseTimestamp": "2026-11-22T04:21:46Z",
+      "digest": "sha256:68f58fa3b0e92875fa2f44c4ae02936186818b0170c2d39fe7261a2af5260f36"
+    },
+    {
+      "version": "44.257.9",
+      "releaseTimestamp": "2026-11-22T04:21:46Z",
+      "digest": "sha256:d6b65ff3562dd499240b23d34ef806ec7e5fd2675e4236a027dfb36774f2aa75"
     }
   ]
 }

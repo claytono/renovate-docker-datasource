@@ -9,6 +9,11 @@
       "version": "0.10.6",
       "releaseTimestamp": "2026-11-16T04:24:58Z",
       "digest": "sha256:edc434cef2bd0ad09ce1206b43801d7c2bc5a38555f0c53bd051d3779f8747c0"
+    },
+    {
+      "version": "0.11.0",
+      "releaseTimestamp": "2026-11-22T04:21:46Z",
+      "digest": "sha256:b5ba23f05c47c79091c7390fa6c62bb55f57a5e0967fab88724dd8c1510bebb3"
     }
   ]
 }

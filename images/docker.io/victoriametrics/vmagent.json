@@ -1,0 +1,14 @@
+{
+  "releases": [
+    {
+      "version": "v1.155.0",
+      "releaseTimestamp": "2026-10-26T13:05:50Z",
+      "digest": "sha256:8e3c03905be15bba8312d4868e8ae6f9fc2fefee0a41d544472034249ca42bb4"
+    },
+    {
+      "version": "v1.156.0",
+      "releaseTimestamp": "2026-11-09T09:46:10Z",
+      "digest": "sha256:d3229ab469c54ae5266e86246932266bad29b06668b5371acbd6d3de1b3035e7"
+    }
+  ]
+}
