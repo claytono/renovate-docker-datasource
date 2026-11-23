@@ -6,11 +6,6 @@
       "digest": "sha256:3fef66d575ea0ea9d50aad3e05c36619228557cfa888557eac2035215a29a321"
     },
     {
-      "version": "11.25.1",
-      "releaseTimestamp": "2026-10-23T08:55:07Z",
-      "digest": "sha256:52462f5cb50bd877f257947fa7c8c14c1b4f57140fc1043175c5742a3f18586e"
-    },
-    {
       "version": "11.25.2",
       "releaseTimestamp": "2026-10-26T16:37:47Z",
       "digest": "sha256:ac4874a3cbea61c0c60002a8fd8ae05104cc8eb2eae91aa05bd184972aa06853"
