@@ -28,7 +28,7 @@
     {
       "version": "17.12-3.7.0-standard-trixie",
       "releaseTimestamp": "2026-11-13T17:34:40Z",
-      "digest": "sha256:e8ba913e492eee62cab492bef83a3eabeee79c422fe69964c64470ef4560abbb"
+      "digest": "sha256:b053a93d0687b4ee85418447ffb0a9436461c72efef2e316012728b34f2e50cf"
     },
     {
       "version": "17.9-3.6.2-standard-trixie",
@@ -83,12 +83,12 @@
     {
       "version": "18.7-3.7.0-standard-trixie",
       "releaseTimestamp": "2026-11-13T17:34:40Z",
-      "digest": "sha256:59cbd6b50c141960a29b1ac35683031a1408696d8bcf21f9e80ef8358f65d212"
+      "digest": "sha256:f0701e84239fc3732880529125a3a1c97cae7e57d24e77c3df9689c4c03811b3"
     },
     {
       "version": "19.0-3.7.0-standard-trixie",
       "releaseTimestamp": "2026-11-21T04:21:02Z",
-      "digest": "sha256:f6aacd5babe43ac870c5ee9e3dbec506051cfa49cf44d3e3500467eae3949538"
+      "digest": "sha256:aee4aabf2763a2fbf3d36a0ea9a88e18b063078f7d122e5e57b28dd9aa68dcca"
     }
   ]
 }
