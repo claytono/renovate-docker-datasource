@@ -8,12 +8,12 @@
     {
       "version": "18.7-standard-trixie",
       "releaseTimestamp": "2026-11-13T03:45:15Z",
-      "digest": "sha256:5827829071060876c4029650c04183e4ee562da3ebb9e88c914d67c8dc8669d6"
+      "digest": "sha256:1abcfd1cac6d53cda5185706819aab36d66a4ed88e99fc2ae44ab0826aa99f00"
     },
     {
       "version": "19.0-standard-trixie",
       "releaseTimestamp": "2026-11-21T04:21:02Z",
-      "digest": "sha256:e845b0146b37f13d912461b63b1a25ef4bbc6992e19fa2447f6ec001f4ee06e8"
+      "digest": "sha256:6f17393bf934a41fec47439306a17e087c5c2f419ddd5bf4b8dc0241da4bceb0"
     }
   ]
 }

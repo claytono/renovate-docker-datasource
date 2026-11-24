@@ -1,26 +1,6 @@
 {
   "releases": [
     {
-      "version": "0.10.14-alpha",
-      "releaseTimestamp": "2026-10-12T05:37:24Z",
-      "digest": "sha256:42a8716ebc05ef6f8456b885917fa8ed8d0b454484d57ebedabe7c53de7e30b6"
-    },
-    {
-      "version": "0.10.16-alpha",
-      "releaseTimestamp": "2026-10-25T05:49:38Z",
-      "digest": "sha256:bb5e373c4849a78c8622c27a362368a7d8c47898b25eb603dfb54dbcd0bffe80"
-    },
-    {
-      "version": "0.10.17-alpha",
-      "releaseTimestamp": "2026-10-30T05:49:16Z",
-      "digest": "sha256:abd798f99ddddb62d01081642c41c6d9c109b8468da308628bfca7e914dd21b8"
-    },
-    {
-      "version": "0.10.18-alpha",
-      "releaseTimestamp": "2026-10-30T16:53:39Z",
-      "digest": "sha256:cbeb16fe1a6e46b75e1fa68e367b12e524493e2d30ca79ed74ded4e91353b67e"
-    },
-    {
       "version": "0.10.19-alpha",
       "releaseTimestamp": "2026-11-05T04:46:00Z",
       "digest": "sha256:6eb997cc98920adba980144abfb607b03a1a1dacbc629b70a19456ae3ac5b7b2"
