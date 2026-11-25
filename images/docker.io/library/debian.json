@@ -3,12 +3,12 @@
     {
       "version": "13-slim",
       "releaseTimestamp": "2026-11-05T08:24:16Z",
-      "digest": "sha256:a72b4433de1cf7d6bae0c4cee74d0547f58601a643b3375f070c51600d63b6b2"
+      "digest": "sha256:8aa5a7bf5a1955bddbe7d74fcdd0b91ab30e74362a8b73af672b0481b35b44a0"
     },
     {
       "version": "stable-slim",
       "releaseTimestamp": "2026-11-05T08:27:13Z",
-      "digest": "sha256:fbfb4059d2127120aa05b6e6064523d2102552f0cf0026ddf0701c12f1f8f3e0"
+      "digest": "sha256:a64d9dbf633e2a2503afac76be521dc25d9b5765150b30d31a3914d4ae969cab"
     }
   ]
 }
