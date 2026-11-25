@@ -3,27 +3,27 @@
     {
       "version": "python3.13-trixie",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
-      "digest": "sha256:09461889076e3d3a6e0b62d45f8680a24c4c49fecd065771471c91912eaa6090"
+      "digest": "sha256:fcd93698a75c0fb5cd180788cab96e5b96c30461a03caf53c1d3fa5495fdd421"
     },
     {
       "version": "python3.14-trixie-slim",
       "releaseTimestamp": "2026-11-11T23:37:34Z",
-      "digest": "sha256:da0f1f04404173d7d2fa158112e09624d5a80262efa86c89882b68389dfd44eb"
+      "digest": "sha256:b093dbbd7963c765325ecdf866d42915f5327e135569f9dae9c77cac63559bf2"
     },
     {
       "version": "python3.14-trixie",
       "releaseTimestamp": "2026-11-13T17:34:40Z",
-      "digest": "sha256:b7389fc779a8b057a5e8007ea676b2f99a5cb16e2d0f3d0d9b9888167671d4d5"
+      "digest": "sha256:65557d27bba9d043ce89a7f1ef82bfdaffb1ce45f5e81fce1efd085050673154"
     },
     {
       "version": "python3.15-trixie",
       "releaseTimestamp": "2026-11-13T17:34:40Z",
-      "digest": "sha256:ec6de369c11b8eb1b8c546af155d998ebda31e27cf6e67ddc087a426b5a2089a"
+      "digest": "sha256:63b8aec201ff598723dbac91c5c38d70bdacde3d067d3ceba68761077747a945"
     },
     {
       "version": "python3.15-trixie-slim",
       "releaseTimestamp": "2026-11-13T17:34:40Z",
-      "digest": "sha256:980d6aa868431fd4ef2b32481e934ef5ee3b662c5decade3aa2d7e7ffb8075e4"
+      "digest": "sha256:3ee10471b12b57f6f86d03f68c44fbd4bb8d5540efa25ab3b89159e1216b1a70"
     }
   ]
 }

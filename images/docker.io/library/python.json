@@ -3,17 +3,17 @@
     {
       "version": "3.13",
       "releaseTimestamp": "2026-11-06T05:07:45Z",
-      "digest": "sha256:9ffe84122ce74ebdffe2e0e6b946c9dd95d0bf3463f6eb1006b4dc6fefe36d01"
+      "digest": "sha256:f25cbd3f7c73c28bdcab476c93c93a2ec90970a8f5b8a7810533654207822390"
     },
     {
       "version": "3.14",
       "releaseTimestamp": "2026-11-11T23:07:52Z",
-      "digest": "sha256:e5de6bc932256f8138c2353023dc4fd24d010d72f6b5cb06be126f0a4cd53784"
+      "digest": "sha256:3d1b3b9decb8ee0a344593fa3418654d731ac2ca4b0e43f04f5842fe2471521e"
     },
     {
       "version": "3.15",
       "releaseTimestamp": "2026-11-11T23:08:30Z",
-      "digest": "sha256:46837ed3105db0029b6d656816185c6258e3b39690532fb782428e0a5fd76182"
+      "digest": "sha256:e4bc83a3314d078d651f06c8440e9a03ba892ee2f6577437f174abd8731fb343"
     }
   ]
 }
