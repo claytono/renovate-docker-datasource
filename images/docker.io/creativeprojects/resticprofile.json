@@ -1,11 +1,6 @@
 {
   "releases": [
     {
-      "version": "0.33.0",
-      "releaseTimestamp": "2026-05-03T08:22:21Z",
-      "digest": "sha256:12797c7d6433e312c2cf13fa4c119658190f69e569ae4ed35a64933146bdf0f4"
-    },
-    {
       "version": "0.33.1",
       "releaseTimestamp": "2026-11-08T13:49:43Z",
       "digest": "sha256:b919f7ae7adfa4b0900ac87ab5314fb88229698b0a8d38ebc3882a27ac9e73d1"
