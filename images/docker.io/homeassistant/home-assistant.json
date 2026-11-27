@@ -64,6 +64,16 @@
       "version": "2026.12.0b0",
       "releaseTimestamp": "2026-11-25T18:37:26Z",
       "digest": "sha256:b3c206bf463821e7f440739b5c1b52543e961b687a757aee8c396052df0832ea"
+    },
+    {
+      "version": "2026.12.0b1",
+      "releaseTimestamp": "2026-11-26T09:52:07Z",
+      "digest": "sha256:42501c128048c107c47983acaeddad4785b13a4f8429a0476bb9f565d9774353"
+    },
+    {
+      "version": "2026.12.0b2",
+      "releaseTimestamp": "2026-11-26T17:36:37Z",
+      "digest": "sha256:7b02599ebb74cecb7496c17e57265897ce54a60eb46029e74564ee7137458be0"
     }
   ]
 }
