@@ -564,6 +564,36 @@
       "version": "45.1.0",
       "releaseTimestamp": "2026-11-27T04:22:20Z",
       "digest": "sha256:1438b77f8ed338e64c7a8bf53d40724fb6229690bcd3a42264158b0768ba9aba"
+    },
+    {
+      "version": "45.1.1",
+      "releaseTimestamp": "2026-11-28T04:21:39Z",
+      "digest": "sha256:37bbe1af56aa094e6fa5c3b22c5ea28338e99bb99c4729b16aa1f4e8027286dc"
+    },
+    {
+      "version": "45.1.2",
+      "releaseTimestamp": "2026-11-28T04:21:39Z",
+      "digest": "sha256:1eafe3724e5d81cf858c6d7f37a5bf64e4ef14214c6f1e50730e741ebb24a3ee"
+    },
+    {
+      "version": "45.2.0",
+      "releaseTimestamp": "2026-11-28T04:21:39Z",
+      "digest": "sha256:1ea357c204d7c8ac7ad594fb3f507ea470eaf0660e446425bd186a35e05d66fa"
+    },
+    {
+      "version": "45.3.0",
+      "releaseTimestamp": "2026-11-28T04:21:39Z",
+      "digest": "sha256:3960dd8e8f432e7beebd2d34afd35600e66a8a4b7c968a10c033dfaf432484a6"
+    },
+    {
+      "version": "45.3.1",
+      "releaseTimestamp": "2026-11-28T04:21:39Z",
+      "digest": "sha256:6c4e2ba3afd8493894f7ef73aad1d009492e70fe2bccd9be507c1f82e020dcdc"
+    },
+    {
+      "version": "45.3.2",
+      "releaseTimestamp": "2026-11-28T04:21:39Z",
+      "digest": "sha256:d0358088501c7665688673c8932474b02517941703a16e970e8b4fcf235299cb"
     }
   ]
 }

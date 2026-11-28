@@ -39,6 +39,11 @@
       "version": "v0.23.4",
       "releaseTimestamp": "2026-11-24T08:17:09Z",
       "digest": "sha256:ef0650d523ee1b5ab32c779acabc446d9936869a9932591553688a62bcf0c42f"
+    },
+    {
+      "version": "v0.23.5",
+      "releaseTimestamp": "2026-11-28T03:20:15Z",
+      "digest": "sha256:bc79a80fc9cb97521f4380c5d5b2ad88e2469e50fc1d5027339bbb42cc206854"
     }
   ]
 }
